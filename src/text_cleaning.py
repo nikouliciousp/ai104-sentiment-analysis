@@ -8,15 +8,28 @@ STOP_WORDS = set(stopwords.words('english'))
 
 
 def clean_text(text):
-    text = str(text).lower()
-    text = re.sub(r'http\S+',   ' ', text)
-    text = re.sub(r'@\w+',      ' ', text)
-    text = re.sub(r'#\w+',      ' ', text)
-    text = re.sub(r'[^a-z\s]', ' ', text)
-    text = re.sub(r'\s+',       ' ', text).strip()
+    text = str(text)
 
-    tokens = [w for w in text.split()
-              if w not in STOP_WORDS and len(w) > 2]
+    # convert to lowercase
+    text = text.lower()
+
+    # remove Guardian smart quotes and dashes
+    text = text.replace('\u201c', ' ').replace('\u201d', ' ')
+    text = text.replace('\u2018', ' ').replace('\u2019', ' ')
+    text = text.replace('\u2013', ' ').replace('\u2014', ' ')
+
+    # keep only letters and spaces, remove digits and punctuation
+    text = re.sub(r'[^a-z\s]', ' ', text)
+
+    # remove extra whitespace
+    text = re.sub(r'\s+', ' ', text).strip()
+
+    # remove stopwords and words shorter than 3 characters
+    tokens = [
+        word for word in text.split()
+        if word not in STOP_WORDS and len(word) > 2
+    ]
+
     return ' '.join(tokens)
 
 
@@ -24,22 +37,30 @@ def main():
     df = pd.read_csv("data/raw/guardian_posts_raw.csv")
     print("Loaded:", len(df), "articles")
 
+    # apply cleaning to all articles
     df['text_clean'] = df['text'].apply(clean_text)
 
+    # drop articles that are too short after cleaning
     before = len(df)
-    df     = df[df['text_clean'].str.len() > 50].reset_index(drop=True)
-    after  = len(df)
+    df = df[df['text_clean'].str.len() > 50].reset_index(drop=True)
+    after = len(df)
+    print("Dropped:", before - after, "| Remaining:", after)
 
-    print("Removed:", before - after, "| Remaining:", after)
-    print(df.groupby("topic")["post_id"].count())
+    print()
+    print(df.groupby("topic")["post_id"].count().to_string())
 
+    # save cleaned dataset
     df.to_csv("data/clean/guardian_posts_clean.csv",
               index=False, encoding="utf-8")
+    print()
     print("Saved: data/clean/guardian_posts_clean.csv")
 
-    print("\nBefore cleaning:")
+    # show before and after example
+    print()
+    print("Before:")
     print(df['text'].iloc[0][:200])
-    print("\nAfter cleaning:")
+    print()
+    print("After:")
     print(df['text_clean'].iloc[0][:200])
 
 
