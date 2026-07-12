@@ -1,0 +1,20 @@
+# API keys
+*.env
+config.py
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+*.egg-info/
+
+# Data (μεγάλα αρχεία)
+data/raw/*.csv
+data/clean/*.csv
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
