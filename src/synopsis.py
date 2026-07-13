@@ -1,6 +1,10 @@
+import os
 import pandas as pd
 
-df = pd.read_csv("data/raw/guardian_posts_raw.csv")
+# find project root regardless of where the script is run from
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+
+df = pd.read_csv(os.path.join(BASE_DIR, "data", "raw", "guardian_posts_raw.csv"))
 
 print("Total:", len(df))
 print()

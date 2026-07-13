@@ -1,8 +1,9 @@
 import requests
 import pandas as pd
 import time
+import os
 
-API_KEY = "YOUR_API_KEY"
+API_KEY = "bfa1699d-5d22-4538-801b-34b2c8c9a0fd"
 
 TOPICS = {
     "Artificial Intelligence": [
@@ -104,8 +105,10 @@ def main():
         date_to   = ("created_at", "max"),
     ).to_string())
 
-    df.to_csv("data/raw/guardian_posts_raw.csv", index=False, encoding="utf-8")
-    print("Saved: data/raw/guardian_posts_raw.csv, rows:", len(df))
+
+    os.makedirs("../data/raw", exist_ok=True)
+    df.to_csv("../data/raw/guardian_posts_raw.csv", index=False, encoding="utf-8")
+    print("Saved: ../data/raw/guardian_posts_raw.csv, rows:", len(df))
 
     for topic in df["topic"].unique():
         print("\nTopic:", topic)

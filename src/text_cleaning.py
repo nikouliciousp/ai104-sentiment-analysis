@@ -1,8 +1,12 @@
+import os
 import pandas as pd
 import re
 import nltk
 nltk.download('stopwords', quiet=True)
 from nltk.corpus import stopwords
+
+# find project root regardless of where the script is run from
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 STOP_WORDS = set(stopwords.words('english'))
 
@@ -34,7 +38,10 @@ def clean_text(text):
 
 
 def main():
-    df = pd.read_csv("data/raw/guardian_posts_raw.csv")
+    input_path  = os.path.join(BASE_DIR, "data", "raw", "guardian_posts_raw.csv")
+    output_path = os.path.join(BASE_DIR, "data", "clean", "guardian_posts_clean.csv")
+
+    df = pd.read_csv(input_path)
     print("Loaded:", len(df), "articles")
 
     # apply cleaning to all articles
@@ -49,11 +56,13 @@ def main():
     print()
     print(df.groupby("topic")["post_id"].count().to_string())
 
+    # create output folder if it does not exist
+    os.makedirs(os.path.dirname(output_path), exist_ok=True)
+
     # save cleaned dataset
-    df.to_csv("data/clean/guardian_posts_clean.csv",
-              index=False, encoding="utf-8")
+    df.to_csv(output_path, index=False, encoding="utf-8")
     print()
-    print("Saved: data/clean/guardian_posts_clean.csv")
+    print("Saved:", output_path)
 
     # show before and after example
     print()
