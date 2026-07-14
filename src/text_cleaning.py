@@ -65,6 +65,9 @@ def main():
     after = len(df)
     print("Dropped:", before - after, "| Remaining:", after)
 
+    # add simple numeric ID for easier team communication and annotation
+    df.insert(0, "item_id", range(1, len(df) + 1))
+
     print()
     print(df.groupby("topic")["post_id"].count().to_string())
 
