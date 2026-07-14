@@ -30,6 +30,7 @@ df["text_preview"] = (
 # keep all articles for annotation
 annotation = df[
     [
+        "item_id",
         "post_id",
         "topic",
         "created_at",
@@ -37,6 +38,7 @@ annotation = df[
         "text_preview"
     ]
 ].copy()
+
 
 # add empty columns for annotators
 # allowed values: positive / neutral / negative
