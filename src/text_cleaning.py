@@ -44,6 +44,18 @@ def main():
     df = pd.read_csv(input_path)
     print("Loaded:", len(df), "articles")
 
+    # remove duplicate articles based on post_id, url and text
+    before_duplicates = len(df)
+
+    df = df.drop_duplicates(subset=["post_id"]).copy()
+    df = df.drop_duplicates(subset=["url"]).copy()
+    df = df.drop_duplicates(subset=["text"]).copy()
+
+    after_duplicates = len(df)
+
+    print("Removed duplicates:", before_duplicates - after_duplicates)
+    print("Remaining after duplicate removal:", after_duplicates)
+
     # apply cleaning to all articles
     df['text_clean'] = df['text'].apply(clean_text)
 
