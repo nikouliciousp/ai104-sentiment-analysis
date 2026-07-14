@@ -21,11 +21,27 @@ TOPICS = {
 }
 
 
+def build_query(query):
+    # Guardian treats a bare multi-word query loosely (e.g. "artificial
+    # intelligence" matches "artificial" OR "intelligence"). Wrapping a
+    # multi-word phrase in double quotes forces exact-phrase matching so we
+    # only collect posts about the actual topic, not the separated words.
+    if " " in query.strip():
+        return '"{}"'.format(query.strip())
+    return query.strip()
+
+
+def is_relevant(text, query):
+    # Safety net: keep only posts whose text actually contains the phrase
+    # (case-insensitive), guarding against any loose matches the API returns.
+    return query.strip().lower() in text.lower()
+
+
 def fetch_guardian(query):
     rows = []
     for page in range(1, 6):
         params = {
-            "q":           query,
+            "q":           build_query(query),
             "api-key":     API_KEY,
             "page-size":   50,
             "page":        page,
@@ -53,6 +69,8 @@ def fetch_guardian(query):
                 text   = (fields.get("headline", "") + " " +
                           fields.get("bodyText",  "")).strip()
                 if len(text) < 50:
+                    continue
+                if not is_relevant(text, query):
                     continue
                 rows.append({
                     "post_id":    r.get("id", ""),
