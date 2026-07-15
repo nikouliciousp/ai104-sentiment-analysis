@@ -23,31 +23,32 @@ No credentials required — public API
 pip install -r requirements.txt
 
 ## Structure
-data/
-├── raw/          → hackernews_posts_raw.csv (1200 posts, 4 topics)
-├── clean/        → hackernews_posts_clean.csv
-├── annotated/    → annotation_template.csv, hackernews_posts_annotated.csv
-└── features/     → features_enriched.csv
 
-notebooks/
-├── section_4_feature_discovery.ipynb
-├── section_5_topic_classification.ipynb
-├── section_6_sentiment_classification.ipynb
-└── section_7_further_analysis.ipynb
+    data/
+        raw/          hackernews_posts_raw.csv
+        clean/        hackernews_posts_clean.csv
+        annotated/    annotation_template.csv
+        features/     features_enriched.csv
 
-src/
-├── hackernews_collector.py
-├── text_cleaning.py
-├── create_annotation_template.py
-└── synopsis.py
+    notebooks/
+        section_4_feature_discovery.ipynb
+        section_5_topic_classification.ipynb
+        section_6_sentiment_classification.ipynb
+        section_7_further_analysis.ipynb
 
-results/
-├── figures/
-└── tables/
+    src/
+        hackernews_collector.py
+        text_cleaning.py
+        create_annotation_template.py
+        synopsis.py
 
-report/
-└── omadiki_ergasia.docx
+    results/
+        figures/
+        tables/
+
+    report/
+        omadiki_ergasia.docx
 
 ## Citation
-Y Combinator. (2024–2026). HackerNews posts retrieved via Algolia HN Search API.
+Y Combinator. (2024-2026). HackerNews posts retrieved via Algolia HN Search API.
 Retrieved July 2026, from https://hn.algolia.com/api
