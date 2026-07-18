@@ -15,4 +15,4 @@ print(df.groupby("topic").agg(
 ).to_string())
 print()
 print("Sample text:")
-print(df["text"].iloc[0][:300])
+print(df["text_clean"].iloc[0][:300])

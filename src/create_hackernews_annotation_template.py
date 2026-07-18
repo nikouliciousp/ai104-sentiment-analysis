@@ -16,7 +16,7 @@ print("Loaded cleaned dataset:", len(df), "records")
 
 # Create readable preview for human annotation
 df["text_preview"] = (
-    df["text"]
+    df["text_clean"]
     .astype(str)
     .apply(html.unescape)
     .str.replace(r"[\r\n\t]+", " ", regex=True)
