@@ -14,15 +14,15 @@ df = pd.read_csv(input_path)
 
 print("Loaded cleaned dataset:", len(df), "records")
 
-# Create readable preview for human annotation
+# Create readable text preview for human annotation.
+# We use text_raw, not text_clean, because annotators need readable original text.
 df["text_preview"] = (
-    df["text_clean"]
+    df["text_raw"]
     .astype(str)
     .apply(html.unescape)
     .str.replace(r"[\r\n\t]+", " ", regex=True)
     .str.replace(r"\s+", " ", regex=True)
     .str.strip()
-    .str.slice(0, 1000)
 )
 
 annotation = df[
