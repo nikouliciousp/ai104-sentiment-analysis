@@ -1,0 +1,7 @@
+﻿metric,value
+total_records,1056
+records_with_final_label,910
+records_needing_review,146
+needs_review_missing_annotations,0
+manual_review_ties,146
+invalid_label_records,0
