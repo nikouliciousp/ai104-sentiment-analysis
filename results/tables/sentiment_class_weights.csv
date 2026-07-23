@@ -1,0 +1,6 @@
+﻿target,class,weight
+sentiment_3class,negative,0.986
+sentiment_3class,neutral,0.5677
+sentiment_3class,positive,4.4557
+sentiment_binary,negative,1.479
+sentiment_binary,non_negative,0.7554

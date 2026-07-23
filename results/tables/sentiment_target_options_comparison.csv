@@ -1,0 +1,5 @@
+﻿option,records_kept,records_kept_pct,n_classes,imbalance_ratio,baseline_accuracy_pct,minority_class,minority_count,minority_in_test_set
+A_multiclass_3_classes,1056,100.0,3,7.85,58.7,positive,79,16
+B_binary_drop_neutral,436,41.3,2,4.52,81.9,positive,79,16
+C_binary_negative_vs_rest,1056,100.0,2,1.96,66.2,negative,357,71
+D_binary_positive_vs_rest,1056,100.0,2,12.37,92.5,positive,79,16
