@@ -1,6 +1,9 @@
 import os
+import math
 import pandas as pd
 import matplotlib.pyplot as plt
+import seaborn as sns
+from scipy.stats import chi2_contingency
 
 # --------------------------------------------------
 # Paths
@@ -28,6 +31,16 @@ percentages_output_path = os.path.join(
     "topic_sentiment_percentages.csv"
 )
 
+chi_square_output_path = os.path.join(
+    tables_dir,
+    "topic_sentiment_chi_square_test.csv"
+)
+
+expected_counts_output_path = os.path.join(
+    tables_dir,
+    "topic_sentiment_expected_counts.csv"
+)
+
 stacked_bar_output_path = os.path.join(
     figures_dir,
     "topic_sentiment_stacked_bar.png"
@@ -36,6 +49,11 @@ stacked_bar_output_path = os.path.join(
 percent_stacked_bar_output_path = os.path.join(
     figures_dir,
     "topic_sentiment_100_percent_stacked_bar.png"
+)
+
+heatmap_output_path = os.path.join(
+    figures_dir,
+    "topic_sentiment_heatmap.png"
 )
 
 
@@ -58,10 +76,8 @@ def main():
     if missing_columns:
         raise ValueError(f"Missing required columns: {missing_columns}")
 
-    # Fixed sentiment order
     valid_labels = ["negative", "neutral", "positive"]
 
-    # Keep only valid sentiment labels
     df = df[df["final_sentiment"].isin(valid_labels)].copy()
 
     print("Valid sentiment records:", len(df))
@@ -75,7 +91,6 @@ def main():
         df["final_sentiment"]
     )
 
-    # Ensure all sentiment columns exist and are in fixed order
     for label in valid_labels:
         if label not in counts.columns:
             counts[label] = 0
@@ -96,7 +111,7 @@ def main():
     percentages["total"] = counts["total"]
 
     # --------------------------------------------------
-    # Clean topic labels for display
+    # Display labels
     # --------------------------------------------------
 
     counts_display = counts.copy()
@@ -104,6 +119,50 @@ def main():
 
     counts_display.index = counts_display.index.astype(str).str.replace("_", " ")
     percentages_display.index = percentages_display.index.astype(str).str.replace("_", " ")
+
+    # --------------------------------------------------
+    # Chi-square test
+    # --------------------------------------------------
+
+    contingency_table = counts[valid_labels]
+
+    chi2_statistic, p_value, degrees_of_freedom, expected_counts = chi2_contingency(
+        contingency_table
+    )
+
+    n = contingency_table.to_numpy().sum()
+    min_dimension = min(
+        contingency_table.shape[0] - 1,
+        contingency_table.shape[1] - 1
+    )
+
+    if min_dimension > 0:
+        cramers_v = math.sqrt(chi2_statistic / (n * min_dimension))
+    else:
+        cramers_v = None
+
+    chi_square_summary = pd.DataFrame({
+        "metric": [
+            "chi2_statistic",
+            "p_value",
+            "degrees_of_freedom",
+            "total_records",
+            "cramers_v"
+        ],
+        "value": [
+            chi2_statistic,
+            p_value,
+            degrees_of_freedom,
+            n,
+            cramers_v
+        ]
+    })
+
+    expected_counts_df = pd.DataFrame(
+        expected_counts,
+        index=contingency_table.index,
+        columns=contingency_table.columns
+    )
 
     # --------------------------------------------------
     # Save tables
@@ -114,12 +173,21 @@ def main():
 
     counts.to_csv(counts_output_path, encoding="utf-8-sig")
     percentages.to_csv(percentages_output_path, encoding="utf-8-sig")
+    chi_square_summary.to_csv(
+        chi_square_output_path,
+        index=False,
+        encoding="utf-8-sig"
+    )
+    expected_counts_df.to_csv(
+        expected_counts_output_path,
+        encoding="utf-8-sig"
+    )
 
     # --------------------------------------------------
     # Stacked bar chart: counts
     # --------------------------------------------------
 
-    ax = counts_display[valid_labels].plot(
+    counts_display[valid_labels].plot(
         kind="bar",
         stacked=True,
         figsize=(11, 6)
@@ -144,7 +212,7 @@ def main():
     # 100% stacked bar chart: percentages
     # --------------------------------------------------
 
-    ax = percentages_display[valid_labels].plot(
+    percentages_display[valid_labels].plot(
         kind="bar",
         stacked=True,
         figsize=(11, 6)
@@ -166,6 +234,27 @@ def main():
     plt.close()
 
     # --------------------------------------------------
+    # Heatmap: percentages
+    # --------------------------------------------------
+
+    plt.figure(figsize=(9, 5))
+
+    sns.heatmap(
+        percentages_display[valid_labels],
+        annot=True,
+        fmt=".1f",
+        cmap="YlOrRd",
+        cbar_kws={"label": "Ποσοστό εγγραφών (%)"}
+    )
+
+    plt.title("Θερμικός Χάρτης Συναισθήματος ανά Θέμα (%)")
+    plt.xlabel("Συναίσθημα")
+    plt.ylabel("Θέμα")
+    plt.tight_layout()
+    plt.savefig(heatmap_output_path, dpi=300, bbox_inches="tight")
+    plt.close()
+
+    # --------------------------------------------------
     # Print results
     # --------------------------------------------------
 
@@ -178,11 +267,18 @@ def main():
     print(percentages.to_string())
 
     print()
+    print("Chi-square test:")
+    print(chi_square_summary.to_string(index=False))
+
+    print()
     print("Files saved:")
     print(counts_output_path)
     print(percentages_output_path)
+    print(chi_square_output_path)
+    print(expected_counts_output_path)
     print(stacked_bar_output_path)
     print(percent_stacked_bar_output_path)
+    print(heatmap_output_path)
 
 
 if __name__ == "__main__":
