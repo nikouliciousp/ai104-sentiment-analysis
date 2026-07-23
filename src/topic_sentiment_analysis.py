@@ -6,7 +6,7 @@ import seaborn as sns
 from scipy.stats import chi2_contingency
 
 # --------------------------------------------------
-# Paths
+# Διαδρομές αρχείων
 # --------------------------------------------------
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -56,10 +56,33 @@ heatmap_output_path = os.path.join(
     "topic_sentiment_heatmap.png"
 )
 
+# --------------------------------------------------
+# Ρυθμίσεις εμφάνισης
+# --------------------------------------------------
 
-# --------------------------------------------------
-# Main analysis
-# --------------------------------------------------
+VALID_LABELS = ["negative", "neutral", "positive"]
+
+SENTIMENT_COLORS = {
+    "negative": "#D9534F",
+    "neutral": "#AAB7C4",
+    "positive": "#6BBF59"
+}
+
+SENTIMENT_LABELS_GR = {
+    "negative": "Αρνητικό",
+    "neutral": "Ουδέτερο",
+    "positive": "Θετικό"
+}
+
+
+def rename_sentiment_columns_for_display(df):
+    """
+    Μετονομάζει τις στήλες sentiment μόνο για εμφάνιση στα γραφήματα.
+    Δεν αλλάζει τα labels στα πραγματικά δεδομένα.
+    """
+
+    return df.rename(columns=SENTIMENT_LABELS_GR)
+
 
 def main():
     df = pd.read_csv(input_path)
@@ -76,14 +99,12 @@ def main():
     if missing_columns:
         raise ValueError(f"Missing required columns: {missing_columns}")
 
-    valid_labels = ["negative", "neutral", "positive"]
-
-    df = df[df["final_sentiment"].isin(valid_labels)].copy()
+    df = df[df["final_sentiment"].isin(VALID_LABELS)].copy()
 
     print("Valid sentiment records:", len(df))
 
     # --------------------------------------------------
-    # Count table
+    # Διασταυρούμενος πίνακας topic × sentiment
     # --------------------------------------------------
 
     counts = pd.crosstab(
@@ -91,18 +112,14 @@ def main():
         df["final_sentiment"]
     )
 
-    for label in valid_labels:
+    for label in VALID_LABELS:
         if label not in counts.columns:
             counts[label] = 0
 
-    counts = counts[valid_labels]
+    counts = counts[VALID_LABELS]
     counts["total"] = counts.sum(axis=1)
 
-    # --------------------------------------------------
-    # Percentage table
-    # --------------------------------------------------
-
-    percentages = counts[valid_labels].div(
+    percentages = counts[VALID_LABELS].div(
         counts["total"],
         axis=0
     ) * 100
@@ -110,34 +127,54 @@ def main():
     percentages = percentages.round(1)
     percentages["total"] = counts["total"]
 
-    # --------------------------------------------------
-    # Display labels
-    # --------------------------------------------------
-
     counts_display = counts.copy()
     percentages_display = percentages.copy()
 
     counts_display.index = counts_display.index.astype(str).str.replace("_", " ")
     percentages_display.index = percentages_display.index.astype(str).str.replace("_", " ")
 
+    counts_for_plot = rename_sentiment_columns_for_display(
+        counts_display[VALID_LABELS]
+    )
+
+    percentages_for_plot = rename_sentiment_columns_for_display(
+        percentages_display[VALID_LABELS]
+    )
+
+    display_label_order = [
+        SENTIMENT_LABELS_GR[label]
+        for label in VALID_LABELS
+    ]
+
+    display_color_order = [
+        SENTIMENT_COLORS[label]
+        for label in VALID_LABELS
+    ]
+
+    counts_for_plot = counts_for_plot[display_label_order]
+    percentages_for_plot = percentages_for_plot[display_label_order]
+
     # --------------------------------------------------
-    # Chi-square test
+    # Χι-τετράγωνο τεστ ανεξαρτησίας
     # --------------------------------------------------
 
-    contingency_table = counts[valid_labels]
+    contingency_table = counts[VALID_LABELS]
 
     chi2_statistic, p_value, degrees_of_freedom, expected_counts = chi2_contingency(
         contingency_table
     )
 
     n = contingency_table.to_numpy().sum()
+
     min_dimension = min(
         contingency_table.shape[0] - 1,
         contingency_table.shape[1] - 1
     )
 
     if min_dimension > 0:
-        cramers_v = math.sqrt(chi2_statistic / (n * min_dimension))
+        cramers_v = math.sqrt(
+            chi2_statistic / (n * min_dimension)
+        )
     else:
         cramers_v = None
 
@@ -165,32 +202,42 @@ def main():
     )
 
     # --------------------------------------------------
-    # Save tables
+    # Αποθήκευση πινάκων
     # --------------------------------------------------
 
     os.makedirs(tables_dir, exist_ok=True)
     os.makedirs(figures_dir, exist_ok=True)
 
-    counts.to_csv(counts_output_path, encoding="utf-8-sig")
-    percentages.to_csv(percentages_output_path, encoding="utf-8-sig")
+    counts.to_csv(
+        counts_output_path,
+        encoding="utf-8-sig"
+    )
+
+    percentages.to_csv(
+        percentages_output_path,
+        encoding="utf-8-sig"
+    )
+
     chi_square_summary.to_csv(
         chi_square_output_path,
         index=False,
         encoding="utf-8-sig"
     )
+
     expected_counts_df.to_csv(
         expected_counts_output_path,
         encoding="utf-8-sig"
     )
 
     # --------------------------------------------------
-    # Stacked bar chart: counts
+    # Γράφημα 1: Stacked bar chart με counts
     # --------------------------------------------------
 
-    counts_display[valid_labels].plot(
+    counts_for_plot.plot(
         kind="bar",
         stacked=True,
-        figsize=(11, 6)
+        figsize=(11, 6),
+        color=display_color_order
     )
 
     plt.title("Κατανομή Συναισθήματος ανά Θέμα")
@@ -205,22 +252,27 @@ def main():
     )
 
     plt.tight_layout()
-    plt.savefig(stacked_bar_output_path, dpi=300, bbox_inches="tight")
+    plt.savefig(
+        stacked_bar_output_path,
+        dpi=300,
+        bbox_inches="tight"
+    )
     plt.close()
 
     # --------------------------------------------------
-    # 100% stacked bar chart: percentages
+    # Γράφημα 2: 100% stacked bar chart με ποσοστά
     # --------------------------------------------------
 
-    percentages_display[valid_labels].plot(
+    percentages_for_plot.plot(
         kind="bar",
         stacked=True,
-        figsize=(11, 6)
+        figsize=(11, 6),
+        color=display_color_order
     )
 
     plt.title("Ποσοστιαία Κατανομή Συναισθήματος ανά Θέμα")
     plt.xlabel("Θέμα")
-    plt.ylabel("Ποσοστό Εγγραφών")
+    plt.ylabel("Ποσοστό Εγγραφών (%)")
     plt.xticks(rotation=30, ha="right")
 
     plt.legend(
@@ -230,17 +282,21 @@ def main():
     )
 
     plt.tight_layout()
-    plt.savefig(percent_stacked_bar_output_path, dpi=300, bbox_inches="tight")
+    plt.savefig(
+        percent_stacked_bar_output_path,
+        dpi=300,
+        bbox_inches="tight"
+    )
     plt.close()
 
     # --------------------------------------------------
-    # Heatmap: percentages
+    # Γράφημα 3: Heatmap topic × sentiment
     # --------------------------------------------------
 
     plt.figure(figsize=(9, 5))
 
     sns.heatmap(
-        percentages_display[valid_labels],
+        percentages_for_plot,
         annot=True,
         fmt=".1f",
         cmap="YlOrRd",
@@ -251,11 +307,15 @@ def main():
     plt.xlabel("Συναίσθημα")
     plt.ylabel("Θέμα")
     plt.tight_layout()
-    plt.savefig(heatmap_output_path, dpi=300, bbox_inches="tight")
+    plt.savefig(
+        heatmap_output_path,
+        dpi=300,
+        bbox_inches="tight"
+    )
     plt.close()
 
     # --------------------------------------------------
-    # Print results
+    # Εκτύπωση αποτελεσμάτων
     # --------------------------------------------------
 
     print()
