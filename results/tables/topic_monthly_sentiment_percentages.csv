@@ -1,0 +1,266 @@
+﻿topic,month,final_sentiment,count,percentage
+Artificial Intelligence,2023-09,negative,1,7.1
+Artificial Intelligence,2023-09,neutral,9,64.3
+Artificial Intelligence,2023-09,positive,4,28.6
+Artificial Intelligence,2023-10,neutral,1,100.0
+Artificial Intelligence,2023-11,neutral,3,100.0
+Artificial Intelligence,2023-12,negative,5,23.8
+Artificial Intelligence,2023-12,neutral,12,57.1
+Artificial Intelligence,2023-12,positive,4,19.0
+Artificial Intelligence,2024-01,neutral,1,100.0
+Artificial Intelligence,2024-02,neutral,1,100.0
+Artificial Intelligence,2024-03,negative,5,27.8
+Artificial Intelligence,2024-03,neutral,9,50.0
+Artificial Intelligence,2024-03,positive,4,22.2
+Artificial Intelligence,2024-04,negative,2,100.0
+Artificial Intelligence,2024-06,negative,8,36.4
+Artificial Intelligence,2024-06,neutral,11,50.0
+Artificial Intelligence,2024-06,positive,3,13.6
+Artificial Intelligence,2024-07,neutral,1,100.0
+Artificial Intelligence,2024-08,neutral,2,100.0
+Artificial Intelligence,2024-09,negative,10,58.8
+Artificial Intelligence,2024-09,neutral,6,35.3
+Artificial Intelligence,2024-09,positive,1,5.9
+Artificial Intelligence,2024-11,negative,1,25.0
+Artificial Intelligence,2024-11,neutral,2,50.0
+Artificial Intelligence,2024-11,positive,1,25.0
+Artificial Intelligence,2024-12,negative,3,18.8
+Artificial Intelligence,2024-12,neutral,12,75.0
+Artificial Intelligence,2024-12,positive,1,6.2
+Artificial Intelligence,2025-01,neutral,1,100.0
+Artificial Intelligence,2025-02,neutral,3,100.0
+Artificial Intelligence,2025-03,negative,7,35.0
+Artificial Intelligence,2025-03,neutral,12,60.0
+Artificial Intelligence,2025-03,positive,1,5.0
+Artificial Intelligence,2025-04,negative,1,100.0
+Artificial Intelligence,2025-05,neutral,4,100.0
+Artificial Intelligence,2025-06,negative,9,47.4
+Artificial Intelligence,2025-06,neutral,9,47.4
+Artificial Intelligence,2025-06,positive,1,5.3
+Artificial Intelligence,2025-07,positive,1,100.0
+Artificial Intelligence,2025-08,neutral,3,75.0
+Artificial Intelligence,2025-08,positive,1,25.0
+Artificial Intelligence,2025-09,negative,1,7.1
+Artificial Intelligence,2025-09,neutral,10,71.4
+Artificial Intelligence,2025-09,positive,3,21.4
+Artificial Intelligence,2025-10,negative,1,50.0
+Artificial Intelligence,2025-10,neutral,1,50.0
+Artificial Intelligence,2025-11,negative,1,100.0
+Artificial Intelligence,2025-12,negative,3,20.0
+Artificial Intelligence,2025-12,neutral,12,80.0
+Artificial Intelligence,2026-01,neutral,2,100.0
+Artificial Intelligence,2026-02,neutral,3,100.0
+Artificial Intelligence,2026-03,negative,5,27.8
+Artificial Intelligence,2026-03,neutral,11,61.1
+Artificial Intelligence,2026-03,positive,2,11.1
+Artificial Intelligence,2026-04,neutral,1,100.0
+Artificial Intelligence,2026-05,neutral,1,100.0
+Artificial Intelligence,2026-06,negative,3,27.3
+Artificial Intelligence,2026-06,neutral,8,72.7
+Artificial Intelligence,2026-07,negative,2,22.2
+Artificial Intelligence,2026-07,neutral,4,44.4
+Artificial Intelligence,2026-07,positive,3,33.3
+Climate Change,2023-08,negative,1,50.0
+Climate Change,2023-08,neutral,1,50.0
+Climate Change,2023-09,negative,6,42.9
+Climate Change,2023-09,neutral,7,50.0
+Climate Change,2023-09,positive,1,7.1
+Climate Change,2023-10,negative,1,25.0
+Climate Change,2023-10,neutral,3,75.0
+Climate Change,2023-11,negative,2,40.0
+Climate Change,2023-11,neutral,3,60.0
+Climate Change,2023-12,negative,6,33.3
+Climate Change,2023-12,neutral,12,66.7
+Climate Change,2024-01,negative,1,33.3
+Climate Change,2024-01,neutral,1,33.3
+Climate Change,2024-01,positive,1,33.3
+Climate Change,2024-02,negative,5,55.6
+Climate Change,2024-02,neutral,4,44.4
+Climate Change,2024-03,negative,6,46.2
+Climate Change,2024-03,neutral,7,53.8
+Climate Change,2024-04,neutral,4,100.0
+Climate Change,2024-05,negative,7,63.6
+Climate Change,2024-05,neutral,4,36.4
+Climate Change,2024-06,negative,9,69.2
+Climate Change,2024-06,neutral,4,30.8
+Climate Change,2024-07,negative,3,33.3
+Climate Change,2024-07,neutral,6,66.7
+Climate Change,2024-08,negative,4,66.7
+Climate Change,2024-08,neutral,2,33.3
+Climate Change,2024-09,negative,5,50.0
+Climate Change,2024-09,neutral,4,40.0
+Climate Change,2024-09,positive,1,10.0
+Climate Change,2024-10,negative,5,71.4
+Climate Change,2024-10,neutral,2,28.6
+Climate Change,2024-11,negative,2,25.0
+Climate Change,2024-11,neutral,6,75.0
+Climate Change,2024-12,neutral,4,100.0
+Climate Change,2025-01,negative,1,25.0
+Climate Change,2025-01,neutral,3,75.0
+Climate Change,2025-02,negative,4,57.1
+Climate Change,2025-02,neutral,3,42.9
+Climate Change,2025-03,negative,1,20.0
+Climate Change,2025-03,neutral,4,80.0
+Climate Change,2025-04,neutral,2,100.0
+Climate Change,2025-05,negative,3,42.9
+Climate Change,2025-05,neutral,3,42.9
+Climate Change,2025-05,positive,1,14.3
+Climate Change,2025-06,negative,4,44.4
+Climate Change,2025-06,neutral,5,55.6
+Climate Change,2025-07,negative,3,50.0
+Climate Change,2025-07,neutral,3,50.0
+Climate Change,2025-08,negative,3,60.0
+Climate Change,2025-08,neutral,2,40.0
+Climate Change,2025-09,negative,2,18.2
+Climate Change,2025-09,neutral,7,63.6
+Climate Change,2025-09,positive,2,18.2
+Climate Change,2025-10,negative,1,25.0
+Climate Change,2025-10,neutral,3,75.0
+Climate Change,2025-11,negative,2,14.3
+Climate Change,2025-11,neutral,11,78.6
+Climate Change,2025-11,positive,1,7.1
+Climate Change,2025-12,negative,2,33.3
+Climate Change,2025-12,neutral,4,66.7
+Climate Change,2026-01,neutral,3,100.0
+Climate Change,2026-02,neutral,2,66.7
+Climate Change,2026-02,positive,1,33.3
+Climate Change,2026-03,neutral,12,70.6
+Climate Change,2026-03,positive,5,29.4
+Climate Change,2026-04,negative,1,33.3
+Climate Change,2026-04,neutral,1,33.3
+Climate Change,2026-04,positive,1,33.3
+Climate Change,2026-05,negative,2,33.3
+Climate Change,2026-05,neutral,3,50.0
+Climate Change,2026-05,positive,1,16.7
+Climate Change,2026-06,negative,6,54.5
+Climate Change,2026-06,neutral,4,36.4
+Climate Change,2026-06,positive,1,9.1
+Climate Change,2026-07,neutral,2,100.0
+Cryptocurrency,2024-04,negative,1,100.0
+Cryptocurrency,2024-05,negative,1,33.3
+Cryptocurrency,2024-05,neutral,2,66.7
+Cryptocurrency,2024-06,negative,2,25.0
+Cryptocurrency,2024-06,neutral,5,62.5
+Cryptocurrency,2024-06,positive,1,12.5
+Cryptocurrency,2024-07,positive,1,100.0
+Cryptocurrency,2024-08,negative,1,25.0
+Cryptocurrency,2024-08,neutral,2,50.0
+Cryptocurrency,2024-08,positive,1,25.0
+Cryptocurrency,2024-09,negative,12,40.0
+Cryptocurrency,2024-09,neutral,16,53.3
+Cryptocurrency,2024-09,positive,2,6.7
+Cryptocurrency,2024-10,negative,2,66.7
+Cryptocurrency,2024-10,positive,1,33.3
+Cryptocurrency,2024-11,negative,1,50.0
+Cryptocurrency,2024-11,positive,1,50.0
+Cryptocurrency,2024-12,negative,14,48.3
+Cryptocurrency,2024-12,neutral,13,44.8
+Cryptocurrency,2024-12,positive,2,6.9
+Cryptocurrency,2025-01,neutral,1,100.0
+Cryptocurrency,2025-02,negative,2,50.0
+Cryptocurrency,2025-02,neutral,2,50.0
+Cryptocurrency,2025-03,negative,6,21.4
+Cryptocurrency,2025-03,neutral,19,67.9
+Cryptocurrency,2025-03,positive,3,10.7
+Cryptocurrency,2025-04,negative,1,33.3
+Cryptocurrency,2025-04,neutral,2,66.7
+Cryptocurrency,2025-05,negative,3,33.3
+Cryptocurrency,2025-05,neutral,3,33.3
+Cryptocurrency,2025-05,positive,3,33.3
+Cryptocurrency,2025-06,negative,5,25.0
+Cryptocurrency,2025-06,neutral,13,65.0
+Cryptocurrency,2025-06,positive,2,10.0
+Cryptocurrency,2025-07,negative,1,50.0
+Cryptocurrency,2025-07,neutral,1,50.0
+Cryptocurrency,2025-08,negative,1,20.0
+Cryptocurrency,2025-08,neutral,4,80.0
+Cryptocurrency,2025-09,negative,13,48.1
+Cryptocurrency,2025-09,neutral,14,51.9
+Cryptocurrency,2025-11,neutral,2,100.0
+Cryptocurrency,2025-12,negative,12,46.2
+Cryptocurrency,2025-12,neutral,12,46.2
+Cryptocurrency,2025-12,positive,2,7.7
+Cryptocurrency,2026-01,neutral,1,100.0
+Cryptocurrency,2026-02,negative,2,33.3
+Cryptocurrency,2026-02,neutral,4,66.7
+Cryptocurrency,2026-03,negative,12,48.0
+Cryptocurrency,2026-03,neutral,12,48.0
+Cryptocurrency,2026-03,positive,1,4.0
+Cryptocurrency,2026-06,negative,7,28.0
+Cryptocurrency,2026-06,neutral,18,72.0
+Cryptocurrency,2026-07,negative,4,57.1
+Cryptocurrency,2026-07,neutral,3,42.9
+Cybersecurity,2023-07,neutral,3,75.0
+Cybersecurity,2023-07,positive,1,25.0
+Cybersecurity,2023-08,negative,1,16.7
+Cybersecurity,2023-08,neutral,5,83.3
+Cybersecurity,2023-09,negative,7,50.0
+Cybersecurity,2023-09,neutral,7,50.0
+Cybersecurity,2023-10,negative,1,33.3
+Cybersecurity,2023-10,neutral,2,66.7
+Cybersecurity,2023-11,negative,3,33.3
+Cybersecurity,2023-11,neutral,6,66.7
+Cybersecurity,2023-12,negative,3,27.3
+Cybersecurity,2023-12,neutral,8,72.7
+Cybersecurity,2024-01,negative,1,16.7
+Cybersecurity,2024-01,neutral,5,83.3
+Cybersecurity,2024-02,negative,3,60.0
+Cybersecurity,2024-02,neutral,2,40.0
+Cybersecurity,2024-03,negative,6,46.2
+Cybersecurity,2024-03,neutral,7,53.8
+Cybersecurity,2024-04,negative,2,66.7
+Cybersecurity,2024-04,neutral,1,33.3
+Cybersecurity,2024-05,negative,2,50.0
+Cybersecurity,2024-05,neutral,2,50.0
+Cybersecurity,2024-06,negative,5,29.4
+Cybersecurity,2024-06,neutral,12,70.6
+Cybersecurity,2024-07,negative,1,9.1
+Cybersecurity,2024-07,neutral,10,90.9
+Cybersecurity,2024-08,negative,2,66.7
+Cybersecurity,2024-08,neutral,1,33.3
+Cybersecurity,2024-09,negative,4,26.7
+Cybersecurity,2024-09,neutral,11,73.3
+Cybersecurity,2024-10,neutral,3,100.0
+Cybersecurity,2024-11,negative,2,50.0
+Cybersecurity,2024-11,neutral,2,50.0
+Cybersecurity,2024-12,negative,1,14.3
+Cybersecurity,2024-12,neutral,5,71.4
+Cybersecurity,2024-12,positive,1,14.3
+Cybersecurity,2025-01,neutral,2,100.0
+Cybersecurity,2025-02,negative,1,16.7
+Cybersecurity,2025-02,neutral,4,66.7
+Cybersecurity,2025-02,positive,1,16.7
+Cybersecurity,2025-03,negative,3,20.0
+Cybersecurity,2025-03,neutral,10,66.7
+Cybersecurity,2025-03,positive,2,13.3
+Cybersecurity,2025-04,neutral,5,100.0
+Cybersecurity,2025-05,negative,2,100.0
+Cybersecurity,2025-06,negative,6,42.9
+Cybersecurity,2025-06,neutral,8,57.1
+Cybersecurity,2025-07,negative,1,25.0
+Cybersecurity,2025-07,neutral,1,25.0
+Cybersecurity,2025-07,positive,2,50.0
+Cybersecurity,2025-08,negative,1,33.3
+Cybersecurity,2025-08,neutral,2,66.7
+Cybersecurity,2025-09,negative,1,9.1
+Cybersecurity,2025-09,neutral,8,72.7
+Cybersecurity,2025-09,positive,2,18.2
+Cybersecurity,2025-10,negative,3,60.0
+Cybersecurity,2025-10,neutral,2,40.0
+Cybersecurity,2025-11,negative,4,50.0
+Cybersecurity,2025-11,neutral,4,50.0
+Cybersecurity,2025-12,negative,5,41.7
+Cybersecurity,2025-12,neutral,6,50.0
+Cybersecurity,2025-12,positive,1,8.3
+Cybersecurity,2026-01,neutral,2,100.0
+Cybersecurity,2026-02,positive,1,100.0
+Cybersecurity,2026-03,negative,7,53.8
+Cybersecurity,2026-03,neutral,4,30.8
+Cybersecurity,2026-03,positive,2,15.4
+Cybersecurity,2026-04,negative,2,66.7
+Cybersecurity,2026-04,neutral,1,33.3
+Cybersecurity,2026-05,neutral,3,100.0
+Cybersecurity,2026-06,negative,7,43.8
+Cybersecurity,2026-06,neutral,9,56.2
+Cybersecurity,2026-07,negative,1,33.3
+Cybersecurity,2026-07,neutral,2,66.7

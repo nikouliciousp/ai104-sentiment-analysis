@@ -1,0 +1,129 @@
+﻿topic,quarter,final_sentiment,count
+Artificial Intelligence,Ιουλ–Σεπ 2023,negative,1
+Artificial Intelligence,Ιουλ–Σεπ 2023,neutral,9
+Artificial Intelligence,Ιουλ–Σεπ 2023,positive,4
+Artificial Intelligence,Οκτ–Δεκ 2023,negative,5
+Artificial Intelligence,Οκτ–Δεκ 2023,neutral,16
+Artificial Intelligence,Οκτ–Δεκ 2023,positive,4
+Artificial Intelligence,Ιαν–Μαρ 2024,negative,5
+Artificial Intelligence,Ιαν–Μαρ 2024,neutral,11
+Artificial Intelligence,Ιαν–Μαρ 2024,positive,4
+Artificial Intelligence,Απρ–Ιουν 2024,negative,10
+Artificial Intelligence,Απρ–Ιουν 2024,neutral,11
+Artificial Intelligence,Απρ–Ιουν 2024,positive,3
+Artificial Intelligence,Ιουλ–Σεπ 2024,negative,10
+Artificial Intelligence,Ιουλ–Σεπ 2024,neutral,9
+Artificial Intelligence,Ιουλ–Σεπ 2024,positive,1
+Artificial Intelligence,Οκτ–Δεκ 2024,negative,4
+Artificial Intelligence,Οκτ–Δεκ 2024,neutral,14
+Artificial Intelligence,Οκτ–Δεκ 2024,positive,2
+Artificial Intelligence,Ιαν–Μαρ 2025,negative,7
+Artificial Intelligence,Ιαν–Μαρ 2025,neutral,16
+Artificial Intelligence,Ιαν–Μαρ 2025,positive,1
+Artificial Intelligence,Απρ–Ιουν 2025,negative,10
+Artificial Intelligence,Απρ–Ιουν 2025,neutral,13
+Artificial Intelligence,Απρ–Ιουν 2025,positive,1
+Artificial Intelligence,Ιουλ–Σεπ 2025,negative,1
+Artificial Intelligence,Ιουλ–Σεπ 2025,neutral,13
+Artificial Intelligence,Ιουλ–Σεπ 2025,positive,5
+Artificial Intelligence,Οκτ–Δεκ 2025,negative,5
+Artificial Intelligence,Οκτ–Δεκ 2025,neutral,13
+Artificial Intelligence,Ιαν–Μαρ 2026,negative,5
+Artificial Intelligence,Ιαν–Μαρ 2026,neutral,16
+Artificial Intelligence,Ιαν–Μαρ 2026,positive,2
+Artificial Intelligence,Απρ–Ιουν 2026,negative,3
+Artificial Intelligence,Απρ–Ιουν 2026,neutral,10
+Artificial Intelligence,Ιουλ–Σεπ 2026,negative,2
+Artificial Intelligence,Ιουλ–Σεπ 2026,neutral,4
+Artificial Intelligence,Ιουλ–Σεπ 2026,positive,3
+Climate Change,Ιουλ–Σεπ 2023,negative,7
+Climate Change,Ιουλ–Σεπ 2023,neutral,8
+Climate Change,Ιουλ–Σεπ 2023,positive,1
+Climate Change,Οκτ–Δεκ 2023,negative,9
+Climate Change,Οκτ–Δεκ 2023,neutral,18
+Climate Change,Ιαν–Μαρ 2024,negative,12
+Climate Change,Ιαν–Μαρ 2024,neutral,12
+Climate Change,Ιαν–Μαρ 2024,positive,1
+Climate Change,Απρ–Ιουν 2024,negative,16
+Climate Change,Απρ–Ιουν 2024,neutral,12
+Climate Change,Ιουλ–Σεπ 2024,negative,12
+Climate Change,Ιουλ–Σεπ 2024,neutral,12
+Climate Change,Ιουλ–Σεπ 2024,positive,1
+Climate Change,Οκτ–Δεκ 2024,negative,7
+Climate Change,Οκτ–Δεκ 2024,neutral,12
+Climate Change,Ιαν–Μαρ 2025,negative,6
+Climate Change,Ιαν–Μαρ 2025,neutral,10
+Climate Change,Απρ–Ιουν 2025,negative,7
+Climate Change,Απρ–Ιουν 2025,neutral,10
+Climate Change,Απρ–Ιουν 2025,positive,1
+Climate Change,Ιουλ–Σεπ 2025,negative,8
+Climate Change,Ιουλ–Σεπ 2025,neutral,12
+Climate Change,Ιουλ–Σεπ 2025,positive,2
+Climate Change,Οκτ–Δεκ 2025,negative,5
+Climate Change,Οκτ–Δεκ 2025,neutral,18
+Climate Change,Οκτ–Δεκ 2025,positive,1
+Climate Change,Ιαν–Μαρ 2026,neutral,17
+Climate Change,Ιαν–Μαρ 2026,positive,6
+Climate Change,Απρ–Ιουν 2026,negative,9
+Climate Change,Απρ–Ιουν 2026,neutral,8
+Climate Change,Απρ–Ιουν 2026,positive,3
+Climate Change,Ιουλ–Σεπ 2026,neutral,2
+Cryptocurrency,Απρ–Ιουν 2024,negative,4
+Cryptocurrency,Απρ–Ιουν 2024,neutral,7
+Cryptocurrency,Απρ–Ιουν 2024,positive,1
+Cryptocurrency,Ιουλ–Σεπ 2024,negative,13
+Cryptocurrency,Ιουλ–Σεπ 2024,neutral,18
+Cryptocurrency,Ιουλ–Σεπ 2024,positive,4
+Cryptocurrency,Οκτ–Δεκ 2024,negative,17
+Cryptocurrency,Οκτ–Δεκ 2024,neutral,13
+Cryptocurrency,Οκτ–Δεκ 2024,positive,4
+Cryptocurrency,Ιαν–Μαρ 2025,negative,8
+Cryptocurrency,Ιαν–Μαρ 2025,neutral,22
+Cryptocurrency,Ιαν–Μαρ 2025,positive,3
+Cryptocurrency,Απρ–Ιουν 2025,negative,9
+Cryptocurrency,Απρ–Ιουν 2025,neutral,18
+Cryptocurrency,Απρ–Ιουν 2025,positive,5
+Cryptocurrency,Ιουλ–Σεπ 2025,negative,15
+Cryptocurrency,Ιουλ–Σεπ 2025,neutral,19
+Cryptocurrency,Οκτ–Δεκ 2025,negative,12
+Cryptocurrency,Οκτ–Δεκ 2025,neutral,14
+Cryptocurrency,Οκτ–Δεκ 2025,positive,2
+Cryptocurrency,Ιαν–Μαρ 2026,negative,14
+Cryptocurrency,Ιαν–Μαρ 2026,neutral,17
+Cryptocurrency,Ιαν–Μαρ 2026,positive,1
+Cryptocurrency,Απρ–Ιουν 2026,negative,7
+Cryptocurrency,Απρ–Ιουν 2026,neutral,18
+Cryptocurrency,Ιουλ–Σεπ 2026,negative,4
+Cryptocurrency,Ιουλ–Σεπ 2026,neutral,3
+Cybersecurity,Ιουλ–Σεπ 2023,negative,8
+Cybersecurity,Ιουλ–Σεπ 2023,neutral,15
+Cybersecurity,Ιουλ–Σεπ 2023,positive,1
+Cybersecurity,Οκτ–Δεκ 2023,negative,7
+Cybersecurity,Οκτ–Δεκ 2023,neutral,16
+Cybersecurity,Ιαν–Μαρ 2024,negative,10
+Cybersecurity,Ιαν–Μαρ 2024,neutral,14
+Cybersecurity,Απρ–Ιουν 2024,negative,9
+Cybersecurity,Απρ–Ιουν 2024,neutral,15
+Cybersecurity,Ιουλ–Σεπ 2024,negative,7
+Cybersecurity,Ιουλ–Σεπ 2024,neutral,22
+Cybersecurity,Οκτ–Δεκ 2024,negative,3
+Cybersecurity,Οκτ–Δεκ 2024,neutral,10
+Cybersecurity,Οκτ–Δεκ 2024,positive,1
+Cybersecurity,Ιαν–Μαρ 2025,negative,4
+Cybersecurity,Ιαν–Μαρ 2025,neutral,16
+Cybersecurity,Ιαν–Μαρ 2025,positive,3
+Cybersecurity,Απρ–Ιουν 2025,negative,8
+Cybersecurity,Απρ–Ιουν 2025,neutral,13
+Cybersecurity,Ιουλ–Σεπ 2025,negative,3
+Cybersecurity,Ιουλ–Σεπ 2025,neutral,11
+Cybersecurity,Ιουλ–Σεπ 2025,positive,4
+Cybersecurity,Οκτ–Δεκ 2025,negative,12
+Cybersecurity,Οκτ–Δεκ 2025,neutral,12
+Cybersecurity,Οκτ–Δεκ 2025,positive,1
+Cybersecurity,Ιαν–Μαρ 2026,negative,7
+Cybersecurity,Ιαν–Μαρ 2026,neutral,6
+Cybersecurity,Ιαν–Μαρ 2026,positive,3
+Cybersecurity,Απρ–Ιουν 2026,negative,9
+Cybersecurity,Απρ–Ιουν 2026,neutral,13
+Cybersecurity,Ιουλ–Σεπ 2026,negative,1
+Cybersecurity,Ιουλ–Σεπ 2026,neutral,2
