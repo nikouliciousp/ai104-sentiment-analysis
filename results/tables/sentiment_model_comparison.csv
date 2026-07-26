@@ -1,0 +1,25 @@
+﻿target,representation,config,model,accuracy,macro_f1,weighted_f1
+multiclass,tfidf,unweighted,Naive Bayes,0.5896,0.3151,0.4996
+multiclass,tfidf,unweighted,KNN,0.5755,0.3709,0.5463
+multiclass,tfidf,unweighted,Random Forest,0.5896,0.3332,0.5181
+multiclass,tfidf,weighted,Naive Bayes,0.5094,0.4333,0.5334
+multiclass,tfidf,weighted,KNN,0.5755,0.3709,0.5463
+multiclass,tfidf,weighted,Random Forest,0.5802,0.4167,0.5672
+multiclass,bow,unweighted,Naive Bayes,0.6132,0.396,0.5814
+multiclass,bow,unweighted,KNN,0.5236,0.2864,0.4575
+multiclass,bow,unweighted,Random Forest,0.5708,0.3068,0.4888
+multiclass,bow,weighted,Naive Bayes,0.5142,0.4094,0.5332
+multiclass,bow,weighted,KNN,0.5236,0.2864,0.4575
+multiclass,bow,weighted,Random Forest,0.5472,0.4115,0.5362
+binary,tfidf,unweighted,Naive Bayes,0.6887,0.5101,0.605
+binary,tfidf,unweighted,KNN,0.6368,0.5502,0.6135
+binary,tfidf,unweighted,Random Forest,0.6415,0.5027,0.587
+binary,tfidf,weighted,Naive Bayes,0.5943,0.5724,0.6035
+binary,tfidf,weighted,KNN,0.6368,0.5502,0.6135
+binary,tfidf,weighted,Random Forest,0.6226,0.5483,0.6071
+binary,bow,unweighted,Naive Bayes,0.6509,0.5859,0.6386
+binary,bow,unweighted,KNN,0.6368,0.4525,0.5544
+binary,bow,unweighted,Random Forest,0.684,0.5313,0.6171
+binary,bow,weighted,Naive Bayes,0.5991,0.5764,0.6078
+binary,bow,weighted,KNN,0.6368,0.4525,0.5544
+binary,bow,weighted,Random Forest,0.6226,0.56,0.6132

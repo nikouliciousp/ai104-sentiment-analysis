@@ -1,0 +1,13 @@
+﻿target,model,representation,macro_f1
+multiclass,Naive Bayes,tfidf,0.3151
+multiclass,KNN,tfidf,0.3709
+multiclass,Random Forest,tfidf,0.3332
+multiclass,Naive Bayes,bow,0.396
+multiclass,KNN,bow,0.2864
+multiclass,Random Forest,bow,0.3068
+binary,Naive Bayes,tfidf,0.5101
+binary,KNN,tfidf,0.5502
+binary,Random Forest,tfidf,0.5027
+binary,Naive Bayes,bow,0.5859
+binary,KNN,bow,0.4525
+binary,Random Forest,bow,0.5313
