@@ -1,0 +1,81 @@
+topic,term,topic_term_count,corpus_term_count,topic_doc_count,topic_term_freq,corpus_term_freq,topic_specific_ratio
+Artificial Intelligence,openai,83,84,253,0.05732,0.014515,3.949
+Artificial Intelligence,chatgpt,75,75,253,0.051796,0.01296,3.9965
+Artificial Intelligence,learning,68,69,253,0.046961,0.011923,3.9386
+Artificial Intelligence,machine,68,69,253,0.046961,0.011923,3.9386
+Artificial Intelligence,ai,33,55,253,0.02279,0.009504,2.3979
+Artificial Intelligence,models,18,18,253,0.012431,0.00311,3.9965
+Artificial Intelligence,like,15,55,253,0.010359,0.009504,1.09
+Artificial Intelligence,language,13,13,253,0.008978,0.002246,3.9965
+Artificial Intelligence,just,11,38,253,0.007597,0.006566,1.1569
+Artificial Intelligence,large,11,11,253,0.007597,0.001901,3.9965
+Artificial Intelligence,llm,10,12,253,0.006906,0.002074,3.3305
+Artificial Intelligence,good,9,22,253,0.006215,0.003802,1.635
+Artificial Intelligence,does,8,29,253,0.005525,0.005011,1.1025
+Artificial Intelligence,open,8,11,253,0.005525,0.001901,2.9066
+Artificial Intelligence,claude,8,10,253,0.005525,0.001728,3.1972
+Artificial Intelligence,model,8,9,253,0.005525,0.001555,3.5525
+Artificial Intelligence,did,7,18,253,0.004834,0.00311,1.5542
+Artificial Intelligence,using,7,16,253,0.004834,0.002765,1.7485
+Artificial Intelligence,anthropic,7,7,253,0.004834,0.00121,3.9965
+Artificial Intelligence,pretty,6,9,253,0.004144,0.001555,2.6644
+Climate Change,climate,88,88,265,0.057254,0.015206,3.7651
+Climate Change,change,86,87,265,0.055953,0.015034,3.7218
+Climate Change,fossil,69,69,265,0.044893,0.011923,3.7651
+Climate Change,warming,58,58,265,0.037736,0.010022,3.7651
+Climate Change,global,58,60,265,0.037736,0.010368,3.6396
+Climate Change,fuels,41,42,265,0.026675,0.007258,3.6755
+Climate Change,energy,38,40,265,0.024723,0.006912,3.5769
+Climate Change,renewable,33,33,265,0.02147,0.005702,3.7651
+Climate Change,fuel,30,30,265,0.019519,0.005184,3.7651
+Climate Change,carbon,25,25,265,0.016265,0.00432,3.7651
+Climate Change,emissions,23,23,265,0.014964,0.003974,3.7651
+Climate Change,nuclear,9,9,265,0.005856,0.001555,3.7651
+Climate Change,just,7,38,265,0.004554,0.006566,0.6936
+Climate Change,don,7,23,265,0.004554,0.003974,1.1459
+Climate Change,better,6,13,265,0.003904,0.002246,1.7378
+Climate Change,pollution,6,6,265,0.003904,0.001037,3.7651
+Climate Change,gas,6,7,265,0.003904,0.00121,3.2273
+Climate Change,does,6,29,265,0.003904,0.005011,0.779
+Climate Change,need,6,12,265,0.003904,0.002074,1.8826
+Climate Change,people,6,20,265,0.003904,0.003456,1.1295
+Cryptocurrency,bitcoin,62,63,272,0.045521,0.010886,4.1815
+Cryptocurrency,blockchain,55,55,272,0.040382,0.009504,4.2489
+Cryptocurrency,crypto,50,54,272,0.036711,0.009331,3.9342
+Cryptocurrency,cryptocurrency,48,48,272,0.035242,0.008294,4.2489
+Cryptocurrency,ethereum,44,44,272,0.032305,0.007603,4.2489
+Cryptocurrency,like,17,55,272,0.012482,0.009504,1.3133
+Cryptocurrency,use,16,22,272,0.011747,0.003802,3.0901
+Cryptocurrency,just,12,38,272,0.008811,0.006566,1.3418
+Cryptocurrency,ai,12,55,272,0.008811,0.009504,0.927
+Cryptocurrency,mining,8,8,272,0.005874,0.001382,4.2489
+Cryptocurrency,currency,8,8,272,0.005874,0.001382,4.2489
+Cryptocurrency,buy,8,8,272,0.005874,0.001382,4.2489
+Cryptocurrency,cryptocurrencies,8,9,272,0.005874,0.001555,3.7768
+Cryptocurrency,lot,7,12,272,0.00514,0.002074,2.4785
+Cryptocurrency,cryptography,7,7,272,0.00514,0.00121,4.2489
+Cryptocurrency,people,7,20,272,0.00514,0.003456,1.4871
+Cryptocurrency,did,7,18,272,0.00514,0.00311,1.6523
+Cryptocurrency,1,6,12,272,0.004405,0.002074,2.1244
+Cryptocurrency,blockchains,6,6,272,0.004405,0.001037,4.2489
+Cryptocurrency,think,6,20,272,0.004405,0.003456,1.2747
+Cybersecurity,malware,93,93,266,0.064583,0.016071,4.0187
+Cybersecurity,cybersecurity,68,68,266,0.047222,0.01175,4.0187
+Cybersecurity,ransomware,62,65,266,0.043056,0.011232,3.8333
+Cybersecurity,data,40,46,266,0.027778,0.007949,3.4946
+Cybersecurity,like,18,55,266,0.0125,0.009504,1.3152
+Cybersecurity,breaches,16,16,266,0.011111,0.002765,4.0187
+Cybersecurity,breach,16,16,266,0.011111,0.002765,4.0187
+Cybersecurity,attack,14,16,266,0.009722,0.002765,3.5164
+Cybersecurity,cyber,12,12,266,0.008333,0.002074,4.0187
+Cybersecurity,does,9,29,266,0.00625,0.005011,1.2472
+Cybersecurity,just,8,38,266,0.005556,0.006566,0.8461
+Cybersecurity,don,7,23,266,0.004861,0.003974,1.2231
+Cybersecurity,bad,7,11,266,0.004861,0.001901,2.5574
+Cybersecurity,ai,7,55,266,0.004861,0.009504,0.5115
+Cybersecurity,think,6,20,266,0.004167,0.003456,1.2056
+Cybersecurity,attacks,6,6,266,0.004167,0.001037,4.0187
+Cybersecurity,time,6,12,266,0.004167,0.002074,2.0094
+Cybersecurity,good,5,22,266,0.003472,0.003802,0.9134
+Cybersecurity,using,4,16,266,0.002778,0.002765,1.0047
+Cybersecurity,installed,4,4,266,0.002778,0.000691,4.0187

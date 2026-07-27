@@ -1,0 +1,9 @@
+metric,value
+total_records,1056.0
+missing_text_clean,0.0
+missing_text_no_stopwords,0.0
+empty_text_no_stopwords,0.0
+duplicate_post_id,0.0
+word_count_no_stopwords_min,1.0
+word_count_no_stopwords_max,11.0
+word_count_no_stopwords_mean,5.48
