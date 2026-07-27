@@ -5,7 +5,7 @@ import pandas as pd
 # Paths
 # --------------------------------------------------
 
-BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 final_input_path = os.path.join(
     BASE_DIR,
@@ -33,7 +33,7 @@ remaining_review_output_path = os.path.join(
     "hackernews_manual_review_remaining.csv"
 )
 
-summary_dir = os.path.join(BASE_DIR, "results", "tables")
+summary_dir = os.path.join(BASE_DIR, "results", "tables", "section_2")
 
 resolved_distribution_output_path = os.path.join(
     summary_dir,

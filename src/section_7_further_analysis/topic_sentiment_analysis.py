@@ -9,7 +9,7 @@ from scipy.stats import chi2_contingency
 # Διαδρομές αρχείων
 # --------------------------------------------------
 
-BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 input_path = os.path.join(
     BASE_DIR,
@@ -18,8 +18,8 @@ input_path = os.path.join(
     "hackernews_annotations_resolved_final.csv"
 )
 
-tables_dir = os.path.join(BASE_DIR, "results", "tables")
-figures_dir = os.path.join(BASE_DIR, "results", "figures")
+tables_dir = os.path.join(BASE_DIR, "results", "tables", "section_7")
+figures_dir = os.path.join(BASE_DIR, "results", "figures", "section_7")
 
 counts_output_path = os.path.join(
     tables_dir,

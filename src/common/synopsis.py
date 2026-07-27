@@ -2,7 +2,7 @@ import os
 import pandas as pd
 
 # find project root regardless of where the script is run from
-BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 df = pd.read_csv(os.path.join(BASE_DIR, "data", "raw", "hackernews_posts_raw.csv"))
 

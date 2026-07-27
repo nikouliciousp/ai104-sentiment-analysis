@@ -67,13 +67,13 @@ warnings.filterwarnings("ignore")
 # Configuration
 # --------------------------------------------------------------------------
 
-BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 PRIMARY_INPUT = os.path.join(BASE_DIR, "data", "modeling", "sentiment_data.csv")
 FALLBACK_INPUT = os.path.join(BASE_DIR, "data", "modeling", "hackernews_modeling_dataset.csv")
 
-TABLES_DIR = os.path.join(BASE_DIR, "results", "tables")
-FIGURES_DIR = os.path.join(BASE_DIR, "results", "figures")
+TABLES_DIR = os.path.join(BASE_DIR, "results", "tables", "section_6")
+FIGURES_DIR = os.path.join(BASE_DIR, "results", "figures", "section_6")
 
 # Split parameters. Fixed and shared with the topic-classification member.
 TEST_SIZE = 0.2

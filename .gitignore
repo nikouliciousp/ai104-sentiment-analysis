@@ -8,10 +8,6 @@ __pycache__/
 .venv/
 *.egg-info/
 
-# Data (μεγάλα αρχεία)
-data/raw/*.csv
-data/clean/*.csv
-
 # Jupyter checkpoints
 .ipynb_checkpoints/
 

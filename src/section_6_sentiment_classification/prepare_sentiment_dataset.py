@@ -30,7 +30,7 @@ from sklearn.utils.class_weight import compute_class_weight
 # Paths
 # --------------------------------------------------
 
-BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 input_path = os.path.join(
     BASE_DIR,
@@ -46,8 +46,8 @@ sentiment_data_output_path = os.path.join(
     "sentiment_data.csv"
 )
 
-tables_dir = os.path.join(BASE_DIR, "results", "tables")
-figures_dir = os.path.join(BASE_DIR, "results", "figures")
+tables_dir = os.path.join(BASE_DIR, "results", "tables", "section_6")
+figures_dir = os.path.join(BASE_DIR, "results", "figures", "section_6")
 
 distribution_output_path = os.path.join(
     tables_dir,

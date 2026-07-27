@@ -4,7 +4,7 @@ import pandas as pd
 import csv
 
 # find project root regardless of where the script is run from
-BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 input_path = os.path.join(BASE_DIR, "data", "clean", "hackernews_posts_clean.csv")
 output_dir = os.path.join(BASE_DIR, "data", "annotated")

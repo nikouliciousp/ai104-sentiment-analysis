@@ -5,7 +5,7 @@ import pandas as pd
 # Paths
 # --------------------------------------------------
 
-BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 clean_input_path = os.path.join(
     BASE_DIR,
@@ -28,7 +28,7 @@ modeling_output_path = os.path.join(
     "hackernews_modeling_dataset.csv"
 )
 
-summary_dir = os.path.join(BASE_DIR, "results", "tables")
+summary_dir = os.path.join(BASE_DIR, "results", "tables", "common")
 
 modeling_quality_output_path = os.path.join(
     summary_dir,

@@ -6,7 +6,7 @@ from collections import Counter
 # Paths
 # --------------------------------------------------
 
-BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 input_path = os.path.join(
     BASE_DIR,
@@ -27,7 +27,7 @@ review_output_path = os.path.join(
     "hackernews_annotations_review_required.csv"
 )
 
-summary_dir = os.path.join(BASE_DIR, "results", "tables")
+summary_dir = os.path.join(BASE_DIR, "results", "tables", "section_2")
 
 summary_output_path = os.path.join(
     summary_dir,

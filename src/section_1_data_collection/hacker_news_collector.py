@@ -6,7 +6,7 @@ import html
 import time
 
 # find project root regardless of where the script is run from
-BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 # search queries per topic
 TOPICS = {

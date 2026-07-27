@@ -4,7 +4,7 @@ import html
 import re
 
 # find project root regardless of where the script is run from
-BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 input_path = os.path.join(BASE_DIR, "data", "raw", "hackernews_posts_raw.csv")
 output_dir = os.path.join(BASE_DIR, "data", "clean")
