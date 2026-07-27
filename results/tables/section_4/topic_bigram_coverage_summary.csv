@@ -1,0 +1,5 @@
+topic,topic_doc_count,docs_with_bigram,bigram_doc_coverage_pct,retained_bigram_count
+Artificial Intelligence,253,136,53.75,150
+Climate Change,265,261,98.49,150
+Cryptocurrency,272,65,23.9,150
+Cybersecurity,266,102,38.35,150

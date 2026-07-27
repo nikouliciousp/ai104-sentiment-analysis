@@ -1,0 +1,81 @@
+topic,bigram,mean_tfidf_local,topic_doc_count,fit_scope
+Artificial Intelligence,machine learning,0.209127,253,local
+Artificial Intelligence,large language,0.024289,253,local
+Artificial Intelligence,open ai,0.018409,253,local
+Artificial Intelligence,language model,0.016248,253,local
+Artificial Intelligence,learning models,0.014307,253,local
+Artificial Intelligence,artificial intelligence,0.014136,253,local
+Artificial Intelligence,written chatgpt,0.01217,253,local
+Artificial Intelligence,using chatgpt,0.011858,253,local
+Artificial Intelligence,language models,0.011575,253,local
+Artificial Intelligence,llm large,0.009924,253,local
+Artificial Intelligence,ai machine,0.009805,253,local
+Artificial Intelligence,like machine,0.009342,253,local
+Artificial Intelligence,anthropic claude,0.007905,253,local
+Artificial Intelligence,ask chatgpt,0.007905,253,local
+Artificial Intelligence,chatgpt ai,0.007905,253,local
+Artificial Intelligence,chatgpt pretty,0.007905,253,local
+Artificial Intelligence,chatgpt pulse,0.007905,253,local
+Artificial Intelligence,chatgpt told,0.007905,253,local
+Artificial Intelligence,claude chatgpt,0.007905,253,local
+Artificial Intelligence,like chatgpt,0.007905,253,local
+Climate Change,climate change,0.284004,265,local
+Climate Change,global warming,0.204092,265,local
+Climate Change,fossil fuels,0.147846,265,local
+Climate Change,renewable energy,0.093179,265,local
+Climate Change,fossil fuel,0.081843,265,local
+Climate Change,carbon emissions,0.068561,265,local
+Climate Change,energy sector,0.009682,265,local
+Climate Change,fuel lobby,0.009567,265,local
+Climate Change,considered renewable,0.008565,265,local
+Climate Change,climate changes,0.007547,265,local
+Climate Change,fossil gas,0.007547,265,local
+Climate Change,energy storage,0.007046,265,local
+Climate Change,change isn,0.007025,265,local
+Climate Change,solve climate,0.007025,265,local
+Climate Change,warming lol,0.006857,265,local
+Climate Change,fuels nuclear,0.006699,265,local
+Climate Change,country renewable,0.006545,265,local
+Climate Change,fuel plants,0.006473,265,local
+Climate Change,fuel subsidies,0.006473,265,local
+Climate Change,fuel usage,0.006473,265,local
+Cryptocurrency,crypto currency,0.022059,272,local
+Cryptocurrency,use case,0.015869,272,local
+Cryptocurrency,buy bitcoin,0.014706,272,local
+Cryptocurrency,like blockchain,0.011809,272,local
+Cryptocurrency,bitcoin miners,0.011029,272,local
+Cryptocurrency,applied cryptography,0.007353,272,local
+Cryptocurrency,bitcoin mining,0.007353,272,local
+Cryptocurrency,blockchain based,0.007353,272,local
+Cryptocurrency,crypto grift,0.007353,272,local
+Cryptocurrency,crypto web3,0.007353,272,local
+Cryptocurrency,did ethereum,0.007353,272,local
+Cryptocurrency,ethereum foundation,0.007353,272,local
+Cryptocurrency,gold bitcoin,0.007353,272,local
+Cryptocurrency,keys crypto,0.007353,272,local
+Cryptocurrency,looks like,0.007353,272,local
+Cryptocurrency,payment cryptocurrency,0.007353,272,local
+Cryptocurrency,successful blockchain,0.007353,272,local
+Cryptocurrency,think crypto,0.007353,272,local
+Cryptocurrency,use blockchain,0.007353,272,local
+Cryptocurrency,bitcoin blockchain,0.005799,272,local
+Cybersecurity,data breach,0.06015,266,local
+Cybersecurity,data breaches,0.06015,266,local
+Cybersecurity,cyber attack,0.032466,266,local
+Cybersecurity,like ransomware,0.015038,266,local
+Cybersecurity,ransomware attacks,0.015038,266,local
+Cybersecurity,install malware,0.011278,266,local
+Cybersecurity,ransomware attack,0.011278,266,local
+Cybersecurity,sounds like,0.009247,266,local
+Cybersecurity,apps malware,0.007519,266,local
+Cybersecurity,cyber attacks,0.007519,266,local
+Cybersecurity,cybersecurity company,0.007519,266,local
+Cybersecurity,cybersecurity courses,0.007519,266,local
+Cybersecurity,cybersecurity experts,0.007519,266,local
+Cybersecurity,cybersecurity firms,0.007519,266,local
+Cybersecurity,cybersecurity hygiene,0.007519,266,local
+Cybersecurity,cybersecurity industry,0.007519,266,local
+Cybersecurity,cybersecurity threat,0.007519,266,local
+Cybersecurity,cybersecurity tools,0.007519,266,local
+Cybersecurity,data privacy,0.007519,266,local
+Cybersecurity,essentially malware,0.007519,266,local

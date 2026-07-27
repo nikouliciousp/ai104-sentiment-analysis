@@ -65,6 +65,14 @@ Script: `src/section_4_feature_discovery/topic_tfidf_analysis.py`
 
 ---
 
+## Bigram / n-gram analysis (ολοκληρώθηκε)
+
+Μετρήσεις: bigram frequency, document frequency, global/local bigram TF-IDF.
+
+Script: `src/section_4_feature_discovery/topic_ngram_analysis.py`
+
+---
+
 ## Επόμενο
 
-N-gram / bigram analysis → `src/section_4_feature_discovery/topic_ngram_analysis.py`
+Topic modeling (LDA/NMF) → `src/section_4_feature_discovery/topic_modeling.py`

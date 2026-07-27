@@ -1,0 +1,601 @@
+topic,bigram,bigram_count,bigram_freq,bigram_doc_freq,bigram_doc_ratio,topic_doc_count
+Artificial Intelligence,machine learning,67,0.336683,67,0.264822,253
+Artificial Intelligence,large language,11,0.055276,11,0.043478,253
+Artificial Intelligence,language model,7,0.035176,7,0.027668,253
+Artificial Intelligence,open ai,5,0.025126,5,0.019763,253
+Artificial Intelligence,artificial intelligence,4,0.020101,4,0.01581,253
+Artificial Intelligence,language models,4,0.020101,4,0.01581,253
+Artificial Intelligence,learning models,4,0.020101,4,0.01581,253
+Artificial Intelligence,llm large,4,0.020101,4,0.01581,253
+Artificial Intelligence,written chatgpt,4,0.020101,4,0.01581,253
+Artificial Intelligence,ai machine,3,0.015075,3,0.011858,253
+Artificial Intelligence,like machine,3,0.015075,3,0.011858,253
+Artificial Intelligence,using chatgpt,3,0.015075,3,0.011858,253
+Artificial Intelligence,ai artificial,2,0.01005,2,0.007905,253
+Artificial Intelligence,ai models,2,0.01005,2,0.007905,253
+Artificial Intelligence,anthropic claude,2,0.01005,2,0.007905,253
+Artificial Intelligence,ask chatgpt,2,0.01005,2,0.007905,253
+Artificial Intelligence,asked chatgpt,2,0.01005,2,0.007905,253
+Artificial Intelligence,chatgpt ai,2,0.01005,2,0.007905,253
+Artificial Intelligence,chatgpt pretty,2,0.01005,2,0.007905,253
+Artificial Intelligence,chatgpt pulse,2,0.01005,2,0.007905,253
+Artificial Intelligence,chatgpt told,2,0.01005,2,0.007905,253
+Artificial Intelligence,claude chatgpt,2,0.01005,2,0.007905,253
+Artificial Intelligence,json mode,2,0.01005,2,0.007905,253
+Artificial Intelligence,learning ai,2,0.01005,2,0.007905,253
+Artificial Intelligence,learning generative,2,0.01005,2,0.007905,253
+Artificial Intelligence,learning just,2,0.01005,2,0.007905,253
+Artificial Intelligence,learning street,2,0.01005,2,0.007905,253
+Artificial Intelligence,learning used,2,0.01005,2,0.007905,253
+Artificial Intelligence,like chatgpt,2,0.01005,2,0.007905,253
+Artificial Intelligence,like written,2,0.01005,2,0.007905,253
+Artificial Intelligence,openai anthropic,2,0.01005,2,0.007905,253
+Artificial Intelligence,openai api,2,0.01005,2,0.007905,253
+Artificial Intelligence,openai good,2,0.01005,2,0.007905,253
+Artificial Intelligence,openai working,2,0.01005,2,0.007905,253
+Artificial Intelligence,pay chatgpt,2,0.01005,2,0.007905,253
+Artificial Intelligence,reads like,2,0.01005,2,0.007905,253
+Artificial Intelligence,says chatgpt,2,0.01005,2,0.007905,253
+Artificial Intelligence,small large,2,0.01005,2,0.007905,253
+Artificial Intelligence,small llm,2,0.01005,2,0.007905,253
+Artificial Intelligence,sounds like,2,0.01005,2,0.007905,253
+Artificial Intelligence,street talk,2,0.01005,2,0.007905,253
+Artificial Intelligence,think good,2,0.01005,2,0.007905,253
+Artificial Intelligence,thought openai,2,0.01005,2,0.007905,253
+Artificial Intelligence,using machine,2,0.01005,2,0.007905,253
+Artificial Intelligence,working conditions,2,0.01005,2,0.007905,253
+Artificial Intelligence,write comment,2,0.01005,2,0.007905,253
+Artificial Intelligence,wrong openai,2,0.01005,2,0.007905,253
+Artificial Intelligence,ai driven,1,0.005025,1,0.003953,253
+Artificial Intelligence,does require,1,0.005025,1,0.003953,253
+Artificial Intelligence,does work,1,0.005025,1,0.003953,253
+Artificial Intelligence,isn making,1,0.005025,1,0.003953,253
+Artificial Intelligence,looks like,1,0.005025,1,0.003953,253
+Artificial Intelligence,lot like,1,0.005025,1,0.003953,253
+Artificial Intelligence,open source,1,0.005025,1,0.003953,253
+Artificial Intelligence,pretty good,1,0.005025,1,0.003953,253
+Artificial Intelligence,site looks,1,0.005025,1,0.003953,253
+Artificial Intelligence,terms service,1,0.005025,1,0.003953,253
+Artificial Intelligence,ai like,0,0.0,0,0.0,253
+Artificial Intelligence,applied cryptography,0,0.0,0,0.0,253
+Artificial Intelligence,apps malware,0,0.0,0,0.0,253
+Artificial Intelligence,bad global,0,0.0,0,0.0,253
+Artificial Intelligence,basically ransomware,0,0.0,0,0.0,253
+Artificial Intelligence,bitcoin blockchain,0,0.0,0,0.0,253
+Artificial Intelligence,bitcoin miners,0,0.0,0,0.0,253
+Artificial Intelligence,bitcoin mining,0,0.0,0,0.0,253
+Artificial Intelligence,blockchain based,0,0.0,0,0.0,253
+Artificial Intelligence,blockchain just,0,0.0,0,0.0,253
+Artificial Intelligence,buy bitcoin,0,0.0,0,0.0,253
+Artificial Intelligence,carbon emissions,0,0.0,0,0.0,253
+Artificial Intelligence,carbon tax,0,0.0,0,0.0,253
+Artificial Intelligence,case bitcoin,0,0.0,0,0.0,253
+Artificial Intelligence,change isn,0,0.0,0,0.0,253
+Artificial Intelligence,change just,0,0.0,0,0.0,253
+Artificial Intelligence,change kills,0,0.0,0,0.0,253
+Artificial Intelligence,climate change,0,0.0,0,0.0,253
+Artificial Intelligence,climate changes,0,0.0,0,0.0,253
+Artificial Intelligence,considered renewable,0,0.0,0,0.0,253
+Artificial Intelligence,country renewable,0,0.0,0,0.0,253
+Artificial Intelligence,crypto currency,0,0.0,0,0.0,253
+Artificial Intelligence,crypto grift,0,0.0,0,0.0,253
+Artificial Intelligence,crypto web3,0,0.0,0,0.0,253
+Artificial Intelligence,cyber attack,0,0.0,0,0.0,253
+Artificial Intelligence,cyber attacks,0,0.0,0,0.0,253
+Artificial Intelligence,cybersecurity company,0,0.0,0,0.0,253
+Artificial Intelligence,cybersecurity courses,0,0.0,0,0.0,253
+Artificial Intelligence,cybersecurity experts,0,0.0,0,0.0,253
+Artificial Intelligence,cybersecurity firms,0,0.0,0,0.0,253
+Artificial Intelligence,cybersecurity hygiene,0,0.0,0,0.0,253
+Artificial Intelligence,cybersecurity industry,0,0.0,0,0.0,253
+Artificial Intelligence,cybersecurity knowledge,0,0.0,0,0.0,253
+Artificial Intelligence,cybersecurity threat,0,0.0,0,0.0,253
+Artificial Intelligence,cybersecurity tools,0,0.0,0,0.0,253
+Artificial Intelligence,data breach,0,0.0,0,0.0,253
+Artificial Intelligence,data breaches,0,0.0,0,0.0,253
+Artificial Intelligence,data privacy,0,0.0,0,0.0,253
+Artificial Intelligence,did ethereum,0,0.0,0,0.0,253
+Artificial Intelligence,don think,0,0.0,0,0.0,253
+Artificial Intelligence,energy sector,0,0.0,0,0.0,253
+Artificial Intelligence,energy sources,0,0.0,0,0.0,253
+Artificial Intelligence,energy storage,0,0.0,0,0.0,253
+Artificial Intelligence,entire history,0,0.0,0,0.0,253
+Artificial Intelligence,especially things,0,0.0,0,0.0,253
+Artificial Intelligence,essentially malware,0,0.0,0,0.0,253
+Artificial Intelligence,ethereum foundation,0,0.0,0,0.0,253
+Artificial Intelligence,feels like,0,0.0,0,0.0,253
+Artificial Intelligence,fossil fuel,0,0.0,0,0.0,253
+Artificial Intelligence,fossil fuels,0,0.0,0,0.0,253
+Artificial Intelligence,fossil gas,0,0.0,0,0.0,253
+Artificial Intelligence,fuel lobby,0,0.0,0,0.0,253
+Artificial Intelligence,fuel plants,0,0.0,0,0.0,253
+Artificial Intelligence,fuel subsidies,0,0.0,0,0.0,253
+Artificial Intelligence,fuel usage,0,0.0,0,0.0,253
+Artificial Intelligence,fuels nuclear,0,0.0,0,0.0,253
+Artificial Intelligence,global warming,0,0.0,0,0.0,253
+Artificial Intelligence,gold bitcoin,0,0.0,0,0.0,253
+Artificial Intelligence,good luck,0,0.0,0,0.0,253
+Artificial Intelligence,good thing,0,0.0,0,0.0,253
+Artificial Intelligence,got malware,0,0.0,0,0.0,253
+Artificial Intelligence,hacker news,0,0.0,0,0.0,253
+Artificial Intelligence,install malware,0,0.0,0,0.0,253
+Artificial Intelligence,just like,0,0.0,0,0.0,253
+Artificial Intelligence,keys crypto,0,0.0,0,0.0,253
+Artificial Intelligence,kills people,0,0.0,0,0.0,253
+Artificial Intelligence,level malware,0,0.0,0,0.0,253
+Artificial Intelligence,like blockchain,0,0.0,0,0.0,253
+Artificial Intelligence,like cryptocurrency,0,0.0,0,0.0,253
+Artificial Intelligence,like ransomware,0,0.0,0,0.0,253
+Artificial Intelligence,malware attack,0,0.0,0,0.0,253
+Artificial Intelligence,malware list,0,0.0,0,0.0,253
+Artificial Intelligence,nuclear considered,0,0.0,0,0.0,253
+Artificial Intelligence,payment cryptocurrency,0,0.0,0,0.0,253
+Artificial Intelligence,people don,0,0.0,0,0.0,253
+Artificial Intelligence,ransomware attack,0,0.0,0,0.0,253
+Artificial Intelligence,ransomware attacks,0,0.0,0,0.0,253
+Artificial Intelligence,ransomware payments,0,0.0,0,0.0,253
+Artificial Intelligence,ransomware wouldn,0,0.0,0,0.0,253
+Artificial Intelligence,reduce carbon,0,0.0,0,0.0,253
+Artificial Intelligence,reducing carbon,0,0.0,0,0.0,253
+Artificial Intelligence,renewable energy,0,0.0,0,0.0,253
+Artificial Intelligence,ruminants climate,0,0.0,0,0.0,253
+Artificial Intelligence,solve climate,0,0.0,0,0.0,253
+Artificial Intelligence,sounds lot,0,0.0,0,0.0,253
+Artificial Intelligence,successful blockchain,0,0.0,0,0.0,253
+Artificial Intelligence,think crypto,0,0.0,0,0.0,253
+Artificial Intelligence,use blockchain,0,0.0,0,0.0,253
+Artificial Intelligence,use case,0,0.0,0,0.0,253
+Artificial Intelligence,warming lol,0,0.0,0,0.0,253
+Artificial Intelligence,warming temperatures,0,0.0,0,0.0,253
+Artificial Intelligence,wouldn thing,0,0.0,0,0.0,253
+Artificial Intelligence,years ago,0,0.0,0,0.0,253
+Climate Change,climate change,85,0.263975,83,0.313208,265
+Climate Change,global warming,57,0.177019,57,0.215094,265
+Climate Change,fossil fuels,41,0.127329,41,0.154717,265
+Climate Change,renewable energy,30,0.093168,30,0.113208,265
+Climate Change,fossil fuel,26,0.080745,26,0.098113,265
+Climate Change,carbon emissions,20,0.062112,20,0.075472,265
+Climate Change,considered renewable,3,0.009317,3,0.011321,265
+Climate Change,energy sector,3,0.009317,3,0.011321,265
+Climate Change,fuel lobby,3,0.009317,3,0.011321,265
+Climate Change,bad global,2,0.006211,2,0.007547,265
+Climate Change,carbon tax,2,0.006211,2,0.007547,265
+Climate Change,change isn,2,0.006211,2,0.007547,265
+Climate Change,change just,2,0.006211,2,0.007547,265
+Climate Change,change kills,2,0.006211,2,0.007547,265
+Climate Change,climate changes,2,0.006211,2,0.007547,265
+Climate Change,country renewable,2,0.006211,2,0.007547,265
+Climate Change,energy sources,2,0.006211,2,0.007547,265
+Climate Change,energy storage,2,0.006211,2,0.007547,265
+Climate Change,fossil gas,2,0.006211,2,0.007547,265
+Climate Change,fuel plants,2,0.006211,2,0.007547,265
+Climate Change,fuel subsidies,2,0.006211,2,0.007547,265
+Climate Change,fuel usage,2,0.006211,2,0.007547,265
+Climate Change,fuels nuclear,2,0.006211,2,0.007547,265
+Climate Change,kills people,2,0.006211,2,0.007547,265
+Climate Change,nuclear considered,2,0.006211,2,0.007547,265
+Climate Change,reduce carbon,2,0.006211,2,0.007547,265
+Climate Change,reducing carbon,2,0.006211,2,0.007547,265
+Climate Change,ruminants climate,2,0.006211,2,0.007547,265
+Climate Change,solve climate,2,0.006211,2,0.007547,265
+Climate Change,warming lol,2,0.006211,2,0.007547,265
+Climate Change,warming temperatures,2,0.006211,2,0.007547,265
+Climate Change,ai like,1,0.003106,1,0.003774,265
+Climate Change,don think,1,0.003106,1,0.003774,265
+Climate Change,especially things,1,0.003106,1,0.003774,265
+Climate Change,good luck,1,0.003106,1,0.003774,265
+Climate Change,good thing,1,0.003106,1,0.003774,265
+Climate Change,isn making,1,0.003106,1,0.003774,265
+Climate Change,looks like,1,0.003106,1,0.003774,265
+Climate Change,people don,1,0.003106,1,0.003774,265
+Climate Change,pretty good,1,0.003106,1,0.003774,265
+Climate Change,years ago,1,0.003106,1,0.003774,265
+Climate Change,ai artificial,0,0.0,0,0.0,265
+Climate Change,ai driven,0,0.0,0,0.0,265
+Climate Change,ai machine,0,0.0,0,0.0,265
+Climate Change,ai models,0,0.0,0,0.0,265
+Climate Change,anthropic claude,0,0.0,0,0.0,265
+Climate Change,applied cryptography,0,0.0,0,0.0,265
+Climate Change,apps malware,0,0.0,0,0.0,265
+Climate Change,artificial intelligence,0,0.0,0,0.0,265
+Climate Change,ask chatgpt,0,0.0,0,0.0,265
+Climate Change,asked chatgpt,0,0.0,0,0.0,265
+Climate Change,basically ransomware,0,0.0,0,0.0,265
+Climate Change,bitcoin blockchain,0,0.0,0,0.0,265
+Climate Change,bitcoin miners,0,0.0,0,0.0,265
+Climate Change,bitcoin mining,0,0.0,0,0.0,265
+Climate Change,blockchain based,0,0.0,0,0.0,265
+Climate Change,blockchain just,0,0.0,0,0.0,265
+Climate Change,buy bitcoin,0,0.0,0,0.0,265
+Climate Change,case bitcoin,0,0.0,0,0.0,265
+Climate Change,chatgpt ai,0,0.0,0,0.0,265
+Climate Change,chatgpt pretty,0,0.0,0,0.0,265
+Climate Change,chatgpt pulse,0,0.0,0,0.0,265
+Climate Change,chatgpt told,0,0.0,0,0.0,265
+Climate Change,claude chatgpt,0,0.0,0,0.0,265
+Climate Change,crypto currency,0,0.0,0,0.0,265
+Climate Change,crypto grift,0,0.0,0,0.0,265
+Climate Change,crypto web3,0,0.0,0,0.0,265
+Climate Change,cyber attack,0,0.0,0,0.0,265
+Climate Change,cyber attacks,0,0.0,0,0.0,265
+Climate Change,cybersecurity company,0,0.0,0,0.0,265
+Climate Change,cybersecurity courses,0,0.0,0,0.0,265
+Climate Change,cybersecurity experts,0,0.0,0,0.0,265
+Climate Change,cybersecurity firms,0,0.0,0,0.0,265
+Climate Change,cybersecurity hygiene,0,0.0,0,0.0,265
+Climate Change,cybersecurity industry,0,0.0,0,0.0,265
+Climate Change,cybersecurity knowledge,0,0.0,0,0.0,265
+Climate Change,cybersecurity threat,0,0.0,0,0.0,265
+Climate Change,cybersecurity tools,0,0.0,0,0.0,265
+Climate Change,data breach,0,0.0,0,0.0,265
+Climate Change,data breaches,0,0.0,0,0.0,265
+Climate Change,data privacy,0,0.0,0,0.0,265
+Climate Change,did ethereum,0,0.0,0,0.0,265
+Climate Change,does require,0,0.0,0,0.0,265
+Climate Change,does work,0,0.0,0,0.0,265
+Climate Change,entire history,0,0.0,0,0.0,265
+Climate Change,essentially malware,0,0.0,0,0.0,265
+Climate Change,ethereum foundation,0,0.0,0,0.0,265
+Climate Change,feels like,0,0.0,0,0.0,265
+Climate Change,gold bitcoin,0,0.0,0,0.0,265
+Climate Change,got malware,0,0.0,0,0.0,265
+Climate Change,hacker news,0,0.0,0,0.0,265
+Climate Change,install malware,0,0.0,0,0.0,265
+Climate Change,json mode,0,0.0,0,0.0,265
+Climate Change,just like,0,0.0,0,0.0,265
+Climate Change,keys crypto,0,0.0,0,0.0,265
+Climate Change,language model,0,0.0,0,0.0,265
+Climate Change,language models,0,0.0,0,0.0,265
+Climate Change,large language,0,0.0,0,0.0,265
+Climate Change,learning ai,0,0.0,0,0.0,265
+Climate Change,learning generative,0,0.0,0,0.0,265
+Climate Change,learning just,0,0.0,0,0.0,265
+Climate Change,learning models,0,0.0,0,0.0,265
+Climate Change,learning street,0,0.0,0,0.0,265
+Climate Change,learning used,0,0.0,0,0.0,265
+Climate Change,level malware,0,0.0,0,0.0,265
+Climate Change,like blockchain,0,0.0,0,0.0,265
+Climate Change,like chatgpt,0,0.0,0,0.0,265
+Climate Change,like cryptocurrency,0,0.0,0,0.0,265
+Climate Change,like machine,0,0.0,0,0.0,265
+Climate Change,like ransomware,0,0.0,0,0.0,265
+Climate Change,like written,0,0.0,0,0.0,265
+Climate Change,llm large,0,0.0,0,0.0,265
+Climate Change,lot like,0,0.0,0,0.0,265
+Climate Change,machine learning,0,0.0,0,0.0,265
+Climate Change,malware attack,0,0.0,0,0.0,265
+Climate Change,malware list,0,0.0,0,0.0,265
+Climate Change,open ai,0,0.0,0,0.0,265
+Climate Change,open source,0,0.0,0,0.0,265
+Climate Change,openai anthropic,0,0.0,0,0.0,265
+Climate Change,openai api,0,0.0,0,0.0,265
+Climate Change,openai good,0,0.0,0,0.0,265
+Climate Change,openai working,0,0.0,0,0.0,265
+Climate Change,pay chatgpt,0,0.0,0,0.0,265
+Climate Change,payment cryptocurrency,0,0.0,0,0.0,265
+Climate Change,ransomware attack,0,0.0,0,0.0,265
+Climate Change,ransomware attacks,0,0.0,0,0.0,265
+Climate Change,ransomware payments,0,0.0,0,0.0,265
+Climate Change,ransomware wouldn,0,0.0,0,0.0,265
+Climate Change,reads like,0,0.0,0,0.0,265
+Climate Change,says chatgpt,0,0.0,0,0.0,265
+Climate Change,site looks,0,0.0,0,0.0,265
+Climate Change,small large,0,0.0,0,0.0,265
+Climate Change,small llm,0,0.0,0,0.0,265
+Climate Change,sounds like,0,0.0,0,0.0,265
+Climate Change,sounds lot,0,0.0,0,0.0,265
+Climate Change,street talk,0,0.0,0,0.0,265
+Climate Change,successful blockchain,0,0.0,0,0.0,265
+Climate Change,terms service,0,0.0,0,0.0,265
+Climate Change,think crypto,0,0.0,0,0.0,265
+Climate Change,think good,0,0.0,0,0.0,265
+Climate Change,thought openai,0,0.0,0,0.0,265
+Climate Change,use blockchain,0,0.0,0,0.0,265
+Climate Change,use case,0,0.0,0,0.0,265
+Climate Change,using chatgpt,0,0.0,0,0.0,265
+Climate Change,using machine,0,0.0,0,0.0,265
+Climate Change,working conditions,0,0.0,0,0.0,265
+Climate Change,wouldn thing,0,0.0,0,0.0,265
+Climate Change,write comment,0,0.0,0,0.0,265
+Climate Change,written chatgpt,0,0.0,0,0.0,265
+Climate Change,wrong openai,0,0.0,0,0.0,265
+Cryptocurrency,crypto currency,6,0.075949,6,0.022059,272
+Cryptocurrency,use case,6,0.075949,5,0.018382,272
+Cryptocurrency,buy bitcoin,4,0.050633,4,0.014706,272
+Cryptocurrency,like blockchain,4,0.050633,4,0.014706,272
+Cryptocurrency,bitcoin miners,3,0.037975,3,0.011029,272
+Cryptocurrency,applied cryptography,2,0.025316,2,0.007353,272
+Cryptocurrency,bitcoin blockchain,2,0.025316,2,0.007353,272
+Cryptocurrency,bitcoin mining,2,0.025316,2,0.007353,272
+Cryptocurrency,blockchain based,2,0.025316,2,0.007353,272
+Cryptocurrency,blockchain just,2,0.025316,2,0.007353,272
+Cryptocurrency,case bitcoin,2,0.025316,2,0.007353,272
+Cryptocurrency,crypto grift,2,0.025316,2,0.007353,272
+Cryptocurrency,crypto web3,2,0.025316,2,0.007353,272
+Cryptocurrency,did ethereum,2,0.025316,2,0.007353,272
+Cryptocurrency,ethereum foundation,2,0.025316,2,0.007353,272
+Cryptocurrency,gold bitcoin,2,0.025316,2,0.007353,272
+Cryptocurrency,just like,2,0.025316,2,0.007353,272
+Cryptocurrency,keys crypto,2,0.025316,2,0.007353,272
+Cryptocurrency,like cryptocurrency,2,0.025316,2,0.007353,272
+Cryptocurrency,looks like,2,0.025316,2,0.007353,272
+Cryptocurrency,lot like,2,0.025316,2,0.007353,272
+Cryptocurrency,payment cryptocurrency,2,0.025316,2,0.007353,272
+Cryptocurrency,ransomware payments,2,0.025316,1,0.003676,272
+Cryptocurrency,sounds lot,2,0.025316,2,0.007353,272
+Cryptocurrency,successful blockchain,2,0.025316,2,0.007353,272
+Cryptocurrency,think crypto,2,0.025316,2,0.007353,272
+Cryptocurrency,use blockchain,2,0.025316,2,0.007353,272
+Cryptocurrency,ai like,1,0.012658,1,0.003676,272
+Cryptocurrency,basically ransomware,1,0.012658,1,0.003676,272
+Cryptocurrency,does work,1,0.012658,1,0.003676,272
+Cryptocurrency,don think,1,0.012658,1,0.003676,272
+Cryptocurrency,entire history,1,0.012658,1,0.003676,272
+Cryptocurrency,feels like,1,0.012658,1,0.003676,272
+Cryptocurrency,good thing,1,0.012658,1,0.003676,272
+Cryptocurrency,hacker news,1,0.012658,1,0.003676,272
+Cryptocurrency,people don,1,0.012658,1,0.003676,272
+Cryptocurrency,site looks,1,0.012658,1,0.003676,272
+Cryptocurrency,sounds like,1,0.012658,1,0.003676,272
+Cryptocurrency,years ago,1,0.012658,1,0.003676,272
+Cryptocurrency,ai artificial,0,0.0,0,0.0,272
+Cryptocurrency,ai driven,0,0.0,0,0.0,272
+Cryptocurrency,ai machine,0,0.0,0,0.0,272
+Cryptocurrency,ai models,0,0.0,0,0.0,272
+Cryptocurrency,anthropic claude,0,0.0,0,0.0,272
+Cryptocurrency,apps malware,0,0.0,0,0.0,272
+Cryptocurrency,artificial intelligence,0,0.0,0,0.0,272
+Cryptocurrency,ask chatgpt,0,0.0,0,0.0,272
+Cryptocurrency,asked chatgpt,0,0.0,0,0.0,272
+Cryptocurrency,bad global,0,0.0,0,0.0,272
+Cryptocurrency,carbon emissions,0,0.0,0,0.0,272
+Cryptocurrency,carbon tax,0,0.0,0,0.0,272
+Cryptocurrency,change isn,0,0.0,0,0.0,272
+Cryptocurrency,change just,0,0.0,0,0.0,272
+Cryptocurrency,change kills,0,0.0,0,0.0,272
+Cryptocurrency,chatgpt ai,0,0.0,0,0.0,272
+Cryptocurrency,chatgpt pretty,0,0.0,0,0.0,272
+Cryptocurrency,chatgpt pulse,0,0.0,0,0.0,272
+Cryptocurrency,chatgpt told,0,0.0,0,0.0,272
+Cryptocurrency,claude chatgpt,0,0.0,0,0.0,272
+Cryptocurrency,climate change,0,0.0,0,0.0,272
+Cryptocurrency,climate changes,0,0.0,0,0.0,272
+Cryptocurrency,considered renewable,0,0.0,0,0.0,272
+Cryptocurrency,country renewable,0,0.0,0,0.0,272
+Cryptocurrency,cyber attack,0,0.0,0,0.0,272
+Cryptocurrency,cyber attacks,0,0.0,0,0.0,272
+Cryptocurrency,cybersecurity company,0,0.0,0,0.0,272
+Cryptocurrency,cybersecurity courses,0,0.0,0,0.0,272
+Cryptocurrency,cybersecurity experts,0,0.0,0,0.0,272
+Cryptocurrency,cybersecurity firms,0,0.0,0,0.0,272
+Cryptocurrency,cybersecurity hygiene,0,0.0,0,0.0,272
+Cryptocurrency,cybersecurity industry,0,0.0,0,0.0,272
+Cryptocurrency,cybersecurity knowledge,0,0.0,0,0.0,272
+Cryptocurrency,cybersecurity threat,0,0.0,0,0.0,272
+Cryptocurrency,cybersecurity tools,0,0.0,0,0.0,272
+Cryptocurrency,data breach,0,0.0,0,0.0,272
+Cryptocurrency,data breaches,0,0.0,0,0.0,272
+Cryptocurrency,data privacy,0,0.0,0,0.0,272
+Cryptocurrency,does require,0,0.0,0,0.0,272
+Cryptocurrency,energy sector,0,0.0,0,0.0,272
+Cryptocurrency,energy sources,0,0.0,0,0.0,272
+Cryptocurrency,energy storage,0,0.0,0,0.0,272
+Cryptocurrency,especially things,0,0.0,0,0.0,272
+Cryptocurrency,essentially malware,0,0.0,0,0.0,272
+Cryptocurrency,fossil fuel,0,0.0,0,0.0,272
+Cryptocurrency,fossil fuels,0,0.0,0,0.0,272
+Cryptocurrency,fossil gas,0,0.0,0,0.0,272
+Cryptocurrency,fuel lobby,0,0.0,0,0.0,272
+Cryptocurrency,fuel plants,0,0.0,0,0.0,272
+Cryptocurrency,fuel subsidies,0,0.0,0,0.0,272
+Cryptocurrency,fuel usage,0,0.0,0,0.0,272
+Cryptocurrency,fuels nuclear,0,0.0,0,0.0,272
+Cryptocurrency,global warming,0,0.0,0,0.0,272
+Cryptocurrency,good luck,0,0.0,0,0.0,272
+Cryptocurrency,got malware,0,0.0,0,0.0,272
+Cryptocurrency,install malware,0,0.0,0,0.0,272
+Cryptocurrency,isn making,0,0.0,0,0.0,272
+Cryptocurrency,json mode,0,0.0,0,0.0,272
+Cryptocurrency,kills people,0,0.0,0,0.0,272
+Cryptocurrency,language model,0,0.0,0,0.0,272
+Cryptocurrency,language models,0,0.0,0,0.0,272
+Cryptocurrency,large language,0,0.0,0,0.0,272
+Cryptocurrency,learning ai,0,0.0,0,0.0,272
+Cryptocurrency,learning generative,0,0.0,0,0.0,272
+Cryptocurrency,learning just,0,0.0,0,0.0,272
+Cryptocurrency,learning models,0,0.0,0,0.0,272
+Cryptocurrency,learning street,0,0.0,0,0.0,272
+Cryptocurrency,learning used,0,0.0,0,0.0,272
+Cryptocurrency,level malware,0,0.0,0,0.0,272
+Cryptocurrency,like chatgpt,0,0.0,0,0.0,272
+Cryptocurrency,like machine,0,0.0,0,0.0,272
+Cryptocurrency,like ransomware,0,0.0,0,0.0,272
+Cryptocurrency,like written,0,0.0,0,0.0,272
+Cryptocurrency,llm large,0,0.0,0,0.0,272
+Cryptocurrency,machine learning,0,0.0,0,0.0,272
+Cryptocurrency,malware attack,0,0.0,0,0.0,272
+Cryptocurrency,malware list,0,0.0,0,0.0,272
+Cryptocurrency,nuclear considered,0,0.0,0,0.0,272
+Cryptocurrency,open ai,0,0.0,0,0.0,272
+Cryptocurrency,open source,0,0.0,0,0.0,272
+Cryptocurrency,openai anthropic,0,0.0,0,0.0,272
+Cryptocurrency,openai api,0,0.0,0,0.0,272
+Cryptocurrency,openai good,0,0.0,0,0.0,272
+Cryptocurrency,openai working,0,0.0,0,0.0,272
+Cryptocurrency,pay chatgpt,0,0.0,0,0.0,272
+Cryptocurrency,pretty good,0,0.0,0,0.0,272
+Cryptocurrency,ransomware attack,0,0.0,0,0.0,272
+Cryptocurrency,ransomware attacks,0,0.0,0,0.0,272
+Cryptocurrency,ransomware wouldn,0,0.0,0,0.0,272
+Cryptocurrency,reads like,0,0.0,0,0.0,272
+Cryptocurrency,reduce carbon,0,0.0,0,0.0,272
+Cryptocurrency,reducing carbon,0,0.0,0,0.0,272
+Cryptocurrency,renewable energy,0,0.0,0,0.0,272
+Cryptocurrency,ruminants climate,0,0.0,0,0.0,272
+Cryptocurrency,says chatgpt,0,0.0,0,0.0,272
+Cryptocurrency,small large,0,0.0,0,0.0,272
+Cryptocurrency,small llm,0,0.0,0,0.0,272
+Cryptocurrency,solve climate,0,0.0,0,0.0,272
+Cryptocurrency,street talk,0,0.0,0,0.0,272
+Cryptocurrency,terms service,0,0.0,0,0.0,272
+Cryptocurrency,think good,0,0.0,0,0.0,272
+Cryptocurrency,thought openai,0,0.0,0,0.0,272
+Cryptocurrency,using chatgpt,0,0.0,0,0.0,272
+Cryptocurrency,using machine,0,0.0,0,0.0,272
+Cryptocurrency,warming lol,0,0.0,0,0.0,272
+Cryptocurrency,warming temperatures,0,0.0,0,0.0,272
+Cryptocurrency,working conditions,0,0.0,0,0.0,272
+Cryptocurrency,wouldn thing,0,0.0,0,0.0,272
+Cryptocurrency,write comment,0,0.0,0,0.0,272
+Cryptocurrency,written chatgpt,0,0.0,0,0.0,272
+Cryptocurrency,wrong openai,0,0.0,0,0.0,272
+Cybersecurity,data breach,16,0.144144,16,0.06015,266
+Cybersecurity,data breaches,16,0.144144,16,0.06015,266
+Cybersecurity,cyber attack,9,0.081081,9,0.033835,266
+Cybersecurity,like ransomware,4,0.036036,4,0.015038,266
+Cybersecurity,ransomware attacks,4,0.036036,4,0.015038,266
+Cybersecurity,install malware,3,0.027027,3,0.011278,266
+Cybersecurity,ransomware attack,3,0.027027,3,0.011278,266
+Cybersecurity,sounds like,3,0.027027,3,0.011278,266
+Cybersecurity,apps malware,2,0.018018,2,0.007519,266
+Cybersecurity,cyber attacks,2,0.018018,2,0.007519,266
+Cybersecurity,cybersecurity company,2,0.018018,2,0.007519,266
+Cybersecurity,cybersecurity courses,2,0.018018,2,0.007519,266
+Cybersecurity,cybersecurity experts,2,0.018018,2,0.007519,266
+Cybersecurity,cybersecurity firms,2,0.018018,2,0.007519,266
+Cybersecurity,cybersecurity hygiene,2,0.018018,2,0.007519,266
+Cybersecurity,cybersecurity industry,2,0.018018,2,0.007519,266
+Cybersecurity,cybersecurity knowledge,2,0.018018,2,0.007519,266
+Cybersecurity,cybersecurity threat,2,0.018018,2,0.007519,266
+Cybersecurity,cybersecurity tools,2,0.018018,2,0.007519,266
+Cybersecurity,data privacy,2,0.018018,2,0.007519,266
+Cybersecurity,essentially malware,2,0.018018,2,0.007519,266
+Cybersecurity,got malware,2,0.018018,2,0.007519,266
+Cybersecurity,level malware,2,0.018018,2,0.007519,266
+Cybersecurity,looks like,2,0.018018,2,0.007519,266
+Cybersecurity,malware attack,2,0.018018,2,0.007519,266
+Cybersecurity,malware list,2,0.018018,2,0.007519,266
+Cybersecurity,ransomware wouldn,2,0.018018,2,0.007519,266
+Cybersecurity,wouldn thing,2,0.018018,2,0.007519,266
+Cybersecurity,ai driven,1,0.009009,1,0.003759,266
+Cybersecurity,basically ransomware,1,0.009009,1,0.003759,266
+Cybersecurity,does require,1,0.009009,1,0.003759,266
+Cybersecurity,entire history,1,0.009009,1,0.003759,266
+Cybersecurity,especially things,1,0.009009,1,0.003759,266
+Cybersecurity,feels like,1,0.009009,1,0.003759,266
+Cybersecurity,good luck,1,0.009009,1,0.003759,266
+Cybersecurity,hacker news,1,0.009009,1,0.003759,266
+Cybersecurity,just like,1,0.009009,1,0.003759,266
+Cybersecurity,lot like,1,0.009009,1,0.003759,266
+Cybersecurity,open source,1,0.009009,1,0.003759,266
+Cybersecurity,ransomware payments,1,0.009009,1,0.003759,266
+Cybersecurity,terms service,1,0.009009,1,0.003759,266
+Cybersecurity,ai artificial,0,0.0,0,0.0,266
+Cybersecurity,ai like,0,0.0,0,0.0,266
+Cybersecurity,ai machine,0,0.0,0,0.0,266
+Cybersecurity,ai models,0,0.0,0,0.0,266
+Cybersecurity,anthropic claude,0,0.0,0,0.0,266
+Cybersecurity,applied cryptography,0,0.0,0,0.0,266
+Cybersecurity,artificial intelligence,0,0.0,0,0.0,266
+Cybersecurity,ask chatgpt,0,0.0,0,0.0,266
+Cybersecurity,asked chatgpt,0,0.0,0,0.0,266
+Cybersecurity,bad global,0,0.0,0,0.0,266
+Cybersecurity,bitcoin blockchain,0,0.0,0,0.0,266
+Cybersecurity,bitcoin miners,0,0.0,0,0.0,266
+Cybersecurity,bitcoin mining,0,0.0,0,0.0,266
+Cybersecurity,blockchain based,0,0.0,0,0.0,266
+Cybersecurity,blockchain just,0,0.0,0,0.0,266
+Cybersecurity,buy bitcoin,0,0.0,0,0.0,266
+Cybersecurity,carbon emissions,0,0.0,0,0.0,266
+Cybersecurity,carbon tax,0,0.0,0,0.0,266
+Cybersecurity,case bitcoin,0,0.0,0,0.0,266
+Cybersecurity,change isn,0,0.0,0,0.0,266
+Cybersecurity,change just,0,0.0,0,0.0,266
+Cybersecurity,change kills,0,0.0,0,0.0,266
+Cybersecurity,chatgpt ai,0,0.0,0,0.0,266
+Cybersecurity,chatgpt pretty,0,0.0,0,0.0,266
+Cybersecurity,chatgpt pulse,0,0.0,0,0.0,266
+Cybersecurity,chatgpt told,0,0.0,0,0.0,266
+Cybersecurity,claude chatgpt,0,0.0,0,0.0,266
+Cybersecurity,climate change,0,0.0,0,0.0,266
+Cybersecurity,climate changes,0,0.0,0,0.0,266
+Cybersecurity,considered renewable,0,0.0,0,0.0,266
+Cybersecurity,country renewable,0,0.0,0,0.0,266
+Cybersecurity,crypto currency,0,0.0,0,0.0,266
+Cybersecurity,crypto grift,0,0.0,0,0.0,266
+Cybersecurity,crypto web3,0,0.0,0,0.0,266
+Cybersecurity,did ethereum,0,0.0,0,0.0,266
+Cybersecurity,does work,0,0.0,0,0.0,266
+Cybersecurity,don think,0,0.0,0,0.0,266
+Cybersecurity,energy sector,0,0.0,0,0.0,266
+Cybersecurity,energy sources,0,0.0,0,0.0,266
+Cybersecurity,energy storage,0,0.0,0,0.0,266
+Cybersecurity,ethereum foundation,0,0.0,0,0.0,266
+Cybersecurity,fossil fuel,0,0.0,0,0.0,266
+Cybersecurity,fossil fuels,0,0.0,0,0.0,266
+Cybersecurity,fossil gas,0,0.0,0,0.0,266
+Cybersecurity,fuel lobby,0,0.0,0,0.0,266
+Cybersecurity,fuel plants,0,0.0,0,0.0,266
+Cybersecurity,fuel subsidies,0,0.0,0,0.0,266
+Cybersecurity,fuel usage,0,0.0,0,0.0,266
+Cybersecurity,fuels nuclear,0,0.0,0,0.0,266
+Cybersecurity,global warming,0,0.0,0,0.0,266
+Cybersecurity,gold bitcoin,0,0.0,0,0.0,266
+Cybersecurity,good thing,0,0.0,0,0.0,266
+Cybersecurity,isn making,0,0.0,0,0.0,266
+Cybersecurity,json mode,0,0.0,0,0.0,266
+Cybersecurity,keys crypto,0,0.0,0,0.0,266
+Cybersecurity,kills people,0,0.0,0,0.0,266
+Cybersecurity,language model,0,0.0,0,0.0,266
+Cybersecurity,language models,0,0.0,0,0.0,266
+Cybersecurity,large language,0,0.0,0,0.0,266
+Cybersecurity,learning ai,0,0.0,0,0.0,266
+Cybersecurity,learning generative,0,0.0,0,0.0,266
+Cybersecurity,learning just,0,0.0,0,0.0,266
+Cybersecurity,learning models,0,0.0,0,0.0,266
+Cybersecurity,learning street,0,0.0,0,0.0,266
+Cybersecurity,learning used,0,0.0,0,0.0,266
+Cybersecurity,like blockchain,0,0.0,0,0.0,266
+Cybersecurity,like chatgpt,0,0.0,0,0.0,266
+Cybersecurity,like cryptocurrency,0,0.0,0,0.0,266
+Cybersecurity,like machine,0,0.0,0,0.0,266
+Cybersecurity,like written,0,0.0,0,0.0,266
+Cybersecurity,llm large,0,0.0,0,0.0,266
+Cybersecurity,machine learning,0,0.0,0,0.0,266
+Cybersecurity,nuclear considered,0,0.0,0,0.0,266
+Cybersecurity,open ai,0,0.0,0,0.0,266
+Cybersecurity,openai anthropic,0,0.0,0,0.0,266
+Cybersecurity,openai api,0,0.0,0,0.0,266
+Cybersecurity,openai good,0,0.0,0,0.0,266
+Cybersecurity,openai working,0,0.0,0,0.0,266
+Cybersecurity,pay chatgpt,0,0.0,0,0.0,266
+Cybersecurity,payment cryptocurrency,0,0.0,0,0.0,266
+Cybersecurity,people don,0,0.0,0,0.0,266
+Cybersecurity,pretty good,0,0.0,0,0.0,266
+Cybersecurity,reads like,0,0.0,0,0.0,266
+Cybersecurity,reduce carbon,0,0.0,0,0.0,266
+Cybersecurity,reducing carbon,0,0.0,0,0.0,266
+Cybersecurity,renewable energy,0,0.0,0,0.0,266
+Cybersecurity,ruminants climate,0,0.0,0,0.0,266
+Cybersecurity,says chatgpt,0,0.0,0,0.0,266
+Cybersecurity,site looks,0,0.0,0,0.0,266
+Cybersecurity,small large,0,0.0,0,0.0,266
+Cybersecurity,small llm,0,0.0,0,0.0,266
+Cybersecurity,solve climate,0,0.0,0,0.0,266
+Cybersecurity,sounds lot,0,0.0,0,0.0,266
+Cybersecurity,street talk,0,0.0,0,0.0,266
+Cybersecurity,successful blockchain,0,0.0,0,0.0,266
+Cybersecurity,think crypto,0,0.0,0,0.0,266
+Cybersecurity,think good,0,0.0,0,0.0,266
+Cybersecurity,thought openai,0,0.0,0,0.0,266
+Cybersecurity,use blockchain,0,0.0,0,0.0,266
+Cybersecurity,use case,0,0.0,0,0.0,266
+Cybersecurity,using chatgpt,0,0.0,0,0.0,266
+Cybersecurity,using machine,0,0.0,0,0.0,266
+Cybersecurity,warming lol,0,0.0,0,0.0,266
+Cybersecurity,warming temperatures,0,0.0,0,0.0,266
+Cybersecurity,working conditions,0,0.0,0,0.0,266
+Cybersecurity,write comment,0,0.0,0,0.0,266
+Cybersecurity,written chatgpt,0,0.0,0,0.0,266
+Cybersecurity,wrong openai,0,0.0,0,0.0,266
+Cybersecurity,years ago,0,0.0,0,0.0,266

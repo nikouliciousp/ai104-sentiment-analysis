@@ -1,0 +1,601 @@
+topic,bigram,mean_tfidf_in_topic,mean_tfidf_in_other,topic_distinctiveness_ratio,topic_doc_count,other_doc_count,fit_scope
+Artificial Intelligence,machine learning,0.214792,0.0,inf,253,803,global
+Artificial Intelligence,large language,0.024963,0.0,inf,253,803,global
+Artificial Intelligence,open ai,0.018453,0.0,inf,253,803,global
+Artificial Intelligence,language model,0.016284,0.0,inf,253,803,global
+Artificial Intelligence,artificial intelligence,0.013995,0.0,inf,253,803,global
+Artificial Intelligence,learning models,0.013622,0.0,inf,253,803,global
+Artificial Intelligence,written chatgpt,0.012234,0.0,inf,253,803,global
+Artificial Intelligence,using chatgpt,0.011858,0.0,inf,253,803,global
+Artificial Intelligence,language models,0.011367,0.0,inf,253,803,global
+Artificial Intelligence,llm large,0.009739,0.0,inf,253,803,global
+Artificial Intelligence,ai machine,0.009414,0.0,inf,253,803,global
+Artificial Intelligence,like machine,0.008982,0.0,inf,253,803,global
+Artificial Intelligence,anthropic claude,0.007905,0.0,inf,253,803,global
+Artificial Intelligence,ask chatgpt,0.007905,0.0,inf,253,803,global
+Artificial Intelligence,chatgpt ai,0.007905,0.0,inf,253,803,global
+Artificial Intelligence,chatgpt pulse,0.007905,0.0,inf,253,803,global
+Artificial Intelligence,chatgpt told,0.007905,0.0,inf,253,803,global
+Artificial Intelligence,claude chatgpt,0.007905,0.0,inf,253,803,global
+Artificial Intelligence,openai anthropic,0.007905,0.0,inf,253,803,global
+Artificial Intelligence,pay chatgpt,0.007905,0.0,inf,253,803,global
+Artificial Intelligence,says chatgpt,0.007905,0.0,inf,253,803,global
+Artificial Intelligence,thought openai,0.007905,0.0,inf,253,803,global
+Artificial Intelligence,think good,0.007423,0.0,inf,253,803,global
+Artificial Intelligence,sounds like,0.007309,0.004219,1.7325,253,803,global
+Artificial Intelligence,learning ai,0.00694,0.0,inf,253,803,global
+Artificial Intelligence,learning generative,0.00694,0.0,inf,253,803,global
+Artificial Intelligence,learning just,0.00694,0.0,inf,253,803,global
+Artificial Intelligence,using machine,0.00694,0.0,inf,253,803,global
+Artificial Intelligence,ai models,0.006892,0.0,inf,253,803,global
+Artificial Intelligence,ai artificial,0.006853,0.0,inf,253,803,global
+Artificial Intelligence,asked chatgpt,0.006747,0.0,inf,253,803,global
+Artificial Intelligence,chatgpt pretty,0.006747,0.0,inf,253,803,global
+Artificial Intelligence,json mode,0.006747,0.0,inf,253,803,global
+Artificial Intelligence,openai api,0.006747,0.0,inf,253,803,global
+Artificial Intelligence,openai good,0.006747,0.0,inf,253,803,global
+Artificial Intelligence,write comment,0.006747,0.0,inf,253,803,global
+Artificial Intelligence,wrong openai,0.006235,0.0,inf,253,803,global
+Artificial Intelligence,learning used,0.006126,0.0,inf,253,803,global
+Artificial Intelligence,like chatgpt,0.005276,0.0,inf,253,803,global
+Artificial Intelligence,openai working,0.005077,0.0,inf,253,803,global
+Artificial Intelligence,working conditions,0.005077,0.0,inf,253,803,global
+Artificial Intelligence,learning street,0.004812,0.0,inf,253,803,global
+Artificial Intelligence,street talk,0.004812,0.0,inf,253,803,global
+Artificial Intelligence,like written,0.004677,0.0,inf,253,803,global
+Artificial Intelligence,reads like,0.004677,0.0,inf,253,803,global
+Artificial Intelligence,small large,0.004305,0.0,inf,253,803,global
+Artificial Intelligence,small llm,0.004305,0.0,inf,253,803,global
+Artificial Intelligence,ai driven,0.003953,0.001245,3.1739,253,803,global
+Artificial Intelligence,isn making,0.003953,0.000828,4.7765,253,803,global
+Artificial Intelligence,open source,0.003953,0.001245,3.1739,253,803,global
+Artificial Intelligence,terms service,0.003953,0.000998,3.9623,253,803,global
+Artificial Intelligence,does work,0.00347,0.001245,2.7865,253,803,global
+Artificial Intelligence,does require,0.002795,0.001245,2.2443,253,803,global
+Artificial Intelligence,pretty good,0.002795,0.001107,2.524,253,803,global
+Artificial Intelligence,lot like,0.002685,0.002262,1.1868,253,803,global
+Artificial Intelligence,site looks,0.002376,0.000936,2.5367,253,803,global
+Artificial Intelligence,looks like,0.002082,0.005602,0.3717,253,803,global
+Artificial Intelligence,ai like,0.0,0.002353,0.0,253,803,global
+Artificial Intelligence,applied cryptography,0.0,0.002491,0.0,253,803,global
+Artificial Intelligence,apps malware,0.0,0.002491,0.0,253,803,global
+Artificial Intelligence,bad global,0.0,0.0019,0.0,253,803,global
+Artificial Intelligence,basically ransomware,0.0,0.002491,0.0,253,803,global
+Artificial Intelligence,bitcoin blockchain,0.0,0.001974,0.0,253,803,global
+Artificial Intelligence,bitcoin miners,0.0,0.003736,0.0,253,803,global
+Artificial Intelligence,bitcoin mining,0.0,0.002491,0.0,253,803,global
+Artificial Intelligence,blockchain based,0.0,0.002491,0.0,253,803,global
+Artificial Intelligence,blockchain just,0.0,0.001974,0.0,253,803,global
+Artificial Intelligence,buy bitcoin,0.0,0.004582,0.0,253,803,global
+Artificial Intelligence,carbon emissions,0.0,0.022827,0.0,253,803,global
+Artificial Intelligence,carbon tax,0.0,0.001859,0.0,253,803,global
+Artificial Intelligence,case bitcoin,0.0,0.001852,0.0,253,803,global
+Artificial Intelligence,change isn,0.0,0.001935,0.0,253,803,global
+Artificial Intelligence,change just,0.0,0.001935,0.0,253,803,global
+Artificial Intelligence,change kills,0.0,0.001517,0.0,253,803,global
+Artificial Intelligence,climate change,0.0,0.093343,0.0,253,803,global
+Artificial Intelligence,climate changes,0.0,0.002491,0.0,253,803,global
+Artificial Intelligence,considered renewable,0.0,0.002801,0.0,253,803,global
+Artificial Intelligence,country renewable,0.0,0.002079,0.0,253,803,global
+Artificial Intelligence,crypto currency,0.0,0.007472,0.0,253,803,global
+Artificial Intelligence,crypto grift,0.0,0.002491,0.0,253,803,global
+Artificial Intelligence,crypto web3,0.0,0.002491,0.0,253,803,global
+Artificial Intelligence,cyber attack,0.0,0.010363,0.0,253,803,global
+Artificial Intelligence,cyber attacks,0.0,0.002491,0.0,253,803,global
+Artificial Intelligence,cybersecurity company,0.0,0.002491,0.0,253,803,global
+Artificial Intelligence,cybersecurity courses,0.0,0.002491,0.0,253,803,global
+Artificial Intelligence,cybersecurity experts,0.0,0.002491,0.0,253,803,global
+Artificial Intelligence,cybersecurity firms,0.0,0.002491,0.0,253,803,global
+Artificial Intelligence,cybersecurity hygiene,0.0,0.002491,0.0,253,803,global
+Artificial Intelligence,cybersecurity industry,0.0,0.002491,0.0,253,803,global
+Artificial Intelligence,cybersecurity knowledge,0.0,0.002182,0.0,253,803,global
+Artificial Intelligence,cybersecurity threat,0.0,0.002491,0.0,253,803,global
+Artificial Intelligence,cybersecurity tools,0.0,0.002491,0.0,253,803,global
+Artificial Intelligence,data breach,0.0,0.019925,0.0,253,803,global
+Artificial Intelligence,data breaches,0.0,0.019425,0.0,253,803,global
+Artificial Intelligence,data privacy,0.0,0.002491,0.0,253,803,global
+Artificial Intelligence,did ethereum,0.0,0.002491,0.0,253,803,global
+Artificial Intelligence,don think,0.0,0.002328,0.0,253,803,global
+Artificial Intelligence,energy sector,0.0,0.003077,0.0,253,803,global
+Artificial Intelligence,energy sources,0.0,0.001837,0.0,253,803,global
+Artificial Intelligence,energy storage,0.0,0.002285,0.0,253,803,global
+Artificial Intelligence,entire history,0.0,0.002491,0.0,253,803,global
+Artificial Intelligence,especially things,0.0,0.002159,0.0,253,803,global
+Artificial Intelligence,essentially malware,0.0,0.002491,0.0,253,803,global
+Artificial Intelligence,ethereum foundation,0.0,0.002491,0.0,253,803,global
+Artificial Intelligence,feels like,0.0,0.001875,0.0,253,803,global
+Artificial Intelligence,fossil fuel,0.0,0.027534,0.0,253,803,global
+Artificial Intelligence,fossil fuels,0.0,0.048399,0.0,253,803,global
+Artificial Intelligence,fossil gas,0.0,0.002491,0.0,253,803,global
+Artificial Intelligence,fuel lobby,0.0,0.003047,0.0,253,803,global
+Artificial Intelligence,fuel plants,0.0,0.00206,0.0,253,803,global
+Artificial Intelligence,fuel subsidies,0.0,0.00206,0.0,253,803,global
+Artificial Intelligence,fuel usage,0.0,0.00206,0.0,253,803,global
+Artificial Intelligence,fuels nuclear,0.0,0.002121,0.0,253,803,global
+Artificial Intelligence,global warming,0.0,0.065212,0.0,253,803,global
+Artificial Intelligence,gold bitcoin,0.0,0.002491,0.0,253,803,global
+Artificial Intelligence,good luck,0.0,0.002306,0.0,253,803,global
+Artificial Intelligence,good thing,0.0,0.002328,0.0,253,803,global
+Artificial Intelligence,got malware,0.0,0.002491,0.0,253,803,global
+Artificial Intelligence,hacker news,0.0,0.002491,0.0,253,803,global
+Artificial Intelligence,install malware,0.0,0.003736,0.0,253,803,global
+Artificial Intelligence,just like,0.0,0.002839,0.0,253,803,global
+Artificial Intelligence,keys crypto,0.0,0.002491,0.0,253,803,global
+Artificial Intelligence,kills people,0.0,0.001517,0.0,253,803,global
+Artificial Intelligence,level malware,0.0,0.002126,0.0,253,803,global
+Artificial Intelligence,like blockchain,0.0,0.003656,0.0,253,803,global
+Artificial Intelligence,like cryptocurrency,0.0,0.001982,0.0,253,803,global
+Artificial Intelligence,like ransomware,0.0,0.004217,0.0,253,803,global
+Artificial Intelligence,malware attack,0.0,0.002126,0.0,253,803,global
+Artificial Intelligence,malware list,0.0,0.002491,0.0,253,803,global
+Artificial Intelligence,nuclear considered,0.0,0.001624,0.0,253,803,global
+Artificial Intelligence,payment cryptocurrency,0.0,0.002491,0.0,253,803,global
+Artificial Intelligence,people don,0.0,0.001935,0.0,253,803,global
+Artificial Intelligence,ransomware attack,0.0,0.003736,0.0,253,803,global
+Artificial Intelligence,ransomware attacks,0.0,0.004981,0.0,253,803,global
+Artificial Intelligence,ransomware payments,0.0,0.002491,0.0,253,803,global
+Artificial Intelligence,ransomware wouldn,0.0,0.001761,0.0,253,803,global
+Artificial Intelligence,reduce carbon,0.0,0.002025,0.0,253,803,global
+Artificial Intelligence,reducing carbon,0.0,0.002025,0.0,253,803,global
+Artificial Intelligence,renewable energy,0.0,0.031367,0.0,253,803,global
+Artificial Intelligence,ruminants climate,0.0,0.001935,0.0,253,803,global
+Artificial Intelligence,solve climate,0.0,0.002215,0.0,253,803,global
+Artificial Intelligence,sounds lot,0.0,0.001493,0.0,253,803,global
+Artificial Intelligence,successful blockchain,0.0,0.002491,0.0,253,803,global
+Artificial Intelligence,think crypto,0.0,0.002491,0.0,253,803,global
+Artificial Intelligence,use blockchain,0.0,0.002491,0.0,253,803,global
+Artificial Intelligence,use case,0.0,0.005401,0.0,253,803,global
+Artificial Intelligence,warming lol,0.0,0.002165,0.0,253,803,global
+Artificial Intelligence,warming temperatures,0.0,0.001924,0.0,253,803,global
+Artificial Intelligence,wouldn thing,0.0,0.001761,0.0,253,803,global
+Artificial Intelligence,years ago,0.0,0.001997,0.0,253,803,global
+Climate Change,climate change,0.282847,0.0,inf,265,791,global
+Climate Change,global warming,0.197605,0.0,inf,265,791,global
+Climate Change,fossil fuels,0.146657,0.0,inf,265,791,global
+Climate Change,renewable energy,0.095047,0.0,inf,265,791,global
+Climate Change,fossil fuel,0.083433,0.0,inf,265,791,global
+Climate Change,carbon emissions,0.069169,0.0,inf,265,791,global
+Climate Change,energy sector,0.009324,0.0,inf,265,791,global
+Climate Change,fuel lobby,0.009232,0.0,inf,265,791,global
+Climate Change,considered renewable,0.008487,0.0,inf,265,791,global
+Climate Change,climate changes,0.007547,0.0,inf,265,791,global
+Climate Change,fossil gas,0.007547,0.0,inf,265,791,global
+Climate Change,energy storage,0.006923,0.0,inf,265,791,global
+Climate Change,solve climate,0.006711,0.0,inf,265,791,global
+Climate Change,warming lol,0.006561,0.0,inf,265,791,global
+Climate Change,fuels nuclear,0.006427,0.0,inf,265,791,global
+Climate Change,country renewable,0.0063,0.0,inf,265,791,global
+Climate Change,fuel plants,0.006241,0.0,inf,265,791,global
+Climate Change,fuel subsidies,0.006241,0.0,inf,265,791,global
+Climate Change,fuel usage,0.006241,0.0,inf,265,791,global
+Climate Change,reduce carbon,0.006135,0.0,inf,265,791,global
+Climate Change,reducing carbon,0.006135,0.0,inf,265,791,global
+Climate Change,change isn,0.005863,0.0,inf,265,791,global
+Climate Change,change just,0.005863,0.0,inf,265,791,global
+Climate Change,ruminants climate,0.005863,0.0,inf,265,791,global
+Climate Change,warming temperatures,0.005831,0.0,inf,265,791,global
+Climate Change,bad global,0.005756,0.0,inf,265,791,global
+Climate Change,carbon tax,0.005632,0.0,inf,265,791,global
+Climate Change,energy sources,0.005568,0.0,inf,265,791,global
+Climate Change,nuclear considered,0.00492,0.0,inf,265,791,global
+Climate Change,change kills,0.004596,0.0,inf,265,791,global
+Climate Change,kills people,0.004596,0.0,inf,265,791,global
+Climate Change,especially things,0.003774,0.000928,4.0673,265,791,global
+Climate Change,ai like,0.003355,0.001264,2.6541,265,791,global
+Climate Change,pretty good,0.003355,0.000894,3.7535,265,791,global
+Climate Change,don think,0.00328,0.001264,2.5949,265,791,global
+Climate Change,good thing,0.00328,0.001264,2.5949,265,791,global
+Climate Change,years ago,0.00328,0.000928,3.5358,265,791,global
+Climate Change,good luck,0.003214,0.001264,2.5419,265,791,global
+Climate Change,looks like,0.003166,0.005292,0.5983,265,791,global
+Climate Change,isn making,0.002507,0.001264,1.9834,265,791,global
+Climate Change,people don,0.002088,0.001264,1.652,265,791,global
+Climate Change,ai artificial,0.0,0.002192,0.0,265,791,global
+Climate Change,ai driven,0.0,0.002528,0.0,265,791,global
+Climate Change,ai machine,0.0,0.003011,0.0,265,791,global
+Climate Change,ai models,0.0,0.002204,0.0,265,791,global
+Climate Change,anthropic claude,0.0,0.002528,0.0,265,791,global
+Climate Change,applied cryptography,0.0,0.002528,0.0,265,791,global
+Climate Change,apps malware,0.0,0.002528,0.0,265,791,global
+Climate Change,artificial intelligence,0.0,0.004476,0.0,265,791,global
+Climate Change,ask chatgpt,0.0,0.002528,0.0,265,791,global
+Climate Change,asked chatgpt,0.0,0.002158,0.0,265,791,global
+Climate Change,basically ransomware,0.0,0.002528,0.0,265,791,global
+Climate Change,bitcoin blockchain,0.0,0.002004,0.0,265,791,global
+Climate Change,bitcoin miners,0.0,0.003793,0.0,265,791,global
+Climate Change,bitcoin mining,0.0,0.002528,0.0,265,791,global
+Climate Change,blockchain based,0.0,0.002528,0.0,265,791,global
+Climate Change,blockchain just,0.0,0.002004,0.0,265,791,global
+Climate Change,buy bitcoin,0.0,0.004651,0.0,265,791,global
+Climate Change,case bitcoin,0.0,0.00188,0.0,265,791,global
+Climate Change,chatgpt ai,0.0,0.002528,0.0,265,791,global
+Climate Change,chatgpt pretty,0.0,0.002158,0.0,265,791,global
+Climate Change,chatgpt pulse,0.0,0.002528,0.0,265,791,global
+Climate Change,chatgpt told,0.0,0.002528,0.0,265,791,global
+Climate Change,claude chatgpt,0.0,0.002528,0.0,265,791,global
+Climate Change,crypto currency,0.0,0.007585,0.0,265,791,global
+Climate Change,crypto grift,0.0,0.002528,0.0,265,791,global
+Climate Change,crypto web3,0.0,0.002528,0.0,265,791,global
+Climate Change,cyber attack,0.0,0.01052,0.0,265,791,global
+Climate Change,cyber attacks,0.0,0.002528,0.0,265,791,global
+Climate Change,cybersecurity company,0.0,0.002528,0.0,265,791,global
+Climate Change,cybersecurity courses,0.0,0.002528,0.0,265,791,global
+Climate Change,cybersecurity experts,0.0,0.002528,0.0,265,791,global
+Climate Change,cybersecurity firms,0.0,0.002528,0.0,265,791,global
+Climate Change,cybersecurity hygiene,0.0,0.002528,0.0,265,791,global
+Climate Change,cybersecurity industry,0.0,0.002528,0.0,265,791,global
+Climate Change,cybersecurity knowledge,0.0,0.002215,0.0,265,791,global
+Climate Change,cybersecurity threat,0.0,0.002528,0.0,265,791,global
+Climate Change,cybersecurity tools,0.0,0.002528,0.0,265,791,global
+Climate Change,data breach,0.0,0.020228,0.0,265,791,global
+Climate Change,data breaches,0.0,0.01972,0.0,265,791,global
+Climate Change,data privacy,0.0,0.002528,0.0,265,791,global
+Climate Change,did ethereum,0.0,0.002528,0.0,265,791,global
+Climate Change,does require,0.0,0.002158,0.0,265,791,global
+Climate Change,does work,0.0,0.002374,0.0,265,791,global
+Climate Change,entire history,0.0,0.002528,0.0,265,791,global
+Climate Change,essentially malware,0.0,0.002528,0.0,265,791,global
+Climate Change,ethereum foundation,0.0,0.002528,0.0,265,791,global
+Climate Change,feels like,0.0,0.001903,0.0,265,791,global
+Climate Change,gold bitcoin,0.0,0.002528,0.0,265,791,global
+Climate Change,got malware,0.0,0.002528,0.0,265,791,global
+Climate Change,hacker news,0.0,0.002528,0.0,265,791,global
+Climate Change,install malware,0.0,0.003793,0.0,265,791,global
+Climate Change,json mode,0.0,0.002158,0.0,265,791,global
+Climate Change,just like,0.0,0.002883,0.0,265,791,global
+Climate Change,keys crypto,0.0,0.002528,0.0,265,791,global
+Climate Change,language model,0.0,0.005208,0.0,265,791,global
+Climate Change,language models,0.0,0.003636,0.0,265,791,global
+Climate Change,large language,0.0,0.007984,0.0,265,791,global
+Climate Change,learning ai,0.0,0.00222,0.0,265,791,global
+Climate Change,learning generative,0.0,0.00222,0.0,265,791,global
+Climate Change,learning just,0.0,0.00222,0.0,265,791,global
+Climate Change,learning models,0.0,0.004357,0.0,265,791,global
+Climate Change,learning street,0.0,0.001539,0.0,265,791,global
+Climate Change,learning used,0.0,0.001959,0.0,265,791,global
+Climate Change,level malware,0.0,0.002158,0.0,265,791,global
+Climate Change,like blockchain,0.0,0.003712,0.0,265,791,global
+Climate Change,like chatgpt,0.0,0.001688,0.0,265,791,global
+Climate Change,like cryptocurrency,0.0,0.002012,0.0,265,791,global
+Climate Change,like machine,0.0,0.002873,0.0,265,791,global
+Climate Change,like ransomware,0.0,0.004281,0.0,265,791,global
+Climate Change,like written,0.0,0.001496,0.0,265,791,global
+Climate Change,llm large,0.0,0.003115,0.0,265,791,global
+Climate Change,lot like,0.0,0.003155,0.0,265,791,global
+Climate Change,machine learning,0.0,0.068701,0.0,265,791,global
+Climate Change,malware attack,0.0,0.002158,0.0,265,791,global
+Climate Change,malware list,0.0,0.002528,0.0,265,791,global
+Climate Change,open ai,0.0,0.005902,0.0,265,791,global
+Climate Change,open source,0.0,0.002528,0.0,265,791,global
+Climate Change,openai anthropic,0.0,0.002528,0.0,265,791,global
+Climate Change,openai api,0.0,0.002158,0.0,265,791,global
+Climate Change,openai good,0.0,0.002158,0.0,265,791,global
+Climate Change,openai working,0.0,0.001624,0.0,265,791,global
+Climate Change,pay chatgpt,0.0,0.002528,0.0,265,791,global
+Climate Change,payment cryptocurrency,0.0,0.002528,0.0,265,791,global
+Climate Change,ransomware attack,0.0,0.003793,0.0,265,791,global
+Climate Change,ransomware attacks,0.0,0.005057,0.0,265,791,global
+Climate Change,ransomware payments,0.0,0.002528,0.0,265,791,global
+Climate Change,ransomware wouldn,0.0,0.001788,0.0,265,791,global
+Climate Change,reads like,0.0,0.001496,0.0,265,791,global
+Climate Change,says chatgpt,0.0,0.002528,0.0,265,791,global
+Climate Change,site looks,0.0,0.001711,0.0,265,791,global
+Climate Change,small large,0.0,0.001377,0.0,265,791,global
+Climate Change,small llm,0.0,0.001377,0.0,265,791,global
+Climate Change,sounds like,0.0,0.00662,0.0,265,791,global
+Climate Change,sounds lot,0.0,0.001515,0.0,265,791,global
+Climate Change,street talk,0.0,0.001539,0.0,265,791,global
+Climate Change,successful blockchain,0.0,0.002528,0.0,265,791,global
+Climate Change,terms service,0.0,0.002277,0.0,265,791,global
+Climate Change,think crypto,0.0,0.002528,0.0,265,791,global
+Climate Change,think good,0.0,0.002374,0.0,265,791,global
+Climate Change,thought openai,0.0,0.002528,0.0,265,791,global
+Climate Change,use blockchain,0.0,0.002528,0.0,265,791,global
+Climate Change,use case,0.0,0.005483,0.0,265,791,global
+Climate Change,using chatgpt,0.0,0.003793,0.0,265,791,global
+Climate Change,using machine,0.0,0.00222,0.0,265,791,global
+Climate Change,working conditions,0.0,0.001624,0.0,265,791,global
+Climate Change,wouldn thing,0.0,0.001788,0.0,265,791,global
+Climate Change,write comment,0.0,0.002158,0.0,265,791,global
+Climate Change,written chatgpt,0.0,0.003913,0.0,265,791,global
+Climate Change,wrong openai,0.0,0.001994,0.0,265,791,global
+Cryptocurrency,crypto currency,0.022059,0.0,inf,272,784,global
+Cryptocurrency,use case,0.015945,0.0,inf,272,784,global
+Cryptocurrency,buy bitcoin,0.013527,0.0,inf,272,784,global
+Cryptocurrency,bitcoin miners,0.011029,0.0,inf,272,784,global
+Cryptocurrency,like blockchain,0.010794,0.0,inf,272,784,global
+Cryptocurrency,applied cryptography,0.007353,0.0,inf,272,784,global
+Cryptocurrency,bitcoin mining,0.007353,0.0,inf,272,784,global
+Cryptocurrency,blockchain based,0.007353,0.0,inf,272,784,global
+Cryptocurrency,crypto grift,0.007353,0.0,inf,272,784,global
+Cryptocurrency,crypto web3,0.007353,0.0,inf,272,784,global
+Cryptocurrency,did ethereum,0.007353,0.0,inf,272,784,global
+Cryptocurrency,ethereum foundation,0.007353,0.0,inf,272,784,global
+Cryptocurrency,gold bitcoin,0.007353,0.0,inf,272,784,global
+Cryptocurrency,keys crypto,0.007353,0.0,inf,272,784,global
+Cryptocurrency,payment cryptocurrency,0.007353,0.0,inf,272,784,global
+Cryptocurrency,successful blockchain,0.007353,0.0,inf,272,784,global
+Cryptocurrency,think crypto,0.007353,0.0,inf,272,784,global
+Cryptocurrency,use blockchain,0.007353,0.0,inf,272,784,global
+Cryptocurrency,looks like,0.0061,0.004293,1.4208,272,784,global
+Cryptocurrency,like cryptocurrency,0.005852,0.0,inf,272,784,global
+Cryptocurrency,bitcoin blockchain,0.005829,0.0,inf,272,784,global
+Cryptocurrency,blockchain just,0.005829,0.0,inf,272,784,global
+Cryptocurrency,case bitcoin,0.005468,0.0,inf,272,784,global
+Cryptocurrency,just like,0.004706,0.001276,3.6896,272,784,global
+Cryptocurrency,sounds lot,0.004407,0.0,inf,272,784,global
+Cryptocurrency,lot like,0.004079,0.001768,2.3068,272,784,global
+Cryptocurrency,ai like,0.003676,0.001134,3.2416,272,784,global
+Cryptocurrency,basically ransomware,0.003676,0.001276,2.8824,272,784,global
+Cryptocurrency,does work,0.003676,0.00112,3.2831,272,784,global
+Cryptocurrency,don think,0.003676,0.001109,3.3156,272,784,global
+Cryptocurrency,entire history,0.003676,0.001276,2.8824,272,784,global
+Cryptocurrency,good thing,0.003676,0.001109,3.3156,272,784,global
+Cryptocurrency,hacker news,0.003676,0.001276,2.8824,272,784,global
+Cryptocurrency,people don,0.003676,0.000706,5.208,272,784,global
+Cryptocurrency,ransomware payments,0.003676,0.001276,2.8824,272,784,global
+Cryptocurrency,sounds like,0.003676,0.005404,0.6803,272,784,global
+Cryptocurrency,site looks,0.002765,0.000767,3.6064,272,784,global
+Cryptocurrency,feels like,0.002698,0.000984,2.7417,272,784,global
+Cryptocurrency,years ago,0.002698,0.001109,2.4333,272,784,global
+Cryptocurrency,ai artificial,0.0,0.002212,0.0,272,784,global
+Cryptocurrency,ai driven,0.0,0.002551,0.0,272,784,global
+Cryptocurrency,ai machine,0.0,0.003038,0.0,272,784,global
+Cryptocurrency,ai models,0.0,0.002224,0.0,272,784,global
+Cryptocurrency,anthropic claude,0.0,0.002551,0.0,272,784,global
+Cryptocurrency,apps malware,0.0,0.002551,0.0,272,784,global
+Cryptocurrency,artificial intelligence,0.0,0.004516,0.0,272,784,global
+Cryptocurrency,ask chatgpt,0.0,0.002551,0.0,272,784,global
+Cryptocurrency,asked chatgpt,0.0,0.002177,0.0,272,784,global
+Cryptocurrency,bad global,0.0,0.001946,0.0,272,784,global
+Cryptocurrency,carbon emissions,0.0,0.02338,0.0,272,784,global
+Cryptocurrency,carbon tax,0.0,0.001904,0.0,272,784,global
+Cryptocurrency,change isn,0.0,0.001982,0.0,272,784,global
+Cryptocurrency,change just,0.0,0.001982,0.0,272,784,global
+Cryptocurrency,change kills,0.0,0.001553,0.0,272,784,global
+Cryptocurrency,chatgpt ai,0.0,0.002551,0.0,272,784,global
+Cryptocurrency,chatgpt pretty,0.0,0.002177,0.0,272,784,global
+Cryptocurrency,chatgpt pulse,0.0,0.002551,0.0,272,784,global
+Cryptocurrency,chatgpt told,0.0,0.002551,0.0,272,784,global
+Cryptocurrency,claude chatgpt,0.0,0.002551,0.0,272,784,global
+Cryptocurrency,climate change,0.0,0.095605,0.0,272,784,global
+Cryptocurrency,climate changes,0.0,0.002551,0.0,272,784,global
+Cryptocurrency,considered renewable,0.0,0.002869,0.0,272,784,global
+Cryptocurrency,country renewable,0.0,0.002129,0.0,272,784,global
+Cryptocurrency,cyber attack,0.0,0.010614,0.0,272,784,global
+Cryptocurrency,cyber attacks,0.0,0.002551,0.0,272,784,global
+Cryptocurrency,cybersecurity company,0.0,0.002551,0.0,272,784,global
+Cryptocurrency,cybersecurity courses,0.0,0.002551,0.0,272,784,global
+Cryptocurrency,cybersecurity experts,0.0,0.002551,0.0,272,784,global
+Cryptocurrency,cybersecurity firms,0.0,0.002551,0.0,272,784,global
+Cryptocurrency,cybersecurity hygiene,0.0,0.002551,0.0,272,784,global
+Cryptocurrency,cybersecurity industry,0.0,0.002551,0.0,272,784,global
+Cryptocurrency,cybersecurity knowledge,0.0,0.002235,0.0,272,784,global
+Cryptocurrency,cybersecurity threat,0.0,0.002551,0.0,272,784,global
+Cryptocurrency,cybersecurity tools,0.0,0.002551,0.0,272,784,global
+Cryptocurrency,data breach,0.0,0.020408,0.0,272,784,global
+Cryptocurrency,data breaches,0.0,0.019896,0.0,272,784,global
+Cryptocurrency,data privacy,0.0,0.002551,0.0,272,784,global
+Cryptocurrency,does require,0.0,0.002177,0.0,272,784,global
+Cryptocurrency,energy sector,0.0,0.003152,0.0,272,784,global
+Cryptocurrency,energy sources,0.0,0.001882,0.0,272,784,global
+Cryptocurrency,energy storage,0.0,0.00234,0.0,272,784,global
+Cryptocurrency,especially things,0.0,0.002212,0.0,272,784,global
+Cryptocurrency,essentially malware,0.0,0.002551,0.0,272,784,global
+Cryptocurrency,fossil fuel,0.0,0.028201,0.0,272,784,global
+Cryptocurrency,fossil fuels,0.0,0.049571,0.0,272,784,global
+Cryptocurrency,fossil gas,0.0,0.002551,0.0,272,784,global
+Cryptocurrency,fuel lobby,0.0,0.003121,0.0,272,784,global
+Cryptocurrency,fuel plants,0.0,0.00211,0.0,272,784,global
+Cryptocurrency,fuel subsidies,0.0,0.00211,0.0,272,784,global
+Cryptocurrency,fuel usage,0.0,0.00211,0.0,272,784,global
+Cryptocurrency,fuels nuclear,0.0,0.002172,0.0,272,784,global
+Cryptocurrency,global warming,0.0,0.066793,0.0,272,784,global
+Cryptocurrency,good luck,0.0,0.002362,0.0,272,784,global
+Cryptocurrency,got malware,0.0,0.002551,0.0,272,784,global
+Cryptocurrency,install malware,0.0,0.003827,0.0,272,784,global
+Cryptocurrency,isn making,0.0,0.002123,0.0,272,784,global
+Cryptocurrency,json mode,0.0,0.002177,0.0,272,784,global
+Cryptocurrency,kills people,0.0,0.001553,0.0,272,784,global
+Cryptocurrency,language model,0.0,0.005255,0.0,272,784,global
+Cryptocurrency,language models,0.0,0.003668,0.0,272,784,global
+Cryptocurrency,large language,0.0,0.008056,0.0,272,784,global
+Cryptocurrency,learning ai,0.0,0.00224,0.0,272,784,global
+Cryptocurrency,learning generative,0.0,0.00224,0.0,272,784,global
+Cryptocurrency,learning just,0.0,0.00224,0.0,272,784,global
+Cryptocurrency,learning models,0.0,0.004396,0.0,272,784,global
+Cryptocurrency,learning street,0.0,0.001553,0.0,272,784,global
+Cryptocurrency,learning used,0.0,0.001977,0.0,272,784,global
+Cryptocurrency,level malware,0.0,0.002177,0.0,272,784,global
+Cryptocurrency,like chatgpt,0.0,0.001703,0.0,272,784,global
+Cryptocurrency,like machine,0.0,0.002899,0.0,272,784,global
+Cryptocurrency,like ransomware,0.0,0.004319,0.0,272,784,global
+Cryptocurrency,like written,0.0,0.001509,0.0,272,784,global
+Cryptocurrency,llm large,0.0,0.003143,0.0,272,784,global
+Cryptocurrency,machine learning,0.0,0.069314,0.0,272,784,global
+Cryptocurrency,malware attack,0.0,0.002177,0.0,272,784,global
+Cryptocurrency,malware list,0.0,0.002551,0.0,272,784,global
+Cryptocurrency,nuclear considered,0.0,0.001663,0.0,272,784,global
+Cryptocurrency,open ai,0.0,0.005955,0.0,272,784,global
+Cryptocurrency,open source,0.0,0.002551,0.0,272,784,global
+Cryptocurrency,openai anthropic,0.0,0.002551,0.0,272,784,global
+Cryptocurrency,openai api,0.0,0.002177,0.0,272,784,global
+Cryptocurrency,openai good,0.0,0.002177,0.0,272,784,global
+Cryptocurrency,openai working,0.0,0.001638,0.0,272,784,global
+Cryptocurrency,pay chatgpt,0.0,0.002551,0.0,272,784,global
+Cryptocurrency,pretty good,0.0,0.002036,0.0,272,784,global
+Cryptocurrency,ransomware attack,0.0,0.003827,0.0,272,784,global
+Cryptocurrency,ransomware attacks,0.0,0.005102,0.0,272,784,global
+Cryptocurrency,ransomware wouldn,0.0,0.001804,0.0,272,784,global
+Cryptocurrency,reads like,0.0,0.001509,0.0,272,784,global
+Cryptocurrency,reduce carbon,0.0,0.002074,0.0,272,784,global
+Cryptocurrency,reducing carbon,0.0,0.002074,0.0,272,784,global
+Cryptocurrency,renewable energy,0.0,0.032127,0.0,272,784,global
+Cryptocurrency,ruminants climate,0.0,0.001982,0.0,272,784,global
+Cryptocurrency,says chatgpt,0.0,0.002551,0.0,272,784,global
+Cryptocurrency,small large,0.0,0.001389,0.0,272,784,global
+Cryptocurrency,small llm,0.0,0.001389,0.0,272,784,global
+Cryptocurrency,solve climate,0.0,0.002268,0.0,272,784,global
+Cryptocurrency,street talk,0.0,0.001553,0.0,272,784,global
+Cryptocurrency,terms service,0.0,0.002297,0.0,272,784,global
+Cryptocurrency,think good,0.0,0.002395,0.0,272,784,global
+Cryptocurrency,thought openai,0.0,0.002551,0.0,272,784,global
+Cryptocurrency,using chatgpt,0.0,0.003827,0.0,272,784,global
+Cryptocurrency,using machine,0.0,0.00224,0.0,272,784,global
+Cryptocurrency,warming lol,0.0,0.002218,0.0,272,784,global
+Cryptocurrency,warming temperatures,0.0,0.001971,0.0,272,784,global
+Cryptocurrency,working conditions,0.0,0.001638,0.0,272,784,global
+Cryptocurrency,wouldn thing,0.0,0.001804,0.0,272,784,global
+Cryptocurrency,write comment,0.0,0.002177,0.0,272,784,global
+Cryptocurrency,written chatgpt,0.0,0.003948,0.0,272,784,global
+Cryptocurrency,wrong openai,0.0,0.002012,0.0,272,784,global
+Cybersecurity,data breach,0.06015,0.0,inf,266,790,global
+Cybersecurity,data breaches,0.058641,0.0,inf,266,790,global
+Cybersecurity,cyber attack,0.031283,0.0,inf,266,790,global
+Cybersecurity,ransomware attacks,0.015038,0.0,inf,266,790,global
+Cybersecurity,like ransomware,0.012731,0.0,inf,266,790,global
+Cybersecurity,install malware,0.011278,0.0,inf,266,790,global
+Cybersecurity,ransomware attack,0.011278,0.0,inf,266,790,global
+Cybersecurity,sounds like,0.008976,0.003606,2.4888,266,790,global
+Cybersecurity,apps malware,0.007519,0.0,inf,266,790,global
+Cybersecurity,cyber attacks,0.007519,0.0,inf,266,790,global
+Cybersecurity,cybersecurity company,0.007519,0.0,inf,266,790,global
+Cybersecurity,cybersecurity courses,0.007519,0.0,inf,266,790,global
+Cybersecurity,cybersecurity experts,0.007519,0.0,inf,266,790,global
+Cybersecurity,cybersecurity firms,0.007519,0.0,inf,266,790,global
+Cybersecurity,cybersecurity hygiene,0.007519,0.0,inf,266,790,global
+Cybersecurity,cybersecurity industry,0.007519,0.0,inf,266,790,global
+Cybersecurity,cybersecurity threat,0.007519,0.0,inf,266,790,global
+Cybersecurity,cybersecurity tools,0.007519,0.0,inf,266,790,global
+Cybersecurity,data privacy,0.007519,0.0,inf,266,790,global
+Cybersecurity,essentially malware,0.007519,0.0,inf,266,790,global
+Cybersecurity,got malware,0.007519,0.0,inf,266,790,global
+Cybersecurity,looks like,0.007519,0.003829,1.9636,266,790,global
+Cybersecurity,malware list,0.007519,0.0,inf,266,790,global
+Cybersecurity,cybersecurity knowledge,0.006586,0.0,inf,266,790,global
+Cybersecurity,level malware,0.006418,0.0,inf,266,790,global
+Cybersecurity,malware attack,0.006418,0.0,inf,266,790,global
+Cybersecurity,ransomware wouldn,0.005317,0.0,inf,266,790,global
+Cybersecurity,wouldn thing,0.005317,0.0,inf,266,790,global
+Cybersecurity,ai driven,0.003759,0.001266,2.9699,266,790,global
+Cybersecurity,basically ransomware,0.003759,0.001266,2.9699,266,790,global
+Cybersecurity,does require,0.003759,0.000895,4.2001,266,790,global
+Cybersecurity,entire history,0.003759,0.001266,2.9699,266,790,global
+Cybersecurity,good luck,0.003759,0.001078,3.4875,266,790,global
+Cybersecurity,hacker news,0.003759,0.001266,2.9699,266,790,global
+Cybersecurity,just like,0.003759,0.00162,2.3201,266,790,global
+Cybersecurity,open source,0.003759,0.001266,2.9699,266,790,global
+Cybersecurity,ransomware payments,0.003759,0.001266,2.9699,266,790,global
+Cybersecurity,terms service,0.003011,0.001266,2.379,266,790,global
+Cybersecurity,feels like,0.0029,0.000929,3.1222,266,790,global
+Cybersecurity,especially things,0.002759,0.001266,2.1796,266,790,global
+Cybersecurity,lot like,0.002658,0.002264,1.174,266,790,global
+Cybersecurity,ai artificial,0.0,0.002195,0.0,266,790,global
+Cybersecurity,ai like,0.0,0.002391,0.0,266,790,global
+Cybersecurity,ai machine,0.0,0.003015,0.0,266,790,global
+Cybersecurity,ai models,0.0,0.002207,0.0,266,790,global
+Cybersecurity,anthropic claude,0.0,0.002532,0.0,266,790,global
+Cybersecurity,applied cryptography,0.0,0.002532,0.0,266,790,global
+Cybersecurity,artificial intelligence,0.0,0.004482,0.0,266,790,global
+Cybersecurity,ask chatgpt,0.0,0.002532,0.0,266,790,global
+Cybersecurity,asked chatgpt,0.0,0.002161,0.0,266,790,global
+Cybersecurity,bad global,0.0,0.001931,0.0,266,790,global
+Cybersecurity,bitcoin blockchain,0.0,0.002007,0.0,266,790,global
+Cybersecurity,bitcoin miners,0.0,0.003797,0.0,266,790,global
+Cybersecurity,bitcoin mining,0.0,0.002532,0.0,266,790,global
+Cybersecurity,blockchain based,0.0,0.002532,0.0,266,790,global
+Cybersecurity,blockchain just,0.0,0.002007,0.0,266,790,global
+Cybersecurity,buy bitcoin,0.0,0.004657,0.0,266,790,global
+Cybersecurity,carbon emissions,0.0,0.023202,0.0,266,790,global
+Cybersecurity,carbon tax,0.0,0.001889,0.0,266,790,global
+Cybersecurity,case bitcoin,0.0,0.001883,0.0,266,790,global
+Cybersecurity,change isn,0.0,0.001967,0.0,266,790,global
+Cybersecurity,change just,0.0,0.001967,0.0,266,790,global
+Cybersecurity,change kills,0.0,0.001542,0.0,266,790,global
+Cybersecurity,chatgpt ai,0.0,0.002532,0.0,266,790,global
+Cybersecurity,chatgpt pretty,0.0,0.002161,0.0,266,790,global
+Cybersecurity,chatgpt pulse,0.0,0.002532,0.0,266,790,global
+Cybersecurity,chatgpt told,0.0,0.002532,0.0,266,790,global
+Cybersecurity,claude chatgpt,0.0,0.002532,0.0,266,790,global
+Cybersecurity,climate change,0.0,0.094879,0.0,266,790,global
+Cybersecurity,climate changes,0.0,0.002532,0.0,266,790,global
+Cybersecurity,considered renewable,0.0,0.002847,0.0,266,790,global
+Cybersecurity,country renewable,0.0,0.002113,0.0,266,790,global
+Cybersecurity,crypto currency,0.0,0.007595,0.0,266,790,global
+Cybersecurity,crypto grift,0.0,0.002532,0.0,266,790,global
+Cybersecurity,crypto web3,0.0,0.002532,0.0,266,790,global
+Cybersecurity,did ethereum,0.0,0.002532,0.0,266,790,global
+Cybersecurity,does work,0.0,0.002377,0.0,266,790,global
+Cybersecurity,don think,0.0,0.002366,0.0,266,790,global
+Cybersecurity,energy sector,0.0,0.003128,0.0,266,790,global
+Cybersecurity,energy sources,0.0,0.001868,0.0,266,790,global
+Cybersecurity,energy storage,0.0,0.002322,0.0,266,790,global
+Cybersecurity,ethereum foundation,0.0,0.002532,0.0,266,790,global
+Cybersecurity,fossil fuel,0.0,0.027987,0.0,266,790,global
+Cybersecurity,fossil fuels,0.0,0.049195,0.0,266,790,global
+Cybersecurity,fossil gas,0.0,0.002532,0.0,266,790,global
+Cybersecurity,fuel lobby,0.0,0.003097,0.0,266,790,global
+Cybersecurity,fuel plants,0.0,0.002094,0.0,266,790,global
+Cybersecurity,fuel subsidies,0.0,0.002094,0.0,266,790,global
+Cybersecurity,fuel usage,0.0,0.002094,0.0,266,790,global
+Cybersecurity,fuels nuclear,0.0,0.002156,0.0,266,790,global
+Cybersecurity,global warming,0.0,0.066285,0.0,266,790,global
+Cybersecurity,gold bitcoin,0.0,0.002532,0.0,266,790,global
+Cybersecurity,good thing,0.0,0.002366,0.0,266,790,global
+Cybersecurity,isn making,0.0,0.002107,0.0,266,790,global
+Cybersecurity,json mode,0.0,0.002161,0.0,266,790,global
+Cybersecurity,keys crypto,0.0,0.002532,0.0,266,790,global
+Cybersecurity,kills people,0.0,0.001542,0.0,266,790,global
+Cybersecurity,language model,0.0,0.005215,0.0,266,790,global
+Cybersecurity,language models,0.0,0.00364,0.0,266,790,global
+Cybersecurity,large language,0.0,0.007994,0.0,266,790,global
+Cybersecurity,learning ai,0.0,0.002223,0.0,266,790,global
+Cybersecurity,learning generative,0.0,0.002223,0.0,266,790,global
+Cybersecurity,learning just,0.0,0.002223,0.0,266,790,global
+Cybersecurity,learning models,0.0,0.004362,0.0,266,790,global
+Cybersecurity,learning street,0.0,0.001541,0.0,266,790,global
+Cybersecurity,learning used,0.0,0.001962,0.0,266,790,global
+Cybersecurity,like blockchain,0.0,0.003716,0.0,266,790,global
+Cybersecurity,like chatgpt,0.0,0.00169,0.0,266,790,global
+Cybersecurity,like cryptocurrency,0.0,0.002015,0.0,266,790,global
+Cybersecurity,like machine,0.0,0.002877,0.0,266,790,global
+Cybersecurity,like written,0.0,0.001498,0.0,266,790,global
+Cybersecurity,llm large,0.0,0.003119,0.0,266,790,global
+Cybersecurity,machine learning,0.0,0.068788,0.0,266,790,global
+Cybersecurity,nuclear considered,0.0,0.00165,0.0,266,790,global
+Cybersecurity,open ai,0.0,0.00591,0.0,266,790,global
+Cybersecurity,openai anthropic,0.0,0.002532,0.0,266,790,global
+Cybersecurity,openai api,0.0,0.002161,0.0,266,790,global
+Cybersecurity,openai good,0.0,0.002161,0.0,266,790,global
+Cybersecurity,openai working,0.0,0.001626,0.0,266,790,global
+Cybersecurity,pay chatgpt,0.0,0.002532,0.0,266,790,global
+Cybersecurity,payment cryptocurrency,0.0,0.002532,0.0,266,790,global
+Cybersecurity,people don,0.0,0.001966,0.0,266,790,global
+Cybersecurity,pretty good,0.0,0.002021,0.0,266,790,global
+Cybersecurity,reads like,0.0,0.001498,0.0,266,790,global
+Cybersecurity,reduce carbon,0.0,0.002058,0.0,266,790,global
+Cybersecurity,reducing carbon,0.0,0.002058,0.0,266,790,global
+Cybersecurity,renewable energy,0.0,0.031883,0.0,266,790,global
+Cybersecurity,ruminants climate,0.0,0.001967,0.0,266,790,global
+Cybersecurity,says chatgpt,0.0,0.002532,0.0,266,790,global
+Cybersecurity,site looks,0.0,0.001713,0.0,266,790,global
+Cybersecurity,small large,0.0,0.001379,0.0,266,790,global
+Cybersecurity,small llm,0.0,0.001379,0.0,266,790,global
+Cybersecurity,solve climate,0.0,0.002251,0.0,266,790,global
+Cybersecurity,sounds lot,0.0,0.001517,0.0,266,790,global
+Cybersecurity,street talk,0.0,0.001541,0.0,266,790,global
+Cybersecurity,successful blockchain,0.0,0.002532,0.0,266,790,global
+Cybersecurity,think crypto,0.0,0.002532,0.0,266,790,global
+Cybersecurity,think good,0.0,0.002377,0.0,266,790,global
+Cybersecurity,thought openai,0.0,0.002532,0.0,266,790,global
+Cybersecurity,use blockchain,0.0,0.002532,0.0,266,790,global
+Cybersecurity,use case,0.0,0.00549,0.0,266,790,global
+Cybersecurity,using chatgpt,0.0,0.003797,0.0,266,790,global
+Cybersecurity,using machine,0.0,0.002223,0.0,266,790,global
+Cybersecurity,warming lol,0.0,0.002201,0.0,266,790,global
+Cybersecurity,warming temperatures,0.0,0.001956,0.0,266,790,global
+Cybersecurity,working conditions,0.0,0.001626,0.0,266,790,global
+Cybersecurity,write comment,0.0,0.002161,0.0,266,790,global
+Cybersecurity,written chatgpt,0.0,0.003918,0.0,266,790,global
+Cybersecurity,wrong openai,0.0,0.001997,0.0,266,790,global
+Cybersecurity,years ago,0.0,0.002029,0.0,266,790,global
