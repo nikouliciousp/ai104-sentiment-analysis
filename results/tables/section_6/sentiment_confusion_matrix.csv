@@ -1,0 +1,4 @@
+﻿,pred_negative,pred_neutral,pred_positive
+actual_negative,36,23,13
+actual_neutral,37,66,21
+actual_positive,5,5,6
