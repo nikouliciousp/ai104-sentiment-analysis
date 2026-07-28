@@ -73,6 +73,12 @@ Script: `src/section_4_feature_discovery/topic_ngram_analysis.py`
 
 ---
 
+## Topic modeling (LDA / NMF)
+
+Script: `src/section_4_feature_discovery/topic_modeling.py`
+
+---
+
 ## Επόμενο
 
-Topic modeling (LDA/NMF) → `src/section_4_feature_discovery/topic_modeling.py`
+Custom feature scoring → `src/section_4_feature_discovery/topic_custom_scoring.py`
