@@ -1,0 +1,5 @@
+topic,document_count,mean_document_custom_score,max_document_custom_score,mean_document_unigram_score,mean_document_bigram_score,mean_document_positional_score
+Artificial Intelligence,253,0.372003,0.723857,0.454709,0.31232,0.188114
+Climate Change,265,0.491466,0.765254,0.475932,0.688011,0.155335
+Cryptocurrency,272,0.311773,0.624919,0.441871,0.123687,0.210922
+Cybersecurity,266,0.310569,0.565047,0.399991,0.2125,0.178825

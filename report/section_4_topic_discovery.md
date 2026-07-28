@@ -79,6 +79,16 @@ Script: `src/section_4_feature_discovery/topic_modeling.py`
 
 ---
 
-## Επόμενο
+## Custom feature scoring (ολοκληρώθηκε)
 
-Custom feature scoring → `src/section_4_feature_discovery/topic_custom_scoring.py`
+Συνδυάζει: frequency, TF-IDF, topic-specific lift, sentiment association,
+positional weighting, bigram scoring, document-level scores.
+
+Outputs:
+- `data/features/features_enriched.csv`
+- `results/tables/section_4/topic_term_custom_scores.csv`
+- `results/tables/section_4/topic_bigram_custom_scores.csv`
+- `results/tables/section_4/topic_custom_scoring_weights.csv`
+- `results/figures/section_4/topic_custom_score_top15.png`
+
+Script: `src/section_4_feature_discovery/topic_custom_scoring.py`
