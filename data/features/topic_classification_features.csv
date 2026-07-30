@@ -1,0 +1,1057 @@
+post_id,item_id,topic,final_sentiment,split,document_unigram_score,document_bigram_score,document_positional_score,document_custom_score,matched_unigram_count,matched_bigram_count
+48763541,1,Artificial Intelligence,positive,train,0.285304,0.33282,0.063161,0.266237,6,1
+48760390,2,Artificial Intelligence,neutral,test,0.367081,0.0,0.101473,0.217116,3,0
+48735814,3,Artificial Intelligence,negative,train,0.431824,0.0,0.064198,0.247133,2,0
+48726491,4,Artificial Intelligence,neutral,train,0.465048,0.0,0.253885,0.293859,2,0
+48718328,5,Artificial Intelligence,negative,train,0.42463,0.0,0.240417,0.269609,4,0
+48713069,6,Artificial Intelligence,negative,train,0.47772,0.0,0.110041,0.279252,2,0
+48699484,7,Artificial Intelligence,neutral,train,0.706521,0.0,0.176751,0.415099,1,0
+48765367,8,Artificial Intelligence,neutral,train,0.727838,0.0,0.241094,0.436475,1,0
+48764961,9,Artificial Intelligence,neutral,train,0.475707,0.0,0.151401,0.284349,2,0
+48759295,10,Artificial Intelligence,negative,train,0.727838,0.0,0.482189,0.472639,1,0
+48756530,11,Artificial Intelligence,neutral,train,0.362174,0.0,0.201857,0.229474,4,0
+48753499,12,Artificial Intelligence,negative,train,0.5246,0.0,0.31323,0.335515,2,0
+48752694,13,Artificial Intelligence,positive,train,0.49647,0.328014,0.158765,0.395277,2,1
+48752435,14,Artificial Intelligence,positive,train,0.501575,0.0,0.246979,0.312913,2,0
+48572345,15,Artificial Intelligence,neutral,test,0.374387,0.0,0.08186,0.218192,1,0
+48321949,16,Artificial Intelligence,neutral,train,0.278833,0.0,0.274314,0.194505,4,0
+47611583,17,Artificial Intelligence,neutral,train,0.329916,0.370783,0.063857,0.302267,6,2
+48700545,18,Artificial Intelligence,neutral,train,0.670192,1.0,0.213663,0.700655,2,1
+48690164,19,Artificial Intelligence,neutral,train,0.491889,0.669316,0.174571,0.49752,4,2
+48677284,20,Artificial Intelligence,neutral,train,0.510783,0.664235,0.140203,0.501232,4,2
+48473855,21,Artificial Intelligence,neutral,test,0.495395,1.0,0.179925,0.599456,3,1
+48356265,22,Artificial Intelligence,neutral,test,0.495395,1.0,0.058531,0.581247,3,1
+47584847,23,Artificial Intelligence,neutral,train,0.511313,0.0,0.303823,0.326795,2,0
+47583990,24,Artificial Intelligence,negative,train,0.375049,0.0,0.275177,0.247553,3,0
+47572315,25,Artificial Intelligence,neutral,train,0.384227,0.33282,0.122829,0.329595,7,1
+47572013,26,Artificial Intelligence,negative,train,0.345884,0.167393,0.138649,0.261251,4,2
+47556698,27,Artificial Intelligence,positive,train,0.375832,0.0,0.127349,0.22581,3,0
+47543775,28,Artificial Intelligence,positive,train,0.706521,0.0,0.117834,0.406262,1,0
+47541456,29,Artificial Intelligence,negative,train,0.3685,0.0,0.155399,0.225985,3,0
+47589965,30,Artificial Intelligence,neutral,train,0.345195,0.37659,0.323761,0.351398,2,1
+47577248,31,Artificial Intelligence,neutral,train,0.402063,0.0,0.164167,0.24576,3,0
+47576402,32,Artificial Intelligence,neutral,train,0.727838,0.0,0.482189,0.472639,1,0
+47575882,33,Artificial Intelligence,neutral,train,0.727838,0.0,0.482189,0.472639,1,0
+47570708,34,Artificial Intelligence,negative,train,0.727838,0.0,0.241094,0.436475,1,0
+47570210,35,Artificial Intelligence,neutral,train,0.727838,0.0,0.241094,0.436475,1,0
+47430786,36,Artificial Intelligence,negative,train,0.374387,0.0,0.109146,0.222285,1,0
+47054845,37,Artificial Intelligence,neutral,train,0.388434,0.361276,0.066234,0.331957,6,3
+47552815,38,Artificial Intelligence,neutral,test,0.558255,1.0,0.135049,0.627298,3,1
+47475499,39,Artificial Intelligence,neutral,train,0.430364,1.0,0.192709,0.565606,5,1
+47306185,40,Artificial Intelligence,neutral,train,0.670192,1.0,0.059684,0.677558,2,1
+47255735,41,Artificial Intelligence,neutral,train,0.670192,1.0,0.113796,0.685675,2,1
+47179507,42,Artificial Intelligence,neutral,train,0.46678,1.0,0.224735,0.590439,4,1
+47134171,43,Artificial Intelligence,neutral,train,0.527902,1.0,0.276762,0.63186,4,1
+46729320,44,Artificial Intelligence,neutral,train,0.482923,1.0,0.041991,0.571907,3,1
+46626860,45,Artificial Intelligence,neutral,train,0.563219,1.0,0.283018,0.652223,3,1
+46449277,46,Artificial Intelligence,neutral,train,0.514232,0.0,0.251505,0.320554,2,0
+46443858,47,Artificial Intelligence,neutral,train,0.425169,0.0,0.170935,0.259483,4,0
+46440286,48,Artificial Intelligence,neutral,train,0.348177,0.328014,0.192527,0.318781,4,1
+46431055,49,Artificial Intelligence,neutral,test,0.385966,0.0,0.040946,0.218423,3,0
+46428650,50,Artificial Intelligence,negative,train,0.408802,0.033415,0.353902,0.287951,3,1
+46427822,51,Artificial Intelligence,negative,test,0.706521,0.0,0.353501,0.441612,1,0
+46446488,52,Artificial Intelligence,neutral,train,0.464769,0.328633,0.080237,0.366248,4,1
+46444887,53,Artificial Intelligence,neutral,test,0.414404,0.0,0.094396,0.242082,3,0
+46443096,54,Artificial Intelligence,neutral,train,0.554656,0.0,0.580365,0.392116,2,0
+46442802,55,Artificial Intelligence,neutral,test,0.0,0.0,0.0,0.0,0,0
+46442425,56,Artificial Intelligence,neutral,train,0.727838,0.0,0.482189,0.472639,1,0
+46439901,57,Artificial Intelligence,neutral,train,0.385966,0.0,0.074503,0.223457,4,0
+46436211,58,Artificial Intelligence,negative,test,0.727838,0.0,0.482189,0.472639,1,0
+46393258,59,Artificial Intelligence,neutral,test,0.574282,1.0,0.035468,0.621175,3,1
+46329242,60,Artificial Intelligence,neutral,train,0.670192,1.0,0.059684,0.677558,2,1
+46090660,61,Artificial Intelligence,negative,train,0.394306,0.668434,0.223996,0.450998,5,2
+45607623,62,Artificial Intelligence,neutral,train,0.511687,0.664235,0.296837,0.525224,4,2
+45593096,63,Artificial Intelligence,negative,train,0.457298,1.0,0.059805,0.560484,4,1
+45431199,64,Artificial Intelligence,negative,test,0.350636,0.0,0.181809,0.220121,3,0
+45422816,65,Artificial Intelligence,positive,train,0.518783,0.33282,0.239479,0.421099,2,1
+45422225,66,Artificial Intelligence,neutral,train,0.373473,0.33282,0.249528,0.342685,4,1
+45421206,67,Artificial Intelligence,neutral,train,0.326207,0.0,0.080969,0.191559,4,0
+45416172,68,Artificial Intelligence,neutral,train,0.299355,0.0,0.106347,0.180597,3,0
+45411073,69,Artificial Intelligence,positive,train,0.498956,0.0,0.279393,0.316335,2,0
+45421135,70,Artificial Intelligence,neutral,train,0.727838,0.0,0.241094,0.436475,1,0
+45400284,71,Artificial Intelligence,neutral,train,0.420714,0.0,0.151202,0.254073,4,0
+45400204,72,Artificial Intelligence,neutral,test,0.44571,0.0,0.285062,0.2879,3,0
+45398258,73,Artificial Intelligence,neutral,train,0.727838,0.0,0.16073,0.42442,1,0
+45375856,74,Artificial Intelligence,positive,train,0.511907,0.0,0.143094,0.303013,2,0
+44800370,75,Artificial Intelligence,neutral,test,0.342498,0.0,0.108075,0.204585,2,0
+45365864,76,Artificial Intelligence,neutral,train,0.415215,1.0,0.137438,0.548984,4,1
+45197881,77,Artificial Intelligence,neutral,train,0.451445,1.0,0.262035,0.5876,4,1
+45178989,78,Artificial Intelligence,neutral,train,0.670192,1.0,0.048304,0.675851,2,1
+44970346,79,Artificial Intelligence,positive,train,0.508848,1.0,0.161549,0.604099,4,1
+44851673,80,Artificial Intelligence,neutral,train,0.435093,0.662594,0.026252,0.442017,4,2
+44851461,81,Artificial Intelligence,neutral,train,0.475424,0.546577,0.128818,0.444779,4,3
+44723447,82,Artificial Intelligence,positive,train,0.542716,1.0,0.157749,0.622156,3,1
+44425382,83,Artificial Intelligence,negative,train,0.459595,0.0,0.588375,0.341034,2,0
+44417064,84,Artificial Intelligence,neutral,train,0.335164,0.0,0.332047,0.234147,4,0
+44415378,85,Artificial Intelligence,negative,train,0.434366,0.0,0.096551,0.253384,3,0
+44406376,86,Artificial Intelligence,negative,train,0.399466,0.35076,0.286992,0.367983,5,1
+44399707,87,Artificial Intelligence,neutral,train,0.588774,0.0,0.117813,0.341498,3,0
+44397874,88,Artificial Intelligence,negative,test,0.540454,0.0,0.062637,0.306645,2,0
+44384224,89,Artificial Intelligence,neutral,test,0.530002,0.0,0.038253,0.297239,2,0
+44379906,90,Artificial Intelligence,neutral,train,0.491791,0.328014,0.243309,0.405385,4,1
+44419960,91,Artificial Intelligence,negative,train,0.366827,0.0,0.206438,0.232721,5,0
+44403801,92,Artificial Intelligence,neutral,train,0.428002,0.0,0.387498,0.293526,3,0
+44403237,93,Artificial Intelligence,negative,test,0.385631,0.0,0.098924,0.226936,2,0
+44398204,94,Artificial Intelligence,negative,train,0.312485,0.0,0.092925,0.185805,4,0
+44384052,95,Artificial Intelligence,neutral,train,0.304447,0.352611,0.271818,0.314002,5,2
+44384049,96,Artificial Intelligence,negative,train,0.519591,0.0,0.1485,0.30805,2,0
+43741101,97,Artificial Intelligence,negative,train,0.290084,0.328014,0.08565,0.270798,4,2
+44227189,98,Artificial Intelligence,neutral,train,0.347053,0.376563,0.151187,0.326526,5,2
+44418102,99,Artificial Intelligence,positive,train,0.670192,1.0,0.078186,0.680333,2,1
+44364976,100,Artificial Intelligence,neutral,test,0.381759,1.0,0.033919,0.515055,5,1
+44309408,101,Artificial Intelligence,neutral,train,0.436504,0.664235,0.175091,0.465611,4,2
+44276415,102,Artificial Intelligence,negative,train,0.495395,1.0,0.098354,0.587221,3,1
+44095286,103,Artificial Intelligence,neutral,test,0.474148,1.0,0.094184,0.574909,4,1
+44085871,104,Artificial Intelligence,neutral,test,0.658716,0.0,0.055717,0.370651,1,0
+44075459,105,Artificial Intelligence,neutral,train,0.556191,1.0,0.202391,0.636264,3,1
+44029009,106,Artificial Intelligence,neutral,train,0.509047,0.664235,0.084072,0.491858,3,2
+43540791,107,Artificial Intelligence,neutral,test,0.340717,0.0,0.166163,0.212319,4,0
+43538532,108,Artificial Intelligence,neutral,test,0.706521,0.0,0.088375,0.401843,1,0
+43534845,109,Artificial Intelligence,neutral,train,0.303278,0.0,0.554573,0.249989,2,0
+43523937,110,Artificial Intelligence,neutral,train,0.368857,0.0,0.402693,0.263275,3,0
+43511008,111,Artificial Intelligence,positive,train,0.545088,0.33282,0.308239,0.44588,3,1
+43506960,112,Artificial Intelligence,negative,train,0.399079,0.0,0.103021,0.234946,3,0
+43502563,113,Artificial Intelligence,neutral,train,0.437646,0.0,0.299618,0.285648,2,0
+43539535,114,Artificial Intelligence,neutral,train,0.377399,0.0,0.505558,0.283403,3,0
+43524234,115,Artificial Intelligence,negative,train,0.517804,0.325886,0.524511,0.461235,2,1
+43518664,116,Artificial Intelligence,negative,train,0.46343,0.0,0.312801,0.301807,4,0
+43516422,117,Artificial Intelligence,neutral,test,0.519591,0.0,0.162476,0.310146,2,0
+43511245,118,Artificial Intelligence,neutral,train,0.332972,0.0,0.094197,0.197264,3,0
+43507222,119,Artificial Intelligence,negative,train,0.281968,0.37659,0.09438,0.282216,7,1
+43490774,120,Artificial Intelligence,negative,train,0.49647,0.0,0.269758,0.313522,2,0
+43489492,121,Artificial Intelligence,negative,train,0.404882,0.0,0.30669,0.268689,3,0
+43055324,122,Artificial Intelligence,neutral,test,0.335182,0.0,0.095473,0.198671,2,0
+42889554,123,Artificial Intelligence,neutral,train,0.335715,0.34717,0.169818,0.314267,7,4
+43538240,124,Artificial Intelligence,neutral,train,0.57159,1.0,0.148936,0.636715,3,1
+43411257,125,Artificial Intelligence,negative,train,0.530573,1.0,0.165752,0.616678,3,1
+43321983,126,Artificial Intelligence,neutral,train,0.670192,1.0,0.040585,0.674693,2,1
+43317314,127,Artificial Intelligence,neutral,train,0.481857,0.669316,0.082474,0.478187,4,2
+43244871,128,Artificial Intelligence,neutral,train,0.670192,1.0,0.048304,0.675851,2,1
+43177980,129,Artificial Intelligence,neutral,train,0.557561,1.0,0.225396,0.640468,3,1
+43164870,130,Artificial Intelligence,neutral,test,0.670192,1.0,0.078186,0.680333,2,1
+42559688,131,Artificial Intelligence,neutral,test,0.38052,0.33282,0.256534,0.347612,5,1
+42548116,132,Artificial Intelligence,neutral,train,0.423661,0.0,0.22072,0.266121,2,0
+42546904,133,Artificial Intelligence,neutral,train,0.706521,0.0,0.176751,0.415099,1,0
+42544502,134,Artificial Intelligence,positive,train,0.446023,0.33282,0.260076,0.38417,3,1
+42561466,135,Artificial Intelligence,neutral,train,0.508641,0.0,0.093722,0.293811,2,0
+42551167,136,Artificial Intelligence,negative,train,0.473355,0.0,0.35828,0.314088,2,0
+42545494,137,Artificial Intelligence,neutral,train,0.389877,0.0,0.163343,0.238934,3,0
+42536219,138,Artificial Intelligence,neutral,train,0.369318,0.322681,0.28064,0.342025,4,3
+42536143,139,Artificial Intelligence,negative,train,0.727838,0.0,0.16073,0.42442,1,0
+42536121,140,Artificial Intelligence,negative,train,0.389834,0.321079,0.055377,0.319039,3,2
+42529485,141,Artificial Intelligence,neutral,train,0.727838,0.0,0.096438,0.414777,1,0
+42526100,142,Artificial Intelligence,neutral,train,0.428789,0.0,0.088504,0.24911,3,0
+42480012,143,Artificial Intelligence,neutral,train,0.373839,0.361276,0.107663,0.330144,5,3
+42363586,144,Artificial Intelligence,neutral,train,0.360681,1.0,0.093395,0.512384,5,1
+42345948,145,Artificial Intelligence,neutral,train,0.473952,1.0,0.070072,0.571184,4,1
+42322121,146,Artificial Intelligence,neutral,train,0.479448,1.0,0.146344,0.585648,4,1
+42280984,147,Artificial Intelligence,positive,train,0.521057,1.0,0.092592,0.60047,3,1
+42256754,148,Artificial Intelligence,neutral,train,0.670192,1.0,0.213663,0.700655,2,1
+42155892,149,Artificial Intelligence,negative,train,0.42333,0.516707,0.226707,0.42185,5,2
+42150649,150,Artificial Intelligence,neutral,test,0.456671,1.0,0.051095,0.558833,4,1
+41702096,151,Artificial Intelligence,negative,train,0.369001,0.0,0.225434,0.236765,3,0
+41697025,152,Artificial Intelligence,negative,test,0.411284,0.0,0.222789,0.259625,2,0
+41693058,153,Artificial Intelligence,negative,train,0.475951,0.114983,0.08112,0.308436,2,3
+41692479,154,Artificial Intelligence,neutral,train,0.538825,0.0,0.194841,0.32558,3,0
+41691802,155,Artificial Intelligence,neutral,train,0.463893,0.0,0.202564,0.285526,2,0
+41684910,156,Artificial Intelligence,neutral,train,0.482905,0.0,0.301903,0.310883,2,0
+41677984,157,Artificial Intelligence,neutral,train,0.379656,0.0,0.087466,0.221931,3,0
+41701192,158,Artificial Intelligence,negative,test,0.436821,0.0,0.228948,0.274593,2,0
+41692438,159,Artificial Intelligence,negative,train,0.454977,0.0,0.259705,0.289193,2,0
+41685831,160,Artificial Intelligence,negative,train,0.52192,0.0,0.30157,0.332291,2,0
+41684990,161,Artificial Intelligence,negative,test,0.727838,0.0,0.120547,0.418393,1,0
+41682467,162,Artificial Intelligence,neutral,train,0.366138,0.0,0.087205,0.214457,3,0
+41677914,163,Artificial Intelligence,negative,train,0.316099,0.0,0.166377,0.198811,4,0
+41673789,164,Artificial Intelligence,negative,train,0.727838,0.0,0.482189,0.472639,1,0
+41682067,165,Artificial Intelligence,negative,train,0.369732,1.0,0.117173,0.520928,6,1
+41624919,166,Artificial Intelligence,positive,train,0.429415,0.49415,0.132209,0.404255,5,4
+41438315,167,Artificial Intelligence,neutral,train,0.379902,1.0,0.040178,0.514973,5,1
+41230072,168,Artificial Intelligence,neutral,train,0.416967,0.554607,0.265823,0.435587,5,3
+41203134,169,Artificial Intelligence,neutral,train,0.301406,0.509166,0.147553,0.340656,6,2
+41065134,170,Artificial Intelligence,neutral,test,0.670192,1.0,0.059684,0.677558,2,1
+40841166,171,Artificial Intelligence,neutral,train,0.394761,0.0,0.159974,0.241114,3,0
+40839264,172,Artificial Intelligence,negative,train,0.362022,0.328014,0.18931,0.325913,4,1
+40813371,173,Artificial Intelligence,positive,train,0.706521,0.0,0.058917,0.397424,1,0
+40810145,174,Artificial Intelligence,negative,train,0.706521,0.0,0.176751,0.415099,1,0
+40807992,175,Artificial Intelligence,neutral,test,0.450982,0.0,0.276751,0.289553,2,0
+40796141,176,Artificial Intelligence,negative,train,0.406268,0.328014,0.121743,0.340113,4,2
+40774885,177,Artificial Intelligence,negative,train,0.450825,0.35076,0.080483,0.365254,3,1
+40765626,178,Artificial Intelligence,neutral,train,0.463522,0.0,0.215368,0.287243,2,0
+40826675,179,Artificial Intelligence,negative,train,0.727838,0.0,0.120547,0.418393,1,0
+40819879,180,Artificial Intelligence,neutral,test,0.727838,0.0,0.482189,0.472639,1,0
+40807483,181,Artificial Intelligence,negative,train,0.381763,0.171478,0.158112,0.28513,3,2
+40806902,182,Artificial Intelligence,neutral,train,0.325644,0.33282,0.06889,0.289284,7,1
+40802916,183,Artificial Intelligence,neutral,train,0.418112,0.0,0.051522,0.23769,2,0
+40795462,184,Artificial Intelligence,neutral,train,0.305977,0.0,0.156759,0.191801,5,0
+40777981,185,Artificial Intelligence,neutral,train,0.302944,0.0,0.133505,0.186645,4,0
+40755392,186,Artificial Intelligence,negative,train,0.339845,0.328014,0.144188,0.306947,3,1
+39924872,187,Artificial Intelligence,negative,train,0.309602,0.0,0.052828,0.178205,4,0
+39904589,188,Artificial Intelligence,negative,test,0.379697,0.328014,0.154366,0.330392,4,1
+40732238,189,Artificial Intelligence,neutral,test,0.461641,1.0,0.085823,0.566776,4,1
+40690548,190,Artificial Intelligence,positive,test,0.670192,1.0,0.078186,0.680333,2,1
+40640302,191,Artificial Intelligence,positive,train,0.299665,0.0,0.126667,0.183816,7,0
+40614395,192,Artificial Intelligence,neutral,test,0.670192,1.0,0.113796,0.685675,2,1
+40612280,193,Artificial Intelligence,neutral,train,0.531057,1.0,0.13876,0.612895,3,1
+40598145,194,Artificial Intelligence,negative,train,0.511465,1.0,0.085569,0.594141,3,1
+39881096,195,Artificial Intelligence,neutral,train,0.389022,0.0,0.401009,0.274114,3,0
+39858199,196,Artificial Intelligence,negative,train,0.308837,0.0,0.08653,0.18284,4,0
+39850821,197,Artificial Intelligence,positive,train,0.352929,0.0,0.191289,0.222804,4,0
+39841862,198,Artificial Intelligence,neutral,train,0.267262,0.0,0.25921,0.185876,3,0
+39834432,199,Artificial Intelligence,negative,train,0.439096,0.329877,0.111141,0.357137,4,3
+39834096,200,Artificial Intelligence,neutral,train,0.399734,0.0,0.158886,0.243687,3,0
+39834089,201,Artificial Intelligence,neutral,train,0.281226,0.328014,0.095725,0.267438,2,1
+39878089,202,Artificial Intelligence,negative,train,0.41549,0.0,0.128352,0.247773,2,0
+39875323,203,Artificial Intelligence,negative,test,0.425163,0.0,0.133454,0.253858,2,0
+39874312,204,Artificial Intelligence,neutral,test,0.381024,0.0,0.133289,0.229557,4,0
+39867755,205,Artificial Intelligence,positive,train,0.727838,0.0,0.482189,0.472639,1,0
+39847676,206,Artificial Intelligence,negative,train,0.384651,0.0,0.262542,0.250939,3,0
+39825078,207,Artificial Intelligence,positive,train,0.402067,0.0,0.165369,0.245942,4,0
+39594291,208,Artificial Intelligence,neutral,test,0.426267,0.664007,0.11409,0.450762,5,2
+38830941,209,Artificial Intelligence,neutral,train,0.288704,0.0,0.204471,0.189458,2,0
+39304797,210,Artificial Intelligence,neutral,train,0.320761,0.34717,0.152981,0.303516,7,4
+39865855,211,Artificial Intelligence,positive,test,0.574282,1.0,0.025873,0.619736,3,1
+39674036,212,Artificial Intelligence,neutral,test,0.574282,1.0,0.150061,0.638364,3,1
+39638352,213,Artificial Intelligence,neutral,train,0.464402,1.0,0.078201,0.567151,4,1
+39599865,214,Artificial Intelligence,neutral,test,0.57159,1.0,0.169729,0.639834,3,1
+38824639,215,Artificial Intelligence,neutral,test,0.444788,0.0,0.074362,0.255788,3,0
+38822744,216,Artificial Intelligence,positive,train,0.382106,0.0,0.115102,0.227423,3,0
+38822261,217,Artificial Intelligence,positive,train,0.301914,0.0,0.112836,0.182978,3,0
+38822215,218,Artificial Intelligence,negative,train,0.394512,0.329877,0.173669,0.341995,5,3
+38820491,219,Artificial Intelligence,negative,train,0.479849,0.0,0.246682,0.300919,2,0
+38801459,220,Artificial Intelligence,negative,train,0.275221,0.0,0.247955,0.188565,5,0
+38801350,221,Artificial Intelligence,negative,train,0.531608,0.0,0.277209,0.333966,2,0
+38799059,222,Artificial Intelligence,neutral,train,0.393532,0.0,0.087896,0.229627,3,0
+38815248,223,Artificial Intelligence,neutral,train,0.727838,0.0,0.241094,0.436475,1,0
+38785119,224,Artificial Intelligence,neutral,train,0.385054,0.328014,0.139918,0.331172,5,2
+38782171,225,Artificial Intelligence,neutral,test,0.483954,0.0,0.089936,0.279665,2,0
+38773902,226,Artificial Intelligence,neutral,train,0.451952,0.0,0.28817,0.291799,2,0
+38761563,227,Artificial Intelligence,positive,train,0.727838,0.0,0.120547,0.418393,1,0
+38754452,228,Artificial Intelligence,negative,train,0.403003,0.0,0.319298,0.269546,3,0
+38317215,229,Artificial Intelligence,neutral,train,0.329541,0.328014,0.112475,0.296523,5,1
+38657666,230,Artificial Intelligence,neutral,train,0.330205,0.370783,0.068885,0.30318,7,2
+38481360,231,Artificial Intelligence,neutral,train,0.368994,0.376563,0.066402,0.325876,4,2
+38245544,232,Artificial Intelligence,neutral,train,0.410346,0.370783,0.179525,0.363854,5,2
+38110552,233,Artificial Intelligence,neutral,train,0.376062,0.357423,0.074815,0.325283,5,3
+37924839,234,Artificial Intelligence,neutral,test,0.368994,0.361276,0.041624,0.317573,4,3
+38777114,235,Artificial Intelligence,neutral,train,0.398226,0.668434,0.138376,0.440311,6,2
+38730978,236,Artificial Intelligence,neutral,train,0.519752,1.0,0.088816,0.599186,3,1
+38678813,237,Artificial Intelligence,neutral,train,0.670192,1.0,0.213663,0.700655,2,1
+38585936,238,Artificial Intelligence,neutral,train,0.400668,1.0,0.047073,0.527428,6,1
+38585640,239,Artificial Intelligence,positive,test,0.409262,1.0,0.207841,0.55627,5,1
+37720359,240,Artificial Intelligence,positive,train,0.383264,0.171703,0.127585,0.281444,4,2
+37718524,241,Artificial Intelligence,positive,train,0.387115,0.0,0.099595,0.227853,3,0
+37712585,242,Artificial Intelligence,positive,train,0.513941,0.328014,0.273092,0.422036,2,1
+37695136,243,Artificial Intelligence,neutral,test,0.706521,0.0,0.353501,0.441612,1,0
+37693558,244,Artificial Intelligence,neutral,train,0.353051,0.0,0.221059,0.227337,3,0
+37681016,245,Artificial Intelligence,negative,train,0.397076,0.33282,0.276511,0.359714,3,1
+37695952,246,Artificial Intelligence,positive,test,0.727838,0.0,0.241094,0.436475,1,0
+37693322,247,Artificial Intelligence,neutral,train,0.301514,0.37659,0.183833,0.306385,4,1
+37681764,248,Artificial Intelligence,neutral,train,0.337552,0.0,0.22389,0.219237,3,0
+37676648,249,Artificial Intelligence,neutral,train,0.449479,0.0,0.181069,0.274374,3,0
+37674094,250,Artificial Intelligence,neutral,test,0.463711,0.0,0.210791,0.28666,2,0
+37662846,251,Artificial Intelligence,neutral,train,0.490313,0.0,0.306072,0.315583,2,0
+37660988,252,Artificial Intelligence,neutral,train,0.345195,0.37659,0.093219,0.316817,2,1
+37658835,253,Artificial Intelligence,neutral,test,0.727838,0.0,0.16073,0.42442,1,0
+48741668,254,Cryptocurrency,negative,train,0.350913,0.0,0.284835,0.235728,3,0
+48718296,255,Cryptocurrency,neutral,train,0.405985,0.0,0.18266,0.250691,5,0
+48699643,256,Cryptocurrency,neutral,train,0.284593,0.0,0.074762,0.16774,4,0
+48694469,257,Cryptocurrency,neutral,train,0.177605,0.0,0.204001,0.128283,5,0
+48649214,258,Cryptocurrency,neutral,train,0.386311,0.0,0.104455,0.228139,3,0
+48645097,259,Cryptocurrency,neutral,train,0.345813,0.0,0.304222,0.235831,4,0
+48643025,260,Cryptocurrency,negative,train,0.434982,0.0,0.115822,0.256614,3,0
+48716026,261,Cryptocurrency,neutral,train,0.500053,0.0,0.286529,0.318009,2,0
+48646134,262,Cryptocurrency,neutral,train,0.499705,0.0,0.064189,0.284466,2,0
+48501229,263,Cryptocurrency,neutral,train,0.684352,0.0,0.151866,0.399174,1,0
+48660732,264,Cryptocurrency,neutral,train,0.395952,0.0,0.271111,0.25844,3,0
+48655511,265,Cryptocurrency,neutral,test,0.555169,0.0,0.209206,0.336724,3,0
+48648998,266,Cryptocurrency,neutral,test,0.430981,0.0,0.202381,0.267397,2,0
+48648738,267,Cryptocurrency,neutral,train,0.324577,0.0,0.181428,0.205731,3,0
+48643097,268,Cryptocurrency,neutral,train,0.296231,0.0,0.235157,0.1982,4,0
+48585856,269,Cryptocurrency,neutral,train,0.658805,0.0,0.2,0.392343,1,0
+48512703,270,Cryptocurrency,negative,test,0.305369,0.0,0.240952,0.204096,3,0
+48767484,271,Cryptocurrency,negative,train,0.365984,0.0,0.390476,0.259863,1,0
+48750846,272,Cryptocurrency,negative,train,0.3453,0.0,0.185273,0.217706,3,0
+48749527,273,Cryptocurrency,neutral,train,0.239517,0.0,0.079735,0.143695,3,0
+48743652,274,Cryptocurrency,neutral,test,0.365984,0.0,0.390476,0.259863,1,0
+48743512,275,Cryptocurrency,neutral,train,0.277411,0.0,0.180092,0.17959,4,0
+48738705,276,Cryptocurrency,negative,test,0.383234,0.0,0.15463,0.233973,2,0
+48738306,277,Cryptocurrency,negative,train,0.640717,0.0,0.139153,0.373267,1,0
+48749831,278,Cryptocurrency,negative,train,0.478134,0.0,0.26182,0.302247,2,0
+48682441,279,Cryptocurrency,negative,train,0.22251,0.0,0.133985,0.142478,4,0
+48662488,280,Cryptocurrency,negative,train,0.493504,0.0,0.332563,0.321312,2,0
+48647899,281,Cryptocurrency,neutral,train,0.402797,0.484988,0.084645,0.379732,3,1
+48569615,282,Cryptocurrency,negative,train,0.755801,0.0,0.158645,0.439487,1,0
+48509350,283,Cryptocurrency,neutral,test,0.755801,0.0,0.063458,0.425209,1,0
+48488051,284,Cryptocurrency,neutral,train,0.755801,0.0,0.105763,0.431555,1,0
+48417368,285,Cryptocurrency,neutral,train,0.418156,0.533341,0.181616,0.417231,4,1
+47547336,286,Cryptocurrency,neutral,train,0.319204,0.0,0.051416,0.183275,4,0
+47541758,287,Cryptocurrency,negative,train,0.207495,0.0,0.083333,0.126623,2,0
+47541748,288,Cryptocurrency,neutral,test,0.573294,0.613974,0.187015,0.527556,2,1
+47527660,289,Cryptocurrency,neutral,test,0.468927,0.0,0.17962,0.284853,3,0
+47460751,290,Cryptocurrency,positive,test,0.573294,0.0,0.184093,0.342925,2,0
+47455359,291,Cryptocurrency,neutral,train,0.393395,0.0,0.23766,0.252016,4,0
+47454674,292,Cryptocurrency,neutral,train,0.505249,0.0,0.240885,0.31402,2,0
+47454630,293,Cryptocurrency,negative,train,0.30994,0.0,0.145687,0.19232,5,0
+47593311,294,Cryptocurrency,neutral,train,0.302237,0.0,0.194561,0.195414,4,0
+47364722,295,Cryptocurrency,neutral,train,0.528534,0.0,0.213282,0.322686,3,0
+46932393,296,Cryptocurrency,negative,train,0.444974,0.0,0.253593,0.282775,2,0
+46799545,297,Cryptocurrency,neutral,train,0.501397,0.0,0.112505,0.292644,2,0
+47531362,298,Cryptocurrency,negative,train,0.658805,0.0,0.4,0.422343,1,0
+47381059,299,Cryptocurrency,neutral,train,0.386924,0.0,0.263492,0.252332,3,0
+47131387,300,Cryptocurrency,negative,train,0.535227,0.0,0.27347,0.335395,2,0
+47127822,301,Cryptocurrency,neutral,train,0.345201,0.0,0.155291,0.213154,3,0
+47097738,302,Cryptocurrency,neutral,train,0.341645,0.0,0.091707,0.201661,4,0
+47081062,303,Cryptocurrency,neutral,train,0.275459,0.0,0.185817,0.179375,7,0
+46917869,304,Cryptocurrency,neutral,train,0.482495,0.0,0.155952,0.288765,2,0
+47573594,305,Cryptocurrency,negative,train,0.450274,0.0,0.113174,0.264627,2,0
+47546908,306,Cryptocurrency,negative,train,0.165524,0.0,0.035714,0.096395,1,0
+47544436,307,Cryptocurrency,negative,train,0.261737,0.533341,0.228698,0.338263,5,1
+47539441,308,Cryptocurrency,negative,train,0.426165,0.0,0.379101,0.291256,2,0
+47498724,309,Cryptocurrency,negative,train,0.354928,0.0,0.135283,0.215503,4,0
+47516115,310,Cryptocurrency,neutral,train,0.312203,0.0,0.198882,0.201544,4,0
+47515076,311,Cryptocurrency,negative,train,0.416728,0.0,0.212475,0.261072,3,0
+47507783,312,Cryptocurrency,neutral,train,0.521747,0.679823,0.154945,0.51415,2,1
+47504503,313,Cryptocurrency,negative,train,0.470865,0.0,0.094151,0.273099,2,0
+47497074,314,Cryptocurrency,neutral,train,0.259818,0.0,0.158127,0.166619,4,0
+47457981,315,Cryptocurrency,neutral,test,0.458903,0.0,0.248879,0.289729,3,0
+47317576,316,Cryptocurrency,negative,train,0.462227,0.0,0.099185,0.269103,2,0
+47295337,317,Cryptocurrency,negative,train,0.40254,0.0,0.200515,0.251474,3,0
+46440918,318,Cryptocurrency,negative,train,0.709039,0.0,0.106951,0.406014,1,0
+46432302,319,Cryptocurrency,neutral,train,0.535058,0.0,0.319252,0.34217,2,0
+46391495,320,Cryptocurrency,negative,train,0.272322,0.123902,0.17082,0.212571,5,1
+46377292,321,Cryptocurrency,negative,train,0.560376,0.0,0.5713,0.393902,2,0
+46363074,322,Cryptocurrency,neutral,train,0.347174,0.0,0.081968,0.203241,3,0
+46362541,323,Cryptocurrency,negative,train,0.350118,0.0,0.086411,0.205527,4,0
+46194765,324,Cryptocurrency,neutral,train,0.45445,0.0,0.40637,0.310903,2,0
+45944917,325,Cryptocurrency,neutral,train,0.372337,0.533341,0.153681,0.38784,4,1
+45910954,326,Cryptocurrency,neutral,train,0.0,0.0,0.0,0.0,0,0
+46439461,327,Cryptocurrency,neutral,train,0.658805,0.0,0.133333,0.382343,1,0
+46404112,328,Cryptocurrency,neutral,test,0.658805,0.0,0.08,0.374343,1,0
+46359615,329,Cryptocurrency,negative,train,0.361766,0.0,0.165906,0.223857,5,0
+46302446,330,Cryptocurrency,negative,train,0.658805,0.0,0.133333,0.382343,1,0
+46287175,331,Cryptocurrency,neutral,train,0.488276,1.0,0.149792,0.591021,3,1
+46281868,332,Cryptocurrency,neutral,train,0.535633,0.533341,0.191667,0.483351,2,1
+46240693,333,Cryptocurrency,negative,train,0.429636,0.0,0.376191,0.292729,2,0
+46431403,334,Cryptocurrency,positive,train,0.405517,0.0,0.150794,0.245653,2,0
+46431385,335,Cryptocurrency,neutral,train,0.365591,0.0,0.209788,0.232543,3,0
+46429852,336,Cryptocurrency,negative,train,0.342008,0.766658,0.120779,0.436219,7,2
+46423112,337,Cryptocurrency,negative,test,0.478235,0.0,0.143518,0.284557,2,0
+46363221,338,Cryptocurrency,negative,train,0.372976,0.0,0.276198,0.246566,3,0
+46410150,339,Cryptocurrency,negative,test,0.755801,0.0,0.31729,0.463284,1,0
+46397180,340,Cryptocurrency,negative,train,0.755801,0.0,0.105763,0.431555,1,0
+46374609,341,Cryptocurrency,neutral,train,0.755801,0.0,0.105763,0.431555,1,0
+46200037,342,Cryptocurrency,positive,train,0.37686,0.0,0.17656,0.233757,4,0
+46195399,343,Cryptocurrency,neutral,test,0.292728,0.0,0.149932,0.18349,1,0
+46189227,344,Cryptocurrency,neutral,train,0.470799,0.0,0.539661,0.339889,2,0
+46188440,345,Cryptocurrency,neutral,train,0.47428,0.0,0.056203,0.269285,2,0
+45426549,346,Cryptocurrency,neutral,test,0.674878,0.0,0.088264,0.384422,2,0
+45418418,347,Cryptocurrency,neutral,train,0.499266,0.0,0.290621,0.318189,2,0
+45410751,348,Cryptocurrency,neutral,test,0.436351,0.533341,0.126899,0.41903,3,1
+45393767,349,Cryptocurrency,negative,test,0.709039,0.0,0.213901,0.422057,1,0
+45352917,350,Cryptocurrency,negative,train,0.51622,0.0,0.273425,0.324935,2,0
+45310481,351,Cryptocurrency,negative,train,0.343468,0.0,0.148248,0.211144,5,0
+45308277,352,Cryptocurrency,neutral,test,0.535058,0.0,0.113547,0.311314,2,0
+45134539,353,Cryptocurrency,neutral,train,0.5721,0.533341,0.189719,0.503115,3,1
+45131943,354,Cryptocurrency,neutral,test,0.354739,0.0,0.209352,0.226509,3,0
+45131615,355,Cryptocurrency,neutral,train,0.385382,0.0,0.251008,0.249611,3,0
+45130258,356,Cryptocurrency,neutral,train,0.386591,0.0,0.243129,0.249095,3,0
+44997332,357,Cryptocurrency,neutral,train,0.492351,0.0,0.145645,0.29264,2,0
+44570224,358,Cryptocurrency,neutral,test,0.501397,0.0,0.261132,0.314938,2,0
+44529932,359,Cryptocurrency,negative,train,0.39143,0.0,0.419848,0.278264,3,0
+45399472,360,Cryptocurrency,negative,train,0.292534,0.485747,0.183987,0.334216,8,1
+45348852,361,Cryptocurrency,neutral,train,0.442324,1.0,0.278193,0.585007,3,1
+45280489,362,Cryptocurrency,negative,train,0.262418,0.0,0.061428,0.153544,1,0
+45170370,363,Cryptocurrency,negative,train,0.354456,0.0,0.178571,0.221737,4,0
+44988650,364,Cryptocurrency,negative,train,0.44478,0.0,0.362699,0.299034,2,0
+44943041,365,Cryptocurrency,neutral,test,0.512394,0.0,0.137619,0.30246,2,0
+44920905,366,Cryptocurrency,neutral,test,0.683922,0.0,0.306951,0.4222,2,0
+44885515,367,Cryptocurrency,neutral,test,0.302747,0.0,0.082619,0.178903,2,0
+45430682,368,Cryptocurrency,neutral,test,0.539133,0.0,0.167897,0.321707,2,0
+45428396,369,Cryptocurrency,negative,train,0.347714,1.0,0.288615,0.534535,4,1
+45427247,370,Cryptocurrency,neutral,train,0.424947,0.0,0.106831,0.249746,2,0
+45403293,371,Cryptocurrency,neutral,train,0.640717,0.0,0.41746,0.415013,1,0
+45401136,372,Cryptocurrency,negative,train,0.506935,0.533341,0.083862,0.451396,2,1
+45424639,373,Cryptocurrency,negative,train,0.46219,0.679823,0.226003,0.492052,3,1
+45401058,374,Cryptocurrency,negative,train,0.408794,0.0,0.222211,0.258169,3,0
+45388992,375,Cryptocurrency,neutral,train,0.755801,0.0,0.158645,0.439487,1,0
+45381254,376,Cryptocurrency,negative,train,0.583757,0.0,0.531729,0.400825,2,0
+45352884,377,Cryptocurrency,negative,train,0.755801,0.0,0.105763,0.431555,1,0
+45351114,378,Cryptocurrency,neutral,train,0.309159,0.0,0.196354,0.199491,4,0
+45350302,379,Cryptocurrency,negative,train,0.37661,0.121263,0.148052,0.265722,4,1
+44427524,380,Cryptocurrency,neutral,train,0.507612,0.0,0.428443,0.343453,2,0
+44426648,381,Cryptocurrency,negative,train,0.573294,0.0,0.302729,0.360721,2,0
+44415758,382,Cryptocurrency,neutral,train,0.34449,0.0,0.13949,0.210393,4,0
+44377899,383,Cryptocurrency,negative,train,0.456098,0.0,0.342729,0.302263,2,0
+44356017,384,Cryptocurrency,negative,train,0.531713,0.533341,0.118919,0.470283,2,1
+44354814,385,Cryptocurrency,neutral,train,0.709039,0.0,0.142601,0.411362,1,0
+44348867,386,Cryptocurrency,neutral,train,0.709039,0.0,0.427802,0.454142,1,0
+44415585,387,Cryptocurrency,neutral,train,0.684352,0.0,0.455598,0.444733,1,0
+44144815,388,Cryptocurrency,neutral,train,0.407627,0.0,0.238998,0.260045,2,0
+43697862,389,Cryptocurrency,negative,train,0.684352,0.0,0.227799,0.410563,1,0
+43568518,390,Cryptocurrency,neutral,train,0.684352,0.0,0.09112,0.390062,1,0
+43542455,391,Cryptocurrency,neutral,test,0.684352,0.0,0.455598,0.444733,1,0
+44331685,392,Cryptocurrency,neutral,train,0.535633,0.533341,0.191667,0.483351,2,1
+44228152,393,Cryptocurrency,neutral,train,0.345177,0.0,0.10754,0.205978,4,0
+44119213,394,Cryptocurrency,positive,train,0.38704,0.533341,0.18475,0.400587,4,1
+44113781,395,Cryptocurrency,neutral,train,0.395292,1.0,0.19781,0.547082,4,1
+44086246,396,Cryptocurrency,negative,train,0.658805,0.0,0.4,0.422343,1,0
+44058783,397,Cryptocurrency,positive,train,0.418687,0.0,0.2097,0.261733,3,0
+44025064,398,Cryptocurrency,negative,train,0.426339,0.0,0.409524,0.295915,3,0
+44020665,399,Cryptocurrency,negative,train,0.334495,0.0,0.259083,0.222834,3,0
+44422952,400,Cryptocurrency,neutral,train,0.438951,0.0,0.122628,0.259817,3,0
+44411518,401,Cryptocurrency,negative,train,0.352408,0.533341,0.105067,0.369586,4,1
+44398086,402,Cryptocurrency,positive,train,0.164866,0.0,0.130698,0.110281,3,0
+44393371,403,Cryptocurrency,negative,train,0.26511,0.0,0.076064,0.15722,4,0
+44388114,404,Cryptocurrency,neutral,test,0.49915,0.0,0.254762,0.312747,3,0
+44355360,405,Cryptocurrency,neutral,test,0.640717,0.0,0.104365,0.368049,1,0
+44334334,406,Cryptocurrency,neutral,train,0.755801,0.0,0.158645,0.439487,1,0
+44275549,407,Cryptocurrency,neutral,train,0.47642,0.0,0.337217,0.312614,2,0
+44240434,408,Cryptocurrency,neutral,train,0.463059,0.0,0.119298,0.272577,2,0
+44169185,409,Cryptocurrency,positive,train,0.316427,0.417126,0.121483,0.317395,7,2
+44141778,410,Cryptocurrency,neutral,train,0.437973,0.0,0.344117,0.292503,3,0
+44096727,411,Cryptocurrency,positive,train,0.379668,0.0,0.207134,0.239888,4,0
+43489755,412,Cryptocurrency,neutral,train,0.498366,0.0,0.275427,0.315415,2,0
+43478432,413,Cryptocurrency,neutral,train,0.512396,0.0,0.130031,0.301323,2,0
+43468097,414,Cryptocurrency,negative,train,0.404619,0.613974,0.351906,0.459519,4,1
+43447248,415,Cryptocurrency,neutral,train,0.472949,0.0,0.128493,0.279396,2,0
+43422781,416,Cryptocurrency,positive,train,0.393667,0.766658,0.156883,0.470047,5,1
+43192117,417,Cryptocurrency,negative,test,0.486022,0.0,0.181942,0.294604,2,0
+43127421,418,Cryptocurrency,neutral,train,0.684352,0.0,0.151866,0.399174,1,0
+43060582,419,Cryptocurrency,neutral,train,0.696695,0.0,0.3278,0.432353,2,0
+42925658,420,Cryptocurrency,negative,train,0.56204,0.0,0.094263,0.323261,3,0
+42832570,421,Cryptocurrency,neutral,train,0.395261,0.117776,0.439342,0.318627,3,1
+43478454,422,Cryptocurrency,neutral,train,0.658805,0.0,0.133333,0.382343,1,0
+43450273,423,Cryptocurrency,negative,train,0.357561,0.352767,0.35715,0.356061,4,3
+43439266,424,Cryptocurrency,positive,train,0.526183,1.0,0.162188,0.613729,2,1
+43396923,425,Cryptocurrency,neutral,train,0.683922,0.0,0.173617,0.4022,2,0
+43291092,426,Cryptocurrency,neutral,train,0.419646,0.0,0.089365,0.24421,3,0
+43291043,427,Cryptocurrency,neutral,train,0.262087,0.0,0.303135,0.189618,4,0
+43288657,428,Cryptocurrency,neutral,train,0.658805,0.0,0.4,0.422343,1,0
+43258147,429,Cryptocurrency,negative,train,0.330024,0.0,0.097641,0.196159,5,0
+43529795,430,Cryptocurrency,neutral,test,0.0,0.0,0.0,0.0,0,0
+43528340,431,Cryptocurrency,neutral,train,0.289066,0.0,0.004859,0.159715,1,0
+43527288,432,Cryptocurrency,neutral,train,0.640717,0.0,0.41746,0.415013,1,0
+43525838,433,Cryptocurrency,negative,train,0.366433,0.0,0.377778,0.258205,3,0
+43512062,434,Cryptocurrency,neutral,train,0.418878,0.0,0.387301,0.288478,2,0
+43511066,435,Cryptocurrency,neutral,train,0.351996,0.0,0.114365,0.210753,3,0
+43510982,436,Cryptocurrency,neutral,test,0.489758,0.0,0.296032,0.313772,2,0
+43510879,437,Cryptocurrency,neutral,train,0.316891,0.0,0.107984,0.190488,5,0
+43500259,438,Cryptocurrency,negative,train,0.755801,0.0,0.31729,0.463284,1,0
+43482764,439,Cryptocurrency,neutral,train,0.327981,0.121192,0.206643,0.247743,5,1
+43472341,440,Cryptocurrency,positive,train,0.375569,0.0,0.170175,0.232089,3,0
+43440496,441,Cryptocurrency,neutral,train,0.755801,0.0,0.31729,0.463284,1,0
+43400044,442,Cryptocurrency,neutral,train,0.375807,0.766658,0.218949,0.469533,5,1
+43376164,443,Cryptocurrency,neutral,test,0.505677,0.0,0.053164,0.286097,2,0
+43361808,444,Cryptocurrency,negative,train,0.404807,0.0,0.154179,0.245771,4,0
+42559938,445,Cryptocurrency,positive,test,0.709039,0.0,0.213901,0.422057,1,0
+42520377,446,Cryptocurrency,neutral,train,0.497565,0.0,0.416475,0.336132,2,0
+42476433,447,Cryptocurrency,neutral,train,0.439065,0.0,0.416282,0.303928,2,0
+42476368,448,Cryptocurrency,negative,train,0.709039,0.0,0.106951,0.406014,1,0
+42470747,449,Cryptocurrency,positive,test,0.469006,0.766658,0.073415,0.498963,3,1
+42463564,450,Cryptocurrency,negative,train,0.408494,0.613974,0.087504,0.421989,3,1
+42404033,451,Cryptocurrency,negative,train,0.709039,0.0,0.427802,0.454142,1,0
+42486004,452,Cryptocurrency,neutral,train,0.402053,0.0,0.239954,0.257122,3,0
+42484279,453,Cryptocurrency,neutral,train,0.454019,0.120653,0.164093,0.31052,2,1
+42294335,454,Cryptocurrency,neutral,test,0.684352,0.0,0.455598,0.444733,1,0
+42147299,455,Cryptocurrency,positive,train,0.463387,0.0,0.186257,0.282801,3,0
+42517142,456,Cryptocurrency,negative,train,0.452261,0.766658,0.22164,0.511987,3,1
+42451282,457,Cryptocurrency,negative,train,0.391708,0.0,0.100265,0.230479,2,0
+42367188,458,Cryptocurrency,neutral,train,0.437444,0.0,0.223598,0.274134,3,0
+42357883,459,Cryptocurrency,negative,train,0.441677,0.0,0.42381,0.306494,2,0
+42259648,460,Cryptocurrency,negative,train,0.262418,0.0,0.122857,0.162758,1,0
+41953482,461,Cryptocurrency,negative,train,0.357305,0.0,0.175132,0.222788,3,0
+41806151,462,Cryptocurrency,negative,train,0.343739,0.0,0.33627,0.239497,4,0
+41749452,463,Cryptocurrency,positive,test,0.248972,0.0,0.394762,0.196149,2,0
+42562230,464,Cryptocurrency,neutral,train,0.640717,0.0,0.104365,0.368049,1,0
+42554595,465,Cryptocurrency,negative,train,0.487171,0.0,0.216893,0.300478,2,0
+42551664,466,Cryptocurrency,neutral,train,0.444271,0.0,0.498765,0.319164,3,0
+42537877,467,Cryptocurrency,negative,train,0.495499,0.0,0.176719,0.299032,2,0
+42509224,468,Cryptocurrency,neutral,test,0.382045,0.0,0.164771,0.23484,3,0
+42504911,469,Cryptocurrency,neutral,train,0.108381,0.0,0.082063,0.071919,2,0
+42500652,470,Cryptocurrency,neutral,test,0.640717,0.0,0.20873,0.383704,1,0
+42525674,471,Cryptocurrency,negative,train,0.408758,0.533341,0.184679,0.412521,6,1
+42524982,472,Cryptocurrency,negative,train,0.421679,0.533341,0.150439,0.414492,4,1
+42522607,473,Cryptocurrency,neutral,train,0.38181,0.417459,0.351981,0.38803,4,3
+42449998,474,Cryptocurrency,neutral,train,0.464892,0.533341,0.099406,0.430604,4,1
+42432490,475,Cryptocurrency,negative,train,0.430208,0.0,0.043661,0.243164,3,0
+42398488,476,Cryptocurrency,negative,train,0.403018,0.0,0.074721,0.232868,3,0
+42387705,477,Cryptocurrency,negative,test,0.755801,0.0,0.063458,0.425209,1,0
+42382141,478,Cryptocurrency,negative,train,0.48827,0.0,0.179809,0.29552,2,0
+41694420,479,Cryptocurrency,neutral,train,0.439678,0.0,0.23919,0.277701,2,0
+41690150,480,Cryptocurrency,negative,test,0.436038,0.0,0.255568,0.278156,2,0
+41689922,481,Cryptocurrency,negative,test,0.512396,0.0,0.146104,0.303734,2,0
+41669744,482,Cryptocurrency,neutral,train,0.357353,0.0,0.341184,0.247722,3,0
+41623339,483,Cryptocurrency,neutral,train,0.604261,0.484988,0.239133,0.51371,3,1
+41613831,484,Cryptocurrency,negative,test,0.709039,0.0,0.213901,0.422057,1,0
+41601607,485,Cryptocurrency,neutral,test,0.272725,0.078613,0.096949,0.188125,3,1
+41672926,486,Cryptocurrency,neutral,train,0.373189,0.0,0.187974,0.23345,4,0
+41593192,487,Cryptocurrency,neutral,train,0.485641,0.0,0.355084,0.320365,2,0
+41463308,488,Cryptocurrency,neutral,train,0.495269,0.0,0.433076,0.337359,2,0
+41166154,489,Cryptocurrency,neutral,train,0.46141,0.0,0.260609,0.292867,3,0
+41166067,490,Cryptocurrency,positive,train,0.385652,0.0,0.139843,0.233085,4,0
+41128746,491,Cryptocurrency,negative,train,0.403188,0.0,0.111061,0.238413,3,0
+40864392,492,Cryptocurrency,positive,train,0.684352,0.0,0.455598,0.444733,1,0
+41674001,493,Cryptocurrency,neutral,test,0.262418,0.0,0.122857,0.162758,1,0
+41579163,494,Cryptocurrency,negative,test,0.342564,0.0,0.113968,0.205506,3,0
+41521097,495,Cryptocurrency,neutral,test,0.658805,0.0,0.2,0.392343,1,0
+41463470,496,Cryptocurrency,negative,train,0.408362,1.0,0.183685,0.552152,4,1
+41463444,497,Cryptocurrency,neutral,train,0.30725,0.0,0.190658,0.197586,5,0
+41460922,498,Cryptocurrency,neutral,test,0.492829,0.0,0.254285,0.309199,2,0
+41452829,499,Cryptocurrency,negative,train,0.247836,0.0,0.19783,0.165984,4,0
+41397532,500,Cryptocurrency,neutral,train,0.405472,0.0,0.332804,0.27293,3,0
+41703092,501,Cryptocurrency,neutral,train,0.32778,0.0,0.118915,0.198116,3,0
+41682649,502,Cryptocurrency,neutral,test,0.640717,0.0,0.20873,0.383704,1,0
+41672642,503,Cryptocurrency,negative,train,0.371035,0.533341,0.297954,0.408764,3,1
+41649877,504,Cryptocurrency,negative,train,0.276452,0.085253,0.11723,0.195209,6,2
+41636341,505,Cryptocurrency,negative,train,0.282143,0.0,0.18973,0.183638,4,0
+41629685,506,Cryptocurrency,negative,test,0.405517,0.0,0.255159,0.261308,2,0
+41677402,507,Cryptocurrency,positive,test,0.755801,0.0,0.105763,0.431555,1,0
+41642270,508,Cryptocurrency,positive,train,0.558439,0.0,0.102496,0.322516,2,0
+41623873,509,Cryptocurrency,neutral,train,0.449686,0.0,0.088164,0.260552,3,0
+41579872,510,Cryptocurrency,negative,test,0.493278,0.0,0.378279,0.328045,2,0
+41579707,511,Cryptocurrency,neutral,train,0.443104,0.374802,0.187988,0.384346,5,3
+41579235,512,Cryptocurrency,neutral,train,0.292728,0.0,0.089959,0.174494,1,0
+41577514,513,Cryptocurrency,negative,train,0.323299,0.0,0.07724,0.1894,4,0
+40837713,514,Cryptocurrency,neutral,test,0.674878,0.0,0.15784,0.394859,2,0
+40837297,515,Cryptocurrency,neutral,train,0.446539,0.0,0.380824,0.30272,2,0
+40833318,516,Cryptocurrency,positive,train,0.393459,0.350809,0.10942,0.338058,4,2
+40832846,517,Cryptocurrency,negative,test,0.458082,0.0,0.148681,0.274247,2,0
+40823418,518,Cryptocurrency,negative,train,0.362937,0.533341,0.17893,0.386457,4,1
+40807195,519,Cryptocurrency,neutral,test,0.439065,0.0,0.511713,0.318243,2,0
+40791995,520,Cryptocurrency,neutral,train,0.709039,0.0,0.427802,0.454142,1,0
+40722936,521,Cryptocurrency,neutral,train,0.33876,0.533341,0.258475,0.385092,4,1
+40382175,522,Cryptocurrency,neutral,train,0.684352,0.0,0.075933,0.387784,1,0
+40372541,523,Cryptocurrency,negative,test,0.684352,0.0,0.227799,0.410563,1,0
+40313198,524,Cryptocurrency,neutral,train,0.459896,0.0,0.397183,0.31252,3,0
+40088026,525,Cryptocurrency,negative,test,0.684352,0.0,0.1139,0.393479,1,0
+48764902,526,Climate Change,neutral,train,0.370081,1.0,0.12767,0.522695,8,1
+48754743,527,Climate Change,neutral,test,0.485274,1.0,0.091665,0.58065,4,1
+48699253,528,Climate Change,negative,train,0.540793,0.542969,0.161037,0.484482,4,3
+48698437,529,Climate Change,negative,train,0.583068,1.0,0.18209,0.648001,3,1
+48655983,530,Climate Change,negative,train,0.775482,1.0,0.243589,0.763053,2,1
+48654292,531,Climate Change,negative,train,0.473052,0.409452,0.152684,0.405917,5,4
+48651480,532,Climate Change,neutral,train,0.775482,1.0,0.243589,0.763053,2,1
+48135720,533,Climate Change,negative,train,0.486139,0.829277,0.19806,0.545869,4,1
+48110825,534,Climate Change,negative,test,0.614939,0.829277,0.057962,0.595694,2,1
+48496312,535,Climate Change,neutral,train,0.435063,0.32384,0.242887,0.37287,3,1
+48400102,536,Climate Change,negative,train,0.382917,0.515349,0.087853,0.378387,3,1
+48335601,537,Climate Change,neutral,train,0.284674,0.515349,0.154215,0.334307,5,1
+48052204,538,Climate Change,positive,train,0.348396,0.416334,0.276047,0.357925,5,2
+47742998,539,Climate Change,neutral,train,0.398462,0.515349,0.257702,0.412414,3,1
+47741372,540,Climate Change,negative,train,0.372248,0.515349,0.201722,0.389599,3,1
+48594329,541,Climate Change,negative,train,0.49911,0.433806,0.090672,0.418253,3,2
+48465879,542,Climate Change,neutral,train,0.431098,0.510305,0.064198,0.399825,4,2
+48462880,543,Climate Change,neutral,train,0.565514,0.538565,0.084242,0.485239,2,1
+48401526,544,Climate Change,positive,train,0.473535,0.700401,0.30145,0.515782,3,1
+48203945,545,Climate Change,neutral,train,0.471061,0.700401,0.087871,0.482384,3,1
+48038843,546,Climate Change,neutral,train,0.439856,0.700401,0.288616,0.495333,4,1
+47940119,547,Climate Change,positive,train,0.496738,0.700401,0.083359,0.49583,3,1
+47527569,548,Climate Change,positive,train,0.601859,1.0,0.117862,0.648702,3,1
+47276645,549,Climate Change,neutral,train,0.611123,1.0,0.171749,0.66188,3,1
+47254408,550,Climate Change,positive,train,0.50022,1.0,0.138245,0.595858,4,1
+47253719,551,Climate Change,positive,train,0.614878,1.0,0.04646,0.645152,3,1
+47066885,552,Climate Change,neutral,train,0.775482,1.0,0.067843,0.736691,2,1
+47310519,553,Climate Change,neutral,train,0.450732,0.829277,0.051718,0.504443,4,1
+47279514,554,Climate Change,neutral,train,0.510328,0.829277,0.197982,0.559161,3,1
+46586301,555,Climate Change,neutral,train,0.358758,0.829277,0.263476,0.485621,5,1
+47025539,556,Climate Change,neutral,train,0.348052,0.469235,0.080081,0.344211,3,1
+46980209,557,Climate Change,positive,train,0.357225,0.469235,0.101869,0.352524,3,1
+46716335,558,Climate Change,neutral,train,0.341924,0.469235,0.212429,0.360693,3,1
+46639820,559,Climate Change,neutral,train,0.457175,0.50903,0.152344,0.427007,5,2
+47525292,560,Climate Change,neutral,train,0.375086,0.515349,0.328994,0.410251,3,1
+47459573,561,Climate Change,neutral,train,0.391064,0.41744,0.057958,0.349011,3,2
+47459561,562,Climate Change,positive,test,0.325487,0.41744,0.150287,0.326793,4,2
+47312064,563,Climate Change,neutral,train,0.369202,0.515349,0.23452,0.392844,3,1
+47265694,564,Climate Change,neutral,test,0.347762,0.515349,0.106944,0.361915,3,1
+47571200,565,Climate Change,neutral,train,0.405665,0.429107,0.15189,0.374631,4,2
+47493522,566,Climate Change,neutral,train,0.419476,0.538565,0.184008,0.419883,5,1
+47493484,567,Climate Change,positive,train,0.468897,0.700401,0.075411,0.479325,4,1
+47483678,568,Climate Change,neutral,train,0.43395,0.700401,0.274994,0.490042,4,1
+47439790,569,Climate Change,neutral,train,0.565514,0.538565,0.064379,0.482259,2,1
+47429263,570,Climate Change,neutral,train,0.404552,0.538565,0.247946,0.421265,4,1
+46207928,571,Climate Change,neutral,train,0.775482,1.0,0.067843,0.736691,2,1
+46088921,572,Climate Change,neutral,train,0.514615,1.0,0.239982,0.619035,4,1
+46047302,573,Climate Change,neutral,test,0.575218,1.0,0.139625,0.637314,3,1
+46013337,574,Climate Change,neutral,train,0.459006,1.0,0.154495,0.575628,5,1
+45836091,575,Climate Change,neutral,train,0.575799,1.0,0.137653,0.637337,3,1
+45801388,576,Climate Change,neutral,train,0.775482,1.0,0.243589,0.763053,2,1
+45729552,577,Climate Change,neutral,train,0.519673,1.0,0.25737,0.624426,4,1
+45697418,578,Climate Change,negative,train,0.775482,1.0,0.243589,0.763053,2,1
+46369408,579,Climate Change,negative,test,0.614939,0.829277,0.136847,0.607527,2,1
+46244887,580,Climate Change,neutral,train,0.504776,0.829277,0.053305,0.534406,3,1
+46021701,581,Climate Change,neutral,train,0.614939,0.829277,0.257578,0.625636,2,1
+45647937,582,Climate Change,neutral,train,0.614939,0.829277,0.257578,0.625636,2,1
+45577197,583,Climate Change,neutral,train,0.374013,0.829277,0.211694,0.486244,5,1
+46440254,584,Climate Change,neutral,train,0.321982,0.515349,0.078867,0.343525,4,1
+46079172,585,Climate Change,neutral,test,0.452758,0.515349,0.041219,0.409804,2,1
+45952336,586,Climate Change,neutral,train,0.33501,0.0,0.151692,0.207009,3,0
+45944289,587,Climate Change,negative,train,0.351444,0.41744,0.096874,0.333057,4,2
+46361404,588,Climate Change,negative,train,0.415156,0.433806,0.08825,0.371715,4,2
+46268651,589,Climate Change,neutral,train,0.491356,0.700401,0.412813,0.542288,3,1
+46020799,590,Climate Change,neutral,train,0.565514,0.538565,0.22878,0.506919,2,1
+45922826,591,Climate Change,neutral,train,0.495671,0.700401,0.158378,0.506496,3,1
+45901970,592,Climate Change,neutral,train,0.420072,0.700401,0.181297,0.468355,4,1
+45826748,593,Climate Change,negative,train,0.485113,0.538565,0.161876,0.452663,3,1
+45811339,594,Climate Change,positive,train,0.367423,0.700401,0.043989,0.418801,6,1
+45397598,595,Climate Change,neutral,train,0.573616,1.0,0.188655,0.643787,3,1
+45221725,596,Climate Change,negative,train,0.556248,1.0,0.098857,0.620765,7,2
+45198403,597,Climate Change,neutral,train,0.594515,1.0,0.148259,0.649222,3,1
+45198342,598,Climate Change,negative,train,0.775482,1.0,0.088914,0.739852,2,1
+45181706,599,Climate Change,positive,train,0.775482,1.0,0.067843,0.736691,2,1
+45095855,600,Climate Change,positive,test,0.594314,0.850201,0.172157,0.607756,5,2
+44779502,601,Climate Change,neutral,train,0.500948,0.829277,0.308338,0.570555,3,1
+44695512,602,Climate Change,neutral,train,0.614939,0.829277,0.257578,0.625636,2,1
+44636383,603,Climate Change,neutral,train,0.614939,0.829277,0.093917,0.601087,2,1
+44611173,604,Climate Change,negative,train,0.477323,0.829277,0.231245,0.545998,3,1
+44453440,605,Climate Change,negative,train,0.440922,0.829277,0.1123,0.508135,4,1
+44835898,606,Climate Change,negative,train,0.401297,0.469235,0.253303,0.399479,2,1
+44772572,607,Climate Change,negative,test,0.401297,0.469235,0.133899,0.381569,2,1
+45377017,608,Climate Change,neutral,train,0.318357,0.0,0.104205,0.190727,4,0
+45229817,609,Climate Change,neutral,test,0.400476,0.515349,0.077631,0.386511,3,1
+45109703,610,Climate Change,neutral,train,0.276567,0.0,0.009697,0.153566,1,0
+45030651,611,Climate Change,neutral,train,0.347716,0.326624,0.090616,0.302824,5,1
+44908563,612,Climate Change,negative,train,0.358198,0.515349,0.031599,0.356353,4,1
+45423908,613,Climate Change,neutral,train,0.43024,0.538565,0.093324,0.4122,3,1
+45251546,614,Climate Change,neutral,train,0.43586,0.538565,0.083818,0.413865,3,1
+44750398,615,Climate Change,negative,train,0.565514,0.538565,0.064379,0.482259,2,1
+44518876,616,Climate Change,neutral,train,0.606823,0.700401,0.224052,0.577481,2,1
+44391669,617,Climate Change,negative,train,0.775482,1.0,0.067843,0.736691,2,1
+44258844,618,Climate Change,neutral,test,0.775482,1.0,0.243589,0.763053,2,1
+44216816,619,Climate Change,negative,train,0.457385,0.659191,0.192438,0.478185,5,2
+44177946,620,Climate Change,neutral,train,0.775482,1.0,0.14924,0.748901,4,2
+44080802,621,Climate Change,positive,train,0.417314,1.0,0.17226,0.555362,5,1
+44422844,622,Climate Change,neutral,train,0.389212,0.829277,0.229871,0.497331,5,1
+44374215,623,Climate Change,negative,train,0.49048,0.829277,0.185572,0.546383,3,1
+44106553,624,Climate Change,negative,test,0.42755,0.829277,0.220194,0.516965,4,1
+44084470,625,Climate Change,negative,train,0.518429,0.829277,0.183461,0.561438,3,1
+44014120,626,Climate Change,neutral,train,0.582586,0.914639,0.075512,0.606141,5,2
+43950325,627,Climate Change,negative,train,0.487985,0.829277,0.034215,0.522307,3,1
+43979496,628,Climate Change,neutral,train,0.299169,0.469235,0.211078,0.336975,5,1
+44377165,629,Climate Change,neutral,test,0.452758,0.515349,0.041219,0.409804,2,1
+44404670,630,Climate Change,negative,train,0.358226,0.538565,0.064317,0.368241,6,1
+44275117,631,Climate Change,neutral,train,0.518731,0.510305,0.059335,0.447294,3,2
+43859520,632,Climate Change,neutral,train,0.379052,0.700401,0.122757,0.437013,4,1
+43828385,633,Climate Change,neutral,train,0.423053,0.700401,0.074171,0.453925,6,1
+43751284,634,Climate Change,neutral,train,0.371586,0.700401,0.084132,0.427112,4,1
+43330274,635,Climate Change,neutral,test,0.775482,1.0,0.046111,0.733431,2,1
+43293657,636,Climate Change,neutral,train,0.547538,1.0,0.066761,0.61116,3,1
+43249906,637,Climate Change,negative,test,0.775482,1.0,0.088914,0.739852,2,1
+43089483,638,Climate Change,negative,test,0.583068,1.0,0.071491,0.631411,3,1
+43066467,639,Climate Change,negative,train,0.775482,1.0,0.129512,0.745942,2,1
+43064132,640,Climate Change,neutral,train,0.5904,1.0,0.200231,0.654755,3,1
+43058830,641,Climate Change,neutral,test,0.559012,1.0,0.23538,0.642764,3,1
+43058320,642,Climate Change,neutral,train,0.559907,0.50788,0.197999,0.490013,3,2
+42610813,643,Climate Change,neutral,train,0.432426,0.829277,0.308929,0.532957,4,1
+42827309,644,Climate Change,neutral,train,0.452758,0.515349,0.041219,0.409804,2,1
+42653890,645,Climate Change,neutral,test,0.411095,0.515349,0.098867,0.395537,3,1
+43536749,646,Climate Change,neutral,train,0.473957,0.700401,0.239771,0.506763,3,1
+43468023,647,Climate Change,neutral,train,0.606823,0.700401,0.11922,0.561756,2,1
+43063247,648,Climate Change,negative,train,0.486378,0.700401,0.090147,0.49115,3,1
+42897135,649,Climate Change,negative,train,0.393945,0.700401,0.156235,0.450225,4,1
+42690895,650,Climate Change,negative,train,0.412601,0.429107,0.322976,0.404109,4,2
+42386995,651,Climate Change,neutral,train,0.417264,0.507109,0.230409,0.41619,5,2
+42226810,652,Climate Change,neutral,train,0.530321,1.0,0.240558,0.62776,4,1
+42224036,653,Climate Change,neutral,test,0.775482,1.0,0.088914,0.739852,2,1
+42214253,654,Climate Change,negative,test,0.56041,1.0,0.083013,0.620678,3,1
+42166790,655,Climate Change,neutral,train,0.562911,1.0,0.101953,0.624894,3,1
+42128015,656,Climate Change,neutral,test,0.792726,0.0,0.078913,0.447836,1,0
+42109738,657,Climate Change,neutral,train,0.792726,0.0,0.394566,0.495184,1,0
+42384324,658,Climate Change,neutral,train,0.337936,0.422311,0.078814,0.32438,6,2
+41749975,659,Climate Change,negative,train,0.339343,0.829277,0.278684,0.477224,5,1
+42418687,660,Climate Change,neutral,train,0.368717,0.469235,0.205737,0.374425,3,1
+42130976,661,Climate Change,negative,train,0.362348,0.394163,0.113242,0.334527,3,2
+41870396,662,Climate Change,neutral,train,0.299258,0.469235,0.295843,0.349739,4,1
+42167615,663,Climate Change,neutral,train,0.394554,0.515349,0.167256,0.396698,4,1
+41997254,664,Climate Change,neutral,train,0.452758,0.515349,0.053598,0.411661,2,1
+42519540,665,Climate Change,neutral,test,0.606823,0.700401,0.11922,0.561756,2,1
+42007130,666,Climate Change,negative,train,0.606823,0.700401,0.081878,0.556155,2,1
+41889828,667,Climate Change,negative,train,0.477415,0.700401,0.163169,0.497174,3,1
+41861013,668,Climate Change,negative,train,0.439938,0.538565,0.190618,0.432128,4,1
+41826538,669,Climate Change,negative,test,0.606823,0.700401,0.050566,0.551458,2,1
+41667729,670,Climate Change,neutral,train,0.456715,1.0,0.056308,0.55964,4,1
+41665394,671,Climate Change,negative,test,0.356177,1.0,0.114878,0.513129,7,1
+41617763,672,Climate Change,negative,test,0.775482,1.0,0.243589,0.763053,2,1
+41528346,673,Climate Change,negative,test,0.63023,1.0,0.075059,0.657886,3,1
+41461827,674,Climate Change,neutral,train,0.514485,1.0,0.129225,0.60235,4,1
+41420182,675,Climate Change,neutral,train,0.431009,1.0,0.162472,0.561426,7,1
+41361917,676,Climate Change,negative,test,0.595014,1.0,0.16415,0.65188,3,1
+41235661,677,Climate Change,negative,test,0.48969,1.0,0.141053,0.590487,5,1
+41673918,678,Climate Change,positive,test,0.614939,0.829277,0.048685,0.594302,2,1
+41608511,679,Climate Change,negative,train,0.369113,0.829277,0.228542,0.486077,5,1
+41438185,680,Climate Change,negative,train,0.465314,0.829277,0.152994,0.527655,4,1
+41368317,681,Climate Change,neutral,train,0.389056,0.829277,0.206154,0.493687,5,1
+41121324,682,Climate Change,negative,train,0.384673,0.420187,0.075555,0.348959,4,2
+41053181,683,Climate Change,neutral,train,0.378063,0.829277,0.176921,0.483256,4,1
+41196587,684,Climate Change,neutral,train,0.302742,0.469235,0.070717,0.317886,3,1
+40971734,685,Climate Change,neutral,test,0.401297,0.469235,0.069848,0.371961,2,1
+40918669,686,Climate Change,negative,test,0.300379,0.469235,0.182919,0.333417,4,1
+41615781,687,Climate Change,neutral,train,0.344337,0.385781,0.12313,0.323589,5,3
+41361735,688,Climate Change,negative,test,0.423939,0.515349,0.072096,0.398585,3,1
+40863576,689,Climate Change,neutral,test,0.287819,0.0,0.098863,0.17313,3,0
+41285364,690,Climate Change,negative,train,0.606823,0.700401,0.224052,0.577481,2,1
+41077191,691,Climate Change,negative,test,0.565514,0.538565,0.22878,0.506919,2,1
+41013295,692,Climate Change,neutral,train,0.345381,0.538565,0.207226,0.382613,6,1
+40896627,693,Climate Change,neutral,train,0.384469,0.700401,0.255108,0.459844,4,1
+40867965,694,Climate Change,neutral,train,0.565514,0.538565,0.122372,0.490958,2,1
+40805329,695,Climate Change,neutral,train,0.42712,0.545587,0.149784,0.42106,6,3
+40804361,696,Climate Change,negative,train,0.458583,0.0,0.196516,0.281698,4,0
+40802944,697,Climate Change,negative,train,0.546263,1.0,0.060269,0.609485,3,1
+40802860,698,Climate Change,negative,train,0.506329,0.659191,0.12844,0.495504,4,2
+40773271,699,Climate Change,negative,train,0.775482,1.0,0.129512,0.745942,2,1
+40689706,700,Climate Change,neutral,train,0.610093,1.0,0.170158,0.661075,3,1
+40576236,701,Climate Change,negative,train,0.775482,1.0,0.067843,0.736691,2,1
+40572536,702,Climate Change,negative,train,0.595842,1.0,0.265337,0.667514,3,1
+40820577,703,Climate Change,negative,train,0.614939,0.829277,0.257578,0.625636,2,1
+40753694,704,Climate Change,negative,train,0.472076,0.829277,0.297292,0.553019,3,1
+40520575,705,Climate Change,negative,train,0.346632,0.488555,0.045977,0.344111,8,3
+40315438,706,Climate Change,negative,train,0.452067,0.829277,0.151903,0.520205,4,1
+40245460,707,Climate Change,negative,train,0.304926,0.829277,0.05018,0.424019,6,1
+40205873,708,Climate Change,neutral,train,0.39157,0.829277,0.238356,0.4999,5,1
+40090218,709,Climate Change,neutral,train,0.483207,0.829277,0.34928,0.566939,3,1
+40076481,710,Climate Change,neutral,train,0.490533,0.829277,0.181075,0.545738,3,1
+40682253,711,Climate Change,neutral,train,0.271875,0.0,0.320197,0.197561,3,0
+40246885,712,Climate Change,negative,train,0.321295,0.469235,0.05661,0.325974,4,1
+40531107,713,Climate Change,neutral,train,0.355609,0.515349,0.050434,0.357755,3,1
+40407442,714,Climate Change,neutral,test,0.452758,0.515349,0.140377,0.424678,2,1
+40761973,715,Climate Change,neutral,train,0.446574,0.700401,0.223862,0.489315,3,1
+40631583,716,Climate Change,negative,train,0.497654,0.700401,0.249177,0.521207,3,1
+40485652,717,Climate Change,neutral,train,0.348222,0.538565,0.19358,0.382129,6,1
+40334870,718,Climate Change,neutral,train,0.466666,0.700401,0.218055,0.499495,3,1
+40330473,719,Climate Change,negative,test,0.606823,0.700401,0.036632,0.549368,2,1
+40309955,720,Climate Change,negative,train,0.49911,0.433806,0.090672,0.418253,3,2
+40251678,721,Climate Change,negative,train,0.489139,0.700401,0.087245,0.492234,3,1
+40145610,722,Climate Change,neutral,test,0.437162,0.538565,0.069293,0.412402,3,1
+39881145,723,Climate Change,neutral,train,0.775482,1.0,0.243589,0.763053,2,1
+39822352,724,Climate Change,negative,train,0.775482,1.0,0.067843,0.736691,2,1
+39794117,725,Climate Change,negative,test,0.560785,1.0,0.115383,0.625739,3,1
+39777766,726,Climate Change,negative,train,0.428654,1.0,0.280442,0.577826,5,1
+39777641,727,Climate Change,negative,train,0.775482,1.0,0.067843,0.736691,2,1
+39767027,728,Climate Change,negative,train,0.464549,1.0,0.167043,0.580558,6,1
+39878293,729,Climate Change,neutral,train,0.511587,0.829277,0.104127,0.545775,3,1
+39730493,730,Climate Change,negative,train,0.419976,0.573685,0.183452,0.43061,4,2
+39634574,731,Climate Change,neutral,train,0.60569,0.914639,0.142744,0.628933,5,2
+39285434,732,Climate Change,neutral,train,0.49236,0.829277,0.101898,0.534866,3,1
+38857461,733,Climate Change,neutral,test,0.614939,0.829277,0.093917,0.601087,2,1
+38834608,734,Climate Change,negative,train,0.468771,0.829277,0.24746,0.543726,3,1
+39109066,735,Climate Change,positive,train,0.475807,0.829277,0.123218,0.528959,3,1
+39290500,736,Climate Change,negative,train,0.297389,0.469235,0.185951,0.332227,4,1
+39226586,737,Climate Change,negative,train,0.293054,0.469235,0.111043,0.318607,6,1
+39834514,738,Climate Change,neutral,train,0.344504,0.515349,0.228935,0.378422,4,1
+39734230,739,Climate Change,neutral,train,0.356735,0.385781,0.097925,0.326628,8,3
+39559039,740,Climate Change,neutral,train,0.380349,0.515349,0.040035,0.369802,3,1
+39799247,741,Climate Change,neutral,train,0.606823,0.700401,0.11922,0.561756,2,1
+39520623,742,Climate Change,negative,test,0.386179,0.538565,0.060606,0.383059,4,1
+39511228,743,Climate Change,negative,train,0.390243,0.538565,0.054932,0.384443,4,1
+39372917,744,Climate Change,neutral,train,0.4832,0.700401,0.090665,0.48948,4,1
+39352869,745,Climate Change,neutral,train,0.476577,0.429107,0.178025,0.417553,3,2
+39320409,746,Climate Change,negative,train,0.395599,0.538565,0.079064,0.391008,4,1
+39251453,747,Climate Change,neutral,train,0.606823,0.700401,0.224052,0.577481,2,1
+38820344,748,Climate Change,neutral,train,0.565421,1.0,0.06467,0.620682,3,1
+38801741,749,Climate Change,neutral,train,0.572298,1.0,0.198619,0.644557,3,1
+38795520,750,Climate Change,neutral,train,0.775482,1.0,0.054892,0.734749,2,1
+38711387,751,Climate Change,negative,train,0.59318,1.0,0.072011,0.637051,3,1
+38688338,752,Climate Change,neutral,train,0.775482,1.0,0.243589,0.763053,2,1
+38602247,753,Climate Change,negative,train,0.775482,1.0,0.243589,0.763053,2,1
+38444331,754,Climate Change,neutral,train,0.5321,0.659147,0.065253,0.500187,5,2
+38405022,755,Climate Change,negative,train,0.444422,1.0,0.082509,0.556809,5,1
+38719842,756,Climate Change,negative,train,0.43798,0.829277,0.063451,0.49919,4,1
+38666752,757,Climate Change,neutral,train,0.462541,0.829277,0.114076,0.520292,4,1
+38256673,758,Climate Change,negative,test,0.614939,0.829277,0.071647,0.597747,2,1
+37989759,759,Climate Change,negative,train,0.449489,0.829277,0.195393,0.525311,3,1
+38528617,760,Climate Change,negative,train,0.401297,0.469235,0.091682,0.375236,2,1
+38499555,761,Climate Change,neutral,train,0.369159,0.469235,0.048202,0.351038,3,1
+38297941,762,Climate Change,neutral,train,0.362348,0.394163,0.113242,0.334527,3,2
+38265160,763,Climate Change,neutral,test,0.401297,0.469235,0.133899,0.381569,2,1
+37769749,764,Climate Change,neutral,test,0.401297,0.469235,0.069848,0.371961,2,1
+38771519,765,Climate Change,neutral,train,0.366487,0.383443,0.143862,0.33818,5,3
+37779477,766,Climate Change,neutral,train,0.294891,0.515349,0.10656,0.332779,4,1
+37758653,767,Climate Change,neutral,test,0.390371,0.515349,0.091044,0.382965,4,1
+38805943,768,Climate Change,neutral,train,0.482077,0.700401,0.239771,0.511228,3,1
+38803058,769,Climate Change,neutral,train,0.381223,0.32384,0.09726,0.321414,8,1
+38802424,770,Climate Change,negative,test,0.468733,0.700401,0.1926,0.496814,3,1
+38670522,771,Climate Change,neutral,train,0.385384,0.700401,0.053787,0.43015,4,1
+38670049,772,Climate Change,negative,test,0.447468,0.700401,0.176135,0.482648,3,1
+38662467,773,Climate Change,neutral,train,0.476577,0.429107,0.178025,0.417553,3,2
+38594523,774,Climate Change,neutral,train,0.302742,0.700401,0.173415,0.402641,8,1
+37691248,775,Climate Change,positive,train,0.531021,1.0,0.039283,0.597954,4,1
+37687685,776,Climate Change,neutral,train,0.575799,1.0,0.106845,0.632716,3,1
+37645179,777,Climate Change,neutral,test,0.775482,1.0,0.129512,0.745942,2,1
+37603442,778,Climate Change,negative,test,0.539351,1.0,0.147629,0.618788,3,1
+37603422,779,Climate Change,neutral,train,0.456081,1.0,0.286289,0.593788,5,1
+37602178,780,Climate Change,negative,train,0.491267,1.0,0.195342,0.599498,4,1
+37534976,781,Climate Change,negative,test,0.775482,1.0,0.088914,0.739852,2,1
+37509678,782,Climate Change,negative,train,0.526403,1.0,0.22805,0.623729,4,1
+37716990,783,Climate Change,negative,test,0.614939,0.829277,0.136847,0.607527,2,1
+37582568,784,Climate Change,neutral,train,0.371729,0.829277,0.142407,0.474595,4,1
+37544478,785,Climate Change,negative,train,0.432393,0.829277,0.183481,0.514122,4,1
+37542250,786,Climate Change,neutral,test,0.614939,0.829277,0.071647,0.597747,2,1
+37459170,787,Climate Change,neutral,train,0.468082,0.829277,0.107328,0.522328,3,1
+37458849,788,Climate Change,neutral,test,0.492496,0.829277,0.094051,0.533763,3,1
+37228963,789,Climate Change,negative,train,0.488814,0.829277,0.116451,0.535099,3,1
+37221786,790,Climate Change,neutral,test,0.460386,0.829277,0.093187,0.515974,3,1
+48757667,791,Cybersecurity,neutral,train,0.390726,0.0,0.369861,0.270378,2,0
+48632936,792,Cybersecurity,neutral,train,0.428916,0.0,0.538937,0.316745,2,0
+48556795,793,Cybersecurity,neutral,train,0.379013,0.0,0.394915,0.267695,3,0
+48476804,794,Cybersecurity,neutral,train,0.624177,0.0,0.155749,0.36666,1,0
+48465802,795,Cybersecurity,negative,train,0.303608,0.0,0.114843,0.184211,3,0
+48415834,796,Cybersecurity,neutral,test,0.736675,0.0,0.142835,0.426596,1,0
+48266844,797,Cybersecurity,neutral,train,0.624177,0.0,0.155749,0.36666,1,0
+48663911,798,Cybersecurity,negative,test,0.389398,0.386744,0.071696,0.340946,2,1
+48647688,799,Cybersecurity,negative,train,0.371928,0.0,0.226303,0.238506,2,0
+48537143,800,Cybersecurity,neutral,train,0.276166,0.211119,0.22284,0.248653,4,2
+48114545,801,Cybersecurity,neutral,train,0.360137,0.0,0.215467,0.230395,3,0
+48111980,802,Cybersecurity,neutral,train,0.555274,0.0,0.028667,0.309701,1,0
+47876005,803,Cybersecurity,negative,train,0.555274,0.0,0.066889,0.315434,1,0
+47764838,804,Cybersecurity,negative,train,0.334107,0.0,0.151737,0.206519,2,0
+48719221,805,Cybersecurity,neutral,train,0.444336,1.0,0.032493,0.549259,2,1
+48672163,806,Cybersecurity,neutral,train,0.305778,1.0,0.206155,0.499101,4,1
+48596313,807,Cybersecurity,negative,test,0.450161,0.899997,0.039535,0.523518,2,1
+47877540,808,Cybersecurity,neutral,train,0.35939,0.899997,0.083165,0.480138,5,1
+48759063,809,Cybersecurity,negative,train,0.371965,0.0,0.24834,0.241832,3,0
+48757569,810,Cybersecurity,neutral,train,0.334622,0.0,0.128728,0.203352,4,0
+48738384,811,Cybersecurity,negative,train,0.736675,0.0,0.047612,0.412313,1,0
+48640457,812,Cybersecurity,negative,train,0.319733,0.089127,0.241186,0.238769,4,1
+48605787,813,Cybersecurity,negative,train,0.520386,0.450004,0.080396,0.433273,2,1
+48583578,814,Cybersecurity,neutral,train,0.356943,0.400003,0.299159,0.361194,4,1
+48549186,815,Cybersecurity,neutral,train,0.534553,0.400003,0.187259,0.442094,2,1
+47489614,816,Cybersecurity,positive,train,0.477568,0.0,0.551916,0.34545,2,0
+47325874,817,Cybersecurity,positive,train,0.514304,0.0,0.289462,0.326287,3,0
+47272678,818,Cybersecurity,neutral,train,0.354248,0.0,0.104495,0.21051,3,0
+46853725,819,Cybersecurity,positive,test,0.344391,0.0,0.227855,0.223593,3,0
+46789368,820,Cybersecurity,neutral,test,0.624177,0.0,0.103833,0.358872,1,0
+47346774,821,Cybersecurity,negative,train,0.364416,0.499996,0.02534,0.354229,3,1
+46510261,822,Cybersecurity,neutral,train,0.441406,0.450004,0.030984,0.382422,2,1
+47581833,823,Cybersecurity,negative,train,0.397678,0.899997,0.25354,0.526753,3,1
+47287776,824,Cybersecurity,negative,test,0.311228,0.68408,0.060911,0.385536,3,1
+47591867,825,Cybersecurity,neutral,train,0.383392,0.0,0.358476,0.264637,3,0
+47585545,826,Cybersecurity,negative,train,0.39724,0.054174,0.038705,0.24054,2,1
+47584559,827,Cybersecurity,negative,train,0.323601,0.0,0.128328,0.197229,5,0
+47566570,828,Cybersecurity,neutral,train,0.443345,0.0,0.291806,0.287611,2,0
+47555992,829,Cybersecurity,neutral,train,0.736675,0.0,0.142835,0.426596,1,0
+47553971,830,Cybersecurity,negative,train,0.299085,0.0,0.149782,0.186964,5,0
+47530090,831,Cybersecurity,negative,train,0.282922,0.0,0.150732,0.178217,5,0
+46412151,832,Cybersecurity,neutral,train,0.294082,0.0,0.185192,0.189524,3,0
+46323840,833,Cybersecurity,positive,test,0.339849,0.089127,0.289214,0.257037,3,1
+46265633,834,Cybersecurity,neutral,train,0.428916,0.0,0.538937,0.316745,2,0
+45945811,835,Cybersecurity,neutral,train,0.307223,0.0,0.038984,0.17482,6,0
+45925113,836,Cybersecurity,neutral,train,0.491625,0.499996,0.053138,0.428363,3,1
+45885406,837,Cybersecurity,negative,train,0.430063,0.0,0.104297,0.252179,2,0
+45601512,838,Cybersecurity,negative,train,0.347494,0.400003,0.172938,0.337063,3,1
+45992997,839,Cybersecurity,neutral,train,0.318432,0.0,0.152645,0.198034,3,0
+45972261,840,Cybersecurity,negative,train,0.367233,0.450004,0.069437,0.347395,3,1
+45915000,841,Cybersecurity,negative,test,0.555274,0.0,0.100334,0.320451,1,0
+45777347,842,Cybersecurity,neutral,train,0.274511,0.499996,0.21305,0.332937,6,1
+45682120,843,Cybersecurity,negative,test,0.429229,0.0,0.061344,0.245277,2,0
+45574146,844,Cybersecurity,neutral,train,0.309602,0.0,0.292129,0.214101,4,0
+46441455,845,Cybersecurity,neutral,train,0.346487,1.0,0.191816,0.51934,4,1
+45840427,846,Cybersecurity,neutral,train,0.444336,1.0,0.040136,0.550405,2,1
+45659043,847,Cybersecurity,negative,train,0.304731,1.0,0.255069,0.505862,5,1
+45966722,848,Cybersecurity,negative,train,0.276384,0.386603,0.23772,0.30365,4,2
+46424980,849,Cybersecurity,negative,train,0.353246,0.0,0.380833,0.25141,3,0
+46360683,850,Cybersecurity,negative,train,0.363314,0.0,0.229072,0.234184,3,0
+46263413,851,Cybersecurity,negative,train,0.555888,0.0,0.24446,0.342407,2,0
+46194782,852,Cybersecurity,negative,train,0.436056,0.0,0.180562,0.266915,3,0
+46110976,853,Cybersecurity,neutral,train,0.347701,0.0,0.103173,0.206711,6,0
+46108498,854,Cybersecurity,negative,train,0.370299,0.0,0.330716,0.253272,3,0
+46108146,855,Cybersecurity,neutral,train,0.412238,0.0,0.152676,0.249632,3,0
+46105725,856,Cybersecurity,neutral,test,0.736675,0.0,0.285669,0.448022,1,0
+45348021,857,Cybersecurity,positive,train,0.387218,0.0,0.403391,0.273479,3,0
+45212972,858,Cybersecurity,neutral,train,0.338832,0.400003,0.087824,0.319532,3,1
+44998963,859,Cybersecurity,neutral,test,0.423849,0.0,0.124487,0.25179,2,0
+44506727,860,Cybersecurity,positive,train,0.277625,0.0,0.290007,0.196195,4,0
+44505390,861,Cybersecurity,positive,train,0.302056,0.0,0.325004,0.214881,4,0
+45286005,862,Cybersecurity,neutral,train,0.39103,0.0,0.403825,0.27564,2,0
+45081664,863,Cybersecurity,negative,train,0.277614,0.0,0.08884,0.166014,5,0
+44728792,864,Cybersecurity,negative,test,0.555274,0.0,0.100334,0.320451,1,0
+44485264,865,Cybersecurity,neutral,test,0.555274,0.0,0.050167,0.312926,1,0
+44940538,866,Cybersecurity,neutral,train,0.359901,1.0,0.074959,0.50919,3,1
+45412858,867,Cybersecurity,positive,train,0.451388,0.0,0.148653,0.270562,2,0
+45411153,868,Cybersecurity,neutral,train,0.316872,0.0,0.149475,0.196701,3,0
+45368528,869,Cybersecurity,neutral,test,0.736675,0.0,0.095223,0.419455,1,0
+45332011,870,Cybersecurity,neutral,test,0.736675,0.0,0.142835,0.426596,1,0
+45321834,871,Cybersecurity,neutral,test,0.736675,0.0,0.142835,0.426596,1,0
+45288059,872,Cybersecurity,negative,train,0.493777,0.400003,0.337271,0.442169,2,1
+45283673,873,Cybersecurity,neutral,train,0.311218,0.0,0.215808,0.203541,4,0
+45276143,874,Cybersecurity,neutral,test,0.399783,0.0,0.08945,0.233298,3,0
+43841353,875,Cybersecurity,neutral,train,0.330877,0.0,0.094615,0.196175,3,0
+43790324,876,Cybersecurity,neutral,train,0.624177,0.0,0.103833,0.358872,1,0
+43755299,877,Cybersecurity,neutral,train,0.624177,0.0,0.155749,0.36666,1,0
+43690847,878,Cybersecurity,neutral,train,0.376315,0.0,0.269576,0.24741,3,0
+44418524,879,Cybersecurity,neutral,train,0.288581,0.0,0.158303,0.182465,3,0
+44417824,880,Cybersecurity,neutral,train,0.374317,0.0,0.34442,0.257537,2,0
+44416497,881,Cybersecurity,neutral,train,0.293123,0.055902,0.107486,0.194111,3,1
+44391805,882,Cybersecurity,negative,train,0.346359,0.0,0.247699,0.227652,5,0
+43898063,883,Cybersecurity,negative,train,0.321753,0.499996,0.173903,0.353048,5,1
+43839046,884,Cybersecurity,neutral,train,0.410417,0.0,0.01786,0.228408,2,0
+44183701,885,Cybersecurity,negative,test,0.291918,0.899997,0.113671,0.447605,4,1
+43998035,886,Cybersecurity,negative,train,0.450161,0.899997,0.031992,0.522387,2,1
+44426651,887,Cybersecurity,negative,train,0.363617,0.400003,0.077555,0.331623,3,1
+44416465,888,Cybersecurity,negative,test,0.736675,0.0,0.04081,0.411293,1,0
+44414341,889,Cybersecurity,neutral,train,0.560568,0.0,0.07771,0.319969,3,0
+44335092,890,Cybersecurity,negative,train,0.423594,0.0,0.114685,0.250179,2,0
+44323643,891,Cybersecurity,neutral,train,0.489577,0.450004,0.208034,0.435474,4,1
+44285413,892,Cybersecurity,neutral,train,0.485295,0.0,0.528567,0.346198,2,0
+44233701,893,Cybersecurity,neutral,test,0.736675,0.0,0.095223,0.419455,1,0
+44194645,894,Cybersecurity,negative,test,0.335546,0.0,0.066663,0.19455,3,0
+44287863,895,Cybersecurity,neutral,train,0.228812,0.0,0.105917,0.141734,3,0
+43400424,896,Cybersecurity,neutral,test,0.624177,0.0,0.311498,0.390022,1,0
+43398898,897,Cybersecurity,positive,train,0.527551,0.0,0.228746,0.324465,2,0
+43398194,898,Cybersecurity,positive,train,0.452299,0.400003,0.055685,0.377118,2,1
+43083812,899,Cybersecurity,neutral,train,0.314394,0.0,0.086821,0.18594,3,0
+43051604,900,Cybersecurity,negative,train,0.381078,0.0,0.087021,0.222646,2,0
+42847956,901,Cybersecurity,neutral,test,0.425677,0.0,0.202787,0.264541,2,0
+43328998,902,Cybersecurity,neutral,train,0.319487,0.0,0.127618,0.19486,3,0
+43303053,903,Cybersecurity,neutral,train,0.254005,0.0,0.207444,0.17082,4,0
+42929601,904,Cybersecurity,neutral,train,0.555274,0.0,0.100334,0.320451,1,0
+42633490,905,Cybersecurity,neutral,test,0.555274,0.0,0.100334,0.320451,1,0
+43536665,906,Cybersecurity,neutral,train,0.38578,1.0,0.052953,0.520122,3,1
+43124327,907,Cybersecurity,neutral,train,0.450161,0.899997,0.141765,0.538853,2,1
+43078759,908,Cybersecurity,neutral,test,0.371749,1.0,0.034402,0.509622,4,1
+43399662,909,Cybersecurity,negative,train,0.183769,0.0,0.106341,0.117024,1,0
+43323446,910,Cybersecurity,neutral,train,0.311228,0.68408,0.094256,0.390538,3,1
+43485859,911,Cybersecurity,negative,train,0.324712,0.0,0.145767,0.200456,4,0
+43485640,912,Cybersecurity,neutral,train,0.367385,0.0,0.396976,0.261608,3,0
+43467825,913,Cybersecurity,negative,train,0.38403,0.0,0.308667,0.257517,4,0
+43426895,914,Cybersecurity,neutral,train,0.157955,0.0,0.203252,0.117363,1,0
+43389895,915,Cybersecurity,neutral,train,0.451388,0.0,0.133708,0.26832,2,0
+43386524,916,Cybersecurity,neutral,test,0.736675,0.0,0.095223,0.419455,1,0
+43379407,917,Cybersecurity,neutral,train,0.366115,0.0,0.204979,0.23211,3,0
+42942541,918,Cybersecurity,positive,train,0.302206,0.0,0.104675,0.181915,2,0
+42361399,919,Cybersecurity,neutral,train,0.624177,0.0,0.051916,0.351085,1,0
+42286142,920,Cybersecurity,neutral,train,0.353424,0.0,0.171444,0.2201,3,0
+42008724,921,Cybersecurity,neutral,train,0.364279,0.0,0.048206,0.207585,2,0
+41877446,922,Cybersecurity,neutral,test,0.339286,0.0,0.062177,0.195934,3,0
+41877116,923,Cybersecurity,neutral,test,0.375516,0.0,0.316454,0.254002,3,0
+42436464,924,Cybersecurity,neutral,train,0.298979,0.400003,0.091082,0.298101,3,1
+42473862,925,Cybersecurity,negative,train,0.736675,0.0,0.059514,0.414098,2,0
+42422970,926,Cybersecurity,neutral,train,0.368464,0.450004,0.19467,0.366857,4,1
+42365641,927,Cybersecurity,neutral,train,0.47778,0.400003,0.120782,0.400898,2,1
+42353844,928,Cybersecurity,positive,test,0.348337,0.0,0.201971,0.221881,3,0
+42263599,929,Cybersecurity,neutral,train,0.465017,0.0,0.382393,0.313119,2,0
+42245342,930,Cybersecurity,negative,train,0.437327,0.0,0.075695,0.251884,2,0
+42164627,931,Cybersecurity,negative,train,0.358693,0.400003,0.177319,0.34388,4,1
+42041149,932,Cybersecurity,neutral,train,0.52181,0.0,0.15127,0.309686,2,0
+41690680,933,Cybersecurity,neutral,train,0.624177,0.0,0.103833,0.358872,1,0
+41666402,934,Cybersecurity,neutral,test,0.624177,0.0,0.155749,0.36666,1,0
+41597857,935,Cybersecurity,neutral,test,0.387096,0.0,0.308014,0.259105,2,0
+41578244,936,Cybersecurity,negative,train,0.429044,0.400003,0.114702,0.37318,5,1
+41533516,937,Cybersecurity,neutral,train,0.437696,0.400003,0.10633,0.376683,2,1
+41199054,938,Cybersecurity,negative,train,0.441996,0.0,0.05723,0.251682,2,0
+41107164,939,Cybersecurity,neutral,train,0.325224,0.400003,0.249434,0.336289,4,1
+41203303,940,Cybersecurity,negative,train,0.322708,0.0,0.252596,0.215379,4,0
+41067206,941,Cybersecurity,neutral,test,0.345282,0.0,0.241224,0.226088,2,0
+41012554,942,Cybersecurity,neutral,train,0.35454,0.450004,0.129097,0.349363,4,1
+41008053,943,Cybersecurity,neutral,train,0.555274,0.0,0.053511,0.313427,2,0
+40968280,944,Cybersecurity,neutral,train,0.364447,0.0,0.330655,0.250044,2,0
+40967528,945,Cybersecurity,negative,train,0.253934,0.386744,0.107794,0.271856,5,1
+40870954,946,Cybersecurity,neutral,train,0.405235,0.0,0.061669,0.232129,2,0
+41689841,947,Cybersecurity,neutral,train,0.357799,1.0,0.299946,0.541782,4,1
+40953995,948,Cybersecurity,neutral,train,0.407347,0.899997,0.221528,0.527269,3,1
+40950355,949,Cybersecurity,neutral,train,0.402907,0.899997,0.047751,0.498761,3,1
+40946139,950,Cybersecurity,neutral,train,0.311971,0.899997,0.189438,0.469999,4,1
+41589232,951,Cybersecurity,neutral,train,0.277997,0.68408,0.232779,0.393039,5,1
+41025605,952,Cybersecurity,neutral,train,0.330837,0.68408,0.070577,0.397771,5,1
+41666022,953,Cybersecurity,neutral,train,0.502493,0.0,0.078099,0.288086,2,0
+41633322,954,Cybersecurity,neutral,train,0.421177,0.400003,0.061547,0.36088,3,1
+41630363,955,Cybersecurity,negative,train,0.736675,0.0,0.047612,0.412313,1,0
+41625827,956,Cybersecurity,negative,test,0.366125,0.0,0.124528,0.220048,3,0
+41599831,957,Cybersecurity,neutral,train,0.489299,0.0,0.045871,0.275995,2,0
+41536281,958,Cybersecurity,neutral,train,0.522536,0.0,0.222103,0.32071,2,0
+41490867,959,Cybersecurity,neutral,train,0.396044,0.0,0.409985,0.279322,3,0
+41484601,960,Cybersecurity,negative,train,0.736675,0.0,0.142835,0.426596,1,0
+41347272,961,Cybersecurity,neutral,train,0.275649,0.0,0.265582,0.191445,2,0
+40834010,962,Cybersecurity,negative,train,0.41159,0.400003,0.041769,0.352641,3,1
+40641604,963,Cybersecurity,neutral,train,0.25745,0.400003,0.147618,0.283741,6,1
+40640825,964,Cybersecurity,neutral,train,0.409801,0.400003,0.02225,0.348729,2,1
+40534395,965,Cybersecurity,negative,train,0.328524,0.104092,0.199654,0.241864,5,1
+40494953,966,Cybersecurity,negative,train,0.624177,0.0,0.311498,0.390022,1,0
+40091275,967,Cybersecurity,negative,train,0.372325,0.400003,0.067863,0.334959,3,1
+40755108,968,Cybersecurity,neutral,train,0.359345,0.0,0.369705,0.253095,3,0
+40740042,969,Cybersecurity,negative,train,0.385552,0.0,0.290937,0.255694,2,0
+40668404,970,Cybersecurity,negative,train,0.555274,0.0,0.050167,0.312926,1,0
+40595997,971,Cybersecurity,neutral,train,0.287306,0.0,0.086371,0.170974,3,0
+40451337,972,Cybersecurity,neutral,train,0.346627,0.0,0.165501,0.21547,2,0
+40195670,973,Cybersecurity,neutral,test,0.389398,0.0,0.066679,0.224171,2,0
+40794147,974,Cybersecurity,negative,test,0.400303,0.899997,0.092791,0.504084,4,1
+40360478,975,Cybersecurity,neutral,train,0.450161,0.899997,0.051804,0.525359,2,1
+40621083,976,Cybersecurity,neutral,train,0.299846,0.68408,0.227744,0.404301,3,1
+40108314,977,Cybersecurity,negative,train,0.355081,0.68408,0.106425,0.416483,2,1
+40809772,978,Cybersecurity,neutral,train,0.463899,0.0,0.351905,0.30793,2,0
+40792163,979,Cybersecurity,neutral,train,0.458768,0.0,0.571417,0.338035,2,0
+40718951,980,Cybersecurity,neutral,train,0.451905,0.0,0.31532,0.295846,2,0
+40715823,981,Cybersecurity,negative,train,0.492901,0.0,0.099873,0.286077,2,0
+40677094,982,Cybersecurity,neutral,test,0.435982,0.0,0.208911,0.271127,2,0
+40667522,983,Cybersecurity,neutral,train,0.453671,0.0,0.094359,0.263673,2,0
+40667065,984,Cybersecurity,neutral,test,0.736675,0.0,0.285669,0.448022,1,0
+40665651,985,Cybersecurity,neutral,train,0.384351,0.0,0.135554,0.231726,3,0
+39779175,986,Cybersecurity,negative,train,0.285035,0.400003,0.052936,0.284711,5,1
+39685703,987,Cybersecurity,neutral,train,0.466987,0.0,0.04278,0.26326,3,0
+39537841,988,Cybersecurity,neutral,train,0.296217,0.0,0.115096,0.180184,5,0
+39407648,989,Cybersecurity,negative,train,0.358073,0.0,0.175871,0.223321,2,0
+39067043,990,Cybersecurity,neutral,train,0.624177,0.0,0.311498,0.390022,1,0
+39712960,991,Cybersecurity,neutral,train,0.313111,0.0,0.363877,0.226793,3,0
+39316501,992,Cybersecurity,negative,train,0.39248,0.0,0.034077,0.220975,2,0
+39156453,993,Cybersecurity,neutral,test,0.338415,0.0,0.057347,0.19473,2,0
+39156261,994,Cybersecurity,neutral,train,0.338415,0.0,0.057347,0.19473,2,0
+39145779,995,Cybersecurity,negative,test,0.555274,0.0,0.040133,0.311421,1,0
+38988580,996,Cybersecurity,neutral,train,0.555274,0.0,0.050167,0.312926,1,0
+39468198,997,Cybersecurity,neutral,test,0.462711,0.899997,0.094232,0.538625,3,1
+39411462,998,Cybersecurity,negative,train,0.444336,1.0,0.076433,0.55585,2,1
+39610281,999,Cybersecurity,neutral,train,0.355081,0.68408,0.201932,0.430809,2,1
+39576917,1000,Cybersecurity,neutral,train,0.281817,0.68408,0.175884,0.386606,3,1
+39111236,1001,Cybersecurity,neutral,train,0.339025,0.400003,0.051563,0.314199,2,1
+39887817,1002,Cybersecurity,neutral,train,0.736675,0.0,0.285669,0.448022,1,0
+39887742,1003,Cybersecurity,neutral,train,0.410077,0.0,0.168587,0.25083,3,0
+39886536,1004,Cybersecurity,neutral,train,0.366059,0.053261,0.149733,0.239771,3,1
+39882807,1005,Cybersecurity,negative,train,0.449376,0.0,0.075807,0.258528,2,0
+39876089,1006,Cybersecurity,negative,test,0.736675,0.0,0.04081,0.411293,1,0
+39809913,1007,Cybersecurity,negative,test,0.408057,0.0,0.094224,0.238565,3,0
+39809845,1008,Cybersecurity,negative,train,0.391716,0.0,0.071887,0.226227,3,0
+39809785,1009,Cybersecurity,negative,train,0.736675,0.0,0.095223,0.419455,1,0
+38509277,1010,Cybersecurity,neutral,train,0.455264,0.400003,0.053084,0.378359,2,1
+38406086,1011,Cybersecurity,neutral,train,0.413601,0.400003,0.382172,0.404807,3,1
+38306620,1012,Cybersecurity,neutral,train,0.207458,0.0,0.432927,0.179041,2,0
+38232086,1013,Cybersecurity,neutral,train,0.317836,0.0,0.04204,0.181116,3,0
+38086895,1014,Cybersecurity,neutral,train,0.302302,0.0,0.061233,0.175451,5,0
+38802602,1015,Cybersecurity,neutral,test,0.555274,0.0,0.100334,0.320451,1,0
+38703247,1016,Cybersecurity,neutral,test,0.555274,0.0,0.100334,0.320451,1,0
+38519928,1017,Cybersecurity,negative,train,0.417734,0.0,0.105137,0.245524,2,0
+38354377,1018,Cybersecurity,negative,test,0.555274,0.0,0.100334,0.320451,1,0
+38227721,1019,Cybersecurity,neutral,test,0.555274,0.0,0.200667,0.335501,1,0
+38086171,1020,Cybersecurity,neutral,train,0.238882,0.0,0.046443,0.138352,4,0
+38313311,1021,Cybersecurity,negative,train,0.356162,1.0,0.178605,0.52268,4,1
+38313072,1022,Cybersecurity,neutral,train,0.312525,1.0,0.081689,0.484142,5,1
+38219385,1023,Cybersecurity,negative,train,0.374873,1.0,0.156646,0.529677,3,1
+38093611,1024,Cybersecurity,neutral,train,0.372885,1.0,0.105861,0.520966,3,1
+37848239,1025,Cybersecurity,negative,train,0.37627,1.0,0.039102,0.512814,3,1
+38801692,1026,Cybersecurity,neutral,train,0.462161,0.0,0.389367,0.312594,2,0
+38757134,1027,Cybersecurity,negative,train,0.489613,0.0,0.040099,0.275302,2,0
+38723223,1028,Cybersecurity,neutral,train,0.530334,0.0,0.093928,0.305773,2,0
+38646233,1029,Cybersecurity,neutral,train,0.434341,0.400003,0.379883,0.415871,3,1
+38645949,1030,Cybersecurity,neutral,train,0.357382,0.0,0.333847,0.246637,3,0
+38495598,1031,Cybersecurity,negative,train,0.356763,0.104092,0.210662,0.259047,4,1
+38790499,1032,Cybersecurity,neutral,test,0.0,0.0,0.0,0.0,0,0
+37625649,1033,Cybersecurity,neutral,train,0.624177,0.0,0.155749,0.36666,1,0
+37557977,1034,Cybersecurity,negative,test,0.275819,0.0,0.04482,0.158423,3,0
+37446162,1035,Cybersecurity,negative,train,0.371911,0.400003,0.09609,0.338966,3,1
+37316712,1036,Cybersecurity,neutral,train,0.624177,0.0,0.311498,0.390022,1,0
+37313461,1037,Cybersecurity,neutral,test,0.624177,0.0,0.0445,0.349972,1,0
+36724129,1038,Cybersecurity,positive,train,0.624177,0.0,0.311498,0.390022,1,0
+36714717,1039,Cybersecurity,neutral,test,0.555994,0.0,0.069307,0.316193,2,0
+36624297,1040,Cybersecurity,neutral,train,0.368569,0.0,0.073258,0.213702,2,0
+37624165,1041,Cybersecurity,neutral,train,0.256697,0.0,0.169344,0.166585,4,0
+37600719,1042,Cybersecurity,neutral,test,0.555274,0.0,0.200667,0.335501,1,0
+37387297,1043,Cybersecurity,negative,train,0.555274,0.0,0.066889,0.315434,1,0
+37068416,1044,Cybersecurity,negative,test,0.389398,0.386744,0.032518,0.33507,2,1
+36826888,1045,Cybersecurity,neutral,train,0.392628,0.0,0.106987,0.231993,2,0
+37685502,1046,Cybersecurity,neutral,train,0.302248,0.899997,0.192062,0.465045,6,1
+37657164,1047,Cybersecurity,neutral,train,0.325838,0.899997,0.292373,0.493066,4,1
+37134123,1048,Cybersecurity,neutral,train,0.365297,0.899997,0.076183,0.48234,3,1
+37125897,1049,Cybersecurity,neutral,train,0.388843,0.899997,0.206959,0.514907,4,1
+36995639,1050,Cybersecurity,neutral,test,0.444336,1.0,0.143267,0.565875,2,1
+37694718,1051,Cybersecurity,negative,train,0.329758,0.0,0.065371,0.191173,5,0
+37657178,1052,Cybersecurity,neutral,train,0.429115,0.0,0.095465,0.250333,2,0
+37542272,1053,Cybersecurity,neutral,train,0.522536,0.0,0.12688,0.306427,2,0
+37517714,1054,Cybersecurity,negative,train,0.736675,0.0,0.142835,0.426596,1,0
+37506770,1055,Cybersecurity,negative,train,0.438844,0.0,0.224441,0.27503,2,0
+37495929,1056,Cybersecurity,negative,train,0.416039,0.0,0.080174,0.240848,3,0
