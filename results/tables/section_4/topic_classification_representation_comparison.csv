@@ -1,0 +1,3 @@
+representation,n_features,accuracy,macro_precision,macro_recall,macro_f1
+Baseline (TF-IDF unigram),582,0.967,0.968,0.9673,0.9676
+Enriched (TF-IDF + 4 custom score features),586,0.9717,0.9725,0.972,0.9722

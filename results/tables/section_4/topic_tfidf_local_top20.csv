@@ -1,0 +1,81 @@
+topic,term,mean_tfidf_local,topic_doc_count,fit_scope
+Artificial Intelligence,openai,0.140626,253,local
+Artificial Intelligence,chatgpt,0.10825,253,local
+Artificial Intelligence,learning,0.101209,253,local
+Artificial Intelligence,machine,0.098153,253,local
+Artificial Intelligence,ai,0.057066,253,local
+Artificial Intelligence,models,0.030775,253,local
+Artificial Intelligence,like,0.027891,253,local
+Artificial Intelligence,just,0.02396,253,local
+Artificial Intelligence,good,0.021679,253,local
+Artificial Intelligence,language,0.020054,253,local
+Artificial Intelligence,open,0.016838,253,local
+Artificial Intelligence,large,0.016826,253,local
+Artificial Intelligence,does,0.016559,253,local
+Artificial Intelligence,anthropic,0.015959,253,local
+Artificial Intelligence,claude,0.01548,253,local
+Artificial Intelligence,llm,0.015414,253,local
+Artificial Intelligence,pretty,0.014936,253,local
+Artificial Intelligence,using,0.014601,253,local
+Artificial Intelligence,did,0.014008,253,local
+Artificial Intelligence,sounds,0.012932,253,local
+Climate Change,climate,0.133494,265,local
+Climate Change,change,0.132081,265,local
+Climate Change,fossil,0.091345,265,local
+Climate Change,warming,0.080447,265,local
+Climate Change,global,0.080122,265,local
+Climate Change,fuels,0.068787,265,local
+Climate Change,energy,0.057451,265,local
+Climate Change,renewable,0.053669,265,local
+Climate Change,fuel,0.050119,265,local
+Climate Change,carbon,0.039677,265,local
+Climate Change,emissions,0.039195,265,local
+Climate Change,nuclear,0.016224,265,local
+Climate Change,don,0.014863,265,local
+Climate Change,just,0.013707,265,local
+Climate Change,pollution,0.013244,265,local
+Climate Change,does,0.013129,265,local
+Climate Change,better,0.012851,265,local
+Climate Change,people,0.012674,265,local
+Climate Change,solve,0.012119,265,local
+Climate Change,good,0.011367,265,local
+Cryptocurrency,bitcoin,0.099537,272,local
+Cryptocurrency,blockchain,0.095635,272,local
+Cryptocurrency,ethereum,0.081783,272,local
+Cryptocurrency,cryptocurrency,0.081708,272,local
+Cryptocurrency,crypto,0.071819,272,local
+Cryptocurrency,use,0.031124,272,local
+Cryptocurrency,like,0.028939,272,local
+Cryptocurrency,ai,0.025638,272,local
+Cryptocurrency,just,0.022267,272,local
+Cryptocurrency,mining,0.02073,272,local
+Cryptocurrency,cryptocurrencies,0.018883,272,local
+Cryptocurrency,buy,0.018569,272,local
+Cryptocurrency,currency,0.017858,272,local
+Cryptocurrency,did,0.015444,272,local
+Cryptocurrency,cryptography,0.014034,272,local
+Cryptocurrency,does,0.013883,272,local
+Cryptocurrency,blockchains,0.013876,272,local
+Cryptocurrency,lot,0.013456,272,local
+Cryptocurrency,people,0.01343,272,local
+Cryptocurrency,actually,0.013338,272,local
+Cybersecurity,malware,0.129588,266,local
+Cybersecurity,cybersecurity,0.107554,266,local
+Cybersecurity,ransomware,0.102505,266,local
+Cybersecurity,data,0.061124,266,local
+Cybersecurity,breaches,0.03284,266,local
+Cybersecurity,like,0.031333,266,local
+Cybersecurity,breach,0.030749,266,local
+Cybersecurity,attack,0.028027,266,local
+Cybersecurity,cyber,0.024015,266,local
+Cybersecurity,does,0.019507,266,local
+Cybersecurity,just,0.018496,266,local
+Cybersecurity,think,0.014408,266,local
+Cybersecurity,time,0.014276,266,local
+Cybersecurity,don,0.013518,266,local
+Cybersecurity,ai,0.013209,266,local
+Cybersecurity,bad,0.013185,266,local
+Cybersecurity,attacks,0.011583,266,local
+Cybersecurity,using,0.011029,266,local
+Cybersecurity,good,0.010142,266,local
+Cybersecurity,got,0.010065,266,local

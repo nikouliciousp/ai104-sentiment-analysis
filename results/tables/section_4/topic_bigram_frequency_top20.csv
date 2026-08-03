@@ -1,0 +1,81 @@
+topic,bigram,bigram_count,bigram_freq,bigram_doc_freq,bigram_doc_ratio,topic_doc_count
+Artificial Intelligence,machine learning,67,0.336683,67,0.264822,253
+Artificial Intelligence,large language,11,0.055276,11,0.043478,253
+Artificial Intelligence,language model,7,0.035176,7,0.027668,253
+Artificial Intelligence,open ai,5,0.025126,5,0.019763,253
+Artificial Intelligence,artificial intelligence,4,0.020101,4,0.01581,253
+Artificial Intelligence,language models,4,0.020101,4,0.01581,253
+Artificial Intelligence,learning models,4,0.020101,4,0.01581,253
+Artificial Intelligence,llm large,4,0.020101,4,0.01581,253
+Artificial Intelligence,written chatgpt,4,0.020101,4,0.01581,253
+Artificial Intelligence,ai machine,3,0.015075,3,0.011858,253
+Artificial Intelligence,like machine,3,0.015075,3,0.011858,253
+Artificial Intelligence,using chatgpt,3,0.015075,3,0.011858,253
+Artificial Intelligence,ai artificial,2,0.01005,2,0.007905,253
+Artificial Intelligence,ai models,2,0.01005,2,0.007905,253
+Artificial Intelligence,anthropic claude,2,0.01005,2,0.007905,253
+Artificial Intelligence,ask chatgpt,2,0.01005,2,0.007905,253
+Artificial Intelligence,asked chatgpt,2,0.01005,2,0.007905,253
+Artificial Intelligence,chatgpt ai,2,0.01005,2,0.007905,253
+Artificial Intelligence,chatgpt pretty,2,0.01005,2,0.007905,253
+Artificial Intelligence,chatgpt pulse,2,0.01005,2,0.007905,253
+Climate Change,climate change,85,0.263975,83,0.313208,265
+Climate Change,global warming,57,0.177019,57,0.215094,265
+Climate Change,fossil fuels,41,0.127329,41,0.154717,265
+Climate Change,renewable energy,30,0.093168,30,0.113208,265
+Climate Change,fossil fuel,26,0.080745,26,0.098113,265
+Climate Change,carbon emissions,20,0.062112,20,0.075472,265
+Climate Change,considered renewable,3,0.009317,3,0.011321,265
+Climate Change,energy sector,3,0.009317,3,0.011321,265
+Climate Change,fuel lobby,3,0.009317,3,0.011321,265
+Climate Change,bad global,2,0.006211,2,0.007547,265
+Climate Change,carbon tax,2,0.006211,2,0.007547,265
+Climate Change,change isn,2,0.006211,2,0.007547,265
+Climate Change,change just,2,0.006211,2,0.007547,265
+Climate Change,change kills,2,0.006211,2,0.007547,265
+Climate Change,climate changes,2,0.006211,2,0.007547,265
+Climate Change,country renewable,2,0.006211,2,0.007547,265
+Climate Change,energy sources,2,0.006211,2,0.007547,265
+Climate Change,energy storage,2,0.006211,2,0.007547,265
+Climate Change,fossil gas,2,0.006211,2,0.007547,265
+Climate Change,fuel plants,2,0.006211,2,0.007547,265
+Cryptocurrency,crypto currency,6,0.075949,6,0.022059,272
+Cryptocurrency,use case,6,0.075949,5,0.018382,272
+Cryptocurrency,buy bitcoin,4,0.050633,4,0.014706,272
+Cryptocurrency,like blockchain,4,0.050633,4,0.014706,272
+Cryptocurrency,bitcoin miners,3,0.037975,3,0.011029,272
+Cryptocurrency,applied cryptography,2,0.025316,2,0.007353,272
+Cryptocurrency,bitcoin blockchain,2,0.025316,2,0.007353,272
+Cryptocurrency,bitcoin mining,2,0.025316,2,0.007353,272
+Cryptocurrency,blockchain based,2,0.025316,2,0.007353,272
+Cryptocurrency,blockchain just,2,0.025316,2,0.007353,272
+Cryptocurrency,case bitcoin,2,0.025316,2,0.007353,272
+Cryptocurrency,crypto grift,2,0.025316,2,0.007353,272
+Cryptocurrency,crypto web3,2,0.025316,2,0.007353,272
+Cryptocurrency,did ethereum,2,0.025316,2,0.007353,272
+Cryptocurrency,ethereum foundation,2,0.025316,2,0.007353,272
+Cryptocurrency,gold bitcoin,2,0.025316,2,0.007353,272
+Cryptocurrency,just like,2,0.025316,2,0.007353,272
+Cryptocurrency,keys crypto,2,0.025316,2,0.007353,272
+Cryptocurrency,like cryptocurrency,2,0.025316,2,0.007353,272
+Cryptocurrency,looks like,2,0.025316,2,0.007353,272
+Cybersecurity,data breach,16,0.144144,16,0.06015,266
+Cybersecurity,data breaches,16,0.144144,16,0.06015,266
+Cybersecurity,cyber attack,9,0.081081,9,0.033835,266
+Cybersecurity,like ransomware,4,0.036036,4,0.015038,266
+Cybersecurity,ransomware attacks,4,0.036036,4,0.015038,266
+Cybersecurity,install malware,3,0.027027,3,0.011278,266
+Cybersecurity,ransomware attack,3,0.027027,3,0.011278,266
+Cybersecurity,sounds like,3,0.027027,3,0.011278,266
+Cybersecurity,apps malware,2,0.018018,2,0.007519,266
+Cybersecurity,cyber attacks,2,0.018018,2,0.007519,266
+Cybersecurity,cybersecurity company,2,0.018018,2,0.007519,266
+Cybersecurity,cybersecurity courses,2,0.018018,2,0.007519,266
+Cybersecurity,cybersecurity experts,2,0.018018,2,0.007519,266
+Cybersecurity,cybersecurity firms,2,0.018018,2,0.007519,266
+Cybersecurity,cybersecurity hygiene,2,0.018018,2,0.007519,266
+Cybersecurity,cybersecurity industry,2,0.018018,2,0.007519,266
+Cybersecurity,cybersecurity knowledge,2,0.018018,2,0.007519,266
+Cybersecurity,cybersecurity threat,2,0.018018,2,0.007519,266
+Cybersecurity,cybersecurity tools,2,0.018018,2,0.007519,266
+Cybersecurity,data privacy,2,0.018018,2,0.007519,266

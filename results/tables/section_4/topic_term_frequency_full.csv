@@ -1,0 +1,3072 @@
+topic,term,topic_term_count,corpus_term_count,topic_doc_count,topic_term_freq,corpus_term_freq,topic_specific_ratio
+Artificial Intelligence,openai,83,84,253,0.05732,0.014515,3.949
+Artificial Intelligence,chatgpt,75,75,253,0.051796,0.01296,3.9965
+Artificial Intelligence,learning,68,69,253,0.046961,0.011923,3.9386
+Artificial Intelligence,machine,68,69,253,0.046961,0.011923,3.9386
+Artificial Intelligence,ai,33,55,253,0.02279,0.009504,2.3979
+Artificial Intelligence,models,18,18,253,0.012431,0.00311,3.9965
+Artificial Intelligence,like,15,55,253,0.010359,0.009504,1.09
+Artificial Intelligence,language,13,13,253,0.008978,0.002246,3.9965
+Artificial Intelligence,just,11,38,253,0.007597,0.006566,1.1569
+Artificial Intelligence,large,11,11,253,0.007597,0.001901,3.9965
+Artificial Intelligence,llm,10,12,253,0.006906,0.002074,3.3305
+Artificial Intelligence,good,9,22,253,0.006215,0.003802,1.635
+Artificial Intelligence,does,8,29,253,0.005525,0.005011,1.1025
+Artificial Intelligence,open,8,11,253,0.005525,0.001901,2.9066
+Artificial Intelligence,claude,8,10,253,0.005525,0.001728,3.1972
+Artificial Intelligence,model,8,9,253,0.005525,0.001555,3.5525
+Artificial Intelligence,did,7,18,253,0.004834,0.00311,1.5542
+Artificial Intelligence,using,7,16,253,0.004834,0.002765,1.7485
+Artificial Intelligence,anthropic,7,7,253,0.004834,0.00121,3.9965
+Artificial Intelligence,pretty,6,9,253,0.004144,0.001555,2.6644
+Artificial Intelligence,intelligence,6,7,253,0.004144,0.00121,3.4256
+Artificial Intelligence,artificial,6,6,253,0.004144,0.001037,3.9965
+Artificial Intelligence,sounds,6,13,253,0.004144,0.002246,1.8446
+Artificial Intelligence,people,5,20,253,0.003453,0.003456,0.9991
+Artificial Intelligence,article,5,10,253,0.003453,0.001728,1.9983
+Artificial Intelligence,api,5,5,253,0.003453,0.000864,3.9965
+Artificial Intelligence,gpt,5,5,253,0.003453,0.000864,3.9965
+Artificial Intelligence,lol,5,10,253,0.003453,0.001728,1.9983
+Artificial Intelligence,ask,5,6,253,0.003453,0.001037,3.3305
+Artificial Intelligence,doesn,5,16,253,0.003453,0.002765,1.2489
+Artificial Intelligence,probably,5,9,253,0.003453,0.001555,2.2203
+Artificial Intelligence,google,4,8,253,0.002762,0.001382,1.9983
+Artificial Intelligence,zero,4,7,253,0.002762,0.00121,2.2837
+Artificial Intelligence,think,4,20,253,0.002762,0.003456,0.7993
+Artificial Intelligence,got,4,9,253,0.002762,0.001555,1.7762
+Artificial Intelligence,mode,4,5,253,0.002762,0.000864,3.1972
+Artificial Intelligence,similar,4,6,253,0.002762,0.001037,2.6644
+Artificial Intelligence,use,4,22,253,0.002762,0.003802,0.7266
+Artificial Intelligence,written,4,4,253,0.002762,0.000691,3.9965
+Artificial Intelligence,make,4,12,253,0.002762,0.002074,1.3322
+Artificial Intelligence,pay,4,4,253,0.002762,0.000691,3.9965
+Artificial Intelligence,data,4,46,253,0.002762,0.007949,0.3475
+Artificial Intelligence,small,4,6,253,0.002762,0.001037,2.6644
+Artificial Intelligence,work,4,10,253,0.002762,0.001728,1.5986
+Artificial Intelligence,company,3,5,253,0.002072,0.000864,2.3979
+Artificial Intelligence,blog,3,4,253,0.002072,0.000691,2.9974
+Artificial Intelligence,meta,3,3,253,0.002072,0.000518,3.9965
+Artificial Intelligence,thanks,3,3,253,0.002072,0.000518,3.9965
+Artificial Intelligence,llms,3,5,253,0.002072,0.000864,2.3979
+Artificial Intelligence,new,3,11,253,0.002072,0.001901,1.09
+Artificial Intelligence,says,3,3,253,0.002072,0.000518,3.9965
+Artificial Intelligence,gemini,3,4,253,0.002072,0.000691,2.9974
+Artificial Intelligence,exactly,3,5,253,0.002072,0.000864,2.3979
+Artificial Intelligence,5,3,4,253,0.002072,0.000691,2.9974
+Artificial Intelligence,comment,3,3,253,0.002072,0.000518,3.9965
+Artificial Intelligence,json,3,4,253,0.002072,0.000691,2.9974
+Artificial Intelligence,definition,3,5,253,0.002072,0.000864,2.3979
+Artificial Intelligence,search,3,5,253,0.002072,0.000864,2.3979
+Artificial Intelligence,posts,3,4,253,0.002072,0.000691,2.9974
+Artificial Intelligence,don,3,23,253,0.002072,0.003974,0.5213
+Artificial Intelligence,self,3,6,253,0.002072,0.001037,1.9983
+Artificial Intelligence,deepseek,3,3,253,0.002072,0.000518,3.9965
+Artificial Intelligence,really,3,8,253,0.002072,0.001382,1.4987
+Artificial Intelligence,com,3,3,253,0.002072,0.000518,3.9965
+Artificial Intelligence,isn,3,14,253,0.002072,0.002419,0.8564
+Artificial Intelligence,day,3,5,253,0.002072,0.000864,2.3979
+Artificial Intelligence,better,3,13,253,0.002072,0.002246,0.9223
+Artificial Intelligence,wrong,3,5,253,0.002072,0.000864,2.3979
+Artificial Intelligence,used,3,8,253,0.002072,0.001382,1.4987
+Artificial Intelligence,needed,2,2,253,0.001381,0.000346,3.9965
+Artificial Intelligence,information,2,2,253,0.001381,0.000346,3.9965
+Artificial Intelligence,mark,2,2,253,0.001381,0.000346,3.9965
+Artificial Intelligence,profit,2,2,253,0.001381,0.000346,3.9965
+Artificial Intelligence,thought,2,6,253,0.001381,0.001037,1.3322
+Artificial Intelligence,world,2,7,253,0.001381,0.00121,1.1419
+Artificial Intelligence,product,2,3,253,0.001381,0.000518,2.6644
+Artificial Intelligence,way,2,9,253,0.001381,0.001555,0.8881
+Artificial Intelligence,running,2,5,253,0.001381,0.000864,1.5986
+Artificial Intelligence,significant,2,2,253,0.001381,0.000346,3.9965
+Artificial Intelligence,apple,2,3,253,0.001381,0.000518,2.6644
+Artificial Intelligence,statistical,2,2,253,0.001381,0.000346,3.9965
+Artificial Intelligence,include,2,6,253,0.001381,0.001037,1.3322
+Artificial Intelligence,impossible,2,2,253,0.001381,0.000346,3.9965
+Artificial Intelligence,server,2,2,253,0.001381,0.000346,3.9965
+Artificial Intelligence,probabilistic,2,2,253,0.001381,0.000346,3.9965
+Artificial Intelligence,means,2,3,253,0.001381,0.000518,2.6644
+Artificial Intelligence,lot,2,12,253,0.001381,0.002074,0.6661
+Artificial Intelligence,nice,2,5,253,0.001381,0.000864,1.5986
+Artificial Intelligence,online,2,3,253,0.001381,0.000518,2.6644
+Artificial Intelligence,triton,2,2,253,0.001381,0.000346,3.9965
+Artificial Intelligence,research,2,7,253,0.001381,0.00121,1.1419
+Artificial Intelligence,subset,2,2,253,0.001381,0.000346,3.9965
+Artificial Intelligence,promising,2,2,253,0.001381,0.000346,3.9965
+Artificial Intelligence,quora,2,2,253,0.001381,0.000346,3.9965
+Artificial Intelligence,python,2,2,253,0.001381,0.000346,3.9965
+Artificial Intelligence,seen,2,4,253,0.001381,0.000691,1.9983
+Artificial Intelligence,paying,2,3,253,0.001381,0.000518,2.6644
+Artificial Intelligence,away,2,3,253,0.001381,0.000518,2.6644
+Artificial Intelligence,comfortable,2,2,253,0.001381,0.000346,3.9965
+Artificial Intelligence,referred,2,2,253,0.001381,0.000346,3.9965
+Artificial Intelligence,control,2,3,253,0.001381,0.000518,2.6644
+Artificial Intelligence,4,2,3,253,0.001381,0.000518,2.6644
+Artificial Intelligence,great,2,7,253,0.001381,0.00121,1.1419
+Artificial Intelligence,finally,2,3,253,0.001381,0.000518,2.6644
+Artificial Intelligence,derived,2,2,253,0.001381,0.000346,3.9965
+Artificial Intelligence,weights,2,2,253,0.001381,0.000346,3.9965
+Artificial Intelligence,copilot,2,2,253,0.001381,0.000346,3.9965
+Artificial Intelligence,board,2,2,253,0.001381,0.000346,3.9965
+Artificial Intelligence,analysis,2,5,253,0.001381,0.000864,1.5986
+Artificial Intelligence,low,2,7,253,0.001381,0.00121,1.1419
+Artificial Intelligence,testing,2,2,253,0.001381,0.000346,3.9965
+Artificial Intelligence,experts,2,4,253,0.001381,0.000691,1.9983
+Artificial Intelligence,feel,2,2,253,0.001381,0.000346,3.9965
+Artificial Intelligence,higher,2,2,253,0.001381,0.000346,3.9965
+Artificial Intelligence,look,2,4,253,0.001381,0.000691,1.9983
+Artificial Intelligence,approaches,2,2,253,0.001381,0.000346,3.9965
+Artificial Intelligence,hosted,2,2,253,0.001381,0.000346,3.9965
+Artificial Intelligence,kind,2,6,253,0.001381,0.001037,1.3322
+Artificial Intelligence,moat,2,2,253,0.001381,0.000346,3.9965
+Artificial Intelligence,working,2,5,253,0.001381,0.000864,1.5986
+Artificial Intelligence,generative,2,2,253,0.001381,0.000346,3.9965
+Artificial Intelligence,today,2,2,253,0.001381,0.000346,3.9965
+Artificial Intelligence,thing,2,10,253,0.001381,0.001728,0.7993
+Artificial Intelligence,told,2,3,253,0.001381,0.000518,2.6644
+Artificial Intelligence,pro,2,5,253,0.001381,0.000864,1.5986
+Artificial Intelligence,design,2,2,253,0.001381,0.000346,3.9965
+Artificial Intelligence,translation,2,2,253,0.001381,0.000346,3.9965
+Artificial Intelligence,output,2,2,253,0.001381,0.000346,3.9965
+Artificial Intelligence,sure,2,7,253,0.001381,0.00121,1.1419
+Artificial Intelligence,chinese,2,4,253,0.001381,0.000691,1.9983
+Artificial Intelligence,robots,2,2,253,0.001381,0.000346,3.9965
+Artificial Intelligence,talk,2,3,253,0.001381,0.000518,2.6644
+Artificial Intelligence,programming,2,2,253,0.001381,0.000346,3.9965
+Artificial Intelligence,pulse,2,2,253,0.001381,0.000346,3.9965
+Artificial Intelligence,street,2,2,253,0.001381,0.000346,3.9965
+Artificial Intelligence,driven,2,3,253,0.001381,0.000518,2.6644
+Artificial Intelligence,op,2,3,253,0.001381,0.000518,2.6644
+Artificial Intelligence,according,2,2,253,0.001381,0.000346,3.9965
+Artificial Intelligence,context,2,3,253,0.001381,0.000518,2.6644
+Artificial Intelligence,bit,2,4,253,0.001381,0.000691,1.9983
+Artificial Intelligence,write,2,6,253,0.001381,0.001037,1.3322
+Artificial Intelligence,conditions,2,2,253,0.001381,0.000346,3.9965
+Artificial Intelligence,trained,2,2,253,0.001381,0.000346,3.9965
+Artificial Intelligence,hype,2,3,253,0.001381,0.000518,2.6644
+Artificial Intelligence,building,2,4,253,0.001381,0.000691,1.9983
+Artificial Intelligence,chatgpt5,2,2,253,0.001381,0.000346,3.9965
+Artificial Intelligence,azure,2,3,253,0.001381,0.000518,2.6644
+Artificial Intelligence,believe,2,7,253,0.001381,0.00121,1.1419
+Artificial Intelligence,love,2,5,253,0.001381,0.000864,1.5986
+Artificial Intelligence,generalization,2,2,253,0.001381,0.000346,3.9965
+Artificial Intelligence,images,2,2,253,0.001381,0.000346,3.9965
+Artificial Intelligence,source,2,8,253,0.001381,0.001382,0.9991
+Artificial Intelligence,asked,2,2,253,0.001381,0.000346,3.9965
+Artificial Intelligence,codex,2,2,253,0.001381,0.000346,3.9965
+Artificial Intelligence,years,2,6,253,0.001381,0.001037,1.3322
+Artificial Intelligence,making,2,7,253,0.001381,0.00121,1.1419
+Artificial Intelligence,code,2,8,253,0.001381,0.001382,0.9991
+Artificial Intelligence,version,2,5,253,0.001381,0.000864,1.5986
+Artificial Intelligence,free,2,6,253,0.001381,0.001037,1.3322
+Artificial Intelligence,works,2,3,253,0.001381,0.000518,2.6644
+Artificial Intelligence,right,2,13,253,0.001381,0.002246,0.6149
+Artificial Intelligence,reads,2,2,253,0.001381,0.000346,3.9965
+Artificial Intelligence,term,2,2,253,0.001381,0.000346,3.9965
+Artificial Intelligence,science,2,5,253,0.001381,0.000864,1.5986
+Artificial Intelligence,finding,2,3,253,0.001381,0.000518,2.6644
+Artificial Intelligence,deepmind,2,2,253,0.001381,0.000346,3.9965
+Artificial Intelligence,promised,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,valuation,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,customers,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,10m,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,remain,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,congrats,1,2,253,0.000691,0.000346,1.9983
+Artificial Intelligence,forever,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,gpt4o,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,hopefully,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,seo,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,replacement,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,resist,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,outcomes,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,academic,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,texas,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,austin,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,discord,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,challenge,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,left,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,changing,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,vapourware,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,wanted,1,2,253,0.000691,0.000346,1.9983
+Artificial Intelligence,producing,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,predates,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,nvidia,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,scale,1,2,253,0.000691,0.000346,1.9983
+Artificial Intelligence,unrealistic,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,trillion,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,failure,1,2,253,0.000691,0.000346,1.9983
+Artificial Intelligence,guess,1,5,253,0.000691,0.000864,0.7993
+Artificial Intelligence,gov,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,faith,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,respects,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,attempts,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,block,1,3,253,0.000691,0.000518,1.3322
+Artificial Intelligence,scrapers,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,sorry,1,3,253,0.000691,0.000518,1.3322
+Artificial Intelligence,tech,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,bed,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,o3,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,hope,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,seriously,1,3,253,0.000691,0.000518,1.3322
+Artificial Intelligence,investigate,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,ms,1,3,253,0.000691,0.000518,1.3322
+Artificial Intelligence,preparing,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,fallback,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,plan,1,2,253,0.000691,0.000346,1.9983
+Artificial Intelligence,wonder,1,4,253,0.000691,0.000691,0.9991
+Artificial Intelligence,makes,1,4,253,0.000691,0.000691,0.9991
+Artificial Intelligence,easier,1,3,253,0.000691,0.000518,1.3322
+Artificial Intelligence,teams,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,profiles,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,approach,1,3,253,0.000691,0.000518,1.3322
+Artificial Intelligence,regression,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,implemented,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,sort,1,2,253,0.000691,0.000346,1.9983
+Artificial Intelligence,lots,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,input,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,pairs,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,generate,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,lists,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,cases,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,facebook,1,5,253,0.000691,0.000864,0.7993
+Artificial Intelligence,opposite,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,kinds,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,products,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,o1,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,solutions,1,3,253,0.000691,0.000518,1.3322
+Artificial Intelligence,taking,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,million,1,3,253,0.000691,0.000518,1.3322
+Artificial Intelligence,comments,1,3,253,0.000691,0.000518,1.3322
+Artificial Intelligence,summary,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,site,1,5,253,0.000691,0.000864,0.7993
+Artificial Intelligence,looks,1,7,253,0.000691,0.00121,0.5709
+Artificial Intelligence,coo,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,passed,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,11,1,3,253,0.000691,0.000518,1.3322
+Artificial Intelligence,subscribers,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,somewhat,1,3,253,0.000691,0.000518,1.3322
+Artificial Intelligence,verilog,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,debugging,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,generation,1,2,253,0.000691,0.000346,1.9983
+Artificial Intelligence,engine,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,ummm,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,played,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,voice,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,citing,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,apology,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,feed,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,youtube,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,modifying,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,lora,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,rank,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,adaptation,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,technique,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,efficiently,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,finetuning,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,congratulations,1,2,253,0.000691,0.000346,1.9983
+Artificial Intelligence,communities,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,equal,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,human,1,3,253,0.000691,0.000518,1.3322
+Artificial Intelligence,infant,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,development,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,stop,1,3,253,0.000691,0.000518,1.3322
+Artificial Intelligence,translations,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,quality,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,lab,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,improve,1,2,253,0.000691,0.000346,1.9983
+Artificial Intelligence,privacy,1,3,253,0.000691,0.000518,1.3322
+Artificial Intelligence,claim,1,3,253,0.000691,0.000518,1.3322
+Artificial Intelligence,click,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,bait,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,negativity,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,wow,1,3,253,0.000691,0.000518,1.3322
+Artificial Intelligence,late,1,3,253,0.000691,0.000518,1.3322
+Artificial Intelligence,join,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,realize,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,nightmare,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,attribution,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,non,1,6,253,0.000691,0.001037,0.6661
+Artificial Intelligence,noreferrer,1,4,253,0.000691,0.000691,0.9991
+Artificial Intelligence,turn,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,executables,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,monopoly,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,birth,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,course,1,6,253,0.000691,0.001037,0.6661
+Artificial Intelligence,llama,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,snippetting,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,differences,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,overfitting,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,tiktok,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,video,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,infra,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,1,1,12,253,0.000691,0.002074,0.333
+Artificial Intelligence,chatgpt3,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,enought,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,query,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,5x,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,speedup,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,caught,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,schema,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,stealing,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,generated,1,2,253,0.000691,0.000346,1.9983
+Artificial Intelligence,perplexity,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,distributing,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,content,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,apps,1,5,253,0.000691,0.000864,0.7993
+Artificial Intelligence,function,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,calling,1,2,253,0.000691,0.000346,1.9983
+Artificial Intelligence,huh,1,2,253,0.000691,0.000346,1.9983
+Artificial Intelligence,vs,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,deepl,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,txts,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,refer,1,2,253,0.000691,0.000346,1.9983
+Artificial Intelligence,codegen,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,whisper,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,read,1,3,253,0.000691,0.000518,1.3322
+Artificial Intelligence,pdfs,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,crawlers,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,paid,1,3,253,0.000691,0.000518,1.3322
+Artificial Intelligence,attention,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,employees,1,3,253,0.000691,0.000518,1.3322
+Artificial Intelligence,horizon,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,unloading,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,moment,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,peak,1,2,253,0.000691,0.000346,1.9983
+Artificial Intelligence,limits,1,2,253,0.000691,0.000346,1.9983
+Artificial Intelligence,offers,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,different,1,3,253,0.000691,0.000518,1.3322
+Artificial Intelligence,boss,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,seats,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,anybody,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,pcbs,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,fusion,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,aren,1,5,253,0.000691,0.000864,0.7993
+Artificial Intelligence,reactors,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,knowledge,1,3,253,0.000691,0.000518,1.3322
+Artificial Intelligence,proofs,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,fluid,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,dynamics,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,playlist,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,steve,1,2,253,0.000691,0.000346,1.9983
+Artificial Intelligence,brunton,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,current,1,2,253,0.000691,0.000346,1.9983
+Artificial Intelligence,workflow,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,bayesian,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,estimation,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,game,1,2,253,0.000691,0.000346,1.9983
+Artificial Intelligence,thats,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,reason,1,3,253,0.000691,0.000518,1.3322
+Artificial Intelligence,disrupt,1,2,253,0.000691,0.000346,1.9983
+Artificial Intelligence,decent,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,style,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,explained,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,topic,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,river,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,yes,1,9,253,0.000691,0.001555,0.4441
+Artificial Intelligence,requests,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,minute,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,exposure,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,return,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,transformation,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,guided,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,typical,1,2,253,0.000691,0.000346,1.9983
+Artificial Intelligence,complete,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,hell,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,update,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,official,1,2,253,0.000691,0.000346,1.9983
+Artificial Intelligence,2,1,4,253,0.000691,0.000691,0.9991
+Artificial Intelligence,0,1,8,253,0.000691,0.001382,0.4996
+Artificial Intelligence,double,1,2,253,0.000691,0.000346,1.9983
+Artificial Intelligence,reconfirming,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,commitment,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,closed,1,2,253,0.000691,0.000346,1.9983
+Artificial Intelligence,worked,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,5k,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,presumably,1,2,253,0.000691,0.000346,1.9983
+Artificial Intelligence,words,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,run,1,3,253,0.000691,0.000518,1.3322
+Artificial Intelligence,contra,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,characterization,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,mohammedanism,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,submission,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,xhaxha,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,capacity,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,100,1,3,253,0.000691,0.000518,1.3322
+Artificial Intelligence,tired,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,cat,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,require,1,4,253,0.000691,0.000691,0.9991
+Artificial Intelligence,agi,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,eventually,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,comes,1,3,253,0.000691,0.000518,1.3322
+Artificial Intelligence,starting,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,doubt,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,track,1,2,253,0.000691,0.000346,1.9983
+Artificial Intelligence,shipping,1,2,253,0.000691,0.000346,1.9983
+Artificial Intelligence,soon,1,3,253,0.000691,0.000518,1.3322
+Artificial Intelligence,rebranded,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,target,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,automation,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,1m,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,tuning,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,violate,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,terms,1,4,253,0.000691,0.000691,0.9991
+Artificial Intelligence,service,1,3,253,0.000691,0.000518,1.3322
+Artificial Intelligence,tts,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,competitively,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,priced,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,15,1,4,253,0.000691,0.000691,0.9991
+Artificial Intelligence,chars,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,machinelearning,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,convoluted,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,lured,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,wikipedia,1,2,253,0.000691,0.000346,1.9983
+Artificial Intelligence,broad,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,forward,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,inevitable,1,2,253,0.000691,0.000346,1.9983
+Artificial Intelligence,sub,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,convolutions,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,fine,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,office,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,stickler,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,huge,1,3,253,0.000691,0.000518,1.3322
+Artificial Intelligence,result,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,consider,1,2,253,0.000691,0.000346,1.9983
+Artificial Intelligence,necessarily,1,2,253,0.000691,0.000346,1.9983
+Artificial Intelligence,accidents,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,faster,1,2,253,0.000691,0.000346,1.9983
+Artificial Intelligence,chance,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,maybe,1,8,253,0.000691,0.001382,0.4996
+Artificial Intelligence,sense,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,trading,1,2,253,0.000691,0.000346,1.9983
+Artificial Intelligence,page,1,2,253,0.000691,0.000346,1.9983
+Artificial Intelligence,puh,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,leeze,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,aware,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,chatgpt4,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,agree,1,4,253,0.000691,0.000691,0.9991
+Artificial Intelligence,tarpit,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,project,1,3,253,0.000691,0.000518,1.3322
+Artificial Intelligence,optimization,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,measurable,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,profile,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,confirm,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,afraid,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,atrophies,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,brain,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,llvm,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,level,1,3,253,0.000691,0.000518,1.3322
+Artificial Intelligence,virtual,1,2,253,0.000691,0.000346,1.9983
+Artificial Intelligence,logic,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,lack,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,goes,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,wait,1,4,253,0.000691,0.000691,0.9991
+Artificial Intelligence,decision,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,tree,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,heard,1,5,253,0.000691,0.000864,0.7993
+Artificial Intelligence,meant,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,2001,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,main,1,2,253,0.000691,0.000346,1.9983
+Artificial Intelligence,yea,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,fallout,1,3,253,0.000691,0.000518,1.3322
+Artificial Intelligence,patterns,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,strategic,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,try,1,4,253,0.000691,0.000691,0.9991
+Artificial Intelligence,sitll,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,pouring,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,money,1,10,253,0.000691,0.001728,0.3997
+Artificial Intelligence,oracle,1,3,253,0.000691,0.000518,1.3322
+Artificial Intelligence,btw,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,undergoing,1,2,253,0.000691,0.000346,1.9983
+Artificial Intelligence,pivot,1,3,253,0.000691,0.000518,1.3322
+Artificial Intelligence,point,1,7,253,0.000691,0.00121,0.5709
+Artificial Intelligence,developing,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,ip,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,ranges,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,known,1,2,253,0.000691,0.000346,1.9983
+Artificial Intelligence,integrity,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,basically,1,3,253,0.000691,0.000518,1.3322
+Artificial Intelligence,oxymoron,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,application,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,applied,1,3,253,0.000691,0.000518,1.3322
+Artificial Intelligence,essentially,1,4,253,0.000691,0.000691,0.9991
+Artificial Intelligence,optimize,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,liquid,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,easily,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,invested,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,openais,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,losses,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,taxed,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,earnings,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,future,1,3,253,0.000691,0.000518,1.3322
+Artificial Intelligence,manifold,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,mathematically,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,citation,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,commercially,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,successful,1,6,253,0.000691,0.001037,0.6661
+Artificial Intelligence,pluribus,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,certainly,1,3,253,0.000691,0.000518,1.3322
+Artificial Intelligence,commentary,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,stock,1,3,253,0.000691,0.000518,1.3322
+Artificial Intelligence,companies,1,5,253,0.000691,0.000864,0.7993
+Artificial Intelligence,investing,1,2,253,0.000691,0.000346,1.9983
+Artificial Intelligence,training,1,2,253,0.000691,0.000346,1.9983
+Artificial Intelligence,hypothesis,1,2,253,0.000691,0.000346,1.9983
+Artificial Intelligence,writes,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,programing,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,letting,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,know,1,5,253,0.000691,0.000864,0.7993
+Artificial Intelligence,chat,1,2,253,0.000691,0.000346,1.9983
+Artificial Intelligence,chats,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,interchangeable,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,website,1,3,253,0.000691,0.000518,1.3322
+Artificial Intelligence,optimized,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,searches,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,cookie,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,cutter,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,reply,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,mcdonald,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,cadence,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,usage,1,4,253,0.000691,0.000691,0.9991
+Artificial Intelligence,stack,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,vinyl,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,sock,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,veb,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,shall,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,dig,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,auferstanden,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,aus,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,ruinen,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,related,1,5,253,0.000691,0.000864,0.7993
+Artificial Intelligence,patch,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,early,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,talks,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,stake,1,3,253,0.000691,0.000518,1.3322
+Artificial Intelligence,government,1,4,253,0.000691,0.000691,0.9991
+Artificial Intelligence,advantage,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,mistake,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,support,1,5,253,0.000691,0.000864,0.7993
+Artificial Intelligence,hole,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,dear,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,stuff,1,6,253,0.000691,0.001037,0.6661
+Artificial Intelligence,tells,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,automated,1,4,253,0.000691,0.000691,0.9991
+Artificial Intelligence,clients,1,3,253,0.000691,0.000518,1.3322
+Artificial Intelligence,learn,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,safe,1,3,253,0.000691,0.000518,1.3322
+Artificial Intelligence,didnt,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,comparison,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,chart,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,6,1,2,253,0.000691,0.000346,1.9983
+Artificial Intelligence,resolve,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,post,1,2,253,0.000691,0.000346,1.9983
+Artificial Intelligence,strong,1,2,253,0.000691,0.000346,1.9983
+Artificial Intelligence,copy,1,2,253,0.000691,0.000346,1.9983
+Artificial Intelligence,edited,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,vibes,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,siemens,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,deep,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,aws,1,2,253,0.000691,0.000346,1.9983
+Artificial Intelligence,bedrock,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,vacation,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,ads,1,4,253,0.000691,0.000691,0.9991
+Artificial Intelligence,category,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,security,1,4,253,0.000691,0.000691,0.9991
+Artificial Intelligence,bug,1,2,253,0.000691,0.000346,1.9983
+Artificial Intelligence,biology,1,2,253,0.000691,0.000346,1.9983
+Artificial Intelligence,funny,1,2,253,0.000691,0.000346,1.9983
+Artificial Intelligence,completely,1,2,253,0.000691,0.000346,1.9983
+Artificial Intelligence,vanished,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,insanely,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,week,1,2,253,0.000691,0.000346,1.9983
+Artificial Intelligence,crippled,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,surprising,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,response,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,awful,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,say,1,4,253,0.000691,0.000691,0.9991
+Artificial Intelligence,best,1,4,253,0.000691,0.000691,0.9991
+Artificial Intelligence,refactoring,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,general,1,2,253,0.000691,0.000346,1.9983
+Artificial Intelligence,crumbs,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,force,1,2,253,0.000691,0.000346,1.9983
+Artificial Intelligence,brute,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,amusing,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,guy,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,end,1,3,253,0.000691,0.000518,1.3322
+Artificial Intelligence,firms,1,3,253,0.000691,0.000518,1.3322
+Artificial Intelligence,bringing,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,competition,1,2,253,0.000691,0.000346,1.9983
+Artificial Intelligence,gen,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,z,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,hates,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,rewrite,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,futurism,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,banning,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,specifically,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,layer,1,2,253,0.000691,0.000346,1.9983
+Artificial Intelligence,cake,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,software,1,3,253,0.000691,0.000518,1.3322
+Artificial Intelligence,afaik,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,enemies,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,concept,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,entirety,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,fits,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,repo,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,zealous,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,autoconfig,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,captcha,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,formal,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,guys,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,yurts,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,thebtopic,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,users,1,3,253,0.000691,0.000518,1.3322
+Artificial Intelligence,unable,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,visit,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,quickest,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,chrome,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,extension,1,2,253,0.000691,0.000346,1.9983
+Artificial Intelligence,mongolia,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,sync,1,2,253,0.000691,0.000346,1.9983
+Artificial Intelligence,awfully,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,enables,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,files,1,2,253,0.000691,0.000346,1.9983
+Artificial Intelligence,idea,1,3,253,0.000691,0.000518,1.3322
+Artificial Intelligence,execution,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,failed,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,let,1,7,253,0.000691,0.00121,0.5709
+Artificial Intelligence,attempt,1,2,253,0.000691,0.000346,1.9983
+Artificial Intelligence,refuse,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,encourages,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,opt,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,natural,1,2,253,0.000691,0.000346,1.9983
+Artificial Intelligence,stupidity,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,instead,1,5,253,0.000691,0.000864,0.7993
+Artificial Intelligence,thankfully,1,2,253,0.000691,0.000346,1.9983
+Artificial Intelligence,satellites,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,dark,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,days,1,4,253,0.000691,0.000691,0.9991
+Artificial Intelligence,700k,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,downloads,1,2,253,0.000691,0.000346,1.9983
+Artificial Intelligence,emdashes,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,prompt,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,ghibli,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,announcements,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,tool,1,3,253,0.000691,0.000518,1.3322
+Artificial Intelligence,coverage,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,plans,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,investments,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,humanoid,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,engineering,1,2,253,0.000691,0.000346,1.9983
+Artificial Intelligence,rise,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,prejudice,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,kevin,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,murphy,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,racing,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,rename,1,2,253,0.000691,0.000346,1.9983
+Artificial Intelligence,series,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,especially,1,7,253,0.000691,0.00121,0.5709
+Artificial Intelligence,doing,1,6,253,0.000691,0.001037,0.6661
+Artificial Intelligence,reddit,1,2,253,0.000691,0.000346,1.9983
+Artificial Intelligence,altman,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,sam,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,copying,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,pasting,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,said,1,3,253,0.000691,0.000518,1.3322
+Artificial Intelligence,released,1,2,253,0.000691,0.000346,1.9983
+Artificial Intelligence,provides,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,premise,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,serving,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,customer,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,noncompete,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,uploading,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,family,1,2,253,0.000691,0.000346,1.9983
+Artificial Intelligence,servers,1,3,253,0.000691,0.000518,1.3322
+Artificial Intelligence,line,1,2,253,0.000691,0.000346,1.9983
+Artificial Intelligence,157b,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,61b,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,dumping,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,corporations,1,2,253,0.000691,0.000346,1.9983
+Artificial Intelligence,provider,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,reportedly,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,ironic,1,2,253,0.000691,0.000346,1.9983
+Artificial Intelligence,crawler,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,watch,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,going,1,4,253,0.000691,0.000691,0.9991
+Artificial Intelligence,eat,1,2,253,0.000691,0.000346,1.9983
+Artificial Intelligence,lunch,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,oss,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,huggingface,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,transformers,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,zama,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,homomorphic,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,researcher,1,3,253,0.000691,0.000518,1.3322
+Artificial Intelligence,eda,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,chip,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,uses,1,2,253,0.000691,0.000346,1.9983
+Artificial Intelligence,sharing,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,job,1,2,253,0.000691,0.000346,1.9983
+Artificial Intelligence,seven,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,hard,1,3,253,0.000691,0.000518,1.3322
+Artificial Intelligence,real,1,7,253,0.000691,0.00121,0.5709
+Artificial Intelligence,moreso,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,hallucinations,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,chatbot,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,actual,1,3,253,0.000691,0.000518,1.3322
+Artificial Intelligence,yesterday,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,humility,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,airplane,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,easy,1,2,253,0.000691,0.000346,1.9983
+Artificial Intelligence,solves,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,fact,1,3,253,0.000691,0.000518,1.3322
+Artificial Intelligence,remains,1,2,253,0.000691,0.000346,1.9983
+Artificial Intelligence,curious,1,2,253,0.000691,0.000346,1.9983
+Artificial Intelligence,invent,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,creativity,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,campaigned,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,heuristic,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,positronic,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,accessing,1,2,253,0.000691,0.000346,1.9983
+Artificial Intelligence,adrafinil,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,microsoft,1,3,253,0.000691,0.000518,1.3322
+Artificial Intelligence,rivalry,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,big,1,4,253,0.000691,0.000691,0.9991
+Artificial Intelligence,fan,1,2,253,0.000691,0.000346,1.9983
+Artificial Intelligence,deferring,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,morality,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,link,1,2,253,0.000691,0.000346,1.9983
+Artificial Intelligence,utm,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,neural,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,talking,1,6,253,0.000691,0.001037,0.6661
+Artificial Intelligence,mean,1,5,253,0.000691,0.000864,0.7993
+Artificial Intelligence,anymore,1,3,253,0.000691,0.000518,1.3322
+Artificial Intelligence,published,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,thinking,1,2,253,0.000691,0.000346,1.9983
+Artificial Intelligence,trace,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,difficulties,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,fuels,1,42,253,0.000691,0.007258,0.0952
+Artificial Intelligence,success,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,enterprise,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,discussion,1,2,253,0.000691,0.000346,1.9983
+Artificial Intelligence,network,1,2,253,0.000691,0.000346,1.9983
+Artificial Intelligence,outperforms,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,headduck,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,interview,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,team,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,20,1,2,253,0.000691,0.000346,1.9983
+Artificial Intelligence,30,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,math,1,2,253,0.000691,0.000346,1.9983
+Artificial Intelligence,50,1,2,253,0.000691,0.000346,1.9983
+Artificial Intelligence,demon,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,summoning,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,psychosis,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,pushing,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,pure,1,1,253,0.000691,0.000173,3.9965
+Artificial Intelligence,authored,1,2,253,0.000691,0.000346,1.9983
+Artificial Intelligence,ceo,1,1,253,0.000691,0.000173,3.9965
+Climate Change,climate,88,88,265,0.057254,0.015206,3.7651
+Climate Change,change,86,87,265,0.055953,0.015034,3.7218
+Climate Change,fossil,69,69,265,0.044893,0.011923,3.7651
+Climate Change,warming,58,58,265,0.037736,0.010022,3.7651
+Climate Change,global,58,60,265,0.037736,0.010368,3.6396
+Climate Change,fuels,41,42,265,0.026675,0.007258,3.6755
+Climate Change,energy,38,40,265,0.024723,0.006912,3.5769
+Climate Change,renewable,33,33,265,0.02147,0.005702,3.7651
+Climate Change,fuel,30,30,265,0.019519,0.005184,3.7651
+Climate Change,carbon,25,25,265,0.016265,0.00432,3.7651
+Climate Change,emissions,23,23,265,0.014964,0.003974,3.7651
+Climate Change,nuclear,9,9,265,0.005856,0.001555,3.7651
+Climate Change,just,7,38,265,0.004554,0.006566,0.6936
+Climate Change,don,7,23,265,0.004554,0.003974,1.1459
+Climate Change,better,6,13,265,0.003904,0.002246,1.7378
+Climate Change,pollution,6,6,265,0.003904,0.001037,3.7651
+Climate Change,gas,6,7,265,0.003904,0.00121,3.2273
+Climate Change,does,6,29,265,0.003904,0.005011,0.779
+Climate Change,need,6,12,265,0.003904,0.002074,1.8826
+Climate Change,people,6,20,265,0.003904,0.003456,1.1295
+Climate Change,isn,6,14,265,0.003904,0.002419,1.6136
+Climate Change,good,5,22,265,0.003253,0.003802,0.8557
+Climate Change,like,5,55,265,0.003253,0.009504,0.3423
+Climate Change,making,5,7,265,0.003253,0.00121,2.6894
+Climate Change,solve,5,7,265,0.003253,0.00121,2.6894
+Climate Change,maybe,5,8,265,0.003253,0.001382,2.3532
+Climate Change,lobby,4,4,265,0.002602,0.000691,3.7651
+Climate Change,especially,4,7,265,0.002602,0.00121,2.1515
+Climate Change,0,4,8,265,0.002602,0.001382,1.8826
+Climate Change,problem,4,9,265,0.002602,0.001555,1.6734
+Climate Change,source,4,8,265,0.002602,0.001382,1.8826
+Climate Change,bad,4,11,265,0.002602,0.001901,1.3691
+Climate Change,renewables,4,4,265,0.002602,0.000691,3.7651
+Climate Change,world,4,7,265,0.002602,0.00121,2.1515
+Climate Change,right,4,13,265,0.002602,0.002246,1.1585
+Climate Change,oil,4,4,265,0.002602,0.000691,3.7651
+Climate Change,subsidies,4,4,265,0.002602,0.000691,3.7651
+Climate Change,think,4,20,265,0.002602,0.003456,0.753
+Climate Change,money,4,10,265,0.002602,0.001728,1.5061
+Climate Change,considered,4,7,265,0.002602,0.00121,2.1515
+Climate Change,doesn,4,16,265,0.002602,0.002765,0.9413
+Climate Change,storage,3,4,265,0.001952,0.000691,2.8238
+Climate Change,agree,3,4,265,0.001952,0.000691,2.8238
+Climate Change,yes,3,9,265,0.001952,0.001555,1.255
+Climate Change,pre,3,4,265,0.001952,0.000691,2.8238
+Climate Change,increase,3,4,265,0.001952,0.000691,2.8238
+Climate Change,production,3,4,265,0.001952,0.000691,2.8238
+Climate Change,great,3,7,265,0.001952,0.00121,1.6136
+Climate Change,causing,3,3,265,0.001952,0.000518,3.7651
+Climate Change,interesting,3,5,265,0.001952,0.000864,2.2591
+Climate Change,low,3,7,265,0.001952,0.00121,1.6136
+Climate Change,running,3,5,265,0.001952,0.000864,2.2591
+Climate Change,tax,3,5,265,0.001952,0.000864,2.2591
+Climate Change,possible,3,5,265,0.001952,0.000864,2.2591
+Climate Change,reduce,3,3,265,0.001952,0.000518,3.7651
+Climate Change,sector,3,3,265,0.001952,0.000518,3.7651
+Climate Change,likely,3,6,265,0.001952,0.001037,1.8826
+Climate Change,1,3,12,265,0.001952,0.002074,0.9413
+Climate Change,article,3,10,265,0.001952,0.001728,1.1295
+Climate Change,talking,3,6,265,0.001952,0.001037,1.8826
+Climate Change,cost,3,5,265,0.001952,0.000864,2.2591
+Climate Change,economy,3,3,265,0.001952,0.000518,3.7651
+Climate Change,real,3,7,265,0.001952,0.00121,1.6136
+Climate Change,based,3,6,265,0.001952,0.001037,1.8826
+Climate Change,sea,3,3,265,0.001952,0.000518,3.7651
+Climate Change,ai,3,55,265,0.001952,0.009504,0.2054
+Climate Change,plastic,3,4,265,0.001952,0.000691,2.8238
+Climate Change,contribute,3,3,265,0.001952,0.000518,3.7651
+Climate Change,solar,3,3,265,0.001952,0.000518,3.7651
+Climate Change,believe,3,7,265,0.001952,0.00121,1.6136
+Climate Change,changes,3,3,265,0.001952,0.000518,3.7651
+Climate Change,things,3,8,265,0.001952,0.001382,1.4119
+Climate Change,science,3,5,265,0.001952,0.000864,2.2591
+Climate Change,help,3,4,265,0.001952,0.000691,2.8238
+Climate Change,year,3,4,265,0.001952,0.000691,2.8238
+Climate Change,look,2,4,265,0.001301,0.000691,1.8826
+Climate Change,code,2,8,265,0.001301,0.001382,0.9413
+Climate Change,net,2,2,265,0.001301,0.000346,3.7651
+Climate Change,burning,2,3,265,0.001301,0.000518,2.5101
+Climate Change,research,2,7,265,0.001301,0.00121,1.0758
+Climate Change,co2,2,2,265,0.001301,0.000346,3.7651
+Climate Change,strikes,2,2,265,0.001301,0.000346,3.7651
+Climate Change,doing,2,6,265,0.001301,0.001037,1.255
+Climate Change,transportation,2,2,265,0.001301,0.000346,3.7651
+Climate Change,understood,2,2,265,0.001301,0.000346,3.7651
+Climate Change,new,2,11,265,0.001301,0.001901,0.6846
+Climate Change,guess,2,5,265,0.001301,0.000864,1.5061
+Climate Change,blaming,2,2,265,0.001301,0.000346,3.7651
+Climate Change,lol,2,10,265,0.001301,0.001728,0.753
+Climate Change,try,2,4,265,0.001301,0.000691,1.8826
+Climate Change,let,2,7,265,0.001301,0.00121,1.0758
+Climate Change,party,2,3,265,0.001301,0.000518,2.5101
+Climate Change,years,2,6,265,0.001301,0.001037,1.255
+Climate Change,rain,2,2,265,0.001301,0.000346,3.7651
+Climate Change,gates,2,2,265,0.001301,0.000346,3.7651
+Climate Change,thing,2,10,265,0.001301,0.001728,0.753
+Climate Change,said,2,3,265,0.001301,0.000518,2.5101
+Climate Change,issue,2,3,265,0.001301,0.000518,2.5101
+Climate Change,actually,2,8,265,0.001301,0.001382,0.9413
+Climate Change,usage,2,4,265,0.001301,0.000691,1.8826
+Climate Change,make,2,12,265,0.001301,0.002074,0.6275
+Climate Change,wait,2,4,265,0.001301,0.000691,1.8826
+Climate Change,stuff,2,6,265,0.001301,0.001037,1.255
+Climate Change,temperatures,2,2,265,0.001301,0.000346,3.7651
+Climate Change,reducing,2,2,265,0.001301,0.000346,3.7651
+Climate Change,wrong,2,5,265,0.001301,0.000864,1.5061
+Climate Change,government,2,4,265,0.001301,0.000691,1.8826
+Climate Change,accessible,2,2,265,0.001301,0.000346,3.7651
+Climate Change,industry,2,5,265,0.001301,0.000864,1.5061
+Climate Change,planet,2,3,265,0.001301,0.000518,2.5101
+Climate Change,hoax,2,2,265,0.001301,0.000346,3.7651
+Climate Change,land,2,2,265,0.001301,0.000346,3.7651
+Climate Change,increasingly,2,2,265,0.001301,0.000346,3.7651
+Climate Change,saving,2,2,265,0.001301,0.000346,3.7651
+Climate Change,ruminants,2,2,265,0.001301,0.000346,3.7651
+Climate Change,did,2,18,265,0.001301,0.00311,0.4183
+Climate Change,winter,2,2,265,0.001301,0.000346,3.7651
+Climate Change,perspective,2,2,265,0.001301,0.000346,3.7651
+Climate Change,15,2,4,265,0.001301,0.000691,1.8826
+Climate Change,china,2,2,265,0.001301,0.000346,3.7651
+Climate Change,die,2,2,265,0.001301,0.000346,3.7651
+Climate Change,excess,2,2,265,0.001301,0.000346,3.7651
+Climate Change,fun,2,2,265,0.001301,0.000346,3.7651
+Climate Change,speed,2,3,265,0.001301,0.000518,2.5101
+Climate Change,using,2,16,265,0.001301,0.002765,0.4706
+Climate Change,humans,2,2,265,0.001301,0.000346,3.7651
+Climate Change,companies,2,5,265,0.001301,0.000864,1.5061
+Climate Change,fanatics,2,2,265,0.001301,0.000346,3.7651
+Climate Change,kind,2,6,265,0.001301,0.001037,1.255
+Climate Change,killing,2,2,265,0.001301,0.000346,3.7651
+Climate Change,moon,2,2,265,0.001301,0.000346,3.7651
+Climate Change,interests,2,2,265,0.001301,0.000346,3.7651
+Climate Change,dead,2,2,265,0.001301,0.000346,3.7651
+Climate Change,aren,2,5,265,0.001301,0.000864,1.5061
+Climate Change,eliminate,2,2,265,0.001301,0.000346,3.7651
+Climate Change,know,2,5,265,0.001301,0.000864,1.5061
+Climate Change,human,2,3,265,0.001301,0.000518,2.5101
+Climate Change,reached,2,2,265,0.001301,0.000346,3.7651
+Climate Change,kills,2,2,265,0.001301,0.000346,3.7651
+Climate Change,accelerated,2,2,265,0.001301,0.000346,3.7651
+Climate Change,literally,2,3,265,0.001301,0.000518,2.5101
+Climate Change,effects,2,3,265,0.001301,0.000518,2.5101
+Climate Change,plants,2,2,265,0.001301,0.000346,3.7651
+Climate Change,produced,2,2,265,0.001301,0.000346,3.7651
+Climate Change,spending,2,3,265,0.001301,0.000518,2.5101
+Climate Change,way,2,9,265,0.001301,0.001555,0.8367
+Climate Change,mean,2,5,265,0.001301,0.000864,1.5061
+Climate Change,scientific,2,2,265,0.001301,0.000346,3.7651
+Climate Change,consensus,2,2,265,0.001301,0.000346,3.7651
+Climate Change,saying,2,5,265,0.001301,0.000864,1.5061
+Climate Change,country,2,3,265,0.001301,0.000518,2.5101
+Climate Change,canada,2,2,265,0.001301,0.000346,3.7651
+Climate Change,effective,2,2,265,0.001301,0.000346,3.7651
+Climate Change,yeah,2,3,265,0.001301,0.000518,2.5101
+Climate Change,unaffected,2,2,265,0.001301,0.000346,3.7651
+Climate Change,cause,2,2,265,0.001301,0.000346,3.7651
+Climate Change,self,2,6,265,0.001301,0.001037,1.255
+Climate Change,helps,2,3,265,0.001301,0.000518,2.5101
+Climate Change,researchers,2,4,265,0.001301,0.000691,1.8826
+Climate Change,sources,2,3,265,0.001301,0.000518,2.5101
+Climate Change,bring,2,2,265,0.001301,0.000346,3.7651
+Climate Change,war,1,1,265,0.000651,0.000173,3.7651
+Climate Change,owning,1,2,265,0.000651,0.000346,1.8826
+Climate Change,hunting,1,2,265,0.000651,0.000346,1.8826
+Climate Change,count,1,1,265,0.000651,0.000173,3.7651
+Climate Change,group,1,1,265,0.000651,0.000173,3.7651
+Climate Change,passengers,1,1,265,0.000651,0.000173,3.7651
+Climate Change,playing,1,1,265,0.000651,0.000173,3.7651
+Climate Change,thinks,1,1,265,0.000651,0.000173,3.7651
+Climate Change,love,1,5,265,0.000651,0.000864,0.753
+Climate Change,trust,1,1,265,0.000651,0.000173,3.7651
+Climate Change,falling,1,1,265,0.000651,0.000173,3.7651
+Climate Change,time,1,12,265,0.000651,0.002074,0.3138
+Climate Change,liberal,1,1,265,0.000651,0.000173,3.7651
+Climate Change,metric,1,1,265,0.000651,0.000173,3.7651
+Climate Change,efficient,1,2,265,0.000651,0.000346,1.8826
+Climate Change,accelerate,1,1,265,0.000651,0.000173,3.7651
+Climate Change,disasters,1,1,265,0.000651,0.000173,3.7651
+Climate Change,frequent,1,1,265,0.000651,0.000173,3.7651
+Climate Change,gives,1,2,265,0.000651,0.000346,1.8826
+Climate Change,poetic,1,1,265,0.000651,0.000173,3.7651
+Climate Change,crabs,1,1,265,0.000651,0.000173,3.7651
+Climate Change,dangerous,1,1,265,0.000651,0.000173,3.7651
+Climate Change,advancement,1,1,265,0.000651,0.000173,3.7651
+Climate Change,selling,1,4,265,0.000651,0.000691,0.9413
+Climate Change,externalities,1,1,265,0.000651,0.000173,3.7651
+Climate Change,guidelines,1,1,265,0.000651,0.000173,3.7651
+Climate Change,created,1,2,265,0.000651,0.000346,1.8826
+Climate Change,engineering,1,2,265,0.000651,0.000346,1.8826
+Climate Change,bridges,1,1,265,0.000651,0.000173,3.7651
+Climate Change,huh,1,2,265,0.000651,0.000346,1.8826
+Climate Change,asking,1,4,265,0.000651,0.000691,0.9413
+Climate Change,views,1,1,265,0.000651,0.000173,3.7651
+Climate Change,anthropogenic,1,1,265,0.000651,0.000173,3.7651
+Climate Change,destroying,1,3,265,0.000651,0.000518,1.255
+Climate Change,genetic,1,1,265,0.000651,0.000173,3.7651
+Climate Change,costs,1,1,265,0.000651,0.000173,3.7651
+Climate Change,certain,1,2,265,0.000651,0.000346,1.8826
+Climate Change,shakes,1,1,265,0.000651,0.000173,3.7651
+Climate Change,capitalizing,1,1,265,0.000651,0.000173,3.7651
+Climate Change,fist,1,1,265,0.000651,0.000173,3.7651
+Climate Change,heard,1,5,265,0.000651,0.000864,0.753
+Climate Change,blame,1,1,265,0.000651,0.000173,3.7651
+Climate Change,insane,1,1,265,0.000651,0.000173,3.7651
+Climate Change,worse,1,2,265,0.000651,0.000346,1.8826
+Climate Change,fact,1,3,265,0.000651,0.000518,1.255
+Climate Change,farts,1,1,265,0.000651,0.000173,3.7651
+Climate Change,cow,1,1,265,0.000651,0.000173,3.7651
+Climate Change,accounting,1,1,265,0.000651,0.000173,3.7651
+Climate Change,evolution,1,1,265,0.000651,0.000173,3.7651
+Climate Change,proper,1,1,265,0.000651,0.000173,3.7651
+Climate Change,doubling,1,1,265,0.000651,0.000173,3.7651
+Climate Change,subsidy,1,1,265,0.000651,0.000173,3.7651
+Climate Change,note,1,1,265,0.000651,0.000173,3.7651
+Climate Change,2033,1,1,265,0.000651,0.000173,3.7651
+Climate Change,microbes,1,1,265,0.000651,0.000173,3.7651
+Climate Change,aim,1,1,265,0.000651,0.000173,3.7651
+Climate Change,wikipedia,1,2,265,0.000651,0.000346,1.8826
+Climate Change,horseshoe,1,1,265,0.000651,0.000173,3.7651
+Climate Change,links,1,1,265,0.000651,0.000173,3.7651
+Climate Change,looks,1,7,265,0.000651,0.00121,0.5379
+Climate Change,nice,1,5,265,0.000651,0.000864,0.753
+Climate Change,cure,1,1,265,0.000651,0.000173,3.7651
+Climate Change,comments,1,3,265,0.000651,0.000518,1.255
+Climate Change,discussions,1,1,265,0.000651,0.000173,3.7651
+Climate Change,cars,1,1,265,0.000651,0.000173,3.7651
+Climate Change,subsidizing,1,1,265,0.000651,0.000173,3.7651
+Climate Change,stop,1,3,265,0.000651,0.000518,1.255
+Climate Change,happier,1,1,265,0.000651,0.000173,3.7651
+Climate Change,didn,1,6,265,0.000651,0.001037,0.6275
+Climate Change,halt,1,1,265,0.000651,0.000173,3.7651
+Climate Change,immediate,1,1,265,0.000651,0.000173,3.7651
+Climate Change,going,1,4,265,0.000651,0.000691,0.9413
+Climate Change,creation,1,1,265,0.000651,0.000173,3.7651
+Climate Change,demonstration,1,1,265,0.000651,0.000173,3.7651
+Climate Change,life,1,1,265,0.000651,0.000173,3.7651
+Climate Change,asap,1,1,265,0.000651,0.000173,3.7651
+Climate Change,cancer,1,1,265,0.000651,0.000173,3.7651
+Climate Change,rid,1,1,265,0.000651,0.000173,3.7651
+Climate Change,reason,1,3,265,0.000651,0.000518,1.255
+Climate Change,shifting,1,1,265,0.000651,0.000173,3.7651
+Climate Change,economics,1,1,265,0.000651,0.000173,3.7651
+Climate Change,rapidly,1,1,265,0.000651,0.000173,3.7651
+Climate Change,synthetic,1,1,265,0.000651,0.000173,3.7651
+Climate Change,lifecycle,1,1,265,0.000651,0.000173,3.7651
+Climate Change,say,1,4,265,0.000651,0.000691,0.9413
+Climate Change,post,1,2,265,0.000651,0.000346,1.8826
+Climate Change,washington,1,1,265,0.000651,0.000173,3.7651
+Climate Change,mars,1,1,265,0.000651,0.000173,3.7651
+Climate Change,headcount,1,1,265,0.000651,0.000173,3.7651
+Climate Change,affect,1,1,265,0.000651,0.000173,3.7651
+Climate Change,puppy,1,1,265,0.000651,0.000173,3.7651
+Climate Change,temperature,1,1,265,0.000651,0.000173,3.7651
+Climate Change,desantis,1,1,265,0.000651,0.000173,3.7651
+Climate Change,caused,1,1,265,0.000651,0.000173,3.7651
+Climate Change,progress,1,1,265,0.000651,0.000173,3.7651
+Climate Change,japan,1,1,265,0.000651,0.000173,3.7651
+Climate Change,myth,1,1,265,0.000651,0.000173,3.7651
+Climate Change,pregnancy,1,1,265,0.000651,0.000173,3.7651
+Climate Change,teenage,1,1,265,0.000651,0.000173,3.7651
+Climate Change,endless,1,1,265,0.000651,0.000173,3.7651
+Climate Change,study,1,1,265,0.000651,0.000173,3.7651
+Climate Change,contributions,1,1,265,0.000651,0.000173,3.7651
+Climate Change,magic,1,1,265,0.000651,0.000173,3.7651
+Climate Change,airline,1,1,265,0.000651,0.000173,3.7651
+Climate Change,battling,1,1,265,0.000651,0.000173,3.7651
+Climate Change,tool,1,3,265,0.000651,0.000518,1.255
+Climate Change,globally,1,1,265,0.000651,0.000173,3.7651
+Climate Change,exxon,1,1,265,0.000651,0.000173,3.7651
+Climate Change,sadly,1,2,265,0.000651,0.000346,1.8826
+Climate Change,disastrous,1,1,265,0.000651,0.000173,3.7651
+Climate Change,seasonal,1,1,265,0.000651,0.000173,3.7651
+Climate Change,driving,1,2,265,0.000651,0.000346,1.8826
+Climate Change,birds,1,1,265,0.000651,0.000173,3.7651
+Climate Change,migrate,1,1,265,0.000651,0.000173,3.7651
+Climate Change,poor,1,2,265,0.000651,0.000346,1.8826
+Climate Change,watches,1,1,265,0.000651,0.000173,3.7651
+Climate Change,levels,1,1,265,0.000651,0.000173,3.7651
+Climate Change,rising,1,1,265,0.000651,0.000173,3.7651
+Climate Change,planning,1,1,265,0.000651,0.000173,3.7651
+Climate Change,expecting,1,1,265,0.000651,0.000173,3.7651
+Climate Change,consequences,1,1,265,0.000651,0.000173,3.7651
+Climate Change,unexpected,1,1,265,0.000651,0.000173,3.7651
+Climate Change,end,1,3,265,0.000651,0.000518,1.255
+Climate Change,solituion,1,1,265,0.000651,0.000173,3.7651
+Climate Change,believes,1,1,265,0.000651,0.000173,3.7651
+Climate Change,future,1,3,265,0.000651,0.000518,1.255
+Climate Change,meat,1,1,265,0.000651,0.000173,3.7651
+Climate Change,forest,1,1,265,0.000651,0.000173,3.7651
+Climate Change,local,1,1,265,0.000651,0.000173,3.7651
+Climate Change,anti,1,2,265,0.000651,0.000346,1.8826
+Climate Change,propaganda,1,2,265,0.000651,0.000346,1.8826
+Climate Change,coming,1,3,265,0.000651,0.000518,1.255
+Climate Change,enormous,1,1,265,0.000651,0.000173,3.7651
+Climate Change,forgetting,1,1,265,0.000651,0.000173,3.7651
+Climate Change,journal,1,1,265,0.000651,0.000173,3.7651
+Climate Change,manufacturing,1,1,265,0.000651,0.000173,3.7651
+Climate Change,amazon,1,1,265,0.000651,0.000173,3.7651
+Climate Change,replacing,1,1,265,0.000651,0.000173,3.7651
+Climate Change,kick,1,1,265,0.000651,0.000173,3.7651
+Climate Change,statistics,1,1,265,0.000651,0.000173,3.7651
+Climate Change,gotta,1,1,265,0.000651,0.000173,3.7651
+Climate Change,demand,1,2,265,0.000651,0.000346,1.8826
+Climate Change,definitely,1,5,265,0.000651,0.000864,0.753
+Climate Change,commuting,1,1,265,0.000651,0.000173,3.7651
+Climate Change,evs,1,1,265,0.000651,0.000173,3.7651
+Climate Change,wonder,1,4,265,0.000651,0.000691,0.9413
+Climate Change,inefficient,1,2,265,0.000651,0.000346,1.8826
+Climate Change,person,1,1,265,0.000651,0.000173,3.7651
+Climate Change,invented,1,2,265,0.000651,0.000346,1.8826
+Climate Change,potentials,1,1,265,0.000651,0.000173,3.7651
+Climate Change,web,1,7,265,0.000651,0.00121,0.5379
+Climate Change,apps,1,5,265,0.000651,0.000864,0.753
+Climate Change,fluorinerts,1,1,265,0.000651,0.000173,3.7651
+Climate Change,worsen,1,1,265,0.000651,0.000173,3.7651
+Climate Change,undergoing,1,2,265,0.000651,0.000346,1.8826
+Climate Change,potential,1,1,265,0.000651,0.000173,3.7651
+Climate Change,28x,1,1,265,0.000651,0.000173,3.7651
+Climate Change,refrigerants,1,1,265,0.000651,0.000173,3.7651
+Climate Change,weapons,1,1,265,0.000651,0.000173,3.7651
+Climate Change,microplastics,1,1,265,0.000651,0.000173,3.7651
+Climate Change,stage,1,1,265,0.000651,0.000173,3.7651
+Climate Change,case,1,7,265,0.000651,0.00121,0.5379
+Climate Change,pigouvian,1,1,265,0.000651,0.000173,3.7651
+Climate Change,tied,1,1,265,0.000651,0.000173,3.7651
+Climate Change,buried,1,1,265,0.000651,0.000173,3.7651
+Climate Change,enter,1,1,265,0.000651,0.000173,3.7651
+Climate Change,coffin,1,1,265,0.000651,0.000173,3.7651
+Climate Change,russia,1,3,265,0.000651,0.000518,1.255
+Climate Change,gain,1,2,265,0.000651,0.000346,1.8826
+Climate Change,nail,1,1,265,0.000651,0.000173,3.7651
+Climate Change,worried,1,2,265,0.000651,0.000346,1.8826
+Climate Change,linked,1,1,265,0.000651,0.000173,3.7651
+Climate Change,conveniently,1,1,265,0.000651,0.000173,3.7651
+Climate Change,failure,1,2,265,0.000651,0.000346,1.8826
+Climate Change,driver,1,1,265,0.000651,0.000173,3.7651
+Climate Change,largest,1,1,265,0.000651,0.000173,3.7651
+Climate Change,coal,1,1,265,0.000651,0.000173,3.7651
+Climate Change,methane,1,1,265,0.000651,0.000173,3.7651
+Climate Change,days,1,4,265,0.000651,0.000691,0.9413
+Climate Change,bargaining,1,1,265,0.000651,0.000173,3.7651
+Climate Change,disaster,1,1,265,0.000651,0.000173,3.7651
+Climate Change,natural,1,2,265,0.000651,0.000346,1.8826
+Climate Change,man,1,3,265,0.000651,0.000518,1.255
+Climate Change,habitable,1,1,265,0.000651,0.000173,3.7651
+Climate Change,hey,1,2,265,0.000651,0.000346,1.8826
+Climate Change,abroad,1,1,265,0.000651,0.000173,3.7651
+Climate Change,sold,1,2,265,0.000651,0.000346,1.8826
+Climate Change,profitably,1,1,265,0.000651,0.000173,3.7651
+Climate Change,attack,1,16,265,0.000651,0.002765,0.2353
+Climate Change,ones,1,2,265,0.000651,0.000346,1.8826
+Climate Change,keeping,1,2,265,0.000651,0.000346,1.8826
+Climate Change,removing,1,1,265,0.000651,0.000173,3.7651
+Climate Change,referring,1,1,265,0.000651,0.000173,3.7651
+Climate Change,jet,1,1,265,0.000651,0.000173,3.7651
+Climate Change,point,1,7,265,0.000651,0.00121,0.5379
+Climate Change,expensive,1,3,265,0.000651,0.000518,1.255
+Climate Change,irrelevant,1,1,265,0.000651,0.000173,3.7651
+Climate Change,lowest,1,1,265,0.000651,0.000173,3.7651
+Climate Change,act,1,2,265,0.000651,0.000346,1.8826
+Climate Change,yamaha,1,1,265,0.000651,0.000173,3.7651
+Climate Change,snowmobile,1,1,265,0.000651,0.000173,3.7651
+Climate Change,related,1,5,265,0.000651,0.000864,0.753
+Climate Change,emmissions,1,1,265,0.000651,0.000173,3.7651
+Climate Change,realistically,1,1,265,0.000651,0.000173,3.7651
+Climate Change,easier,1,3,265,0.000651,0.000518,1.255
+Climate Change,silly,1,1,265,0.000651,0.000173,3.7651
+Climate Change,deploy,1,2,265,0.000651,0.000346,1.8826
+Climate Change,moved,1,1,265,0.000651,0.000173,3.7651
+Climate Change,entropy,1,1,265,0.000651,0.000173,3.7651
+Climate Change,deal,1,1,265,0.000651,0.000173,3.7651
+Climate Change,displaces,1,1,265,0.000651,0.000173,3.7651
+Climate Change,refer,1,2,265,0.000651,0.000346,1.8826
+Climate Change,patriot,1,1,265,0.000651,0.000173,3.7651
+Climate Change,observed,1,1,265,0.000651,0.000173,3.7651
+Climate Change,sent,1,1,265,0.000651,0.000173,3.7651
+Climate Change,decades,1,1,265,0.000651,0.000173,3.7651
+Climate Change,explain,1,2,265,0.000651,0.000346,1.8826
+Climate Change,ship,1,1,265,0.000651,0.000173,3.7651
+Climate Change,cycle,1,1,265,0.000651,0.000173,3.7651
+Climate Change,11,1,3,265,0.000651,0.000518,1.255
+Climate Change,reverse,1,1,265,0.000651,0.000173,3.7651
+Climate Change,takes,1,2,265,0.000651,0.000346,1.8826
+Climate Change,bootstrapping,1,1,265,0.000651,0.000173,3.7651
+Climate Change,hydropower,1,1,265,0.000651,0.000173,3.7651
+Climate Change,trivial,1,1,265,0.000651,0.000173,3.7651
+Climate Change,nuke,1,1,265,0.000651,0.000173,3.7651
+Climate Change,luck,1,2,265,0.000651,0.000346,1.8826
+Climate Change,stopped,1,1,265,0.000651,0.000173,3.7651
+Climate Change,completely,1,2,265,0.000651,0.000346,1.8826
+Climate Change,consumption,1,2,265,0.000651,0.000346,1.8826
+Climate Change,switch,1,3,265,0.000651,0.000518,1.255
+Climate Change,commonly,1,1,265,0.000651,0.000173,3.7651
+Climate Change,eclipsed,1,1,265,0.000651,0.000173,3.7651
+Climate Change,leaks,1,2,265,0.000651,0.000346,1.8826
+Climate Change,pipeline,1,1,265,0.000651,0.000173,3.7651
+Climate Change,worries,1,1,265,0.000651,0.000173,3.7651
+Climate Change,advantages,1,1,265,0.000651,0.000173,3.7651
+Climate Change,extend,1,2,265,0.000651,0.000346,1.8826
+Climate Change,sorry,1,3,265,0.000651,0.000518,1.255
+Climate Change,survive,1,1,265,0.000651,0.000173,3.7651
+Climate Change,combat,1,1,265,0.000651,0.000173,3.7651
+Climate Change,planes,1,1,265,0.000651,0.000173,3.7651
+Climate Change,florida,1,1,265,0.000651,0.000173,3.7651
+Climate Change,erase,1,1,265,0.000651,0.000173,3.7651
+Climate Change,fund,1,1,265,0.000651,0.000173,3.7651
+Climate Change,play,1,4,265,0.000651,0.000691,0.9413
+Climate Change,fair,1,2,265,0.000651,0.000346,1.8826
+Climate Change,turnabout,1,1,265,0.000651,0.000173,3.7651
+Climate Change,long,1,7,265,0.000651,0.00121,0.5379
+Climate Change,wager,1,1,265,0.000651,0.000173,3.7651
+Climate Change,pascal,1,1,265,0.000651,0.000173,3.7651
+Climate Change,maximum,1,1,265,0.000651,0.000173,3.7651
+Climate Change,66,1,1,265,0.000651,0.000173,3.7651
+Climate Change,buying,1,3,265,0.000651,0.000518,1.255
+Climate Change,course,1,6,265,0.000651,0.001037,0.6275
+Climate Change,safer,1,1,265,0.000651,0.000173,3.7651
+Climate Change,russian,1,3,265,0.000651,0.000518,1.255
+Climate Change,support,1,5,265,0.000651,0.000864,0.753
+Climate Change,solutions,1,3,265,0.000651,0.000518,1.255
+Climate Change,combined,1,2,265,0.000651,0.000346,1.8826
+Climate Change,nimby,1,1,265,0.000651,0.000173,3.7651
+Climate Change,environmentalism,1,1,265,0.000651,0.000173,3.7651
+Climate Change,german,1,1,265,0.000651,0.000173,3.7651
+Climate Change,shrinking,1,1,265,0.000651,0.000173,3.7651
+Climate Change,comes,1,3,265,0.000651,0.000518,1.255
+Climate Change,propulsion,1,1,265,0.000651,0.000173,3.7651
+Climate Change,elevation,1,1,265,0.000651,0.000173,3.7651
+Climate Change,mountain,1,1,265,0.000651,0.000173,3.7651
+Climate Change,environments,1,1,265,0.000651,0.000173,3.7651
+Climate Change,water,1,1,265,0.000651,0.000173,3.7651
+Climate Change,mgt,1,1,265,0.000651,0.000173,3.7651
+Climate Change,scandinavia,1,1,265,0.000651,0.000173,3.7651
+Climate Change,benefit,1,1,265,0.000651,0.000173,3.7651
+Climate Change,sort,1,2,265,0.000651,0.000346,1.8826
+Climate Change,googling,1,1,265,0.000651,0.000173,3.7651
+Climate Change,investment,1,2,265,0.000651,0.000346,1.8826
+Climate Change,denier,1,1,265,0.000651,0.000173,3.7651
+Climate Change,contributing,1,1,265,0.000651,0.000173,3.7651
+Climate Change,start,1,3,265,0.000651,0.000518,1.255
+Climate Change,sailing,1,1,265,0.000651,0.000173,3.7651
+Climate Change,high,1,2,265,0.000651,0.000346,1.8826
+Climate Change,seas,1,1,265,0.000651,0.000173,3.7651
+Climate Change,dependent,1,1,265,0.000651,0.000173,3.7651
+Climate Change,original,1,3,265,0.000651,0.000518,1.255
+Climate Change,risk,1,2,265,0.000651,0.000346,1.8826
+Climate Change,alarmism,1,1,265,0.000651,0.000173,3.7651
+Climate Change,calling,1,2,265,0.000651,0.000346,1.8826
+Climate Change,iran,1,2,265,0.000651,0.000346,1.8826
+Climate Change,tried,1,2,265,0.000651,0.000346,1.8826
+Climate Change,ditch,1,1,265,0.000651,0.000173,3.7651
+Climate Change,atomic,1,1,265,0.000651,0.000173,3.7651
+Climate Change,cia,1,1,265,0.000651,0.000173,3.7651
+Climate Change,datacenters,1,1,265,0.000651,0.000173,3.7651
+Climate Change,onsite,1,1,265,0.000651,0.000173,3.7651
+Climate Change,power,1,3,265,0.000651,0.000518,1.255
+Climate Change,generation,1,2,265,0.000651,0.000346,1.8826
+Climate Change,shouldn,1,2,265,0.000651,0.000346,1.8826
+Climate Change,doom,1,1,265,0.000651,0.000173,3.7651
+Climate Change,gloom,1,1,265,0.000651,0.000173,3.7651
+Climate Change,headlines,1,1,265,0.000651,0.000173,3.7651
+Climate Change,recent,1,1,265,0.000651,0.000173,3.7651
+Climate Change,century,1,1,265,0.000651,0.000173,3.7651
+Climate Change,1980,1,1,265,0.000651,0.000173,3.7651
+Climate Change,elimination,1,1,265,0.000651,0.000173,3.7651
+Climate Change,riemann,1,1,265,0.000651,0.000173,3.7651
+Climate Change,bribery,1,1,265,0.000651,0.000173,3.7651
+Climate Change,eh,1,2,265,0.000651,0.000346,1.8826
+Climate Change,came,1,1,265,0.000651,0.000173,3.7651
+Climate Change,underpins,1,1,265,0.000651,0.000173,3.7651
+Climate Change,dollar,1,1,265,0.000651,0.000173,3.7651
+Climate Change,cheaper,1,1,265,0.000651,0.000173,3.7651
+Climate Change,dilution,1,1,265,0.000651,0.000173,3.7651
+Climate Change,solution,1,2,265,0.000651,0.000346,1.8826
+Climate Change,dinosaurs,1,1,265,0.000651,0.000173,3.7651
+Climate Change,economic,1,1,265,0.000651,0.000173,3.7651
+Climate Change,disempowered,1,1,265,0.000651,0.000173,3.7651
+Climate Change,rent,1,1,265,0.000651,0.000173,3.7651
+Climate Change,seeking,1,1,265,0.000651,0.000173,3.7651
+Climate Change,building,1,4,265,0.000651,0.000691,0.9413
+Climate Change,rockets,1,1,265,0.000651,0.000173,3.7651
+Climate Change,competition,1,2,265,0.000651,0.000346,1.8826
+Climate Change,news,1,4,265,0.000651,0.000691,0.9413
+Climate Change,truly,1,1,265,0.000651,0.000173,3.7651
+Climate Change,horrifying,1,1,265,0.000651,0.000173,3.7651
+Climate Change,hypothesis,1,2,265,0.000651,0.000346,1.8826
+Climate Change,refusal,1,1,265,0.000651,0.000173,3.7651
+Climate Change,governments,1,1,265,0.000651,0.000173,3.7651
+Climate Change,population,1,1,265,0.000651,0.000173,3.7651
+Climate Change,contraction,1,1,265,0.000651,0.000173,3.7651
+Climate Change,incentivizing,1,1,265,0.000651,0.000173,3.7651
+Climate Change,thought,1,6,265,0.000651,0.001037,0.6275
+Climate Change,zero,1,7,265,0.000651,0.00121,0.5379
+Climate Change,oblique,1,1,265,0.000651,0.000173,3.7651
+Climate Change,critique,1,1,265,0.000651,0.000173,3.7651
+Climate Change,includes,1,1,265,0.000651,0.000173,3.7651
+Climate Change,section,1,1,265,0.000651,0.000173,3.7651
+Climate Change,including,1,1,265,0.000651,0.000173,3.7651
+Climate Change,nukes,1,1,265,0.000651,0.000173,3.7651
+Climate Change,free,1,6,265,0.000651,0.001037,0.6275
+Climate Change,geopolitically,1,1,265,0.000651,0.000173,3.7651
+Climate Change,critical,1,1,265,0.000651,0.000173,3.7651
+Climate Change,given,1,2,265,0.000651,0.000346,1.8826
+Climate Change,leader,1,1,265,0.000651,0.000173,3.7651
+Climate Change,fixed,1,1,265,0.000651,0.000173,3.7651
+Climate Change,billions,1,2,265,0.000651,0.000346,1.8826
+Climate Change,cancel,1,1,265,0.000651,0.000173,3.7651
+Climate Change,spake,1,1,265,0.000651,0.000173,3.7651
+Climate Change,saves,1,1,265,0.000651,0.000173,3.7651
+Climate Change,value,1,2,265,0.000651,0.000346,1.8826
+Climate Change,batteries,1,1,265,0.000651,0.000173,3.7651
+Climate Change,competitive,1,1,265,0.000651,0.000173,3.7651
+Climate Change,thread,1,3,265,0.000651,0.000518,1.255
+Climate Change,moving,1,2,265,0.000651,0.000346,1.8826
+Climate Change,entire,1,5,265,0.000651,0.000864,0.753
+Climate Change,powered,1,4,265,0.000651,0.000691,0.9413
+Climate Change,admission,1,1,265,0.000651,0.000173,3.7651
+Climate Change,losing,1,1,265,0.000651,0.000173,3.7651
+Climate Change,california,1,1,265,0.000651,0.000173,3.7651
+Climate Change,vaccine,1,1,265,0.000651,0.000173,3.7651
+Climate Change,stable,1,1,265,0.000651,0.000173,3.7651
+Climate Change,woke,1,1,265,0.000651,0.000173,3.7651
+Climate Change,probably,1,9,265,0.000651,0.001555,0.4183
+Climate Change,place,1,1,265,0.000651,0.000173,3.7651
+Climate Change,places,1,1,265,0.000651,0.000173,3.7651
+Climate Change,getting,1,2,265,0.000651,0.000346,1.8826
+Climate Change,hotter,1,1,265,0.000651,0.000173,3.7651
+Climate Change,easy,1,2,265,0.000651,0.000346,1.8826
+Climate Change,america,1,2,265,0.000651,0.000346,1.8826
+Climate Change,ac,1,1,265,0.000651,0.000173,3.7651
+Climate Change,city,1,2,265,0.000651,0.000346,1.8826
+Climate Change,got,1,9,265,0.000651,0.001555,0.4183
+Climate Change,record,1,1,265,0.000651,0.000173,3.7651
+Climate Change,snow,1,1,265,0.000651,0.000173,3.7651
+Climate Change,bogus,1,1,265,0.000651,0.000173,3.7651
+Climate Change,overtaken,1,1,265,0.000651,0.000173,3.7651
+Climate Change,plenty,1,1,265,0.000651,0.000173,3.7651
+Climate Change,upside,1,1,265,0.000651,0.000173,3.7651
+Climate Change,tiny,1,1,265,0.000651,0.000173,3.7651
+Climate Change,bit,1,4,265,0.000651,0.000691,0.9413
+Climate Change,main,1,2,265,0.000651,0.000346,1.8826
+Climate Change,feedback,1,1,265,0.000651,0.000173,3.7651
+Climate Change,loops,1,1,265,0.000651,0.000173,3.7651
+Climate Change,triggered,1,1,265,0.000651,0.000173,3.7651
+Climate Change,offsetting,1,1,265,0.000651,0.000173,3.7651
+Climate Change,disincentivising,1,1,265,0.000651,0.000173,3.7651
+Climate Change,induction,1,1,265,0.000651,0.000173,3.7651
+Climate Change,cooking,1,1,265,0.000651,0.000173,3.7651
+Climate Change,chinese,1,4,265,0.000651,0.000691,0.9413
+Climate Change,modulate,1,1,265,0.000651,0.000173,3.7651
+Climate Change,mix,1,1,265,0.000651,0.000173,3.7651
+Climate Change,subsidized,1,1,265,0.000651,0.000173,3.7651
+Climate Change,health,1,1,265,0.000651,0.000173,3.7651
+Climate Change,mexico,1,1,265,0.000651,0.000173,3.7651
+Climate Change,sufficient,1,1,265,0.000651,0.000173,3.7651
+Climate Change,fortunately,1,2,265,0.000651,0.000346,1.8826
+Climate Change,cut,1,1,265,0.000651,0.000173,3.7651
+Climate Change,10,1,2,265,0.000651,0.000346,1.8826
+Climate Change,8,1,1,265,0.000651,0.000173,3.7651
+Climate Change,film,1,1,265,0.000651,0.000173,3.7651
+Climate Change,turbulence,1,1,265,0.000651,0.000173,3.7651
+Climate Change,abundantly,1,1,265,0.000651,0.000173,3.7651
+Climate Change,clear,1,3,265,0.000651,0.000518,1.255
+Climate Change,remotely,1,1,265,0.000651,0.000173,3.7651
+Climate Change,discussion,1,2,265,0.000651,0.000346,1.8826
+Climate Change,wasn,1,2,265,0.000651,0.000346,1.8826
+Climate Change,explicitly,1,4,265,0.000651,0.000691,0.9413
+Climate Change,responsible,1,1,265,0.000651,0.000173,3.7651
+Climate Change,denial,1,1,265,0.000651,0.000173,3.7651
+Climate Change,hard,1,3,265,0.000651,0.000518,1.255
+Climate Change,past,1,2,265,0.000651,0.000346,1.8826
+Climate Change,significantly,1,1,265,0.000651,0.000173,3.7651
+Climate Change,melt,1,1,265,0.000651,0.000173,3.7651
+Climate Change,fashion,1,1,265,0.000651,0.000173,3.7651
+Climate Change,bases,1,1,265,0.000651,0.000173,3.7651
+Climate Change,reinforcing,1,1,265,0.000651,0.000173,3.7651
+Climate Change,space,1,5,265,0.000651,0.000864,0.753
+Climate Change,reality,1,2,265,0.000651,0.000346,1.8826
+Climate Change,entity,1,1,265,0.000651,0.000173,3.7651
+Climate Change,funding,1,1,265,0.000651,0.000173,3.7651
+Climate Change,unrealized,1,1,265,0.000651,0.000173,3.7651
+Climate Change,expectations,1,1,265,0.000651,0.000173,3.7651
+Climate Change,wow,1,3,265,0.000651,0.000518,1.255
+Climate Change,axe,1,1,265,0.000651,0.000173,3.7651
+Climate Change,noaa,1,1,265,0.000651,0.000173,3.7651
+Climate Change,awareness,1,1,265,0.000651,0.000173,3.7651
+Climate Change,practice,1,1,265,0.000651,0.000173,3.7651
+Climate Change,facto,1,1,265,0.000651,0.000173,3.7651
+Climate Change,limits,1,2,265,0.000651,0.000346,1.8826
+Climate Change,al,1,1,265,0.000651,0.000173,3.7651
+Climate Change,gore,1,1,265,0.000651,0.000173,3.7651
+Climate Change,discussing,1,1,265,0.000651,0.000173,3.7651
+Climate Change,positive,1,1,265,0.000651,0.000173,3.7651
+Climate Change,showing,1,1,265,0.000651,0.000173,3.7651
+Climate Change,current,1,2,265,0.000651,0.000346,1.8826
+Climate Change,scientists,1,1,265,0.000651,0.000173,3.7651
+Climate Change,model,1,9,265,0.000651,0.001555,0.4183
+Climate Change,steve,1,2,265,0.000651,0.000346,1.8826
+Climate Change,happening,1,2,265,0.000651,0.000346,1.8826
+Climate Change,strict,1,1,265,0.000651,0.000173,3.7651
+Climate Change,matter,1,3,265,0.000651,0.000518,1.255
+Climate Change,non,1,6,265,0.000651,0.001037,0.6275
+Climate Change,million,1,3,265,0.000651,0.000518,1.255
+Climate Change,iea,1,1,265,0.000651,0.000173,3.7651
+Climate Change,purpose,1,4,265,0.000651,0.000691,0.9413
+Climate Change,boost,1,1,265,0.000651,0.000173,3.7651
+Climate Change,vgt,1,1,265,0.000651,0.000173,3.7651
+Climate Change,esgv,1,1,265,0.000651,0.000173,3.7651
+Climate Change,54,1,1,265,0.000651,0.000173,3.7651
+Climate Change,green,1,1,265,0.000651,0.000173,3.7651
+Climate Change,instead,1,5,265,0.000651,0.000864,0.753
+Climate Change,best,1,4,265,0.000651,0.000691,0.9413
+Climate Change,pretty,1,9,265,0.000651,0.001555,0.4183
+Climate Change,precedent,1,1,265,0.000651,0.000173,3.7651
+Climate Change,applies,1,1,265,0.000651,0.000173,3.7651
+Climate Change,500,1,1,265,0.000651,0.000173,3.7651
+Climate Change,figure,1,1,265,0.000651,0.000173,3.7651
+Climate Change,monetize,1,1,265,0.000651,0.000173,3.7651
+Climate Change,reversing,1,1,265,0.000651,0.000173,3.7651
+Climate Change,kimchi,1,1,265,0.000651,0.000173,3.7651
+Climate Change,concedes,1,1,265,0.000651,0.000173,3.7651
+Climate Change,collateral,1,1,265,0.000651,0.000173,3.7651
+Climate Change,casualty,1,1,265,0.000651,0.000173,3.7651
+Climate Change,cascade,1,1,265,0.000651,0.000173,3.7651
+Climate Change,continually,1,1,265,0.000651,0.000173,3.7651
+Climate Change,cabbages,1,1,265,0.000651,0.000173,3.7651
+Climate Change,populations,1,1,265,0.000651,0.000173,3.7651
+Climate Change,equally,1,1,265,0.000651,0.000173,3.7651
+Climate Change,spread,1,1,265,0.000651,0.000173,3.7651
+Climate Change,50,1,2,265,0.000651,0.000346,1.8826
+Climate Change,ago,1,2,265,0.000651,0.000346,1.8826
+Climate Change,step,1,1,265,0.000651,0.000173,3.7651
+Climate Change,destroys,1,1,265,0.000651,0.000173,3.7651
+Climate Change,impose,1,1,265,0.000651,0.000173,3.7651
+Climate Change,ruining,1,1,265,0.000651,0.000173,3.7651
+Climate Change,billion,1,2,265,0.000651,0.000346,1.8826
+Climate Change,decane,1,1,265,0.000651,0.000173,3.7651
+Climate Change,dodecane,1,1,265,0.000651,0.000173,3.7651
+Climate Change,present,1,1,265,0.000651,0.000173,3.7651
+Climate Change,landfills,1,1,265,0.000651,0.000173,3.7651
+Climate Change,precisely,1,1,265,0.000651,0.000173,3.7651
+Climate Change,pro,1,5,265,0.000651,0.000864,0.753
+Climate Change,dams,1,2,265,0.000651,0.000346,1.8826
+Climate Change,tank,1,1,265,0.000651,0.000173,3.7651
+Climate Change,outlawed,1,1,265,0.000651,0.000173,3.7651
+Climate Change,stretch,1,2,265,0.000651,0.000346,1.8826
+Climate Change,oceans,1,1,265,0.000651,0.000173,3.7651
+Climate Change,addressed,1,1,265,0.000651,0.000173,3.7651
+Climate Change,deny,1,1,265,0.000651,0.000173,3.7651
+Climate Change,named,1,1,265,0.000651,0.000173,3.7651
+Climate Change,97,1,1,265,0.000651,0.000173,3.7651
+Climate Change,loop,1,1,265,0.000651,0.000173,3.7651
+Climate Change,2,1,4,265,0.000651,0.000691,0.9413
+Climate Change,pee,1,1,265,0.000651,0.000173,3.7651
+Climate Change,ocean,1,1,265,0.000651,0.000173,3.7651
+Climate Change,avoid,1,3,265,0.000651,0.000518,1.255
+Climate Change,accelerating,1,1,265,0.000651,0.000173,3.7651
+Climate Change,eyes,1,1,265,0.000651,0.000173,3.7651
+Climate Change,closed,1,2,265,0.000651,0.000346,1.8826
+Climate Change,reduced,1,1,265,0.000651,0.000173,3.7651
+Climate Change,extinction,1,1,265,0.000651,0.000173,3.7651
+Climate Change,deaths,1,1,265,0.000651,0.000173,3.7651
+Climate Change,incurred,1,1,265,0.000651,0.000173,3.7651
+Climate Change,massively,1,1,265,0.000651,0.000173,3.7651
+Climate Change,scaling,1,1,265,0.000651,0.000173,3.7651
+Climate Change,complement,1,1,265,0.000651,0.000173,3.7651
+Climate Change,energies,1,1,265,0.000651,0.000173,3.7651
+Climate Change,generally,1,2,265,0.000651,0.000346,1.8826
+Climate Change,c,1,2,265,0.000651,0.000346,1.8826
+Climate Change,contributors,1,1,265,0.000651,0.000173,3.7651
+Climate Change,terms,1,4,265,0.000651,0.000691,0.9413
+Climate Change,multiple,1,1,265,0.000651,0.000173,3.7651
+Climate Change,insurance,1,3,265,0.000651,0.000518,1.255
+Climate Change,lever,1,1,265,0.000651,0.000173,3.7651
+Climate Change,warned,1,1,265,0.000651,0.000173,3.7651
+Climate Change,impacts,1,1,265,0.000651,0.000173,3.7651
+Climate Change,absolutely,1,1,265,0.000651,0.000173,3.7651
+Climate Change,overwhelming,1,1,265,0.000651,0.000173,3.7651
+Climate Change,evidence,1,1,265,0.000651,0.000173,3.7651
+Climate Change,impacting,1,1,265,0.000651,0.000173,3.7651
+Climate Change,agriculture,1,1,265,0.000651,0.000173,3.7651
+Climate Change,continuing,1,1,265,0.000651,0.000173,3.7651
+Climate Change,facing,1,1,265,0.000651,0.000173,3.7651
+Climate Change,unmitigated,1,1,265,0.000651,0.000173,3.7651
+Climate Change,second,1,2,265,0.000651,0.000346,1.8826
+Climate Change,order,1,2,265,0.000651,0.000346,1.8826
+Climate Change,effect,1,1,265,0.000651,0.000173,3.7651
+Climate Change,democrats,1,1,265,0.000651,0.000173,3.7651
+Climate Change,brought,1,1,265,0.000651,0.000173,3.7651
+Climate Change,ev,1,1,265,0.000651,0.000173,3.7651
+Climate Change,credits,1,1,265,0.000651,0.000173,3.7651
+Climate Change,worry,1,2,265,0.000651,0.000346,1.8826
+Climate Change,naive,1,1,265,0.000651,0.000173,3.7651
+Climate Change,advocate,1,1,265,0.000651,0.000173,3.7651
+Climate Change,contrast,1,1,265,0.000651,0.000173,3.7651
+Climate Change,opponent,1,1,265,0.000651,0.000173,3.7651
+Climate Change,prevent,1,2,265,0.000651,0.000346,1.8826
+Climate Change,affects,1,2,265,0.000651,0.000346,1.8826
+Climate Change,feasible,1,1,265,0.000651,0.000173,3.7651
+Climate Change,latitudes,1,1,265,0.000651,0.000173,3.7651
+Climate Change,food,1,1,265,0.000651,0.000173,3.7651
+Climate Change,contributes,1,1,265,0.000651,0.000173,3.7651
+Climate Change,air,1,1,265,0.000651,0.000173,3.7651
+Climate Change,directly,1,1,265,0.000651,0.000173,3.7651
+Climate Change,arctic,1,2,265,0.000651,0.000346,1.8826
+Climate Change,bite,1,2,265,0.000651,0.000346,1.8826
+Climate Change,distant,1,1,265,0.000651,0.000173,3.7651
+Climate Change,advance,1,1,265,0.000651,0.000173,3.7651
+Climate Change,wants,1,1,265,0.000651,0.000173,3.7651
+Climate Change,inventing,1,1,265,0.000651,0.000173,3.7651
+Climate Change,ended,1,2,265,0.000651,0.000346,1.8826
+Climate Change,used,1,8,265,0.000651,0.001382,0.4706
+Climate Change,migrating,1,1,265,0.000651,0.000173,3.7651
+Climate Change,heating,1,1,265,0.000651,0.000173,3.7651
+Climate Change,loads,1,1,265,0.000651,0.000173,3.7651
+Climate Change,electric,1,1,265,0.000651,0.000173,3.7651
+Climate Change,reasons,1,2,265,0.000651,0.000346,1.8826
+Climate Change,obviously,1,2,265,0.000651,0.000346,1.8826
+Climate Change,perpetuate,1,1,265,0.000651,0.000173,3.7651
+Climate Change,extraction,1,1,265,0.000651,0.000173,3.7651
+Climate Change,counter,1,1,265,0.000651,0.000173,3.7651
+Climate Change,productive,1,1,265,0.000651,0.000173,3.7651
+Climate Change,come,1,6,265,0.000651,0.001037,0.6275
+Climate Change,sun,1,1,265,0.000651,0.000173,3.7651
+Climate Change,earth,1,1,265,0.000651,0.000173,3.7651
+Cryptocurrency,bitcoin,62,63,272,0.045521,0.010886,4.1815
+Cryptocurrency,blockchain,55,55,272,0.040382,0.009504,4.2489
+Cryptocurrency,crypto,50,54,272,0.036711,0.009331,3.9342
+Cryptocurrency,cryptocurrency,48,48,272,0.035242,0.008294,4.2489
+Cryptocurrency,ethereum,44,44,272,0.032305,0.007603,4.2489
+Cryptocurrency,like,17,55,272,0.012482,0.009504,1.3133
+Cryptocurrency,use,16,22,272,0.011747,0.003802,3.0901
+Cryptocurrency,just,12,38,272,0.008811,0.006566,1.3418
+Cryptocurrency,ai,12,55,272,0.008811,0.009504,0.927
+Cryptocurrency,mining,8,8,272,0.005874,0.001382,4.2489
+Cryptocurrency,currency,8,8,272,0.005874,0.001382,4.2489
+Cryptocurrency,buy,8,8,272,0.005874,0.001382,4.2489
+Cryptocurrency,cryptocurrencies,8,9,272,0.005874,0.001555,3.7768
+Cryptocurrency,lot,7,12,272,0.00514,0.002074,2.4785
+Cryptocurrency,cryptography,7,7,272,0.00514,0.00121,4.2489
+Cryptocurrency,people,7,20,272,0.00514,0.003456,1.4871
+Cryptocurrency,did,7,18,272,0.00514,0.00311,1.6523
+Cryptocurrency,1,6,12,272,0.004405,0.002074,2.1244
+Cryptocurrency,blockchains,6,6,272,0.004405,0.001037,4.2489
+Cryptocurrency,think,6,20,272,0.004405,0.003456,1.2747
+Cryptocurrency,right,6,13,272,0.004405,0.002246,1.961
+Cryptocurrency,don,6,23,272,0.004405,0.003974,1.1084
+Cryptocurrency,case,6,7,272,0.004405,0.00121,3.6419
+Cryptocurrency,doesn,6,16,272,0.004405,0.002765,1.5933
+Cryptocurrency,does,6,29,272,0.004405,0.005011,0.8791
+Cryptocurrency,work,5,10,272,0.003671,0.001728,2.1244
+Cryptocurrency,need,5,12,272,0.003671,0.002074,1.7704
+Cryptocurrency,bitcoins,5,5,272,0.003671,0.000864,4.2489
+Cryptocurrency,web,5,7,272,0.003671,0.00121,3.0349
+Cryptocurrency,successful,5,6,272,0.003671,0.001037,3.5407
+Cryptocurrency,actually,5,8,272,0.003671,0.001382,2.6556
+Cryptocurrency,time,5,12,272,0.003671,0.002074,1.7704
+Cryptocurrency,money,4,10,272,0.002937,0.001728,1.6996
+Cryptocurrency,miners,4,4,272,0.002937,0.000691,4.2489
+Cryptocurrency,really,4,8,272,0.002937,0.001382,2.1244
+Cryptocurrency,things,4,8,272,0.002937,0.001382,2.1244
+Cryptocurrency,long,4,7,272,0.002937,0.00121,2.4279
+Cryptocurrency,crime,4,5,272,0.002937,0.000864,3.3991
+Cryptocurrency,payment,4,5,272,0.002937,0.000864,3.3991
+Cryptocurrency,isn,4,14,272,0.002937,0.002419,1.214
+Cryptocurrency,nfts,3,3,272,0.002203,0.000518,4.2489
+Cryptocurrency,thing,3,10,272,0.002203,0.001728,1.2747
+Cryptocurrency,based,3,6,272,0.002203,0.001037,2.1244
+Cryptocurrency,private,3,3,272,0.002203,0.000518,4.2489
+Cryptocurrency,payments,3,4,272,0.002203,0.000691,3.1867
+Cryptocurrency,fees,3,4,272,0.002203,0.000691,3.1867
+Cryptocurrency,powered,3,4,272,0.002203,0.000691,3.1867
+Cryptocurrency,problem,3,9,272,0.002203,0.001555,1.4163
+Cryptocurrency,gold,3,3,272,0.002203,0.000518,4.2489
+Cryptocurrency,research,3,7,272,0.002203,0.00121,1.821
+Cryptocurrency,yes,3,9,272,0.002203,0.001555,1.4163
+Cryptocurrency,code,3,8,272,0.002203,0.001382,1.5933
+Cryptocurrency,sounds,3,13,272,0.002203,0.002246,0.9805
+Cryptocurrency,selling,3,4,272,0.002203,0.000691,3.1867
+Cryptocurrency,opinion,3,3,272,0.002203,0.000518,4.2489
+Cryptocurrency,bros,3,3,272,0.002203,0.000518,4.2489
+Cryptocurrency,useful,3,4,272,0.002203,0.000691,3.1867
+Cryptocurrency,gpus,3,3,272,0.002203,0.000518,4.2489
+Cryptocurrency,site,3,5,272,0.002203,0.000864,2.5493
+Cryptocurrency,new,3,11,272,0.002203,0.001901,1.1588
+Cryptocurrency,proof,3,3,272,0.002203,0.000518,4.2489
+Cryptocurrency,looks,3,7,272,0.002203,0.00121,1.821
+Cryptocurrency,good,3,22,272,0.002203,0.003802,0.5794
+Cryptocurrency,banks,3,3,272,0.002203,0.000518,4.2489
+Cryptocurrency,facebook,3,5,272,0.002203,0.000864,2.5493
+Cryptocurrency,point,3,7,272,0.002203,0.00121,1.821
+Cryptocurrency,ransomware,3,65,272,0.002203,0.011232,0.1961
+Cryptocurrency,3,3,4,272,0.002203,0.000691,3.1867
+Cryptocurrency,market,3,4,272,0.002203,0.000691,3.1867
+Cryptocurrency,using,3,16,272,0.002203,0.002765,0.7967
+Cryptocurrency,true,3,4,272,0.002203,0.000691,3.1867
+Cryptocurrency,course,3,6,272,0.002203,0.001037,2.1244
+Cryptocurrency,brave,3,3,272,0.002203,0.000518,4.2489
+Cryptocurrency,clear,2,3,272,0.001468,0.000518,2.8326
+Cryptocurrency,stake,2,3,272,0.001468,0.000518,2.8326
+Cryptocurrency,supported,2,2,272,0.001468,0.000346,4.2489
+Cryptocurrency,check,2,2,272,0.001468,0.000346,4.2489
+Cryptocurrency,stuff,2,6,272,0.001468,0.001037,1.4163
+Cryptocurrency,browser,2,4,272,0.001468,0.000691,2.1244
+Cryptocurrency,definitely,2,5,272,0.001468,0.000864,1.6996
+Cryptocurrency,tax,2,5,272,0.001468,0.000864,1.6996
+Cryptocurrency,blocks,2,2,272,0.001468,0.000346,4.2489
+Cryptocurrency,applied,2,3,272,0.001468,0.000518,2.8326
+Cryptocurrency,space,2,5,272,0.001468,0.000864,1.6996
+Cryptocurrency,metaverse,2,2,272,0.001468,0.000346,4.2489
+Cryptocurrency,doing,2,6,272,0.001468,0.001037,1.4163
+Cryptocurrency,project,2,3,272,0.001468,0.000518,2.8326
+Cryptocurrency,data,2,46,272,0.001468,0.007949,0.1847
+Cryptocurrency,used,2,8,272,0.001468,0.001382,1.0622
+Cryptocurrency,anymore,2,3,272,0.001468,0.000518,2.8326
+Cryptocurrency,obvious,2,4,272,0.001468,0.000691,2.1244
+Cryptocurrency,aren,2,5,272,0.001468,0.000864,1.6996
+Cryptocurrency,banking,2,2,272,0.001468,0.000346,4.2489
+Cryptocurrency,seriously,2,3,272,0.001468,0.000518,2.8326
+Cryptocurrency,solved,2,2,272,0.001468,0.000346,4.2489
+Cryptocurrency,trump,2,2,272,0.001468,0.000346,4.2489
+Cryptocurrency,grift,2,2,272,0.001468,0.000346,4.2489
+Cryptocurrency,avoid,2,3,272,0.001468,0.000518,2.8326
+Cryptocurrency,entire,2,5,272,0.001468,0.000864,1.6996
+Cryptocurrency,going,2,4,272,0.001468,0.000691,2.1244
+Cryptocurrency,scammers,2,2,272,0.001468,0.000346,4.2489
+Cryptocurrency,solana,2,2,272,0.001468,0.000346,4.2489
+Cryptocurrency,close,2,2,272,0.001468,0.000346,4.2489
+Cryptocurrency,features,2,2,272,0.001468,0.000346,4.2489
+Cryptocurrency,slop,2,2,272,0.001468,0.000346,4.2489
+Cryptocurrency,saying,2,5,272,0.001468,0.000864,1.6996
+Cryptocurrency,characteristics,2,2,272,0.001468,0.000346,4.2489
+Cryptocurrency,cash,2,2,272,0.001468,0.000346,4.2489
+Cryptocurrency,foundation,2,2,272,0.001468,0.000346,4.2489
+Cryptocurrency,keys,2,2,272,0.001468,0.000346,4.2489
+Cryptocurrency,couldn,2,2,272,0.001468,0.000346,4.2489
+Cryptocurrency,fiat,2,2,272,0.001468,0.000346,4.2489
+Cryptocurrency,buying,2,3,272,0.001468,0.000518,2.8326
+Cryptocurrency,version,2,5,272,0.001468,0.000864,1.6996
+Cryptocurrency,hn,2,3,272,0.001468,0.000518,2.8326
+Cryptocurrency,built,2,2,272,0.001468,0.000346,4.2489
+Cryptocurrency,0,2,8,272,0.001468,0.001382,1.0622
+Cryptocurrency,naming,2,2,272,0.001468,0.000346,4.2489
+Cryptocurrency,mean,2,5,272,0.001468,0.000864,1.6996
+Cryptocurrency,social,2,2,272,0.001468,0.000346,4.2489
+Cryptocurrency,simple,2,2,272,0.001468,0.000346,4.2489
+Cryptocurrency,add,2,5,272,0.001468,0.000864,1.6996
+Cryptocurrency,guess,2,5,272,0.001468,0.000864,1.6996
+Cryptocurrency,solve,2,7,272,0.001468,0.00121,1.214
+Cryptocurrency,cloud,2,4,272,0.001468,0.000691,2.1244
+Cryptocurrency,support,2,5,272,0.001468,0.000864,1.6996
+Cryptocurrency,waste,2,2,272,0.001468,0.000346,4.2489
+Cryptocurrency,tempo,2,2,272,0.001468,0.000346,4.2489
+Cryptocurrency,adopted,2,2,272,0.001468,0.000346,4.2489
+Cryptocurrency,didn,2,6,272,0.001468,0.001037,1.4163
+Cryptocurrency,database,2,2,272,0.001468,0.000346,4.2489
+Cryptocurrency,web3,2,2,272,0.001468,0.000346,4.2489
+Cryptocurrency,years,2,6,272,0.001468,0.001037,1.4163
+Cryptocurrency,250k,2,2,272,0.001468,0.000346,4.2489
+Cryptocurrency,decentralized,2,2,272,0.001468,0.000346,4.2489
+Cryptocurrency,far,2,2,272,0.001468,0.000346,4.2489
+Cryptocurrency,validators,2,2,272,0.001468,0.000346,4.2489
+Cryptocurrency,eth,2,2,272,0.001468,0.000346,4.2489
+Cryptocurrency,smart,2,2,272,0.001468,0.000346,4.2489
+Cryptocurrency,low,2,7,272,0.001468,0.00121,1.214
+Cryptocurrency,win,2,3,272,0.001468,0.000518,2.8326
+Cryptocurrency,want,2,2,272,0.001468,0.000346,4.2489
+Cryptocurrency,come,2,6,272,0.001468,0.001037,1.4163
+Cryptocurrency,unfortunately,2,2,272,0.001468,0.000346,4.2489
+Cryptocurrency,paper,2,2,272,0.001468,0.000346,4.2489
+Cryptocurrency,write,2,6,272,0.001468,0.001037,1.4163
+Cryptocurrency,example,2,2,272,0.001468,0.000346,4.2489
+Cryptocurrency,happened,2,2,272,0.001468,0.000346,4.2489
+Cryptocurrency,let,2,7,272,0.001468,0.00121,1.214
+Cryptocurrency,run,2,3,272,0.001468,0.000518,2.8326
+Cryptocurrency,short,2,3,272,0.001468,0.000518,2.8326
+Cryptocurrency,systems,2,3,272,0.001468,0.000518,2.8326
+Cryptocurrency,store,2,2,272,0.001468,0.000346,4.2489
+Cryptocurrency,forget,2,2,272,0.001468,0.000346,4.2489
+Cryptocurrency,know,2,5,272,0.001468,0.000864,1.6996
+Cryptocurrency,cryptobros,2,2,272,0.001468,0.000346,4.2489
+Cryptocurrency,news,2,4,272,0.001468,0.000691,2.1244
+Cryptocurrency,llm,2,12,272,0.001468,0.002074,0.7081
+Cryptocurrency,projects,2,2,272,0.001468,0.000346,4.2489
+Cryptocurrency,block,2,3,272,0.001468,0.000518,2.8326
+Cryptocurrency,size,2,2,272,0.001468,0.000346,4.2489
+Cryptocurrency,better,2,13,272,0.001468,0.002246,0.6537
+Cryptocurrency,read,2,3,272,0.001468,0.000518,2.8326
+Cryptocurrency,bf,2,2,272,0.001468,0.000346,4.2489
+Cryptocurrency,stock,2,3,272,0.001468,0.000518,2.8326
+Cryptocurrency,field,2,3,272,0.001468,0.000518,2.8326
+Cryptocurrency,libra,2,2,272,0.001468,0.000346,4.2489
+Cryptocurrency,sure,2,7,272,0.001468,0.00121,1.214
+Cryptocurrency,power,2,3,272,0.001468,0.000518,2.8326
+Cryptocurrency,believe,2,7,272,0.001468,0.00121,1.214
+Cryptocurrency,make,2,12,272,0.001468,0.002074,0.7081
+Cryptocurrency,way,2,9,272,0.001468,0.001555,0.9442
+Cryptocurrency,relevant,2,2,272,0.001468,0.000346,4.2489
+Cryptocurrency,lazy,2,2,272,0.001468,0.000346,4.2489
+Cryptocurrency,harddrive,2,2,272,0.001468,0.000346,4.2489
+Cryptocurrency,energy,2,40,272,0.001468,0.006912,0.2124
+Cryptocurrency,computing,1,2,272,0.000734,0.000346,2.1244
+Cryptocurrency,semantic,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,big,1,4,272,0.000734,0.000691,1.0622
+Cryptocurrency,iot,1,2,272,0.000734,0.000346,2.1244
+Cryptocurrency,nlp,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,pos,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,trusted,1,2,272,0.000734,0.000346,2.1244
+Cryptocurrency,thought,1,6,272,0.000734,0.001037,0.7081
+Cryptocurrency,moving,1,2,272,0.000734,0.000346,2.1244
+Cryptocurrency,lower,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,loan,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,highs,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,dramatically,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,gamification,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,control,1,3,272,0.000734,0.000518,1.4163
+Cryptocurrency,trustless,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,fall,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,implementing,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,great,1,7,272,0.000734,0.00121,0.607
+Cryptocurrency,kid,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,mit,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,dont,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,forced,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,stay,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,students,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,fortunately,1,2,272,0.000734,0.000346,2.1244
+Cryptocurrency,end,1,3,272,0.000734,0.000518,1.4163
+Cryptocurrency,creating,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,fallout,1,3,272,0.000734,0.000518,1.4163
+Cryptocurrency,consumer,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,paid,1,3,272,0.000734,0.000518,1.4163
+Cryptocurrency,finally,1,3,272,0.000734,0.000518,1.4163
+Cryptocurrency,tune,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,satoshi,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,real,1,7,272,0.000734,0.00121,0.607
+Cryptocurrency,smaller,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,divisible,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,infinitely,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,world,1,7,272,0.000734,0.00121,0.607
+Cryptocurrency,fish,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,died,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,hunt,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,25,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,likely,1,6,272,0.000734,0.001037,0.7081
+Cryptocurrency,sell,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,different,1,3,272,0.000734,0.000518,1.4163
+Cryptocurrency,imf,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,release,1,2,272,0.000734,0.000346,2.1244
+Cryptocurrency,garden,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,learning,1,69,272,0.000734,0.011923,0.0616
+Cryptocurrency,shelter,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,ja,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,sing,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,basically,1,3,272,0.000734,0.000518,1.4163
+Cryptocurrency,indicted,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,bug,1,2,272,0.000734,0.000346,2.1244
+Cryptocurrency,remember,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,inferior,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,dump,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,security,1,4,272,0.000734,0.000691,1.0622
+Cryptocurrency,scheme,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,daily,1,2,272,0.000734,0.000346,2.1244
+Cryptocurrency,usage,1,4,272,0.000734,0.000691,1.0622
+Cryptocurrency,simply,1,3,272,0.000734,0.000518,1.4163
+Cryptocurrency,register,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,joke,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,interested,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,force,1,2,272,0.000734,0.000346,2.1244
+Cryptocurrency,bots,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,exchanges,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,handle,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,thankfully,1,2,272,0.000734,0.000346,2.1244
+Cryptocurrency,pump,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,wondered,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,million,1,3,272,0.000734,0.000518,1.4163
+Cryptocurrency,cool,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,shouting,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,usecase,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,hydrogen,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,hardware,1,2,272,0.000734,0.000346,2.1244
+Cryptocurrency,larger,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,scale,1,2,272,0.000734,0.000346,2.1244
+Cryptocurrency,aluminum,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,fork,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,involve,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,revalue,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,convert,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,send,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,away,1,3,272,0.000734,0.000518,1.4163
+Cryptocurrency,finding,1,3,272,0.000734,0.000518,1.4163
+Cryptocurrency,crpto,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,worth,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,salt,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,equity,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,question,1,3,272,0.000734,0.000518,1.4163
+Cryptocurrency,journalism,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,tailored,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,clients,1,3,272,0.000734,0.000518,1.4163
+Cryptocurrency,tool,1,3,272,0.000734,0.000518,1.4163
+Cryptocurrency,sketchier,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,exempt,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,asci,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,600k,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,kyc,1,2,272,0.000734,0.000346,2.1244
+Cryptocurrency,aml,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,requirements,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,pardoning,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,heist,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,specific,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,geography,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,clone,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,cryptoquant,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,ptacek,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,thomas,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,audited,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,somewhat,1,3,272,0.000734,0.000518,1.4163
+Cryptocurrency,cryptographic,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,assume,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,nonsense,1,2,272,0.000734,0.000346,2.1244
+Cryptocurrency,prefer,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,definition,1,5,272,0.000734,0.000864,0.8498
+Cryptocurrency,refusing,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,keeping,1,2,272,0.000734,0.000346,2.1244
+Cryptocurrency,untraceable,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,resistant,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,heights,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,generally,1,2,272,0.000734,0.000346,2.1244
+Cryptocurrency,hold,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,day,1,5,272,0.000734,0.000864,0.8498
+Cryptocurrency,trading,1,2,272,0.000734,0.000346,2.1244
+Cryptocurrency,consumption,1,2,272,0.000734,0.000346,2.1244
+Cryptocurrency,definitionally,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,inefficient,1,2,272,0.000734,0.000346,2.1244
+Cryptocurrency,glances,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,asics,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,signals,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,track,1,2,272,0.000734,0.000346,2.1244
+Cryptocurrency,broken,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,website,1,3,272,0.000734,0.000518,1.4163
+Cryptocurrency,url,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,misleading,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,shocking,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,scam,1,2,272,0.000734,0.000346,2.1244
+Cryptocurrency,eclipse,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,slightest,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,processing,1,2,272,0.000734,0.000346,2.1244
+Cryptocurrency,inside,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,compatible,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,driving,1,2,272,0.000734,0.000346,2.1244
+Cryptocurrency,internet,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,stop,1,3,272,0.000734,0.000518,1.4163
+Cryptocurrency,blog,1,4,272,0.000734,0.000691,1.0622
+Cryptocurrency,11,1,3,272,0.000734,0.000518,1.4163
+Cryptocurrency,notepad,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,helps,1,3,272,0.000734,0.000518,1.4163
+Cryptocurrency,augmented,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,reality,1,2,272,0.000734,0.000346,2.1244
+Cryptocurrency,underwear,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,sells,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,bro,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,courses,1,3,272,0.000734,0.000518,1.4163
+Cryptocurrency,thinking,1,2,272,0.000734,0.000346,2.1244
+Cryptocurrency,tlsnotary,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,recently,1,2,272,0.000734,0.000346,2.1244
+Cryptocurrency,licenses,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,funny,1,2,272,0.000734,0.000346,2.1244
+Cryptocurrency,heard,1,5,272,0.000734,0.000864,0.8498
+Cryptocurrency,analysis,1,5,272,0.000734,0.000864,0.8498
+Cryptocurrency,node,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,tools,1,4,272,0.000734,0.000691,1.0622
+Cryptocurrency,y,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,libertarian,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,typical,1,2,272,0.000734,0.000346,2.1244
+Cryptocurrency,order,1,2,272,0.000734,0.000346,2.1244
+Cryptocurrency,propaganda,1,2,272,0.000734,0.000346,2.1244
+Cryptocurrency,hate,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,online,1,3,272,0.000734,0.000518,1.4163
+Cryptocurrency,affiliation,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,experience,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,fan,1,2,272,0.000734,0.000346,2.1244
+Cryptocurrency,deno,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,bagatelle,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,compatibly,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,layer,1,2,272,0.000734,0.000346,2.1244
+Cryptocurrency,mere,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,nice,1,5,272,0.000734,0.000864,0.8498
+Cryptocurrency,iso20022,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,zero,1,7,272,0.000734,0.00121,0.607
+Cryptocurrency,sum,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,adopt,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,drive,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,hard,1,3,272,0.000734,0.000518,1.4163
+Cryptocurrency,game,1,2,272,0.000734,0.000346,2.1244
+Cryptocurrency,try,1,4,272,0.000734,0.000691,1.0622
+Cryptocurrency,destroying,1,3,272,0.000734,0.000518,1.4163
+Cryptocurrency,sync,1,2,272,0.000734,0.000346,2.1244
+Cryptocurrency,future,1,3,272,0.000734,0.000518,1.4163
+Cryptocurrency,self,1,6,272,0.000734,0.001037,0.7081
+Cryptocurrency,mquantum,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,absurdly,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,perform,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,outside,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,crap,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,tolling,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,2,1,4,272,0.000734,0.000691,1.0622
+Cryptocurrency,pivot,1,3,272,0.000734,0.000518,1.4163
+Cryptocurrency,high,1,2,272,0.000734,0.000346,2.1244
+Cryptocurrency,btc,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,instrument,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,city,1,2,272,0.000734,0.000346,2.1244
+Cryptocurrency,won,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,mystery,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,alluring,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,financial,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,hotbabesinyourareacoin,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,love,1,5,272,0.000734,0.000864,0.8498
+Cryptocurrency,gonna,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,improve,1,2,272,0.000734,0.000346,2.1244
+Cryptocurrency,sanctions,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,international,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,working,1,5,272,0.000734,0.000864,0.8498
+Cryptocurrency,robust,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,vastly,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,lightning,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,widely,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,disliked,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,state,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,15,1,4,272,0.000734,0.000691,1.0622
+Cryptocurrency,instead,1,5,272,0.000734,0.000864,0.8498
+Cryptocurrency,ago,1,2,272,0.000734,0.000346,2.1244
+Cryptocurrency,history,1,4,272,0.000734,0.000691,1.0622
+Cryptocurrency,endlessly,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,fascinating,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,stands,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,bfbs,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,cryptos,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,bff,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,embedded,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,solutions,1,3,272,0.000734,0.000518,1.4163
+Cryptocurrency,means,1,3,272,0.000734,0.000518,1.4163
+Cryptocurrency,ponzi,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,schemes,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,brokers,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,tokens,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,word,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,makes,1,4,272,0.000734,0.000691,1.0622
+Cryptocurrency,irregular,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,suboptimal,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,enjoy,1,2,272,0.000734,0.000346,2.1244
+Cryptocurrency,scriptural,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,digital,1,2,272,0.000734,0.000346,2.1244
+Cryptocurrency,homeless,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,ended,1,2,272,0.000734,0.000346,2.1244
+Cryptocurrency,investors,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,finance,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,peak,1,2,272,0.000734,0.000346,2.1244
+Cryptocurrency,wonder,1,4,272,0.000734,0.000691,1.0622
+Cryptocurrency,involved,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,hype,1,3,272,0.000734,0.000518,1.4163
+Cryptocurrency,fraud,1,2,272,0.000734,0.000346,2.1244
+Cryptocurrency,saturated,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,http,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,heavily,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,ecosystem,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,allow,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,talk,1,3,272,0.000734,0.000518,1.4163
+Cryptocurrency,network,1,2,272,0.000734,0.000346,2.1244
+Cryptocurrency,slow,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,contracts,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,idea,1,3,272,0.000734,0.000518,1.4163
+Cryptocurrency,explanation,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,drop,1,2,272,0.000734,0.000346,2.1244
+Cryptocurrency,democratic,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,invented,1,2,272,0.000734,0.000346,2.1244
+Cryptocurrency,church,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,omit,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,leading,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,cryptographer,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,hose,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,booking,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,trades,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,revenue,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,invest,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,corp,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,remembers,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,alternative,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,tail,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,white,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,archiving,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,2008,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,useless,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,pq,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,classic,1,2,272,0.000734,0.000346,2.1244
+Cryptocurrency,matter,1,3,272,0.000734,0.000518,1.4163
+Cryptocurrency,similar,1,6,272,0.000734,0.001037,0.7081
+Cryptocurrency,ewaste,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,gas,1,7,272,0.000734,0.00121,0.607
+Cryptocurrency,transaction,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,fitting,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,gambling,1,2,272,0.000734,0.000346,2.1244
+Cryptocurrency,lie,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,depends,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,imagine,1,3,272,0.000734,0.000518,1.4163
+Cryptocurrency,encouraged,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,combo,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,ol,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,perfume,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,feels,1,2,272,0.000734,0.000346,2.1244
+Cryptocurrency,1000,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,coreweave,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,preparation,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,transition,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,entered,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,chat,1,2,272,0.000734,0.000346,2.1244
+Cryptocurrency,illegal,1,2,272,0.000734,0.000346,2.1244
+Cryptocurrency,attack,1,16,272,0.000734,0.002765,0.2656
+Cryptocurrency,non,1,6,272,0.000734,0.001037,0.7081
+Cryptocurrency,traditional,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,reserve,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,currencies,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,miss,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,graph,1,2,272,0.000734,0.000346,2.1244
+Cryptocurrency,yeah,1,3,272,0.000734,0.000518,1.4163
+Cryptocurrency,servers,1,3,272,0.000734,0.000518,1.4163
+Cryptocurrency,government,1,4,272,0.000734,0.000691,1.0622
+Cryptocurrency,building,1,4,272,0.000734,0.000691,1.0622
+Cryptocurrency,tick,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,absolulety,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,prevented,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,accident,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,nowadays,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,hash,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,random,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,fair,1,2,272,0.000734,0.000346,2.1244
+Cryptocurrency,computer,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,annoying,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,orders,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,magnitude,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,efficient,1,2,272,0.000734,0.000346,2.1244
+Cryptocurrency,5,1,4,272,0.000734,0.000691,1.0622
+Cryptocurrency,electricity,1,2,272,0.000734,0.000346,2.1244
+Cryptocurrency,released,1,2,272,0.000734,0.000346,2.1244
+Cryptocurrency,late,1,3,272,0.000734,0.000518,1.4163
+Cryptocurrency,worlds,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,especially,1,7,272,0.000734,0.00121,0.607
+Cryptocurrency,play,1,4,272,0.000734,0.000691,1.0622
+Cryptocurrency,context,1,3,272,0.000734,0.000518,1.4163
+Cryptocurrency,directed,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,cats,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,marketing,1,3,272,0.000734,0.000518,1.4163
+Cryptocurrency,anubis,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,miner,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,corrupt,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,gerontocrats,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,engineers,1,2,272,0.000734,0.000346,2.1244
+Cryptocurrency,excluded,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,sysadmins,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,conceptually,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,io,1,2,272,0.000734,0.000346,2.1244
+Cryptocurrency,active,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,asking,1,4,272,0.000734,0.000691,1.0622
+Cryptocurrency,g,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,baskets,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,e,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,sold,1,2,272,0.000734,0.000346,2.1244
+Cryptocurrency,2016,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,2026,1,3,272,0.000734,0.000518,1.4163
+Cryptocurrency,owning,1,2,272,0.000734,0.000346,2.1244
+Cryptocurrency,powerful,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,faster,1,2,272,0.000734,0.000346,2.1244
+Cryptocurrency,increasing,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,limit,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,include,1,6,272,0.000734,0.001037,0.7081
+Cryptocurrency,global,1,60,272,0.000734,0.010368,0.0708
+Cryptocurrency,outperforming,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,migration,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,certain,1,2,272,0.000734,0.000346,2.1244
+Cryptocurrency,prominent,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,underway,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,essentially,1,4,272,0.000734,0.000691,1.0622
+Cryptocurrency,math,1,2,272,0.000734,0.000346,2.1244
+Cryptocurrency,cs,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,explain,1,2,272,0.000734,0.000346,2.1244
+Cryptocurrency,itt,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,hacker,1,3,272,0.000734,0.000518,1.4163
+Cryptocurrency,rebuilds,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,scratch,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,indices,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,centralized,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,ones,1,2,272,0.000734,0.000346,2.1244
+Cryptocurrency,hey,1,2,272,0.000734,0.000346,2.1244
+Cryptocurrency,claude,1,10,272,0.000734,0.001728,0.4249
+Cryptocurrency,breaking,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,leak,1,2,272,0.000734,0.000346,2.1244
+Cryptocurrency,storage,1,4,272,0.000734,0.000691,1.0622
+Cryptocurrency,tanks,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,2011,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,euro,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,worse,1,2,272,0.000734,0.000346,2.1244
+Cryptocurrency,imply,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,necessarily,1,2,272,0.000734,0.000346,2.1244
+Cryptocurrency,developers,1,3,272,0.000734,0.000518,1.4163
+Cryptocurrency,russian,1,3,272,0.000734,0.000518,1.4163
+Cryptocurrency,bribes,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,fascists,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,promote,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,values,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,fucked,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,author,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,cdbc,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,safety,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,island,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,iced,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,tea,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,famous,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,technology,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,straight,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,trash,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,heap,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,bought,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,pretty,1,9,272,0.000734,0.001555,0.4721
+Cryptocurrency,dire,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,tbh,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,golden,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,opportunity,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,aws,1,2,272,0.000734,0.000346,2.1244
+Cryptocurrency,needs,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,ton,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,original,1,3,272,0.000734,0.000518,1.4163
+Cryptocurrency,purpose,1,4,272,0.000734,0.000691,1.0622
+Cryptocurrency,savings,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,platform,1,2,272,0.000734,0.000346,2.1244
+Cryptocurrency,service,1,3,272,0.000734,0.000518,1.4163
+Cryptocurrency,ens,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,1e18,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,palantir,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,backhoe,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,option,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,thread,1,3,272,0.000734,0.000518,1.4163
+Cryptocurrency,cheap,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,bubble,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,dns,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,reinvent,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,flattr,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,isnt,1,2,272,0.000734,0.000346,2.1244
+Cryptocurrency,speed,1,3,272,0.000734,0.000518,1.4163
+Cryptocurrency,rediculously,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,falsehood,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,super,1,2,272,0.000734,0.000346,2.1244
+Cryptocurrency,interesting,1,5,272,0.000734,0.000864,0.8498
+Cryptocurrency,10,1,2,272,0.000734,0.000346,2.1244
+Cryptocurrency,secs,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,tab,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,understands,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,wei,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,known,1,2,272,0.000734,0.000346,2.1244
+Cryptocurrency,forked,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,dao,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,solution,1,2,272,0.000734,0.000346,2.1244
+Cryptocurrency,search,1,5,272,0.000734,0.000864,0.8498
+Cryptocurrency,curious,1,2,272,0.000734,0.000346,2.1244
+Cryptocurrency,rust,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,sadly,1,2,272,0.000734,0.000346,2.1244
+Cryptocurrency,quick,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,cryptonomicon,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,alright,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,minuscule,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,gain,1,2,272,0.000734,0.000346,2.1244
+Cryptocurrency,tradfi,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,alive,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,wait,1,4,272,0.000734,0.000691,1.0622
+Cryptocurrency,generated,1,2,272,0.000734,0.000346,2.1244
+Cryptocurrency,virtual,1,2,272,0.000734,0.000346,2.1244
+Cryptocurrency,remains,1,2,272,0.000734,0.000346,2.1244
+Cryptocurrency,accounts,1,2,272,0.000734,0.000346,2.1244
+Cryptocurrency,investment,1,2,272,0.000734,0.000346,2.1244
+Cryptocurrency,demand,1,2,272,0.000734,0.000346,2.1244
+Cryptocurrency,debacle,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,wasn,1,2,272,0.000734,0.000346,2.1244
+Cryptocurrency,implementation,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,bancor,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,attempted,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,jive,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,xmr,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,drain,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,preferred,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,oblivious,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,algorithm,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,bullshit,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,business,1,3,272,0.000734,0.000518,1.4163
+Cryptocurrency,mugger,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,waiting,1,2,272,0.000734,0.000346,2.1244
+Cryptocurrency,art,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,posing,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,burning,1,3,272,0.000734,0.000518,1.4163
+Cryptocurrency,called,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,oracle,1,3,272,0.000734,0.000518,1.4163
+Cryptocurrency,describing,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,transparency,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,log,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,require,1,4,272,0.000734,0.000691,1.0622
+Cryptocurrency,little,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,bit,1,4,272,0.000734,0.000691,1.0622
+Cryptocurrency,nft,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,public,1,2,272,0.000734,0.000346,2.1244
+Cryptocurrency,address,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,demands,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,provide,1,2,272,0.000734,0.000346,2.1244
+Cryptocurrency,strong,1,2,272,0.000734,0.000346,2.1244
+Cryptocurrency,ties,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,combined,1,2,272,0.000734,0.000346,2.1244
+Cryptocurrency,users,1,3,272,0.000734,0.000518,1.4163
+Cryptocurrency,secures,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,dammit,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,small,1,6,272,0.000734,0.001037,0.7081
+Cryptocurrency,stablecoin,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,exodus,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,paying,1,3,272,0.000734,0.000518,1.4163
+Cryptocurrency,switched,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,larping,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,decided,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,defi,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,expensive,1,3,272,0.000734,0.000518,1.4163
+Cryptocurrency,sudokus,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,say,1,4,272,0.000734,0.000691,1.0622
+Cryptocurrency,git,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,uses,1,2,272,0.000734,0.000346,2.1244
+Cryptocurrency,lol,1,10,272,0.000734,0.001728,0.4249
+Cryptocurrency,planet,1,3,272,0.000734,0.000518,1.4163
+Cryptocurrency,coin,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,dr,1,2,272,0.000734,0.000346,2.1244
+Cryptocurrency,community,1,2,272,0.000734,0.000346,2.1244
+Cryptocurrency,gpu,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,lose,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,shirt,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,nah,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,held,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,monero,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,issue,1,3,272,0.000734,0.000518,1.4163
+Cryptocurrency,decade,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,oh,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,list,1,4,272,0.000734,0.000691,1.0622
+Cryptocurrency,2021,1,2,272,0.000734,0.000346,2.1244
+Cryptocurrency,wanted,1,2,272,0.000734,0.000346,2.1244
+Cryptocurrency,theoretically,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,ceiling,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,tl,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,ruined,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,humanity,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,valuable,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,replaces,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,maxis,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,nip01,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,defines,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,secp256k1,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,allows,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,orphan,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,instance,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,blender,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,echidna,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,contract,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,fuzzer,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,algorand,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,alternatives,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,conflating,1,1,272,0.000734,0.000173,4.2489
+Cryptocurrency,wallets,1,1,272,0.000734,0.000173,4.2489
+Cybersecurity,malware,93,93,266,0.064583,0.016071,4.0187
+Cybersecurity,cybersecurity,68,68,266,0.047222,0.01175,4.0187
+Cybersecurity,ransomware,62,65,266,0.043056,0.011232,3.8333
+Cybersecurity,data,40,46,266,0.027778,0.007949,3.4946
+Cybersecurity,like,18,55,266,0.0125,0.009504,1.3152
+Cybersecurity,breaches,16,16,266,0.011111,0.002765,4.0187
+Cybersecurity,breach,16,16,266,0.011111,0.002765,4.0187
+Cybersecurity,attack,14,16,266,0.009722,0.002765,3.5164
+Cybersecurity,cyber,12,12,266,0.008333,0.002074,4.0187
+Cybersecurity,does,9,29,266,0.00625,0.005011,1.2472
+Cybersecurity,just,8,38,266,0.005556,0.006566,0.8461
+Cybersecurity,don,7,23,266,0.004861,0.003974,1.2231
+Cybersecurity,bad,7,11,266,0.004861,0.001901,2.5574
+Cybersecurity,ai,7,55,266,0.004861,0.009504,0.5115
+Cybersecurity,think,6,20,266,0.004167,0.003456,1.2056
+Cybersecurity,attacks,6,6,266,0.004167,0.001037,4.0187
+Cybersecurity,time,6,12,266,0.004167,0.002074,2.0094
+Cybersecurity,good,5,22,266,0.003472,0.003802,0.9134
+Cybersecurity,using,4,16,266,0.002778,0.002765,1.0047
+Cybersecurity,installed,4,4,266,0.002778,0.000691,4.0187
+Cybersecurity,hacking,4,4,266,0.002778,0.000691,4.0187
+Cybersecurity,authors,4,4,266,0.002778,0.000691,4.0187
+Cybersecurity,crypto,4,54,266,0.002778,0.009331,0.2977
+Cybersecurity,sounds,4,13,266,0.002778,0.002246,1.2365
+Cybersecurity,make,4,12,266,0.002778,0.002074,1.3396
+Cybersecurity,google,4,8,266,0.002778,0.001382,2.0094
+Cybersecurity,windows,4,4,266,0.002778,0.000691,4.0187
+Cybersecurity,got,4,9,266,0.002778,0.001555,1.7861
+Cybersecurity,hackers,4,4,266,0.002778,0.000691,4.0187
+Cybersecurity,noreferrer,3,4,266,0.002083,0.000691,3.0141
+Cybersecurity,sure,3,7,266,0.002083,0.00121,1.7223
+Cybersecurity,explicitly,3,4,266,0.002083,0.000691,3.0141
+Cybersecurity,defence,3,3,266,0.002083,0.000518,4.0187
+Cybersecurity,tools,3,4,266,0.002083,0.000691,3.0141
+Cybersecurity,new,3,11,266,0.002083,0.001901,1.096
+Cybersecurity,ads,3,4,266,0.002083,0.000691,3.0141
+Cybersecurity,open,3,11,266,0.002083,0.001901,1.096
+Cybersecurity,install,3,3,266,0.002083,0.000518,4.0187
+Cybersecurity,list,3,4,266,0.002083,0.000691,3.0141
+Cybersecurity,hide,3,3,266,0.002083,0.000518,4.0187
+Cybersecurity,automated,3,4,266,0.002083,0.000691,3.0141
+Cybersecurity,industry,3,5,266,0.002083,0.000864,2.4112
+Cybersecurity,free,3,6,266,0.002083,0.001037,2.0094
+Cybersecurity,include,3,6,266,0.002083,0.001037,2.0094
+Cybersecurity,history,3,4,266,0.002083,0.000691,3.0141
+Cybersecurity,add,3,5,266,0.002083,0.000864,2.4112
+Cybersecurity,probably,3,9,266,0.002083,0.001555,1.3396
+Cybersecurity,didn,3,6,266,0.002083,0.001037,2.0094
+Cybersecurity,non,3,6,266,0.002083,0.001037,2.0094
+Cybersecurity,considered,3,7,266,0.002083,0.00121,1.7223
+Cybersecurity,thing,3,10,266,0.002083,0.001728,1.2056
+Cybersecurity,related,3,5,266,0.002083,0.000864,2.4112
+Cybersecurity,lot,3,12,266,0.002083,0.002074,1.0047
+Cybersecurity,apps,3,5,266,0.002083,0.000864,2.4112
+Cybersecurity,way,3,9,266,0.002083,0.001555,1.3396
+Cybersecurity,come,3,6,266,0.002083,0.001037,2.0094
+Cybersecurity,affected,2,2,266,0.001389,0.000346,4.0187
+Cybersecurity,price,2,2,266,0.001389,0.000346,4.0187
+Cybersecurity,insurance,2,3,266,0.001389,0.000518,2.6792
+Cybersecurity,safe,2,3,266,0.001389,0.000518,2.6792
+Cybersecurity,problem,2,9,266,0.001389,0.001555,0.8931
+Cybersecurity,seen,2,4,266,0.001389,0.000691,2.0094
+Cybersecurity,droid,2,2,266,0.001389,0.000346,4.0187
+Cybersecurity,leadership,2,2,266,0.001389,0.000346,4.0187
+Cybersecurity,thought,2,6,266,0.001389,0.001037,1.3396
+Cybersecurity,companies,2,5,266,0.001389,0.000864,1.6075
+Cybersecurity,knowledge,2,3,266,0.001389,0.000518,2.6792
+Cybersecurity,f,2,2,266,0.001389,0.000346,4.0187
+Cybersecurity,exactly,2,5,266,0.001389,0.000864,1.6075
+Cybersecurity,approach,2,3,266,0.001389,0.000518,2.6792
+Cybersecurity,instead,2,5,266,0.001389,0.000864,1.6075
+Cybersecurity,soon,2,3,266,0.001389,0.000518,2.6792
+Cybersecurity,fired,2,2,266,0.001389,0.000346,4.0187
+Cybersecurity,require,2,4,266,0.001389,0.000691,2.0094
+Cybersecurity,entire,2,5,266,0.001389,0.000864,1.6075
+Cybersecurity,use,2,22,266,0.001389,0.003802,0.3653
+Cybersecurity,ciso,2,2,266,0.001389,0.000346,4.0187
+Cybersecurity,lol,2,10,266,0.001389,0.001728,0.8038
+Cybersecurity,1,2,12,266,0.001389,0.002074,0.6698
+Cybersecurity,people,2,20,266,0.001389,0.003456,0.4019
+Cybersecurity,developers,2,3,266,0.001389,0.000518,2.6792
+Cybersecurity,source,2,8,266,0.001389,0.001382,1.0047
+Cybersecurity,write,2,6,266,0.001389,0.001037,1.3396
+Cybersecurity,wondering,2,2,266,0.001389,0.000346,4.0187
+Cybersecurity,software,2,3,266,0.001389,0.000518,2.6792
+Cybersecurity,pull,2,2,266,0.001389,0.000346,4.0187
+Cybersecurity,security,2,4,266,0.001389,0.000691,2.0094
+Cybersecurity,experts,2,4,266,0.001389,0.000691,2.0094
+Cybersecurity,ms,2,3,266,0.001389,0.000518,2.6792
+Cybersecurity,better,2,13,266,0.001389,0.002246,0.6183
+Cybersecurity,space,2,5,266,0.001389,0.000864,1.6075
+Cybersecurity,did,2,18,266,0.001389,0.00311,0.4465
+Cybersecurity,hacker,2,3,266,0.001389,0.000518,2.6792
+Cybersecurity,bank,2,2,266,0.001389,0.000346,4.0187
+Cybersecurity,behavior,2,2,266,0.001389,0.000346,4.0187
+Cybersecurity,talking,2,6,266,0.001389,0.001037,1.3396
+Cybersecurity,iphones,2,2,266,0.001389,0.000346,4.0187
+Cybersecurity,makes,2,4,266,0.001389,0.000691,2.0094
+Cybersecurity,purpose,2,4,266,0.001389,0.000691,2.0094
+Cybersecurity,imagine,2,3,266,0.001389,0.000518,2.6792
+Cybersecurity,best,2,4,266,0.001389,0.000691,2.0094
+Cybersecurity,firms,2,3,266,0.001389,0.000518,2.6792
+Cybersecurity,supposedly,2,2,266,0.001389,0.000346,4.0187
+Cybersecurity,looks,2,7,266,0.001389,0.00121,1.1482
+Cybersecurity,llms,2,5,266,0.001389,0.000864,1.6075
+Cybersecurity,commit,2,2,266,0.001389,0.000346,4.0187
+Cybersecurity,spreading,2,2,266,0.001389,0.000346,4.0187
+Cybersecurity,linux,2,2,266,0.001389,0.000346,4.0187
+Cybersecurity,cloud,2,4,266,0.001389,0.000691,2.0094
+Cybersecurity,browser,2,4,266,0.001389,0.000691,2.0094
+Cybersecurity,likely,2,6,266,0.001389,0.001037,1.3396
+Cybersecurity,protection,2,2,266,0.001389,0.000346,4.0187
+Cybersecurity,2026,2,3,266,0.001389,0.000518,2.6792
+Cybersecurity,feature,2,2,266,0.001389,0.000346,4.0187
+Cybersecurity,start,2,3,266,0.001389,0.000518,2.6792
+Cybersecurity,employees,2,3,266,0.001389,0.000518,2.6792
+Cybersecurity,possible,2,5,266,0.001389,0.000864,1.6075
+Cybersecurity,company,2,5,266,0.001389,0.000864,1.6075
+Cybersecurity,hacked,2,2,266,0.001389,0.000346,4.0187
+Cybersecurity,researcher,2,3,266,0.001389,0.000518,2.6792
+Cybersecurity,actual,2,3,266,0.001389,0.000518,2.6792
+Cybersecurity,organizations,2,2,266,0.001389,0.000346,4.0187
+Cybersecurity,threat,2,2,266,0.001389,0.000346,4.0187
+Cybersecurity,definitely,2,5,266,0.001389,0.000864,1.6075
+Cybersecurity,wouldn,2,2,266,0.001389,0.000346,4.0187
+Cybersecurity,cost,2,5,266,0.001389,0.000864,1.6075
+Cybersecurity,nsa,2,2,266,0.001389,0.000346,4.0187
+Cybersecurity,80,2,2,266,0.001389,0.000346,4.0187
+Cybersecurity,hygiene,2,2,266,0.001389,0.000346,4.0187
+Cybersecurity,let,2,7,266,0.001389,0.00121,1.1482
+Cybersecurity,indistinguishable,2,2,266,0.001389,0.000346,4.0187
+Cybersecurity,essentially,2,4,266,0.001389,0.000691,2.0094
+Cybersecurity,point,2,7,266,0.001389,0.00121,1.1482
+Cybersecurity,device,2,2,266,0.001389,0.000346,4.0187
+Cybersecurity,required,2,2,266,0.001389,0.000346,4.0187
+Cybersecurity,gdpr,2,2,266,0.001389,0.000346,4.0187
+Cybersecurity,laws,2,2,266,0.001389,0.000346,4.0187
+Cybersecurity,asking,2,4,266,0.001389,0.000691,2.0094
+Cybersecurity,play,2,4,266,0.001389,0.000691,2.0094
+Cybersecurity,services,2,2,266,0.001389,0.000346,4.0187
+Cybersecurity,microsoft,2,3,266,0.001389,0.000518,2.6792
+Cybersecurity,simply,2,3,266,0.001389,0.000518,2.6792
+Cybersecurity,package,2,2,266,0.001389,0.000346,4.0187
+Cybersecurity,heard,2,5,266,0.001389,0.000864,1.6075
+Cybersecurity,national,2,2,266,0.001389,0.000346,4.0187
+Cybersecurity,exploit,2,2,266,0.001389,0.000346,4.0187
+Cybersecurity,npm,2,2,266,0.001389,0.000346,4.0187
+Cybersecurity,kind,2,6,266,0.001389,0.001037,1.3396
+Cybersecurity,federal,2,2,266,0.001389,0.000346,4.0187
+Cybersecurity,terms,2,4,266,0.001389,0.000691,2.0094
+Cybersecurity,marketing,2,3,266,0.001389,0.000518,2.6792
+Cybersecurity,article,2,10,266,0.001389,0.001728,0.8038
+Cybersecurity,analysis,2,5,266,0.001389,0.000864,1.6075
+Cybersecurity,working,2,5,266,0.001389,0.000864,1.6075
+Cybersecurity,level,2,3,266,0.001389,0.000518,2.6792
+Cybersecurity,yes,2,9,266,0.001389,0.001555,0.8931
+Cybersecurity,extremely,2,2,266,0.001389,0.000346,4.0187
+Cybersecurity,real,2,7,266,0.001389,0.00121,1.1482
+Cybersecurity,claim,2,3,266,0.001389,0.000518,2.6792
+Cybersecurity,pro,2,5,266,0.001389,0.000864,1.6075
+Cybersecurity,question,2,3,266,0.001389,0.000518,2.6792
+Cybersecurity,ios,2,2,266,0.001389,0.000346,4.0187
+Cybersecurity,reported,2,2,266,0.001389,0.000346,4.0187
+Cybersecurity,courses,2,3,266,0.001389,0.000518,2.6792
+Cybersecurity,ideal,2,2,266,0.001389,0.000346,4.0187
+Cybersecurity,big,2,4,266,0.001389,0.000691,2.0094
+Cybersecurity,russia,2,3,266,0.001389,0.000518,2.6792
+Cybersecurity,days,2,4,266,0.001389,0.000691,2.0094
+Cybersecurity,guide,2,2,266,0.001389,0.000346,4.0187
+Cybersecurity,checks,2,2,266,0.001389,0.000346,4.0187
+Cybersecurity,business,2,3,266,0.001389,0.000518,2.6792
+Cybersecurity,used,2,8,266,0.001389,0.001382,1.0047
+Cybersecurity,huge,2,3,266,0.001389,0.000518,2.6792
+Cybersecurity,switch,2,3,266,0.001389,0.000518,2.6792
+Cybersecurity,maybe,2,8,266,0.001389,0.001382,1.0047
+Cybersecurity,certainly,2,3,266,0.001389,0.000518,2.6792
+Cybersecurity,obvious,2,4,266,0.001389,0.000691,2.0094
+Cybersecurity,coming,2,3,266,0.001389,0.000518,2.6792
+Cybersecurity,researchers,2,4,266,0.001389,0.000691,2.0094
+Cybersecurity,program,2,2,266,0.001389,0.000346,4.0187
+Cybersecurity,long,2,7,266,0.001389,0.00121,1.1482
+Cybersecurity,privacy,2,3,266,0.001389,0.000518,2.6792
+Cybersecurity,key,2,2,266,0.001389,0.000346,4.0187
+Cybersecurity,100,2,3,266,0.001389,0.000518,2.6792
+Cybersecurity,man,2,3,266,0.001389,0.000518,2.6792
+Cybersecurity,detects,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,different,1,3,266,0.000694,0.000518,1.3396
+Cybersecurity,course,1,6,266,0.000694,0.001037,0.6698
+Cybersecurity,crew,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,w32,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,took,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,voluntary,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,leak,1,2,266,0.000694,0.000346,2.0094
+Cybersecurity,examples,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,useful,1,4,266,0.000694,0.000691,1.0047
+Cybersecurity,really,1,8,266,0.000694,0.001382,0.5023
+Cybersecurity,ccsf,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,aidetectmalware,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,renowned,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,double,1,2,266,0.000694,0.000346,2.0094
+Cybersecurity,recall,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,congrats,1,2,266,0.000694,0.000346,2.0094
+Cybersecurity,oracle,1,3,266,0.000694,0.000518,1.3396
+Cybersecurity,proposed,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,pegasus,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,keyloggers,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,starts,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,botnets,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,existing,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,infrastructure,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,idea,1,3,266,0.000694,0.000518,1.3396
+Cybersecurity,poor,1,2,266,0.000694,0.000346,2.0094
+Cybersecurity,congratulations,1,2,266,0.000694,0.000346,2.0094
+Cybersecurity,hands,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,nonsense,1,2,266,0.000694,0.000346,2.0094
+Cybersecurity,scarecrow,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,balance,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,tried,1,2,266,0.000694,0.000346,2.0094
+Cybersecurity,area,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,bluesky,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,surface,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,link,1,2,266,0.000694,0.000346,2.0094
+Cybersecurity,deployed,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,version,1,5,266,0.000694,0.000864,0.8038
+Cybersecurity,global,1,60,266,0.000694,0.010368,0.067
+Cybersecurity,transfusion,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,angle,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,blood,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,beware,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,disrupt,1,2,266,0.000694,0.000346,2.0094
+Cybersecurity,fans,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,futurama,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,actually,1,8,266,0.000694,0.001382,0.5023
+Cybersecurity,personal,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,involving,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,bkav,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,leaks,1,2,266,0.000694,0.000346,2.0094
+Cybersecurity,iteration,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,getting,1,2,266,0.000694,0.000346,2.0094
+Cybersecurity,job,1,2,266,0.000694,0.000346,2.0094
+Cybersecurity,agency,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,lines,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,reading,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,risk,1,2,266,0.000694,0.000346,2.0094
+Cybersecurity,delivering,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,affects,1,2,266,0.000694,0.000346,2.0094
+Cybersecurity,sufficiently,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,downloads,1,2,266,0.000694,0.000346,2.0094
+Cybersecurity,electricity,1,2,266,0.000694,0.000346,2.0094
+Cybersecurity,supplying,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,past,1,2,266,0.000694,0.000346,2.0094
+Cybersecurity,anyways,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,fallout,1,3,266,0.000694,0.000518,1.3396
+Cybersecurity,develop,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,act,1,2,266,0.000694,0.000346,2.0094
+Cybersecurity,jail,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,operate,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,gotten,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,overt,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,late,1,3,266,0.000694,0.000518,1.3396
+Cybersecurity,gets,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,fdic,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,binary,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,ruins,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,insure,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,packaging,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,takes,1,2,266,0.000694,0.000346,2.0094
+Cybersecurity,consider,1,2,266,0.000694,0.000346,2.0094
+Cybersecurity,variables,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,public,1,2,266,0.000694,0.000346,2.0094
+Cybersecurity,environment,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,hooks,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,fines,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,penalties,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,pre,1,4,266,0.000694,0.000691,1.0047
+Cybersecurity,businesses,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,incentivise,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,arent,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,saying,1,5,266,0.000694,0.000864,0.8038
+Cybersecurity,computing,1,2,266,0.000694,0.000346,2.0094
+Cybersecurity,final,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,kasperskys,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,damaging,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,alot,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,enthusiast,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,clients,1,3,266,0.000694,0.000518,1.3396
+Cybersecurity,servers,1,3,266,0.000694,0.000518,1.3396
+Cybersecurity,doesn,1,16,266,0.000694,0.002765,0.2512
+Cybersecurity,site,1,5,266,0.000694,0.000864,0.8038
+Cybersecurity,kaseya,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,vsa,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,alert,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,2021,1,2,266,0.000694,0.000346,2.0094
+Cybersecurity,product,1,3,266,0.000694,0.000518,1.3396
+Cybersecurity,digital,1,2,266,0.000694,0.000346,2.0094
+Cybersecurity,computers,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,hit,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,professional,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,meaning,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,audits,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,independent,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,references,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,comments,1,3,266,0.000694,0.000518,1.3396
+Cybersecurity,virustotal,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,inoperable,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,replace,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,box,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,wildly,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,prevalent,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,understand,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,hardware,1,2,266,0.000694,0.000346,2.0094
+Cybersecurity,reasons,1,2,266,0.000694,0.000346,2.0094
+Cybersecurity,assertion,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,choice,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,scanner,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,wx,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,debugger,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,debug,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,consume,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,json,1,4,266,0.000694,0.000691,1.0047
+Cybersecurity,sse,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,mega,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,chinese,1,4,266,0.000694,0.000691,1.0047
+Cybersecurity,background,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,scam,1,2,266,0.000694,0.000346,2.0094
+Cybersecurity,prevent,1,2,266,0.000694,0.000346,2.0094
+Cybersecurity,having,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,exploits,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,burned,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,goal,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,types,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,embrace,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,extend,1,2,266,0.000694,0.000346,2.0094
+Cybersecurity,extinguish,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,20,1,2,266,0.000694,0.000346,2.0094
+Cybersecurity,bochs,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,support,1,5,266,0.000694,0.000864,0.8038
+Cybersecurity,family,1,2,266,0.000694,0.000346,2.0094
+Cybersecurity,cries,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,strategy,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,legit,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,mgm,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,100mil,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,campaigns,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,distraction,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,parallel,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,nigeria,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,country,1,3,266,0.000694,0.000518,1.3396
+Cybersecurity,pretty,1,9,266,0.000694,0.001555,0.4465
+Cybersecurity,role,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,clorox,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,week,1,2,266,0.000694,0.000346,2.0094
+Cybersecurity,azure,1,3,266,0.000694,0.000518,1.3396
+Cybersecurity,fireworks,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,right,1,13,266,0.000694,0.002246,0.3091
+Cybersecurity,equifax,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,negatively,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,understanding,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,0,1,8,266,0.000694,0.001382,0.5023
+Cybersecurity,frontend,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,payroll,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,snafus,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,insiders,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,previously,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,mozillas,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,telemetry,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,saas,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,service,1,3,266,0.000694,0.000518,1.3396
+Cybersecurity,platform,1,2,266,0.000694,0.000346,2.0094
+Cybersecurity,effects,1,3,266,0.000694,0.000518,1.3396
+Cybersecurity,action,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,plan,1,2,266,0.000694,0.000346,2.0094
+Cybersecurity,scammy,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,programmers,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,second,1,2,266,0.000694,0.000346,2.0094
+Cybersecurity,scanning,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,presumably,1,2,266,0.000694,0.000346,2.0094
+Cybersecurity,isnt,1,2,266,0.000694,0.000346,2.0094
+Cybersecurity,machine,1,69,266,0.000694,0.011923,0.0582
+Cybersecurity,works,1,3,266,0.000694,0.000518,1.3396
+Cybersecurity,workstation,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,attackers,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,billing,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,ic,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,cancellation,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,definitions,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,acronyms,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,concepts,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,jobs,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,paid,1,3,266,0.000694,0.000518,1.3396
+Cybersecurity,beginner,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,av,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,small,1,6,266,0.000694,0.001037,0.6698
+Cybersecurity,comes,1,3,266,0.000694,0.000518,1.3396
+Cybersecurity,russians,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,spyware,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,sucks,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,joining,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,botnet,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,suck,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,emboldened,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,criminal,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,especially,1,7,266,0.000694,0.00121,0.5741
+Cybersecurity,things,1,8,266,0.000694,0.001382,0.5023
+Cybersecurity,fundraising,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,solid,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,viruses,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,stuff,1,6,266,0.000694,0.001037,0.6698
+Cybersecurity,money,1,10,266,0.000694,0.001728,0.4019
+Cybersecurity,laundering,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,speculation,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,gambling,1,2,266,0.000694,0.000346,2.0094
+Cybersecurity,purchasing,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,illegal,1,2,266,0.000694,0.000346,2.0094
+Cybersecurity,goods,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,networking,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,bitcoin,1,63,266,0.000694,0.010886,0.0638
+Cybersecurity,cryptocurrencies,1,9,266,0.000694,0.001555,0.4465
+Cybersecurity,ukraine,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,weaponized,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,gangs,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,plastic,1,4,266,0.000694,0.000691,1.0047
+Cybersecurity,form,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,substantiation,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,dams,1,2,266,0.000694,0.000346,2.0094
+Cybersecurity,adds,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,visual,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,attempt,1,2,266,0.000694,0.000346,2.0094
+Cybersecurity,eat,1,2,266,0.000694,0.000346,2.0094
+Cybersecurity,suffer,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,general,1,2,266,0.000694,0.000346,2.0094
+Cybersecurity,adblockers,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,web,1,7,266,0.000694,0.00121,0.5741
+Cybersecurity,extension,1,2,266,0.000694,0.000346,2.0094
+Cybersecurity,apple,1,3,266,0.000694,0.000518,1.3396
+Cybersecurity,breaks,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,law,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,police,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,cybercriminal,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,mouthful,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,intelligence,1,7,266,0.000694,0.00121,0.5741
+Cybersecurity,community,1,2,266,0.000694,0.000346,2.0094
+Cybersecurity,comprehensive,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,initiative,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,center,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,offence,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,proportionally,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,harder,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,engineers,1,2,266,0.000694,0.000346,2.0094
+Cybersecurity,professionals,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,metaphor,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,sorry,1,3,266,0.000694,0.000518,1.3396
+Cybersecurity,fees,1,4,266,0.000694,0.000691,1.0047
+Cybersecurity,help,1,4,266,0.000694,0.000691,1.0047
+Cybersecurity,madness,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,scrolling,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,website,1,3,266,0.000694,0.000518,1.3396
+Cybersecurity,mobile,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,officially,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,drug,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,traffickers,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,mafias,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,states,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,favorite,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,trainings,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,cybersecurityists,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,organisations,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,similar,1,6,266,0.000694,0.001037,0.6698
+Cybersecurity,h1,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,awards,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,eh,1,2,266,0.000694,0.000346,2.0094
+Cybersecurity,payments,1,4,266,0.000694,0.000691,1.0047
+Cybersecurity,tolerate,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,clean,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,shipping,1,2,266,0.000694,0.000346,2.0094
+Cybersecurity,super,1,2,266,0.000694,0.000346,2.0094
+Cybersecurity,started,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,tuesday,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,outage,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,literally,1,3,266,0.000694,0.000518,1.3396
+Cybersecurity,performs,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,foreign,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,countries,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,commits,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,clickthrough,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,eula,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,hook,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,popups,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,original,1,3,266,0.000694,0.000518,1.3396
+Cybersecurity,competent,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,dev,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,panic,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,sourceforge,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,fell,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,greedy,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,overlords,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,anti,1,2,266,0.000694,0.000346,2.0094
+Cybersecurity,filter,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,personally,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,cracking,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,hn,1,3,266,0.000694,0.000518,1.3396
+Cybersecurity,launching,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,claude,1,10,266,0.000694,0.001728,0.4019
+Cybersecurity,depth,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,indicts,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,rogue,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,america,1,2,266,0.000694,0.000346,2.0094
+Cybersecurity,defenses,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,backdoor,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,graph,1,2,266,0.000694,0.000346,2.0094
+Cybersecurity,irony,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,bounty,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,market,1,4,266,0.000694,0.000691,1.0047
+Cybersecurity,hunting,1,2,266,0.000694,0.000346,2.0094
+Cybersecurity,destroying,1,3,266,0.000694,0.000518,1.3396
+Cybersecurity,win10,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,single,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,obviously,1,2,266,0.000694,0.000346,2.0094
+Cybersecurity,reddit,1,2,266,0.000694,0.000346,2.0094
+Cybersecurity,candidate,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,users,1,3,266,0.000694,0.000518,1.3396
+Cybersecurity,staff,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,base,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,line,1,2,266,0.000694,0.000346,2.0094
+Cybersecurity,protects,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,walled,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,gardens,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,assumed,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,gate,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,yep,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,scanners,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,great,1,7,266,0.000694,0.00121,0.5741
+Cybersecurity,bite,1,2,266,0.000694,0.000346,2.0094
+Cybersecurity,title,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,expanded,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,documentation,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,nmig,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,io,1,2,266,0.000694,0.000346,2.0094
+Cybersecurity,driven,1,3,266,0.000694,0.000518,1.3396
+Cybersecurity,swarm,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,payment,1,5,266,0.000694,0.000864,0.8038
+Cybersecurity,books,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,percent,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,apk,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,definition,1,5,266,0.000694,0.000864,0.8038
+Cybersecurity,bloatware,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,tos,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,violating,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,piracy,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,suggest,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,intent,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,matter,1,3,266,0.000694,0.000518,1.3396
+Cybersecurity,year,1,4,266,0.000694,0.000691,1.0047
+Cybersecurity,assisted,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,baby,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,goo,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,reason,1,3,266,0.000694,0.000518,1.3396
+Cybersecurity,field,1,3,266,0.000694,0.000518,1.3396
+Cybersecurity,replaced,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,enjoy,1,2,266,0.000694,0.000346,2.0094
+Cybersecurity,arctic,1,2,266,0.000694,0.000346,2.0094
+Cybersecurity,wolf,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,creep,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,suffers,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,dependencies,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,paste,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,accounts,1,2,266,0.000694,0.000346,2.0094
+Cybersecurity,drained,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,requires,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,disabling,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,defender,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,inform,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,2,1,4,266,0.000694,0.000691,1.0047
+Cybersecurity,billion,1,2,266,0.000694,0.000346,2.0094
+Cybersecurity,account,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,haveibeenpwned,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,burrowing,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,inevitable,1,2,266,0.000694,0.000346,2.0094
+Cybersecurity,luck,1,2,266,0.000694,0.000346,2.0094
+Cybersecurity,sourcing,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,release,1,2,266,0.000694,0.000346,2.0094
+Cybersecurity,happily,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,copy,1,2,266,0.000694,0.000346,2.0094
+Cybersecurity,6,1,2,266,0.000694,0.000346,2.0094
+Cybersecurity,13,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,iranian,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,north,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,crime,1,5,266,0.000694,0.000864,0.8038
+Cybersecurity,sextortion,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,room,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,enable,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,number,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,operators,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,zero,1,7,266,0.000694,0.00121,0.5741
+Cybersecurity,iran,1,2,266,0.000694,0.000346,2.0094
+Cybersecurity,korea,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,party,1,3,266,0.000694,0.000518,1.3396
+Cybersecurity,biggest,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,sources,1,3,266,0.000694,0.000518,1.3396
+Cybersecurity,generous,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,gift,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,fraud,1,2,266,0.000694,0.000346,2.0094
+Cybersecurity,industries,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,disingenuous,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,easier,1,3,266,0.000694,0.000518,1.3396
+Cybersecurity,conduit,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,sc,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,greenville,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,code,1,8,266,0.000694,0.001382,0.5023
+Cybersecurity,unless,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,doing,1,6,266,0.000694,0.001037,0.6698
+Cybersecurity,hardcore,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,bio,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,coding,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,benchmarks,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,defense,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,offense,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,common,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,terminology,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,biology,1,2,266,0.000694,0.000346,2.0094
+Cybersecurity,given,1,2,266,0.000694,0.000346,2.0094
+Cybersecurity,safeguards,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,work,1,10,266,0.000694,0.001728,0.4019
+Cybersecurity,ok,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,polyglot,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,conference,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,happens,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,identification,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,feels,1,2,266,0.000694,0.000346,2.0094
+Cybersecurity,deeptech,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,respect,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,win,1,3,266,0.000694,0.000518,1.3396
+Cybersecurity,openai,1,84,266,0.000694,0.014515,0.0478
+Cybersecurity,trusted,1,2,266,0.000694,0.000346,2.0094
+Cybersecurity,ttu,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,physics,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,cern,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,eventhorizon,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,hospitals,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,verifier,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,shutdown,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,change,1,87,266,0.000694,0.015034,0.0462
+Cybersecurity,healthcare,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,faced,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,22m,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,missing,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,mfa,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,thread,1,3,266,0.000694,0.000518,1.3396
+Cybersecurity,bot,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,morning,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,smell,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,love,1,5,266,0.000694,0.000864,0.8038
+Cybersecurity,passwords,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,attitude,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,gives,1,2,266,0.000694,0.000346,2.0094
+Cybersecurity,daily,1,2,266,0.000694,0.000346,2.0094
+Cybersecurity,govs,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,comply,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,official,1,2,266,0.000694,0.000346,2.0094
+Cybersecurity,warm,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,nostalgia,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,reformatting,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,c,1,2,266,0.000694,0.000346,2.0094
+Cybersecurity,drives,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,processing,1,2,266,0.000694,0.000346,2.0094
+Cybersecurity,error,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,prime,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,vector,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,ironically,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,training,1,2,266,0.000694,0.000346,2.0094
+Cybersecurity,threats,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,3,1,4,266,0.000694,0.000691,1.0047
+Cybersecurity,value,1,2,266,0.000694,0.000346,2.0094
+Cybersecurity,spending,1,3,266,0.000694,0.000518,1.3396
+Cybersecurity,facebook,1,5,266,0.000694,0.000864,0.8038
+Cybersecurity,told,1,3,266,0.000694,0.000518,1.3396
+Cybersecurity,remaining,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,shouldn,1,2,266,0.000694,0.000346,2.0094
+Cybersecurity,norm,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,kill,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,suspect,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,wonder,1,4,266,0.000694,0.000691,1.0047
+Cybersecurity,javascript,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,situation,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,mention,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,notification,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,organization,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,accessing,1,2,266,0.000694,0.000346,2.0094
+Cybersecurity,gemini,1,4,266,0.000694,0.000691,1.0047
+Cybersecurity,cyberattack,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,capabilities,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,wasteful,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,investing,1,2,266,0.000694,0.000346,2.0094
+Cybersecurity,knows,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,applicants,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,association,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,mp3,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,mp4,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,contain,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,break,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,envinroment,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,fully,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,builds,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,popcorn,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,interesting,1,5,266,0.000694,0.000864,0.8038
+Cybersecurity,wow,1,3,266,0.000694,0.000518,1.3396
+Cybersecurity,israelis,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,constantly,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,dominating,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,damn,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,senior,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,position,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,corroborate,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,surprised,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,samples,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,true,1,4,266,0.000694,0.000691,1.0047
+Cybersecurity,dr,1,2,266,0.000694,0.000346,2.0094
+Cybersecurity,zizmor,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,pivot,1,3,266,0.000694,0.000518,1.3396
+Cybersecurity,genuine,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,lacks,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,say,1,4,266,0.000694,0.000691,1.0047
+Cybersecurity,recently,1,2,266,0.000694,0.000346,2.0094
+Cybersecurity,launched,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,drop,1,2,266,0.000694,0.000346,2.0094
+Cybersecurity,pikachu,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,fact,1,3,266,0.000694,0.000518,1.3396
+Cybersecurity,somewhat,1,3,266,0.000694,0.000518,1.3396
+Cybersecurity,ironic,1,2,266,0.000694,0.000346,2.0094
+Cybersecurity,trusting,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,tell,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,expensive,1,3,266,0.000694,0.000518,1.3396
+Cybersecurity,care,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,notifying,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,legitimately,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,news,1,4,266,0.000694,0.000691,1.0047
+Cybersecurity,spirit,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,lite,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,face,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,files,1,2,266,0.000694,0.000346,2.0094
+Cybersecurity,rename,1,2,266,0.000694,0.000346,2.0094
+Cybersecurity,authored,1,2,266,0.000694,0.000346,2.0094
+Cybersecurity,short,1,3,266,0.000694,0.000518,1.3396
+Cybersecurity,malwarebytes,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,ask,1,6,266,0.000694,0.001037,0.6698
+Cybersecurity,regularly,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,lockdown,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,mode,1,5,266,0.000694,0.000864,0.8038
+Cybersecurity,increase,1,4,266,0.000694,0.000691,1.0047
+Cybersecurity,resilience,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,persistent,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,quite,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,rare,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,ublock,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,origin,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,unity,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,created,1,2,266,0.000694,0.000346,2.0094
+Cybersecurity,4,1,3,266,0.000694,0.000518,1.3396
+Cybersecurity,imagination,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,exagerating,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,slightly,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,op,1,3,266,0.000694,0.000518,1.3396
+Cybersecurity,injecting,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,results,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,search,1,5,266,0.000694,0.000864,0.8038
+Cybersecurity,isn,1,14,266,0.000694,0.002419,0.2871
+Cybersecurity,stretch,1,2,266,0.000694,0.000346,2.0094
+Cybersecurity,probability,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,40,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,bonzibuddy,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,sang,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,typically,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,deploy,1,2,266,0.000694,0.000346,2.0094
+Cybersecurity,production,1,4,266,0.000694,0.000691,1.0047
+Cybersecurity,systems,1,3,266,0.000694,0.000518,1.3396
+Cybersecurity,shai,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,hulud,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,phones,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,android,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,billions,1,2,266,0.000694,0.000346,2.0094
+Cybersecurity,fdroid,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,weeks,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,timelines,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,hear,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,cover,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,outdated,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,standards,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,basically,1,3,266,0.000694,0.000518,1.3396
+Cybersecurity,waiting,1,2,266,0.000694,0.000346,2.0094
+Cybersecurity,riwaas,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,nice,1,5,266,0.000694,0.000864,0.8038
+Cybersecurity,classic,1,2,266,0.000694,0.000346,2.0094
+Cybersecurity,need,1,12,266,0.000694,0.002074,0.3349
+Cybersecurity,disconnect,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,worried,1,2,266,0.000694,0.000346,2.0094
+Cybersecurity,provide,1,2,266,0.000694,0.000346,2.0094
+Cybersecurity,kyc,1,2,266,0.000694,0.000346,2.0094
+Cybersecurity,guarantee,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,tinycolor,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,packages,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,checking,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,20m,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,corporations,1,2,266,0.000694,0.000346,2.0094
+Cybersecurity,reminder,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,create,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,backups,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,worry,1,2,266,0.000694,0.000346,2.0094
+Cybersecurity,monitor,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,rate,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,happening,1,2,266,0.000694,0.000346,2.0094
+Cybersecurity,ransoms,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,compromised,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,reputational,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,damage,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,crashed,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,page,1,2,266,0.000694,0.000346,2.0094
+Cybersecurity,presence,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,russian,1,3,266,0.000694,0.000518,1.3396
+Cybersecurity,keyboard,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,attractive,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,ahem,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,root,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,protect,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,indistinguishably,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,rsa,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,expect,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,posts,1,4,266,0.000694,0.000691,1.0047
+Cybersecurity,ha,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,gone,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,diagnosis,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,opinions,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,concerning,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,hyped,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,drama,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,mental,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,tag,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,alongside,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,iot,1,2,266,0.000694,0.000346,2.0094
+Cybersecurity,label,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,games,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,behave,1,1,266,0.000694,0.000173,4.0187
+Cybersecurity,day,1,5,266,0.000694,0.000864,0.8038

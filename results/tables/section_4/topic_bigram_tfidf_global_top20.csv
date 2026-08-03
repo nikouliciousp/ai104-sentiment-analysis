@@ -1,0 +1,81 @@
+topic,bigram,mean_tfidf_in_topic,mean_tfidf_in_other,topic_distinctiveness_ratio,topic_doc_count,other_doc_count,fit_scope
+Artificial Intelligence,machine learning,0.214792,0.0,inf,253,803,global
+Artificial Intelligence,large language,0.024963,0.0,inf,253,803,global
+Artificial Intelligence,open ai,0.018453,0.0,inf,253,803,global
+Artificial Intelligence,language model,0.016284,0.0,inf,253,803,global
+Artificial Intelligence,artificial intelligence,0.013995,0.0,inf,253,803,global
+Artificial Intelligence,learning models,0.013622,0.0,inf,253,803,global
+Artificial Intelligence,written chatgpt,0.012234,0.0,inf,253,803,global
+Artificial Intelligence,using chatgpt,0.011858,0.0,inf,253,803,global
+Artificial Intelligence,language models,0.011367,0.0,inf,253,803,global
+Artificial Intelligence,llm large,0.009739,0.0,inf,253,803,global
+Artificial Intelligence,ai machine,0.009414,0.0,inf,253,803,global
+Artificial Intelligence,like machine,0.008982,0.0,inf,253,803,global
+Artificial Intelligence,anthropic claude,0.007905,0.0,inf,253,803,global
+Artificial Intelligence,ask chatgpt,0.007905,0.0,inf,253,803,global
+Artificial Intelligence,chatgpt ai,0.007905,0.0,inf,253,803,global
+Artificial Intelligence,chatgpt pulse,0.007905,0.0,inf,253,803,global
+Artificial Intelligence,chatgpt told,0.007905,0.0,inf,253,803,global
+Artificial Intelligence,claude chatgpt,0.007905,0.0,inf,253,803,global
+Artificial Intelligence,openai anthropic,0.007905,0.0,inf,253,803,global
+Artificial Intelligence,pay chatgpt,0.007905,0.0,inf,253,803,global
+Climate Change,climate change,0.282847,0.0,inf,265,791,global
+Climate Change,global warming,0.197605,0.0,inf,265,791,global
+Climate Change,fossil fuels,0.146657,0.0,inf,265,791,global
+Climate Change,renewable energy,0.095047,0.0,inf,265,791,global
+Climate Change,fossil fuel,0.083433,0.0,inf,265,791,global
+Climate Change,carbon emissions,0.069169,0.0,inf,265,791,global
+Climate Change,energy sector,0.009324,0.0,inf,265,791,global
+Climate Change,fuel lobby,0.009232,0.0,inf,265,791,global
+Climate Change,considered renewable,0.008487,0.0,inf,265,791,global
+Climate Change,climate changes,0.007547,0.0,inf,265,791,global
+Climate Change,fossil gas,0.007547,0.0,inf,265,791,global
+Climate Change,energy storage,0.006923,0.0,inf,265,791,global
+Climate Change,solve climate,0.006711,0.0,inf,265,791,global
+Climate Change,warming lol,0.006561,0.0,inf,265,791,global
+Climate Change,fuels nuclear,0.006427,0.0,inf,265,791,global
+Climate Change,country renewable,0.0063,0.0,inf,265,791,global
+Climate Change,fuel plants,0.006241,0.0,inf,265,791,global
+Climate Change,fuel subsidies,0.006241,0.0,inf,265,791,global
+Climate Change,fuel usage,0.006241,0.0,inf,265,791,global
+Climate Change,reduce carbon,0.006135,0.0,inf,265,791,global
+Cryptocurrency,crypto currency,0.022059,0.0,inf,272,784,global
+Cryptocurrency,use case,0.015945,0.0,inf,272,784,global
+Cryptocurrency,buy bitcoin,0.013527,0.0,inf,272,784,global
+Cryptocurrency,bitcoin miners,0.011029,0.0,inf,272,784,global
+Cryptocurrency,like blockchain,0.010794,0.0,inf,272,784,global
+Cryptocurrency,applied cryptography,0.007353,0.0,inf,272,784,global
+Cryptocurrency,bitcoin mining,0.007353,0.0,inf,272,784,global
+Cryptocurrency,blockchain based,0.007353,0.0,inf,272,784,global
+Cryptocurrency,crypto grift,0.007353,0.0,inf,272,784,global
+Cryptocurrency,crypto web3,0.007353,0.0,inf,272,784,global
+Cryptocurrency,did ethereum,0.007353,0.0,inf,272,784,global
+Cryptocurrency,ethereum foundation,0.007353,0.0,inf,272,784,global
+Cryptocurrency,gold bitcoin,0.007353,0.0,inf,272,784,global
+Cryptocurrency,keys crypto,0.007353,0.0,inf,272,784,global
+Cryptocurrency,payment cryptocurrency,0.007353,0.0,inf,272,784,global
+Cryptocurrency,successful blockchain,0.007353,0.0,inf,272,784,global
+Cryptocurrency,think crypto,0.007353,0.0,inf,272,784,global
+Cryptocurrency,use blockchain,0.007353,0.0,inf,272,784,global
+Cryptocurrency,looks like,0.0061,0.004293,1.4208,272,784,global
+Cryptocurrency,like cryptocurrency,0.005852,0.0,inf,272,784,global
+Cybersecurity,data breach,0.06015,0.0,inf,266,790,global
+Cybersecurity,data breaches,0.058641,0.0,inf,266,790,global
+Cybersecurity,cyber attack,0.031283,0.0,inf,266,790,global
+Cybersecurity,ransomware attacks,0.015038,0.0,inf,266,790,global
+Cybersecurity,like ransomware,0.012731,0.0,inf,266,790,global
+Cybersecurity,install malware,0.011278,0.0,inf,266,790,global
+Cybersecurity,ransomware attack,0.011278,0.0,inf,266,790,global
+Cybersecurity,sounds like,0.008976,0.003606,2.4888,266,790,global
+Cybersecurity,apps malware,0.007519,0.0,inf,266,790,global
+Cybersecurity,cyber attacks,0.007519,0.0,inf,266,790,global
+Cybersecurity,cybersecurity company,0.007519,0.0,inf,266,790,global
+Cybersecurity,cybersecurity courses,0.007519,0.0,inf,266,790,global
+Cybersecurity,cybersecurity experts,0.007519,0.0,inf,266,790,global
+Cybersecurity,cybersecurity firms,0.007519,0.0,inf,266,790,global
+Cybersecurity,cybersecurity hygiene,0.007519,0.0,inf,266,790,global
+Cybersecurity,cybersecurity industry,0.007519,0.0,inf,266,790,global
+Cybersecurity,cybersecurity threat,0.007519,0.0,inf,266,790,global
+Cybersecurity,cybersecurity tools,0.007519,0.0,inf,266,790,global
+Cybersecurity,data privacy,0.007519,0.0,inf,266,790,global
+Cybersecurity,essentially malware,0.007519,0.0,inf,266,790,global

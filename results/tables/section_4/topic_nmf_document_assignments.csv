@@ -1,0 +1,1057 @@
+item_id,post_id,actual_topic,text_no_stopwords,model,dominant_latent_topic,dominant_topic_probability,latent_topic_0_prob,latent_topic_1_prob,latent_topic_2_prob,latent_topic_3_prob
+1,48763541,Artificial Intelligence,congrats guys does automated testing using chatgpt claude clients work,nmf,1,0.021516,0.000505,0.021516,0.017479,0.008197
+2,48760390,Artificial Intelligence,learn claude chatgpt just safe,nmf,1,0.025673,0.005325,0.025673,0.014316,0.009419
+3,48735814,Artificial Intelligence,didnt include chatgpt comparison chart tells lot,nmf,1,0.016033,8.8e-05,0.016033,0.015976,0.008284
+4,48726491,Artificial Intelligence,chatgpt 5 6,nmf,2,0.02678,0.0,0.025834,0.02678,0.013987
+5,48718328,Artificial Intelligence,blog post pretty pretty strong copy edited chatgpt vibes,nmf,1,0.010865,0.003407,0.010865,0.007789,0.004128
+6,48713069,Artificial Intelligence,sure claude chatgpt siemens deep resolve,nmf,2,0.013705,0.0,0.013615,0.013705,0.007726
+7,48699484,Artificial Intelligence,dear chatgpt patch hole sock,nmf,2,0.02678,0.0,0.025834,0.02678,0.013987
+8,48765367,Artificial Intelligence,veb openai shall dig auferstanden aus ruinen vinyl,nmf,2,0.022021,6e-06,0.015747,0.022021,0.016916
+9,48764961,Artificial Intelligence,related openai early talks 5 stake government,nmf,2,0.010113,0.002298,0.005092,0.010113,0.005326
+10,48759295,Artificial Intelligence,openai advantage mistake,nmf,2,0.022021,6e-06,0.015747,0.022021,0.016916
+11,48756530,Artificial Intelligence,does support azure openai aws bedrock models,nmf,1,0.023424,0.0,0.023424,0.016142,0.010986
+12,48753499,Artificial Intelligence,pretty openai vacation week,nmf,2,0.009823,0.003414,0.007326,0.009823,0.007507
+13,48752694,Artificial Intelligence,amusing openai good guy end,nmf,2,0.01539,0.007282,0.011384,0.01539,0.013006
+14,48752435,Artificial Intelligence,openai chinese firms bringing needed competition,nmf,2,0.007994,0.0,0.00462,0.007994,0.004851
+15,48572345,Artificial Intelligence,gen z hates ai according,nmf,1,0.050395,0.002083,0.050395,0.001475,0.0
+16,48321949,Artificial Intelligence,op article llm rewrite futurism article,nmf,0,0.006886,0.006886,0.00485,0.001645,0.000265
+17,47611583,Artificial Intelligence,banning ai programming just specifically large language models,nmf,1,0.062305,0.005348,0.062305,0.003363,0.002553
+18,48700545,Artificial Intelligence,machine learning layer cake brute force crumbs,nmf,1,0.20964,0.0,0.20964,0.0,0.0
+19,48690164,Artificial Intelligence,llms general category ai machine learning,nmf,1,0.24153,0.0,0.24153,0.0,0.0
+20,48677284,Artificial Intelligence,machine learning generative ai,nmf,1,0.285772,0.0,0.285772,0.0,0.0
+21,48473855,Artificial Intelligence,machine learning just security bug finding biology,nmf,1,0.164758,0.001762,0.164758,0.0,0.0
+22,48356265,Artificial Intelligence,isn funny term machine learning just completely vanished,nmf,1,0.168354,0.004848,0.168354,0.0,0.0
+23,47584847,Artificial Intelligence,openai testing ads,nmf,2,0.010549,0.0,0.006221,0.010549,0.00634
+24,47583990,Artificial Intelligence,free version chatgpt insanely crippled surprising,nmf,2,0.016427,0.0,0.015505,0.016427,0.005272
+25,47572315,Artificial Intelligence,openai chatgpt codex anthropic claude google gemini,nmf,2,0.015532,0.0,0.013009,0.015532,0.008914
+26,47572013,Artificial Intelligence,response sounds awful lot like chatgpt say,nmf,1,0.038952,0.001877,0.038952,0.018204,0.015257
+27,47556698,Artificial Intelligence,best definition chatgpt seen,nmf,1,0.014485,0.001163,0.014485,0.010041,0.004715
+28,47543775,Artificial Intelligence,refactoring stuff chatgpt usage,nmf,2,0.019515,0.0,0.009708,0.019515,0.015369
+29,47541456,Artificial Intelligence,just patterns cadence nice try chatgpt,nmf,1,0.022935,0.009544,0.022935,0.0178,0.008306
+30,47589965,Artificial Intelligence,open ai sitll pouring money oracle btw,nmf,1,0.039302,0.00254,0.039302,0.008541,0.0
+31,47577248,Artificial Intelligence,openai undergoing significant strategic pivot developing world models,nmf,1,0.015899,0.001077,0.015899,0.008049,0.013656
+32,47576402,Artificial Intelligence,openai,nmf,2,0.022021,6e-06,0.015747,0.022021,0.016916
+33,47575882,Artificial Intelligence,openai ip ranges known,nmf,2,0.010658,0.0,0.007549,0.010658,0.008131
+34,47570708,Artificial Intelligence,integrity openai basically oxymoron point,nmf,2,0.010057,0.0,0.006599,0.010057,0.007452
+35,47570210,Artificial Intelligence,fallout openai goes,nmf,1,0.011129,0.0,0.011129,0.010619,0.008341
+36,47430786,Artificial Intelligence,yea afraid ai atrophies brain,nmf,1,0.096148,0.004158,0.096148,0.002594,0.0
+37,47054845,Artificial Intelligence,llvm low level virtual machine llm large language model,nmf,1,0.08411,0.0,0.08411,0.0,0.001862
+38,47552815,Artificial Intelligence,llm logic weights derived machine learning,nmf,1,0.19101,0.0,0.19101,0.0,0.0
+39,47475499,Artificial Intelligence,finally machine learning model confirm lack self control,nmf,1,0.177002,0.001775,0.177002,0.0,0.0
+40,47306185,Artificial Intelligence,wait decision tree machine learning,nmf,1,0.278173,0.0,0.278173,0.0,0.0
+41,47255735,Artificial Intelligence,heard machine learning,nmf,1,0.282876,0.001825,0.282876,0.0,0.0
+42,47179507,Artificial Intelligence,does ai meant machine learning 2001,nmf,1,0.337324,0.0,0.337324,0.00138,0.001657
+43,47134171,Artificial Intelligence,translation main application applied language machine learning,nmf,1,0.172823,0.0,0.172823,0.0,0.0
+44,46729320,Artificial Intelligence,essentially manifold hypothesis machine learning right,nmf,1,0.193329,0.000745,0.193329,0.0,0.004003
+45,46626860,Artificial Intelligence,blog writes machine learning programing,nmf,1,0.278756,0.0,0.278756,0.0,0.0
+46,46449277,Artificial Intelligence,thanks letting know chatgpt told,nmf,3,0.01056,0.001056,0.009095,0.009686,0.01056
+47,46443858,Artificial Intelligence,like ai chat chatgpt ai chats interchangeable,nmf,1,0.088915,0.004494,0.088915,0.015028,0.009499
+48,46440286,Artificial Intelligence,did write comment chatgpt,nmf,2,0.017888,0.0,0.010253,0.017888,0.006492
+49,46431055,Artificial Intelligence,website optimized searches chatgpt gemini claude,nmf,2,0.011792,0.0,0.010645,0.011792,0.005789
+50,46428650,Artificial Intelligence,sounds like cookie cutter chatgpt reply,nmf,1,0.052275,0.00241,0.052275,0.023208,0.019492
+51,46427822,Artificial Intelligence,chatgpt told mcdonald,nmf,2,0.013855,0.0,0.013233,0.013855,0.007299
+52,46446488,Artificial Intelligence,training ai models investing ai companies openai,nmf,1,0.065913,0.003682,0.065913,0.008726,0.002813
+53,46444887,Artificial Intelligence,sure make openai stock liquid pretty easily,nmf,2,0.011342,0.003878,0.008771,0.011342,0.009692
+54,46443096,Artificial Intelligence,deepseek invested openai,nmf,2,0.011524,0.0,0.008618,0.011524,0.008602
+55,46442802,Artificial Intelligence,openais losses taxed earnings,nmf,0,0.0,0.0,0.0,0.0,0.0
+56,46442425,Artificial Intelligence,openai optimize future,nmf,3,0.017842,0.0,0.008135,0.010723,0.017842
+57,46439901,Artificial Intelligence,mathematically impossible openai promising citation needed,nmf,1,0.011112,0.0,0.011112,0.006212,0.004848
+58,46436211,Artificial Intelligence,openai way commercially successful,nmf,2,0.011125,0.00209,0.007833,0.011125,0.007495
+59,46393258,Artificial Intelligence,pluribus certainly commentary software machine learning models,nmf,1,0.207725,0.0,0.207725,0.0,0.0
+60,46329242,Artificial Intelligence,afaik enemies trained machine learning,nmf,1,0.265991,0.0,0.265991,0.0,0.0
+61,46090660,Artificial Intelligence,sounds awfully like machine learning doesn,nmf,1,0.263266,0.001798,0.263266,0.001768,0.004459
+62,45607623,Artificial Intelligence,translation moreso machine learning generative hallucinations chatbot,nmf,1,0.218372,0.0,0.218372,0.0,0.0
+63,45593096,Artificial Intelligence,actual machine learning yesterday hype today humility,nmf,1,0.186193,0.0,0.186193,0.0,0.0
+64,45431199,Artificial Intelligence,just ask chatgpt design airplane easy,nmf,1,0.022927,0.006915,0.022927,0.01087,0.007347
+65,45422816,Artificial Intelligence,chatgpt pulse solves,nmf,2,0.013238,0.0,0.013172,0.013238,0.006869
+66,45422225,Artificial Intelligence,sounds bit similar chatgpt pulse,nmf,1,0.028492,0.00118,0.028492,0.009375,0.005162
+67,45421206,Artificial Intelligence,fact remains chatgpt did claude did,nmf,2,0.01763,0.001172,0.00846,0.01763,0.005018
+68,45416172,Artificial Intelligence,curious chatgpt5 chatgpt5 codex,nmf,2,0.000409,0.0,0.00032,0.000409,0.000234
+69,45411073,Artificial Intelligence,chatgpt invent love creativity,nmf,2,0.015494,0.0,0.013687,0.015494,0.012241
+70,45421135,Artificial Intelligence,thought openai campaigned real hard,nmf,2,0.018655,0.0,0.004917,0.018655,0.00859
+71,45400284,Artificial Intelligence,seven op referred openai anthropic,nmf,2,0.008321,1e-06,0.006084,0.008321,0.005753
+72,45400204,Artificial Intelligence,openai anthropic day job,nmf,2,0.009824,0.0,0.0068,0.009824,0.006074
+73,45398258,Artificial Intelligence,ironic crawler openai,nmf,2,0.012665,0.0,0.007298,0.012665,0.007884
+74,45375856,Artificial Intelligence,watch meta openai going eat lunch,nmf,3,0.014639,0.0,0.005621,0.006907,0.014639
+75,44800370,Artificial Intelligence,gpt oss models reportedly hosted huggingface,nmf,1,0.017826,0.0,0.017826,0.00041,0.000654
+76,45365864,Artificial Intelligence,doesn zama homomorphic machine learning product,nmf,1,0.239155,0.0,0.239155,0.0,0.0
+77,45197881,Artificial Intelligence,means exactly machine learning researcher,nmf,1,0.190925,0.0,0.190925,0.0,0.0
+78,45178989,Artificial Intelligence,eda chip design uses machine learning,nmf,1,0.20991,0.0,0.20991,0.0,0.0
+79,44970346,Artificial Intelligence,context sharing heuristic transformers machine learning promising,nmf,1,0.213142,0.0,0.213142,0.0,0.0
+80,44851673,Artificial Intelligence,positronic neural network outperforms machine learning used today headduck,nmf,1,0.196494,0.0,0.196494,0.0,0.0
+81,44851461,Artificial Intelligence,machine learning street talk interview team,nmf,1,0.218808,0.0,0.218808,0.0,0.0
+82,44723447,Artificial Intelligence,machine learning 20 programming 30 math 50 demon summoning,nmf,1,0.1588,0.0,0.1588,0.0,0.0
+83,44425382,Artificial Intelligence,kind chatgpt psychosis,nmf,1,0.020921,0.0,0.020921,0.017626,0.013853
+84,44417064,Artificial Intelligence,think chatgpt got information,nmf,1,0.018261,0.001332,0.018261,0.018141,0.015337
+85,44415378,Artificial Intelligence,pushing pure chatgpt authored blog posts,nmf,1,0.015784,0.0,0.015784,0.009201,0.004787
+86,44406376,Artificial Intelligence,feel like article written chatgpt,nmf,1,0.024037,0.005698,0.024037,0.014312,0.011754
+87,44399707,Artificial Intelligence,discussion chatgpt enterprise success copilot fuels openai microsoft rivalry,nmf,2,0.085008,0.000603,0.008594,0.085008,0.005826
+88,44397874,Artificial Intelligence,big fan deferring morality chatgpt ai,nmf,1,0.046408,0.001352,0.046408,0.010699,0.004006
+89,44384224,Artificial Intelligence,link adrafinil utm source chatgpt com,nmf,2,0.01615,0.0,0.008354,0.01615,0.004199
+90,44379906,Artificial Intelligence,believe talking openai api chatgpt,nmf,2,0.018693,0.005524,0.018133,0.018693,0.017554
+91,44419960,Artificial Intelligence,open does mean open source anymore thanks openai,nmf,2,0.018676,0.0,0.012831,0.018676,0.00835
+92,44403801,Artificial Intelligence,deepseek published thinking trace openai did,nmf,2,0.014816,0.0,0.006603,0.014816,0.006586
+93,44403237,Artificial Intelligence,difficulties accessing openai data provider,nmf,1,0.015278,4.3e-05,0.015278,0.010434,0.007651
+94,44398204,Artificial Intelligence,corporations really comfortable dumping data files openai,nmf,1,0.009948,4.2e-05,0.009948,0.007886,0.005404
+95,44384052,Artificial Intelligence,don claude open ai models,nmf,1,0.053797,0.004412,0.053797,0.006718,0.009944
+96,44384049,Artificial Intelligence,idea openai execution failed let anthropic attempt,nmf,2,0.010768,0.0,0.005246,0.010768,0.007619
+97,43741101,Artificial Intelligence,refuse use ai artificial intelligence enables encourages natural stupidity,nmf,1,0.04077,0.003413,0.04077,0.004017,0.000736
+98,44227189,Artificial Intelligence,search large language model instead llm,nmf,1,0.013207,0.000672,0.013207,0.005104,0.000209
+99,44418102,Artificial Intelligence,thankfully satellites machine learning dark days,nmf,1,0.215501,0.0,0.215501,0.0,0.0
+100,44364976,Artificial Intelligence,opt sync self hosted server machine learning probably similar,nmf,1,0.151887,0.00108,0.151887,0.0,0.0
+101,44309408,Artificial Intelligence,zero yurts mongolia using machine learning,nmf,1,0.258207,0.0,0.258207,0.0,0.0
+102,44276415,Artificial Intelligence,entirety machine learning fits just,nmf,1,0.347705,0.004081,0.347705,0.0,0.0
+103,44095286,Artificial Intelligence,similar repo machine learning ai,nmf,1,0.303758,0.0,0.303758,0.0,0.0
+104,44085871,Artificial Intelligence,zealous autoconfig learning captcha,nmf,1,0.306177,0.0,0.306177,0.0,0.0
+105,44075459,Artificial Intelligence,generalization formal concept machine learning measurable,nmf,1,0.268868,0.0,0.268868,0.0,0.0
+106,44029009,Artificial Intelligence,works using machine learning thebtopic,nmf,1,0.242524,0.0,0.242524,4e-05,0.0
+107,43540791,Artificial Intelligence,article says chatgpt doesn include users api,nmf,1,0.017863,0.004758,0.017863,0.011733,0.004287
+108,43538532,Artificial Intelligence,chinese unable visit chatgpt,nmf,2,0.015995,0.0,0.013189,0.015995,0.007346
+109,43534845,Artificial Intelligence,building quickest ai chrome extension 700k downloads,nmf,1,0.032921,0.001358,0.032921,0.004175,0.0
+110,43523937,Artificial Intelligence,don ask chatgpt,nmf,3,0.019644,0.004061,0.014011,0.01585,0.019644
+111,43511008,Artificial Intelligence,pay chatgpt pay,nmf,2,0.008331,0.0,0.007479,0.008331,0.004352
+112,43506960,Artificial Intelligence,emdashes rise thanks people copying pasting chatgpt,nmf,2,0.016173,0.003724,0.013644,0.016173,0.010768
+113,43502563,Artificial Intelligence,people said chatgpt released,nmf,2,0.021254,0.002856,0.010228,0.021254,0.008033
+114,43539535,Artificial Intelligence,don believe openai provides premise serving,nmf,3,0.028248,0.008684,0.008719,0.013009,0.028248
+115,43524234,Artificial Intelligence,wrong openai customer noncompete,nmf,3,0.014098,0.008479,0.007895,0.01118,0.014098
+116,43518664,Artificial Intelligence,feel comfortable uploading family images openai servers,nmf,2,0.006375,2.9e-05,0.004628,0.006375,0.004275
+117,43516422,Artificial Intelligence,line openai 157b anthropic 61b,nmf,2,0.009745,0.0,0.007078,0.009745,0.006986
+118,43511245,Artificial Intelligence,sam altman doesn openai reddit lol,nmf,3,0.018103,0.002161,0.014169,0.010943,0.018103
+119,43507222,Artificial Intelligence,anthropic doing open ai work ghibli ai images company,nmf,1,0.052248,0.001933,0.052248,0.005602,0.0
+120,43490774,Artificial Intelligence,openai making announcements good,nmf,3,0.024873,0.007446,0.011515,0.018132,0.024873
+121,43489492,Artificial Intelligence,openai wrong tool thing,nmf,3,0.020313,0.007699,0.007503,0.00806,0.020313
+122,43055324,Artificial Intelligence,coverage meta plans investments ai driven humanoid robots,nmf,1,0.037915,0.0013,0.037915,0.001117,0.0
+123,42889554,Artificial Intelligence,small llm means small large language model,nmf,1,0.012849,0.000533,0.012849,0.000107,0.000399
+124,43538240,Artificial Intelligence,ai prompt engineering machine learning,nmf,1,0.280869,0.000834,0.280869,0.0,0.0
+125,43411257,Artificial Intelligence,machine learning pro version prejudice,nmf,1,0.227517,0.0,0.227517,0.0,0.0
+126,43321983,Artificial Intelligence,kevin murphy racing rename probabilistic machine learning series,nmf,1,0.211647,0.0,0.211647,0.0,0.0
+127,43317314,Artificial Intelligence,especially ai machine learning stack experts,nmf,1,0.248293,0.0006,0.248293,0.0,0.0
+128,43244871,Artificial Intelligence,profile guided optimization profiles machine learning approach,nmf,1,0.272707,0.0,0.272707,0.0,0.0
+129,43177980,Artificial Intelligence,statistical regression machine learning,nmf,1,0.268872,0.0,0.268872,0.0,0.0
+130,43164870,Artificial Intelligence,implemented sort machine learning,nmf,1,0.265228,0.001961,0.265228,0.0,0.0
+131,42559688,Artificial Intelligence,deepseek like lots models trained using chatgpt input output pairs,nmf,1,0.042184,0.002067,0.042184,0.01598,0.009293
+132,42548116,Artificial Intelligence,chatgpt generate lists use cases,nmf,2,0.022092,0.0,0.021018,0.022092,0.011633
+133,42546904,Artificial Intelligence,facebook chatgpt opposite kinds products,nmf,1,0.015186,0.0,0.015186,0.015104,0.008203
+134,42544502,Artificial Intelligence,pay chatgpt teams easier better,nmf,2,0.020945,0.001174,0.009742,0.020945,0.012691
+135,42561466,Artificial Intelligence,makes wonder openai moat,nmf,2,0.008981,0.0,0.005424,0.008981,0.006076
+136,42551167,Artificial Intelligence,zero faith openai respects attempts block scrapers,nmf,1,0.01657,0.0,0.01657,0.008506,0.006443
+137,42545494,Artificial Intelligence,sorry does openai tech moat,nmf,2,0.015614,0.001377,0.014221,0.015614,0.012835
+138,42536219,Artificial Intelligence,wrong openai working conditions,nmf,3,0.009173,0.005222,0.005439,0.007718,0.009173
+139,42536143,Artificial Intelligence,gov bed openai,nmf,2,0.022021,6e-06,0.015747,0.022021,0.016916
+140,42536121,Artificial Intelligence,hope seriously investigate openai working conditions,nmf,2,0.007712,8.2e-05,0.005814,0.007712,0.005938
+141,42529485,Artificial Intelligence,ms preparing fallback plan openai,nmf,2,0.010136,0.0,0.005731,0.010136,0.00607
+142,42526100,Artificial Intelligence,o1 o3 new models openai,nmf,1,0.026619,0.0,0.026619,0.017902,0.011979
+143,42480012,Artificial Intelligence,llm large language model language,nmf,1,0.016372,0.000672,0.016372,0.0,0.00025
+144,42363586,Artificial Intelligence,machine learning solutions somewhat similar self modifying code,nmf,1,0.166084,0.001718,0.166084,0.0,0.0
+145,42345948,Artificial Intelligence,lora low rank adaptation technique efficiently finetuning machine learning models,nmf,1,0.2596,0.0,0.2596,0.0,0.000267
+146,42322121,Artificial Intelligence,machine learning ai subset definition,nmf,1,0.245635,0.0,0.245635,0.0,0.0
+147,42280984,Artificial Intelligence,congratulations machine learning communities online,nmf,1,0.216829,0.0,0.216829,0.0,0.0
+148,42256754,Artificial Intelligence,machine learning equal human infant development stop,nmf,1,0.215893,0.001425,0.215893,0.0,0.0
+149,42155892,Artificial Intelligence,sounds like failure mode machine learning,nmf,1,0.207774,0.001741,0.207774,0.0,0.003476
+150,42150649,Artificial Intelligence,used youtube api machine learning,nmf,1,0.24081,0.0,0.24081,0.0,0.0
+151,41702096,Artificial Intelligence,exactly feed apology chatgpt ask,nmf,1,0.01763,0.0,0.01763,0.01367,0.006309
+152,41697025,Artificial Intelligence,really citing chatgpt comments,nmf,3,0.012118,0.0,0.010933,0.011485,0.012118
+153,41693058,Artificial Intelligence,summary site looks like chatgpt,nmf,1,0.029142,0.001965,0.029142,0.017237,0.02017
+154,41692479,Artificial Intelligence,openai coo says chatgpt passed 11 million paying subscribers,nmf,2,0.01535,0.0,0.012554,0.01535,0.011069
+155,41691802,Artificial Intelligence,chatgpt verilog analysis debugging generation,nmf,2,0.015813,0.0,0.0134,0.015813,0.004844
+156,41684910,Artificial Intelligence,chatgpt search engine,nmf,2,0.015719,0.0,0.0139,0.015719,0.00746
+157,41677984,Artificial Intelligence,ummm played chatgpt new voice mode,nmf,2,0.019353,0.0,0.015644,0.019353,0.00966
+158,41701192,Artificial Intelligence,just taking guess openai wanted trillion valuation,nmf,1,0.018607,0.005062,0.018607,0.016749,0.014234
+159,41692438,Artificial Intelligence,openai 10m paying customers according,nmf,2,0.00836,0.0,0.008173,0.00836,0.006338
+160,41685831,Artificial Intelligence,openai promised remain open forever,nmf,2,0.015193,0.0,0.013587,0.015193,0.009425
+161,41684990,Artificial Intelligence,gpt4o unrealistic scale openai isn making profit running,nmf,3,0.014348,0.004854,0.005778,0.011199,0.014348
+162,41682467,Artificial Intelligence,nvidia triton predates openai years,nmf,3,0.019989,0.0,0.009054,0.007822,0.019989
+163,41677914,Artificial Intelligence,deepmind producing science vapourware openai changing world,nmf,3,0.012639,0.005078,0.008042,0.009536,0.012639
+164,41673789,Artificial Intelligence,openai left,nmf,2,0.022021,6e-06,0.015747,0.022021,0.016916
+165,41682067,Artificial Intelligence,machine learning people thing triton challenge impossible,nmf,1,0.175925,0.002493,0.175925,0.0,0.003495
+166,41624919,Artificial Intelligence,like machine learning street talk discord server,nmf,1,0.193791,0.0,0.193791,0.0,0.001562
+167,41438315,Artificial Intelligence,austin texas python data analysis machine learning,nmf,1,0.212289,0.0,0.212289,0.0,0.0
+168,41230072,Artificial Intelligence,kind ai machine learning used,nmf,1,0.261245,0.0,0.261245,0.0,0.0
+169,41203134,Artificial Intelligence,does work data science machine learning,nmf,1,0.21256,0.000805,0.21256,0.001302,0.004996
+170,41065134,Artificial Intelligence,academic outcomes resist machine learning,nmf,1,0.422955,0.0,0.422955,0.0,0.0
+171,40841166,Artificial Intelligence,chatgpt good replacement seo experts,nmf,1,0.021922,0.003905,0.021922,0.017765,0.01211
+172,40839264,Artificial Intelligence,did asked chatgpt lol,nmf,3,0.017999,0.0,0.010388,0.017686,0.017999
+173,40813371,Artificial Intelligence,hopefully quality translations improve deepl chatgpt,nmf,2,0.013216,0.0,0.012964,0.013216,0.006868
+174,40810145,Artificial Intelligence,contra chatgpt characterization mohammedanism submission xhaxha,nmf,2,0.02678,0.0,0.025834,0.02678,0.013987
+175,40807992,Artificial Intelligence,chatgpt says capacity pro think,nmf,2,0.019782,0.001402,0.016289,0.019782,0.009285
+176,40796141,Artificial Intelligence,100 asked chatgpt write comment,nmf,2,0.009357,0.0,0.008163,0.009357,0.005049
+177,40774885,Artificial Intelligence,tired posts written chatgpt,nmf,1,0.01247,0.0,0.01247,0.012038,0.006564
+178,40765626,Artificial Intelligence,chatgpt run away cat,nmf,2,0.010777,0.0,0.010254,0.010777,0.00564
+179,40826675,Artificial Intelligence,agi eventually comes openai starting doubt,nmf,2,0.010877,0.003855,0.007767,0.010877,0.008195
+180,40819879,Artificial Intelligence,openai track shipping,nmf,2,0.009949,0.0,0.006262,0.009949,0.005936
+181,40807483,Artificial Intelligence,soon does require openai good,nmf,2,0.019915,0.00294,0.018,0.019915,0.017146
+182,40806902,Artificial Intelligence,presumably anthropic claude openai gpt google deepmind gemini,nmf,2,0.00839,0.0,0.006248,0.00839,0.005053
+183,40802916,Artificial Intelligence,update 5k requests minute openai right,nmf,2,0.020992,0.00584,0.01398,0.020992,0.00935
+184,40795462,Artificial Intelligence,openai got exposure did meta ask return,nmf,2,0.01611,0.0,0.012089,0.01611,0.011519
+185,40777981,Artificial Intelligence,openai transformation research lab typical product company complete,nmf,1,0.009541,0.00501,0.009541,0.006559,0.004657
+186,40755392,Artificial Intelligence,ai artificial yes intelligence hell,nmf,1,0.043428,0.003894,0.043428,0.008736,0.0
+187,39924872,Artificial Intelligence,official term ai 2 0 double artificial zero intelligence,nmf,1,0.037401,0.001022,0.037401,0.001107,0.001387
+188,39904589,Artificial Intelligence,just openai reconfirming commitment closed artificial intelligence,nmf,1,0.022949,0.004644,0.022949,0.009161,0.011287
+189,40732238,Artificial Intelligence,worked machine learning got rebranded ai,nmf,1,0.307533,0.0,0.307533,0.0,0.0
+190,40690548,Artificial Intelligence,great target machine learning driven automation,nmf,1,0.226753,0.0,0.226753,0.0,0.0
+191,40640302,Artificial Intelligence,love use machinelearning apple com ai apple com,nmf,1,0.020659,0.000727,0.020659,0.004458,0.002204
+192,40614395,Artificial Intelligence,result machine learning,nmf,1,0.422955,0.0,0.422955,0.0,0.0
+193,40612280,Artificial Intelligence,consider llms machine learning,nmf,1,0.221627,0.0,0.221627,0.0,0.0
+194,40598145,Artificial Intelligence,necessarily machine learning make accidents faster,nmf,1,0.189431,0.0,0.189431,0.0,0.0
+195,39881096,Artificial Intelligence,think good chance chatgpt,nmf,2,0.027542,0.006803,0.021892,0.027542,0.019908
+196,39858199,Artificial Intelligence,maybe use chatgpt make make sense,nmf,2,0.017461,0.004292,0.013841,0.017461,0.010236
+197,39850821,Artificial Intelligence,chatgpt better day trading probably,nmf,2,0.020185,0.001569,0.010967,0.020185,0.011755
+198,39841862,Artificial Intelligence,copilot gpt 4 free,nmf,2,0.005944,0.0,0.001018,0.005944,7.9e-05
+199,39834432,Artificial Intelligence,page reads like written chatgpt,nmf,1,0.022762,0.001607,0.022762,0.014076,0.011412
+200,39834096,Artificial Intelligence,chatgpt puh leeze posts like,nmf,1,0.033583,0.002324,0.033583,0.019799,0.016656
+201,39834089,Artificial Intelligence,aware chatgpt4 json mode,nmf,1,0.00429,0.0,0.00429,0.002306,0.000383
+202,39878089,Artificial Intelligence,agree openai tarpit project years,nmf,3,0.020921,0.002007,0.004863,0.008711,0.020921
+203,39875323,Artificial Intelligence,thought openai huge stickler office work,nmf,1,0.009523,0.0,0.009523,0.009467,0.006048
+204,39874312,Artificial Intelligence,doesn fine tuning models gpt 4 output violate openai terms service,nmf,1,0.020979,0.002482,0.020979,0.007506,0.007378
+205,39867755,Artificial Intelligence,openai tts competitively priced 15 1m chars,nmf,3,0.02128,0.0,0.008201,0.010763,0.02128
+206,39847676,Artificial Intelligence,probably openai running azure convoluted,nmf,2,0.010655,0.000573,0.007431,0.010655,0.009503
+207,39825078,Artificial Intelligence,openai lured away google way higher pay,nmf,2,0.008742,0.001315,0.005386,0.008742,0.005161
+208,39594291,Artificial Intelligence,machine learning artificial intelligence just look wikipedia,nmf,1,0.176041,0.004388,0.176041,0.000419,0.0
+209,38830941,Artificial Intelligence,ai broad definition,nmf,1,0.060587,0.002141,0.060587,0.002364,0.0
+210,39304797,Artificial Intelligence,small llm small large language model lol,nmf,1,0.011488,0.000491,0.011488,0.000811,0.007819
+211,39865855,Artificial Intelligence,look forward inevitable probabilistic sub bit machine learning models,nmf,1,0.168676,0.0,0.168676,0.0,0.0
+212,39674036,Artificial Intelligence,machine learning models convolutions mark words,nmf,1,0.243016,0.0,0.243016,0.0,0.0
+213,39638352,Artificial Intelligence,river online machine learning python,nmf,1,0.220743,0.0,0.220743,0.0,0.0
+214,39599865,Artificial Intelligence,machine learning subset ai,nmf,1,0.286234,0.0,0.286234,0.0,0.0
+215,38824639,Artificial Intelligence,topic control chatgpt like models explained,nmf,1,0.046407,0.001727,0.046407,0.016233,0.014174
+216,38822744,Artificial Intelligence,mark did good video chatgpt infra 1,nmf,2,0.021934,0.003156,0.019557,0.021934,0.01088
+217,38822261,Artificial Intelligence,chatgpt3 5 good enought context query,nmf,1,0.01099,0.004459,0.01099,0.006575,0.006776
+218,38822215,Artificial Intelligence,article reads like written chatgpt,nmf,1,0.024307,0.0057,0.024307,0.014436,0.011866
+219,38820491,Artificial Intelligence,chatgpt nice 5x speedup,nmf,2,0.02145,0.0,0.013956,0.02145,0.007335
+220,38801459,Artificial Intelligence,building lol tiktok just got caught stealing chatgpt,nmf,1,0.026801,0.004363,0.026801,0.016541,0.024172
+221,38801350,Artificial Intelligence,comment generated chatgpt,nmf,1,0.01067,0.0,0.01067,0.010667,0.005459
+222,38799059,Artificial Intelligence,finding information perplexity better chatgpt,nmf,2,0.01977,0.001077,0.011558,0.01977,0.012356
+223,38815248,Artificial Intelligence,isn openai distributing content apps,nmf,2,0.014803,0.004942,0.008869,0.014803,0.007675
+224,38785119,Artificial Intelligence,json mode function calling json schema openai api,nmf,1,0.008677,0.0,0.008677,0.008543,0.00364
+225,38782171,Artificial Intelligence,significant differences attribution snippetting openai probably claim,nmf,2,0.008822,0.000598,0.007271,0.008822,0.006162
+226,38773902,Artificial Intelligence,new click bait openai negativity,nmf,2,0.022285,0.0,0.010153,0.022285,0.014383
+227,38761563,Artificial Intelligence,wow late join openai,nmf,2,0.010393,0.00284,0.005812,0.010393,0.006105
+228,38754452,Artificial Intelligence,people finally realize openai privacy nightmare,nmf,2,0.011249,0.003148,0.010364,0.011249,0.00939
+229,38317215,Artificial Intelligence,openai non profit artificial intelligence research company noreferrer,nmf,1,0.010015,0.004165,0.010015,0.006921,0.004032
+230,38657666,Artificial Intelligence,large language models referred gpt models lol,nmf,1,0.025354,0.0,0.025354,0.001302,0.008954
+231,38481360,Artificial Intelligence,turn large language model llm weights executables,nmf,1,0.016897,0.000762,0.016897,0.0,0.0001
+232,38245544,Artificial Intelligence,openai does monopoly large language models,nmf,1,0.036622,0.0,0.036622,0.015535,0.013469
+233,38110552,Artificial Intelligence,birth ai llm large language models,nmf,1,0.059629,0.00118,0.059629,0.001204,0.0
+234,37924839,Artificial Intelligence,course llama derived llm large language model,nmf,1,0.015431,0.000732,0.015431,0.002785,4.6e-05
+235,38777114,Artificial Intelligence,huh sounds exactly like machine learning overfitting vs generalization,nmf,1,0.190492,0.001423,0.190492,0.000355,0.002701
+236,38730978,Artificial Intelligence,fusion reactors zero knowledge proofs machine learning,nmf,1,0.230969,0.0,0.230969,0.0,0.0
+237,38678813,Artificial Intelligence,machine learning fluid dynamics playlist steve brunton,nmf,1,0.265159,0.0,0.265159,0.0,0.0
+238,38585936,Artificial Intelligence,aren current machine learning approaches statistical approaches using bayesian estimation,nmf,1,0.182153,5.3e-05,0.182153,0.006061,0.0
+239,38585640,Artificial Intelligence,like think good game machine learning,nmf,1,0.214487,0.004188,0.214487,0.007384,0.011319
+240,37720359,Artificial Intelligence,thats probably chatgpt pretty good,nmf,2,0.017427,0.007363,0.016962,0.017427,0.012167
+241,37718524,Artificial Intelligence,reason chatgpt disrupt google search,nmf,2,0.015675,0.0,0.008118,0.015675,0.004103
+242,37712585,Artificial Intelligence,chatgpt pretty decent,nmf,2,0.016367,0.004452,0.015381,0.016367,0.009018
+243,37695136,Artificial Intelligence,chatgpt style workflow pcbs horizon,nmf,2,0.02678,0.0,0.025834,0.02678,0.013987
+244,37693558,Artificial Intelligence,seen anybody refer chatgpt code codegen,nmf,1,0.011014,0.001099,0.011014,0.010798,0.004946
+245,37681016,Artificial Intelligence,day using chatgpt,nmf,1,0.02415,0.00134,0.02415,0.021643,0.005634
+246,37695952,Artificial Intelligence,whisper openai works great,nmf,2,0.017753,0.00225,0.016077,0.017753,0.005674
+247,37693322,Artificial Intelligence,open ai api using read pdfs,nmf,1,0.048263,0.002407,0.048263,0.008811,0.0
+248,37681764,Artificial Intelligence,openai crawlers really paid attention people robots txts,nmf,2,0.01065,0.002822,0.007892,0.01065,0.00901
+249,37676648,Artificial Intelligence,openai employees unloading moment peak ai hype,nmf,1,0.039189,0.001255,0.039189,0.007618,0.004018
+250,37674094,Artificial Intelligence,ask openai higher limits,nmf,2,0.007645,0.004094,0.005661,0.007645,0.005809
+251,37662846,Artificial Intelligence,openai offers different llms,nmf,1,0.01484,0.0,0.01484,0.008833,0.006299
+252,37660988,Artificial Intelligence,quora boss seats open ai board,nmf,1,0.036606,0.001332,0.036606,0.003107,0.0
+253,37658835,Artificial Intelligence,quora ceo openai board,nmf,2,0.007888,0.0,0.007003,0.007888,0.005947
+254,48741668,Cryptocurrency,obvious falsehood bitcoin ai,nmf,1,0.054404,0.002021,0.054404,0.007237,0.005431
+255,48718296,Cryptocurrency,ethereum believe bitcoin sold lot gpus,nmf,2,0.013039,0.002932,0.008949,0.013039,0.01184
+256,48699643,Cryptocurrency,2016 harddrive bitcoins 2026 harddrive bitcoins,nmf,1,0.000934,7.7e-05,0.000934,0.000746,0.00089
+257,48694469,Cryptocurrency,does owning bitcoins let run powerful llm,nmf,1,0.010481,0.0,0.010481,0.010075,0.008112
+258,48649214,Cryptocurrency,faster increasing block size limit bitcoin,nmf,1,0.008345,0.0,0.008345,0.003912,0.004696
+259,48645097,Cryptocurrency,course include bitcoin right right,nmf,2,0.016048,0.005386,0.010199,0.016048,0.004269
+260,48643025,Cryptocurrency,global stock market outperforming bitcoin,nmf,3,0.151013,0.0,0.004143,0.001635,0.151013
+261,48716026,Cryptocurrency,ethereum mining,nmf,2,0.006111,8.9e-05,0.004584,0.006111,0.003738
+262,48646134,Cryptocurrency,migration certain prominent projects underway e g ethereum,nmf,2,0.006174,4.7e-05,0.002505,0.006174,0.001812
+263,48501229,Cryptocurrency,especially asking ethereum,nmf,2,0.006956,0.004864,0.00691,0.006956,0.001732
+264,48660732,Cryptocurrency,let forget cryptocurrency play libra,nmf,2,0.006845,0.002066,0.002692,0.006845,0.004262
+265,48655511,Cryptocurrency,crypto short cryptography context cryptocurrency,nmf,1,0.010379,0.000197,0.010379,0.00544,0.004404
+266,48648998,Cryptocurrency,happened facebook cryptocurrency,nmf,1,0.005243,0.000192,0.005243,0.004761,0.003139
+267,48648738,Cryptocurrency,just directed cats make cryptocurrency,nmf,1,0.025375,0.008961,0.025375,0.012626,0.007421
+268,48643097,Cryptocurrency,cryptocurrency long people using marketing,nmf,2,0.016907,0.004189,0.015311,0.016907,0.005074
+269,48585856,Cryptocurrency,anubis cryptocurrency miner,nmf,1,0.008783,0.000319,0.008783,0.008567,0.005362
+270,48512703,Cryptocurrency,good thing corrupt gerontocrats cryptocurrency,nmf,3,0.015854,0.007649,0.012663,0.011833,0.015854
+271,48767484,Cryptocurrency,cryptography engineers excluded lazy sysadmins,nmf,1,0.001355,2.7e-05,0.001355,0.000366,0.000175
+272,48750846,Cryptocurrency,conceptually sure crypto really,nmf,1,0.005938,0.000212,0.005938,0.005326,0.005207
+273,48749527,Cryptocurrency,io research active field cryptography,nmf,0,0.005373,0.005373,0.001764,0.000889,4.5e-05
+274,48743652,Cryptocurrency,cryptography example essentially math cs,nmf,1,0.004979,0.0,0.004979,0.002041,0.0
+275,48743512,Cryptocurrency,crypto know money really,nmf,3,0.009363,0.002463,0.004816,0.008644,0.009363
+276,48738705,Cryptocurrency,explain crypto money russian bribes,nmf,2,0.010839,0.00098,0.003466,0.010839,0.005625
+277,48738306,Cryptocurrency,fascists promote crypto values fucked,nmf,1,0.009655,0.000212,0.009655,0.007072,0.007131
+278,48749831,Cryptocurrency,blockchain developers thing,nmf,1,0.012877,0.002805,0.012877,0.009207,0.010028
+279,48682441,Cryptocurrency,author better read blockchains ai safety,nmf,1,0.037569,0.002837,0.037569,0.012307,0.006902
+280,48662488,Cryptocurrency,long island iced tea famous blockchain technology,nmf,2,0.017352,0.0,0.014252,0.017352,0.005053
+281,48647899,Cryptocurrency,cdbc doesn necessarily imply blockchain just payments,nmf,1,0.029394,0.006606,0.029394,0.010611,0.006113
+282,48569615,Cryptocurrency,worse blockchain,nmf,1,0.011854,0.003008,0.011854,0.008975,0.004238
+283,48509350,Cryptocurrency,itt hacker news rebuilds blockchain scratch,nmf,1,0.010424,0.0,0.010424,0.007909,0.003604
+284,48488051,Cryptocurrency,store indices blockchain,nmf,1,0.012007,0.0,0.012007,0.009165,0.004495
+285,48417368,Cryptocurrency,payment systems centralized blockchain based ones,nmf,2,0.016172,0.0,0.007023,0.016172,0.002641
+286,47547336,Cryptocurrency,hey claude research write paper breaking bitcoin,nmf,0,0.006258,0.006258,0.005914,0.005341,0.004827
+287,47541758,Cryptocurrency,unfortunately bitcoins don leak storage tanks,nmf,3,0.008514,0.002612,0.001543,0.003309,0.008514
+288,47541748,Cryptocurrency,energy buy bitcoin 2011,nmf,2,0.031124,0.00153,0.007738,0.031124,0.008211
+289,47527660,Cryptocurrency,euro gold bitcoin currency baskets,nmf,1,0.009617,1.4e-05,0.009617,0.005601,0.006645
+290,47460751,Cryptocurrency,late bitcoin buy,nmf,2,0.009201,7.8e-05,0.007527,0.009201,0.007381
+291,47455359,Cryptocurrency,opinion opinion really relevant bitcoin,nmf,1,0.004592,1.8e-05,0.004592,0.003863,0.004242
+292,47454674,Cryptocurrency,bitcoin white paper released 2008,nmf,1,0.005989,8.7e-05,0.005989,0.005027,0.005648
+293,47454630,Cryptocurrency,bitcoin didn win didn win useless,nmf,3,0.010986,0.0,0.00321,0.004071,0.010986
+294,47593311,Cryptocurrency,ethereum new site pq research,nmf,2,0.010301,0.006077,0.0045,0.010301,0.005653
+295,47364722,Cryptocurrency,ethereum classic ethereum matter clear,nmf,2,0.005832,0.001474,0.003848,0.005832,0.002743
+296,46932393,Cryptocurrency,ethereum similar ewaste problem,nmf,1,0.014657,0.002527,0.014657,0.007281,0.004884
+297,46799545,Cryptocurrency,gas transaction fees ethereum fitting,nmf,2,0.009751,1.2e-05,0.002886,0.009751,0.002144
+298,47531362,Cryptocurrency,cryptocurrency gambling,nmf,2,0.004754,0.000175,0.004698,0.004754,0.002922
+299,47381059,Cryptocurrency,libra cryptocurrency project example,nmf,2,0.003259,0.000112,0.003199,0.003259,0.002289
+300,47131387,Cryptocurrency,currency cryptocurrency lie,nmf,1,0.006135,0.000212,0.006135,0.005857,0.004098
+301,47127822,Cryptocurrency,depends cryptocurrency used doesn,nmf,1,0.02689,0.002765,0.02689,0.011449,0.00218
+302,47097738,Cryptocurrency,imagine proof space cryptocurrency encouraged archiving long tail data,nmf,1,0.009526,8.3e-05,0.009526,0.008237,0.00251
+303,47081062,Cryptocurrency,isn brave web browser based idea using cryptocurrency,nmf,2,0.0173,0.003582,0.011108,0.0173,0.002061
+304,46917869,Cryptocurrency,alternative explanation cryptocurrency actually true,nmf,3,0.012713,1e-05,0.0042,0.005864,0.012713
+305,47573594,Cryptocurrency,drop democratic just invented crypto church,nmf,1,0.015853,0.00496,0.015853,0.005177,0.012611
+306,47546908,Cryptocurrency,omit leading cryptographer field,nmf,1,0.000933,0.000126,0.000933,0.000349,3e-05
+307,47544436,Cryptocurrency,read applied cryptography know definitely hose,nmf,3,0.004834,0.001017,0.003803,0.002188,0.004834
+308,47539441,Cryptocurrency,block booking crypto trades revenue,nmf,1,0.005831,9e-05,0.005831,0.004129,0.004123
+309,47498724,Cryptocurrency,crypto invest crime doing crime,nmf,2,0.004884,0.000105,0.004401,0.004884,0.003009
+310,47516115,Cryptocurrency,long blockchain corp remembers 1 1,nmf,2,0.017352,0.0,0.014252,0.017352,0.005053
+311,47515076,Cryptocurrency,buy combo good ol blockchain perfume,nmf,1,0.017448,0.004421,0.017448,0.016832,0.012174
+312,47507783,Cryptocurrency,feels like blockchain,nmf,1,0.030847,0.002457,0.030847,0.014917,0.013699
+313,47504503,Cryptocurrency,absolulety right blockchain prevented accident,nmf,2,0.018999,0.005643,0.018795,0.018999,0.005243
+314,47497074,Cryptocurrency,blockchains nowadays proof work anymore,nmf,1,0.004785,0.0,0.004785,0.001436,0.000752
+315,47457981,Cryptocurrency,just use blockchain hash random tick,nmf,1,0.034378,0.007309,0.034378,0.017995,0.011773
+316,47317576,Cryptocurrency,fair really annoying blockchain,nmf,1,0.010263,0.003156,0.010263,0.00811,0.004299
+317,47295337,Cryptocurrency,ai powered metaverse blockchain,nmf,1,0.045328,0.001483,0.045328,0.010245,0.002073
+318,46440918,Cryptocurrency,orders magnitude efficient bitcoin,nmf,1,0.007569,2.4e-05,0.007569,0.006461,0.007395
+319,46432302,Cryptocurrency,use bitcoin,nmf,1,0.014799,5.1e-05,0.014799,0.013218,0.011983
+320,46391495,Cryptocurrency,bitcoin site people don write code,nmf,3,0.016973,0.006647,0.0106,0.01043,0.016973
+321,46377292,Cryptocurrency,want 5 bitcoin,nmf,1,0.007937,2.3e-05,0.007937,0.006219,0.00732
+322,46363074,Cryptocurrency,electricity doing computer things building bitcoin blocks,nmf,2,0.007576,0.002747,0.005378,0.007576,0.004381
+323,46362541,Cryptocurrency,government tax bitcoin mining servers 1000 tax,nmf,2,0.018481,0.001387,0.003242,0.018481,0.003241
+324,46194765,Cryptocurrency,ethereum useful,nmf,2,0.004965,0.000142,0.003979,0.004965,0.00312
+325,45944917,Cryptocurrency,coreweave did ethereum preparation proof stake transition,nmf,2,0.010708,0.0,0.003478,0.010708,0.002638
+326,45910954,Cryptocurrency,entered chat,nmf,1,0.002612,7e-06,0.002612,0.000288,0.000155
+327,46439461,Cryptocurrency,illegal attack cryptocurrency,nmf,2,0.008428,0.002067,0.005178,0.008428,0.006277
+328,46404112,Cryptocurrency,non traditional reserve currencies cryptocurrency,nmf,2,0.007384,0.000177,0.005644,0.007384,0.003136
+329,46359615,Cryptocurrency,did miss cryptocurrency slop social graph slop,nmf,2,0.010285,6e-05,0.004429,0.010285,0.002804
+330,46302446,Cryptocurrency,yeah straight cryptocurrency trash heap,nmf,2,0.005225,0.002593,0.004688,0.005225,0.002759
+331,46287175,Cryptocurrency,add crypto currency payment option,nmf,2,0.005524,0.000115,0.004551,0.005524,0.003469
+332,46281868,Cryptocurrency,small payment cryptocurrency,nmf,1,0.00481,0.00017,0.00481,0.004499,0.00278
+333,46240693,Cryptocurrency,thing stablecoin cryptocurrency,nmf,3,0.011404,0.004011,0.009122,0.006586,0.011404
+334,46431403,Cryptocurrency,guess crypto exodus ai paying,nmf,1,0.041172,0.001499,0.041172,0.010601,0.007216
+335,46431385,Cryptocurrency,crypto bros switched ai,nmf,1,0.050821,0.002069,0.050821,0.004866,0.002292
+336,46429852,Cryptocurrency,use case crypto larping dammit don need use case,nmf,3,0.013089,0.00416,0.008028,0.012314,0.013089
+337,46423112,Cryptocurrency,decided crypto mining expensive guess,nmf,2,0.010395,0.0,0.004305,0.010395,0.008236
+338,46363221,Cryptocurrency,solve crypto sudokus say lot,nmf,0,0.009161,0.009161,0.007163,0.007511,0.007066
+339,46410150,Cryptocurrency,blockchain cloud support,nmf,2,0.012276,0.0,0.010489,0.012276,0.003816
+340,46397180,Cryptocurrency,git uses blockchain lol,nmf,3,0.017269,0.0,0.015165,0.008153,0.017269
+341,46374609,Cryptocurrency,support defi blockchain,nmf,2,0.015425,0.0,0.013147,0.015425,0.004745
+342,46200037,Cryptocurrency,stake secures blockchain doesn waste energy,nmf,2,0.024293,0.002991,0.014418,0.024293,0.002902
+343,46195399,Cryptocurrency,tempo users blockchains combined,nmf,2,0.004035,0.0,0.000975,0.004035,0.000232
+344,46189227,Cryptocurrency,yes called oracle blockchain,nmf,2,0.016469,0.0026,0.011093,0.016469,0.003323
+345,46188440,Cryptocurrency,describing transparency log doesn require blockchain,nmf,1,0.020575,0.002816,0.020575,0.011544,0.004691
+346,45426549,Cryptocurrency,looks little bit bitcoin nft crypto web3 time,nmf,1,0.011877,0.001579,0.011877,0.0076,0.011652
+347,45418418,Cryptocurrency,bitcoin public private address,nmf,1,0.00635,0.000163,0.00635,0.00496,0.005635
+348,45410751,Cryptocurrency,market demands bitcoin miners provide,nmf,3,0.008224,0.0,0.006036,0.004384,0.008224
+349,45393767,Cryptocurrency,unfortunately bitcoin strong ties planet burning coin community,nmf,2,0.010382,0.000413,0.003643,0.010382,0.007523
+350,45352917,Cryptocurrency,bitcoin decentralized,nmf,1,0.007671,2.9e-05,0.007671,0.006025,0.007241
+351,45310481,Cryptocurrency,bitcoin maxis like right far right,nmf,1,0.02171,0.006993,0.02171,0.01606,0.009985
+352,45308277,Cryptocurrency,nip01 defines use secp256k1 bitcoin,nmf,1,0.014799,5.1e-05,0.014799,0.013218,0.011983
+353,45134539,Cryptocurrency,blockchain based ethereum,nmf,2,0.024997,0.0,0.01372,0.024997,0.005936
+354,45131943,Cryptocurrency,don think ethereum allows validators orphan blocks,nmf,3,0.014501,0.004367,0.006069,0.010118,0.014501
+355,45131615,Cryptocurrency,definitely eth tempo replaces ethereum,nmf,2,0.004893,6.2e-05,0.00246,0.004893,0.001704
+356,45130258,Cryptocurrency,private ethereum instance right,nmf,2,0.010121,0.004198,0.006897,0.010121,0.002379
+357,44997332,Cryptocurrency,echidna ethereum smart contract fuzzer,nmf,2,0.004439,0.000153,0.004039,0.004439,0.002844
+358,44570224,Cryptocurrency,ethereum algorand alternatives low fees,nmf,1,0.009238,0.0,0.009238,0.004551,0.008079
+359,44529932,Cryptocurrency,mean ethereum conflating things,nmf,2,0.007063,0.004259,0.003556,0.007063,0.002098
+360,45399472,Cryptocurrency,mean like cryptocurrency bros naming web 3 0,nmf,1,0.017315,0.001693,0.017315,0.010017,0.00828
+361,45348852,Cryptocurrency,built crypto currency,nmf,1,0.004984,0.000111,0.004984,0.003774,0.003756
+362,45280489,Cryptocurrency,blender valuable humanity cryptocurrencies,nmf,2,0.001282,0.000191,0.000931,0.001282,0.001243
+363,45170370,Cryptocurrency,cryptocurrency nfts ai ruined gpu market,nmf,1,0.041235,0.001626,0.041235,0.004805,0.004614
+364,44988650,Cryptocurrency,cryptocurrency did lose shirt,nmf,2,0.017175,3.1e-05,0.006624,0.017175,0.004691
+365,44943041,Cryptocurrency,nah cryptography seriously held cryptocurrency,nmf,1,0.004842,0.000208,0.004842,0.004222,0.002877
+366,44920905,Cryptocurrency,cryptocurrency bitcoin monero solved issue decade,nmf,2,0.011074,9.9e-05,0.008485,0.011074,0.007135
+367,44885515,Cryptocurrency,oh add cryptocurrencies nfts list,nmf,2,0.00499,3.6e-05,0.001685,0.00499,0.00097
+368,45430682,Cryptocurrency,time buy trump crypto,nmf,1,0.006277,0.000235,0.006277,0.005933,0.004907
+369,45428396,Cryptocurrency,sure believe crypto currency,nmf,3,0.010597,0.003603,0.005257,0.004642,0.010597
+370,45427247,Cryptocurrency,2021 wanted work crypto web3,nmf,1,0.006473,5.4e-05,0.006473,0.003121,0.002931
+371,45403293,Cryptocurrency,crypto theoretically ceiling,nmf,1,0.009655,0.000212,0.009655,0.007072,0.007131
+372,45401136,Cryptocurrency,tl dr crypto grift posing art,nmf,1,0.004012,0.000103,0.004012,0.003054,0.002895
+373,45424639,Cryptocurrency,like blockchain nfts,nmf,1,0.032264,0.002493,0.032264,0.015188,0.013836
+374,45401058,Cryptocurrency,people waiting gpus cheap blockchain bubble,nmf,1,0.010657,0.003154,0.010657,0.010348,0.007025
+375,45388992,Cryptocurrency,dns blockchain,nmf,1,0.023162,1.7e-05,0.023162,0.017524,0.008643
+376,45381254,Cryptocurrency,want reinvent flattr time blockchain,nmf,1,0.011741,0.000109,0.011741,0.009375,0.004988
+377,45352884,Cryptocurrency,isnt speed blockchain rediculously slow,nmf,1,0.011221,0.002951,0.011221,0.007498,0.006894
+378,45351114,Cryptocurrency,blockchains fees super low like solana,nmf,1,0.016909,0.001354,0.016909,0.005164,0.009975
+379,45350302,Cryptocurrency,interesting does work 10 secs blockchain close tab,nmf,1,0.016592,0.0,0.016592,0.012653,0.011903
+380,44427524,Cryptocurrency,actually understands bitcoin thread,nmf,3,0.01615,0.0,0.006242,0.010295,0.01615
+381,44426648,Cryptocurrency,buy backhoe bitcoin,nmf,1,0.01025,0.000151,0.01025,0.009325,0.009943
+382,44415758,Cryptocurrency,bought bitcoin lot just saying,nmf,1,0.023517,0.008034,0.023517,0.009796,0.016426
+383,44377899,Cryptocurrency,facebook palantir bitcoin pretty dire tbh,nmf,1,0.009008,0.003578,0.009008,0.00754,0.007852
+384,44356017,Cryptocurrency,golden opportunity bitcoin miners aws,nmf,1,0.006545,2e-06,0.006545,0.005186,0.006452
+385,44354814,Cryptocurrency,needs ton bitcoin,nmf,1,0.015137,8.3e-05,0.015137,0.011757,0.014243
+386,44348867,Cryptocurrency,bitcoin original purpose savings platform,nmf,2,0.012014,0.002686,0.005144,0.012014,0.004421
+387,44415585,Cryptocurrency,ethereum service ens,nmf,2,0.004461,0.000123,0.003947,0.004461,0.002785
+388,44144815,Cryptocurrency,ethereum 1e18 1 wei,nmf,2,0.007733,0.000212,0.006269,0.007733,0.004552
+389,43697862,Cryptocurrency,known ethereum forked dao debacle,nmf,2,0.004606,9.6e-05,0.003609,0.004606,0.002763
+390,43568518,Cryptocurrency,wasn implementation bancor attempted ethereum,nmf,2,0.004021,0.003945,0.003247,0.004021,0.00231
+391,43542455,Cryptocurrency,ethereum foundation jive,nmf,2,0.004234,0.000105,0.003404,0.004234,0.002479
+392,44331685,Cryptocurrency,demand payment cryptocurrency,nmf,2,0.007491,0.000142,0.003759,0.007491,0.002313
+393,44228152,Cryptocurrency,keys crypto just cryptocurrencies anymore,nmf,1,0.015101,0.004632,0.015101,0.005703,0.005953
+394,44119213,Cryptocurrency,work applied cryptography xmr preferred cryptocurrency,nmf,1,0.00987,6e-05,0.00987,0.003804,0.002472
+395,44113781,Cryptocurrency,need oblivious crypto currency mining algorithm,nmf,3,0.00819,0.003637,0.005902,0.007236,0.00819
+396,44086246,Cryptocurrency,cryptocurrency bullshit,nmf,1,0.008783,0.000319,0.008783,0.008567,0.005362
+397,44058783,Cryptocurrency,cryptocurrency powered mining business,nmf,2,0.007214,5.4e-05,0.004418,0.007214,0.002497
+398,44025064,Cryptocurrency,course cryptocurrency mugger couldn drain investment accounts,nmf,2,0.005927,0.001768,0.003038,0.005927,0.001646
+399,44020665,Cryptocurrency,saying cryptocurrency remains solution search problem,nmf,2,0.009854,0.003218,0.00359,0.009854,0.007442
+400,44422952,Cryptocurrency,curious projects use rust crypto,nmf,1,0.006503,6.4e-05,0.006503,0.00598,0.004357
+401,44411518,Cryptocurrency,sadly lot money crypto grift,nmf,2,0.008029,0.003418,0.005948,0.008029,0.003681
+402,44398086,Cryptocurrency,quick need new cryptonomicon space,nmf,2,0.01088,0.003708,0.002436,0.01088,0.008337
+403,44393371,Cryptocurrency,alright llm crypto make waste minuscule,nmf,1,0.011218,0.001483,0.011218,0.006365,0.002843
+404,44388114,Cryptocurrency,people buying crypto gain buying crypto,nmf,2,0.010754,0.001967,0.005316,0.010754,0.007109
+405,44355360,Cryptocurrency,tradfi version keys crypto,nmf,1,0.009202,4.5e-05,0.009202,0.004098,0.002979
+406,44334334,Cryptocurrency,alive blockchain,nmf,1,0.023162,1.7e-05,0.023162,0.017524,0.008643
+407,44275549,Cryptocurrency,blockchain does,nmf,1,0.030894,0.0,0.030894,0.026027,0.018594
+408,44240434,Cryptocurrency,wait ai generated virtual worlds blockchain,nmf,1,0.044539,0.001124,0.044539,0.009431,0.006339
+409,44169185,Cryptocurrency,just like blockchain smart contracts web 3 0 future,nmf,1,0.03177,0.005838,0.03177,0.013245,0.017783
+410,44141778,Cryptocurrency,does use blockchain,nmf,1,0.028398,0.0,0.028398,0.025012,0.017026
+411,44096727,Cryptocurrency,far come hn shouting blockchain usecase,nmf,2,0.012816,0.0,0.008048,0.012816,0.003103
+412,43489755,Cryptocurrency,like hydrogen bitcoin larger scale aluminum,nmf,1,0.026894,0.002528,0.026894,0.012136,0.016184
+413,43478432,Cryptocurrency,involve mining bitcoin,nmf,1,0.009269,9e-06,0.009269,0.008096,0.008943
+414,43468097,Cryptocurrency,yes revalue gold buy bitcoin,nmf,2,0.013356,0.00225,0.009146,0.013356,0.006078
+415,43447248,Cryptocurrency,convert bitcoin fiat send away,nmf,1,0.006343,4.4e-05,0.006343,0.005032,0.005793
+416,43422781,Cryptocurrency,close finding clear use case bitcoin,nmf,1,0.008861,0.001298,0.008861,0.008207,0.005816
+417,43192117,Cryptocurrency,fork ethereum like time,nmf,1,0.027145,0.002973,0.027145,0.013464,0.014059
+418,43127421,Cryptocurrency,wondered joke ethereum,nmf,2,0.007733,0.000212,0.006269,0.007733,0.004552
+419,43060582,Cryptocurrency,bitcoin ethereum pump dump scheme,nmf,1,0.014826,0.000213,0.014826,0.013633,0.012954
+420,42925658,Cryptocurrency,daily usage bitcoin simply inferior ethereum blockchains,nmf,2,0.013034,0.0,0.006704,0.013034,0.005445
+421,42832570,Cryptocurrency,sounds like interested ethereum,nmf,1,0.04181,0.002663,0.04181,0.01411,0.014752
+422,43478454,Cryptocurrency,force bots cryptocurrency,nmf,1,0.010339,9.2e-05,0.010339,0.004141,0.002593
+423,43450273,Cryptocurrency,sounds lot like cryptocurrency exchanges,nmf,1,0.039138,0.002419,0.039138,0.014012,0.014397
+424,43439266,Cryptocurrency,handle crypto currency thankfully,nmf,1,0.009646,4.7e-05,0.009646,0.003342,0.003504
+425,43396923,Cryptocurrency,crpto bitcoin cryptocurrency worth salt asci resistant,nmf,1,0.016752,0.00029,0.016752,0.014287,0.013642
+426,43291092,Cryptocurrency,untraceable cryptocurrency keeping cash characteristics,nmf,2,0.004978,0.000111,0.00284,0.004978,0.00171
+427,43291043,Cryptocurrency,yes cryptocurrencies characteristics cash,nmf,2,0.007449,0.002044,0.000813,0.007449,0.000326
+428,43288657,Cryptocurrency,cryptocurrency definition,nmf,1,0.01315,6e-05,0.01315,0.005672,0.002706
+429,43258147,Cryptocurrency,prefer use browser doesn cryptocurrency nonsense built,nmf,1,0.011635,0.001876,0.011635,0.008903,0.003314
+430,43529795,Cryptocurrency,assume cryptographic code somewhat audited thomas ptacek,nmf,1,0.005768,0.001574,0.005768,0.002009,0.0
+431,43528340,Cryptocurrency,cryptoquant clone geography specific features tailored banking clients,nmf,3,0.000679,3.6e-05,0.000608,0.000584,0.000679
+432,43527288,Cryptocurrency,crypto tool,nmf,3,0.012781,2.9e-05,0.005082,0.003675,0.012781
+433,43525838,Cryptocurrency,isn crypto sketchier private equity,nmf,1,0.006948,0.004889,0.006948,0.006677,0.003975
+434,43512062,Cryptocurrency,crypto does exempt kyc aml requirements,nmf,1,0.015067,0.0,0.015067,0.013202,0.011953
+435,43511066,Cryptocurrency,trump pardoning obvious crypto scammers,nmf,1,0.004704,5.9e-05,0.004704,0.003101,0.002785
+436,43510982,Cryptocurrency,crypto going banks,nmf,3,0.014107,0.0,0.004134,0.003097,0.014107
+437,43510879,Cryptocurrency,remember entire point crypto avoid banks,nmf,3,0.009581,0.0,0.003646,0.006123,0.009581
+438,43500259,Cryptocurrency,blockchain stay dont kid,nmf,1,0.023162,1.7e-05,0.023162,0.017524,0.008643
+439,43482764,Cryptocurrency,need ai like need blockchain,nmf,1,0.051031,0.008723,0.051031,0.015228,0.014764
+440,43472341,Cryptocurrency,great think blockchain better,nmf,2,0.031847,0.005441,0.017046,0.031847,0.016126
+441,43440496,Cryptocurrency,blockchain,nmf,1,0.023162,1.7e-05,0.023162,0.017524,0.008643
+442,43400044,Cryptocurrency,does blockchain use case implementing version control systems,nmf,1,0.021414,0.0,0.021414,0.0166,0.009624
+443,43376164,Cryptocurrency,gamification trusted computing semantic web big data blockchain nlp metaverse iot,nmf,1,0.011886,3.6e-05,0.011886,0.006145,0.002954
+444,43361808,Cryptocurrency,just thought blockchain bros couldn lower,nmf,1,0.019951,0.004419,0.019951,0.00973,0.005901
+445,42559938,Cryptocurrency,fortunately bitcoin trustless,nmf,2,0.009781,0.0,0.007285,0.009781,0.006929
+446,42520377,Cryptocurrency,gold bitcoin creating fallout shelter learning garden hunt fish,nmf,1,0.11682,0.0,0.11682,0.000358,0.002903
+447,42476433,Cryptocurrency,bitcoin isn infinitely divisible smaller satoshi,nmf,1,0.012311,0.006771,0.012311,0.011374,0.009317
+448,42476368,Cryptocurrency,basically ransomware paid bitcoin,nmf,3,0.011019,0.00166,0.010626,0.010433,0.011019
+449,42470747,Cryptocurrency,finally real world use case bitcoin,nmf,2,0.018782,0.001244,0.009,0.018782,0.009951
+450,42463564,Cryptocurrency,likely using imf loan buy bitcoin,nmf,1,0.017317,0.007092,0.017317,0.014244,0.01539
+451,42404033,Cryptocurrency,bitcoin dramatically fall 250k heights 600k,nmf,1,0.007837,6.4e-05,0.007837,0.006027,0.007188
+452,42486004,Cryptocurrency,miners ethereum years,nmf,3,0.016336,0.0,0.003143,0.003678,0.016336
+453,42484279,Cryptocurrency,processing entire history ethereum instead,nmf,2,0.011967,0.0,0.002183,0.011967,0.001664
+454,42294335,Cryptocurrency,ethereum state store database,nmf,2,0.003652,6.8e-05,0.003048,0.003652,0.002008
+455,42147299,Cryptocurrency,ethereum widely adopted vastly robust decentralized,nmf,2,0.003622,0.000149,0.003046,0.003622,0.002224
+456,42517142,Cryptocurrency,use case cryptocurrency working international sanctions,nmf,2,0.010064,9.6e-05,0.007499,0.010064,0.004732
+457,42451282,Cryptocurrency,gonna love new cryptocurrency hotbabesinyourareacoin,nmf,2,0.012625,0.0,0.005502,0.012625,0.010086
+458,42367188,Cryptocurrency,solana validators perform cryptocurrency mining,nmf,2,0.004187,0.000112,0.003907,0.004187,0.002905
+459,42357883,Cryptocurrency,useful outside cryptocurrency crap,nmf,2,0.005343,0.000198,0.005277,0.005343,0.003516
+460,42259648,Cryptocurrency,tolling cryptocurrencies absurdly high,nmf,3,0.006583,7.3e-05,0.000499,0.000696,0.006583
+461,41953482,Cryptocurrency,cryptocurrency city scammers come,nmf,2,0.009088,0.0,0.002698,0.009088,0.008173
+462,41806151,Cryptocurrency,course problem cryptocurrency won solve,nmf,2,0.012853,0.01115,0.003545,0.012853,0.006821
+463,41749452,Cryptocurrency,think cryptocurrencies mystery alluring endlessly fascinating,nmf,2,0.00938,0.00255,0.005104,0.00938,0.007533
+464,42562230,Cryptocurrency,brokers allow short crypto,nmf,1,0.005448,0.000148,0.005448,0.003962,0.00395
+465,42554595,Cryptocurrency,crypto ecosystem heavily saturated fraud crime,nmf,1,0.005053,0.000133,0.005053,0.003719,0.003753
+466,42551664,Cryptocurrency,simple actually crypto involved,nmf,3,0.013036,0.0,0.004158,0.004779,0.013036
+467,42537877,Cryptocurrency,wonder stock crypto investors ended homeless,nmf,3,0.005957,5.9e-05,0.003533,0.003633,0.005957
+468,42509224,Cryptocurrency,don use crypto features,nmf,3,0.015232,0.003468,0.008432,0.008931,0.015232
+469,42504911,Cryptocurrency,digital money scriptural cryptos aren,nmf,2,0.015501,0.000937,0.002219,0.015501,0.0
+470,42500652,Cryptocurrency,embedded crypto stuff,nmf,3,0.017197,0.0,0.005588,0.004479,0.017197
+471,42525674,Cryptocurrency,think successful blockchain means like successful crime,nmf,1,0.020735,0.002275,0.020735,0.01235,0.010435
+472,42524982,Cryptocurrency,successful blockchain ponzi schemes successful aren,nmf,2,0.013279,0.0,0.008582,0.013279,0.002686
+473,42522607,Cryptocurrency,sounds lot like blockchain,nmf,1,0.045257,0.002303,0.045257,0.017718,0.015779
+474,42449998,Cryptocurrency,tokens makes think crypto blockchain suboptimal naming,nmf,2,0.015244,0.001565,0.01426,0.015244,0.009822
+475,42432490,Cryptocurrency,stands mquantum blockchain self driving social cloud internet things,nmf,1,0.011019,0.006191,0.011019,0.007447,0.00228
+476,42398488,Cryptocurrency,stop run database inside notepad powered blockchain,nmf,2,0.010993,0.0,0.010686,0.010993,0.002429
+477,42387705,Cryptocurrency,going augmented reality underwear blockchain,nmf,3,0.014024,0.001665,0.009188,0.006797,0.014024
+478,42382141,Cryptocurrency,blockchain helps things slightest,nmf,1,0.010145,0.00649,0.010145,0.008496,0.00375
+479,41694420,Cryptocurrency,ai track eclipse bitcoin consumption,nmf,1,0.041345,0.001455,0.041345,0.008823,0.003908
+480,41690150,Cryptocurrency,bitcoin definitionally inefficient point,nmf,3,0.006603,0.0,0.006369,0.006167,0.006603
+481,41689922,Cryptocurrency,glances bitcoin mining asics day,nmf,2,0.008535,0.0,0.008007,0.008535,0.007097
+482,41669744,Cryptocurrency,actually good bitcoin,nmf,3,0.024308,0.004271,0.012123,0.01375,0.024308
+483,41623339,Cryptocurrency,bitcoin blockchain broken opinion,nmf,1,0.017555,2.6e-05,0.017555,0.013474,0.010484
+484,41613831,Cryptocurrency,website bitcoin url misleading shocking,nmf,1,0.008046,9e-06,0.008046,0.007826,0.007562
+485,41601607,Cryptocurrency,seriously looks like just bitcoins,nmf,1,0.027291,0.006233,0.027291,0.008548,0.01517
+486,41672926,Cryptocurrency,ethereum doesn use gpus thinking,nmf,1,0.012249,0.002082,0.012249,0.00841,0.00364
+487,41593192,Cryptocurrency,check tlsnotary recently supported ethereum foundation,nmf,2,0.002657,6.7e-05,0.002204,0.002657,0.00151
+488,41463308,Cryptocurrency,actually sync ethereum destroying hard drive,nmf,3,0.011393,0.0,0.003438,0.007178,0.011393
+489,41166154,Cryptocurrency,banks adopt ethereum use iso20022,nmf,2,0.007915,8.3e-05,0.006816,0.007915,0.004889
+490,41166067,Cryptocurrency,nice people just adopted ethereum,nmf,1,0.016167,0.007655,0.016167,0.013492,0.008186
+491,41128746,Cryptocurrency,mere bagatelle check size ethereum,nmf,2,0.003305,7.6e-05,0.002747,0.003305,0.001982
+492,40864392,Cryptocurrency,ethereum fan funny,nmf,1,0.006147,5.6e-05,0.006147,0.003189,0.0018
+493,41674001,Cryptocurrency,solved cryptocurrencies,nmf,2,0.001121,0.000114,0.000784,0.001121,0.000982
+494,41579163,Cryptocurrency,don forget ransomware payments cryptocurrency useful ransomware payments,nmf,3,0.013618,0.003917,0.008769,0.010072,0.013618
+495,41521097,Cryptocurrency,heard cryptocurrency code analysis tools 250k y licenses,nmf,1,0.012219,0.003974,0.012219,0.005643,0.001393
+496,41463470,Cryptocurrency,crypto currency successful libertarian propaganda project,nmf,1,0.004209,7.7e-05,0.004209,0.003872,0.003499
+497,41463444,Cryptocurrency,selling point cryptocurrency avoid online banking experience,nmf,1,0.008557,0.0,0.008557,0.005584,0.007358
+498,41460922,Cryptocurrency,brave generally disliked affiliation cryptocurrency,nmf,2,0.004587,0.000141,0.003721,0.004587,0.002463
+499,41452829,Cryptocurrency,lot people hn hate cryptocurrencies,nmf,2,0.006284,0.003341,0.005707,0.006284,0.005926
+500,41397532,Cryptocurrency,did brave cryptocurrency stuff,nmf,3,0.01169,0.0,0.004307,0.011047,0.01169
+501,41703092,Cryptocurrency,order power ai crypto,nmf,1,0.039434,0.001517,0.039434,0.005611,0.006324
+502,41682649,Cryptocurrency,node crypto supported deno compatibly layer,nmf,1,0.008209,2.4e-05,0.008209,0.002609,0.00268
+503,41672642,Cryptocurrency,think crypto zero sum game try fiat,nmf,1,0.015189,0.004437,0.015189,0.006565,0.005443
+504,41649877,Cryptocurrency,web site looks like typical crypto scam 1 1,nmf,1,0.016954,0.001531,0.016954,0.008444,0.012773
+505,41636341,Cryptocurrency,like cryptobros selling signals trading courses cryptobros,nmf,1,0.015182,0.001724,0.015182,0.008923,0.007247
+506,41629685,Cryptocurrency,crypto bro sells ai news 11,nmf,1,0.041054,0.001582,0.041054,0.004524,0.005124
+507,41677402,Cryptocurrency,blog compatible blockchain,nmf,1,0.022401,0.0,0.022401,0.009187,0.004391
+508,41642270,Cryptocurrency,enjoy irregular use word blockchain,nmf,1,0.013924,0.0,0.013924,0.011938,0.005995
+509,41623873,Cryptocurrency,bfbs bf blockchain solutions bff bf finance,nmf,1,0.01584,0.0,0.01584,0.010402,0.004746
+510,41579872,Cryptocurrency,did peak blockchain hype,nmf,2,0.013177,0.0,0.012853,0.013177,0.003762
+511,41579707,Cryptocurrency,bitcoin blockchain just like facebook http,nmf,1,0.046604,0.007715,0.046604,0.021021,0.021076
+512,41579235,Cryptocurrency,talk btc financial instrument blockchains,nmf,1,0.0097,0.0,0.0097,0.000188,8.9e-05
+513,41577514,Cryptocurrency,pivot blockchain ai 3 2 1,nmf,1,0.056942,0.001918,0.056942,0.009622,0.002966
+514,40837713,Cryptocurrency,true crypto true bitcoin,nmf,1,0.007282,6.1e-05,0.007282,0.00578,0.00649
+515,40837297,Cryptocurrency,used improve bitcoin lightning network,nmf,1,0.018293,0.0,0.018293,0.007365,0.004315
+516,40833318,Cryptocurrency,15 years ago just buy bitcoin,nmf,3,0.026568,0.003928,0.015485,0.006907,0.026568
+517,40832846,Cryptocurrency,way hold bitcoin selling forced,nmf,2,0.010772,0.002041,0.007274,0.010772,0.006441
+518,40823418,Cryptocurrency,people sing different tune power consumer bitcoin miners,nmf,2,0.009132,0.002725,0.007459,0.009132,0.008325
+519,40807195,Cryptocurrency,isn bitcoin time highs way died,nmf,2,0.010414,0.006324,0.010308,0.010414,0.007438
+520,40791995,Cryptocurrency,bitcoin sell happened release ja,nmf,1,0.00584,1.5e-05,0.00584,0.00528,0.005507
+521,40722936,Cryptocurrency,did ethereum end moving pos did work,nmf,2,0.015113,0.001639,0.005311,0.015113,0.002609
+522,40382175,Cryptocurrency,mit students indicted 25 million ethereum heist,nmf,2,0.007335,7.5e-05,0.003463,0.007335,0.002673
+523,40372541,Cryptocurrency,bug ethereum lazy journalism,nmf,1,0.005109,5.1e-05,0.005109,0.003026,0.001773
+524,40313198,Cryptocurrency,simple question ethereum refusing register eth security,nmf,1,0.003917,1.6e-05,0.003917,0.003781,0.00177
+525,40088026,Cryptocurrency,cool hardware wallets ethereum relevant,nmf,2,0.004091,7e-05,0.002571,0.004091,0.001876
+526,48764902,Climate Change,pre code probably unaffected climate change code pre place unaffected,nmf,0,0.112098,0.112098,0.002325,0.001862,0.0
+527,48754743,Climate Change,know climate change isn just places getting hotter right,nmf,0,0.165142,0.165142,0.012438,0.007235,0.005622
+528,48699253,Climate Change,climate change kills people,nmf,0,0.22278,0.22278,0.0,0.001568,0.000984
+529,48698437,Climate Change,climate change easy solve,nmf,0,0.214438,0.214438,0.0,5.3e-05,0.0
+530,48655983,Climate Change,climate change america ac,nmf,0,0.251329,0.251329,0.0,0.0,0.0
+531,48654292,Climate Change,climate change kills people don,nmf,0,0.203389,0.203389,0.000699,0.003845,0.010763
+532,48651480,Climate Change,climate change,nmf,0,0.419869,0.419869,0.0,0.0,0.0
+533,48135720,Climate Change,global warming bring sea,nmf,3,0.284315,0.001485,0.0,0.0,0.284315
+534,48110825,Climate Change,city got record snow global warming bogus,nmf,3,0.296741,0.0,0.00134,0.0,0.296741
+535,48496312,Climate Change,solar overtaken fossil gas,nmf,2,0.120887,0.0,0.0,0.120887,0.0
+536,48400102,Climate Change,plenty people renewable energy woke,nmf,2,0.048011,0.005953,0.001082,0.048011,0.00492
+537,48335601,Climate Change,mean vaccine researchers renewable energy researchers,nmf,2,0.025133,0.000719,0.0,0.025133,1.4e-05
+538,48052204,Climate Change,yeah especially given california leader renewable energy sources,nmf,2,0.027124,0.003482,0.001955,0.027124,0.0
+539,47742998,Climate Change,pre fixed renewable energy,nmf,2,0.039811,0.003185,0.0,0.039811,0.0
+540,47741372,Climate Change,spending billions cancel renewable energy,nmf,2,0.035634,0.000989,0.0,0.035634,0.0
+541,48594329,Climate Change,spake fossil fuel lobby,nmf,2,0.213072,0.0,0.0,0.213072,0.0
+542,48465879,Climate Change,saves value based fossil fuels nuclear,nmf,2,0.188323,0.0,0.0,0.188323,0.0
+543,48462880,Climate Change,batteries competitive fossil fuel,nmf,2,0.292896,0.0,0.0,0.292896,0.0
+544,48401526,Climate Change,better fossil fuels,nmf,2,0.27504,0.0,0.0,0.27504,0.001616
+545,48203945,Climate Change,thread world moving fossil fuels,nmf,2,0.168967,0.0,0.0,0.168967,0.0
+546,48038843,Climate Change,literally entire economy powered fossil fuels,nmf,2,0.158775,0.0,0.0,0.158775,0.0
+547,47940119,Climate Change,admission fossil fuels losing renewables,nmf,2,0.245549,0.0,0.0,0.245549,0.0
+548,47527569,Climate Change,upside maybe helps tiny bit climate change,nmf,0,0.180246,0.180246,0.0,0.001458,0.003208
+549,47276645,Climate Change,climate change main cause turbulence,nmf,0,0.195915,0.195915,0.0,0.0,0.003081
+550,47254408,Climate Change,climate change pollution yes,nmf,0,0.225482,0.225482,0.0,0.011709,0.002819
+551,47253719,Climate Change,abundantly clear remotely scientific discussion climate change,nmf,0,0.168102,0.168102,0.0,0.0,0.000377
+552,47066885,Climate Change,wasn film explicitly climate change denial,nmf,0,0.201996,0.201996,0.0,0.0,0.0
+553,47310519,Climate Change,hard past scientific consensus global warming,nmf,3,0.214721,0.0,0.0,0.0,0.214721
+554,47279514,Climate Change,global warming accelerated significantly,nmf,3,0.349203,0.0,0.0,0.0,0.349203
+555,46586301,Climate Change,saying need global warming melt increase,nmf,3,0.267156,0.002893,0.0,0.0,0.267156
+556,47025539,Climate Change,fashion production responsible 8 10 carbon emissions,nmf,3,0.017764,0.0,0.0,0.015333,0.017764
+557,46980209,Climate Change,effective way cut carbon emissions feedback loops triggered,nmf,2,0.01653,0.001464,0.0,0.01653,0.015334
+558,46716335,Climate Change,carbon emissions produced running,nmf,2,0.017934,0.0,0.0,0.017934,0.011755
+559,46639820,Climate Change,carbon tax offsetting emissions disincentivising fossil fuels,nmf,2,0.212616,0.0,0.0,0.212616,0.001818
+560,47525292,Climate Change,does induction cooking renewable energy,nmf,2,0.055615,0.001177,0.010469,0.055615,0.009937
+561,47459573,Climate Change,chinese renewable energy sector,nmf,2,0.034492,0.001083,0.0,0.034492,6.2e-05
+562,47459561,Climate Change,good renewable energy sector,nmf,2,0.040603,0.0048,0.002764,0.040603,0.005162
+563,47312064,Climate Change,don modulate renewable energy,nmf,2,0.046778,0.006031,0.0,0.046778,0.013529
+564,47265694,Climate Change,country 1 renewable energy mix,nmf,2,0.03968,0.001357,0.0,0.03968,0.000217
+565,47571200,Climate Change,fossil fuel plants subsidized health spending,nmf,2,0.164949,0.0,0.0,0.164949,0.0
+566,47493522,Climate Change,canada mexico self sufficient fossil fuel energy,nmf,2,0.168692,0.002793,0.0,0.168692,0.0
+567,47493484,Climate Change,fortunately fossil fuels stable geopolitically risk free source energy,nmf,2,0.163347,0.0,0.0,0.163347,0.0
+568,47483678,Climate Change,real issue calling fossil fuels,nmf,2,0.175532,0.0,0.0,0.175532,0.0
+569,47439790,Climate Change,iran tried ditch fossil fuel atomic cia said,nmf,2,0.143112,0.0,0.0,0.143112,0.0
+570,47429263,Climate Change,especially talking datacenters onsite fossil fuel power generation,nmf,2,0.13074,0.001954,0.0,0.13074,0.0
+571,46207928,Climate Change,shouldn doom gloom climate change headlines,nmf,0,0.251308,0.251308,0.0,0.0,0.0
+572,46088921,Climate Change,gates recent article climate change alarmism,nmf,0,0.214455,0.214455,0.0,0.0,0.0
+573,46047302,Climate Change,original article elevation dependent climate change mountain environments,nmf,0,0.216366,0.216366,0.0,0.0,0.0
+574,46013337,Climate Change,climate change rain especially bad water mgt,nmf,0,0.183019,0.183019,0.000812,0.003844,0.008812
+575,45836091,Climate Change,scandinavia likely benefit climate change,nmf,0,0.274555,0.274555,0.0,0.0,0.008626
+576,45801388,Climate Change,climate change sort,nmf,0,0.251115,0.251115,0.00472,0.0,0.0
+577,45729552,Climate Change,try googling gates investment climate change,nmf,0,0.174658,0.174658,0.0,0.0,0.0
+578,45697418,Climate Change,climate change denier,nmf,0,0.419869,0.419869,0.0,0.0,0.0
+579,46369408,Climate Change,contributing global warming lol,nmf,3,0.396346,0.0,0.0,0.0,0.396346
+580,46244887,Climate Change,start sailing high seas reduce global warming,nmf,3,0.243284,0.0,0.0,0.0,0.243284
+581,46021701,Climate Change,global warming understood century 1980,nmf,3,0.349297,0.0,0.0,0.0,0.349297
+582,45647937,Climate Change,global warming elimination riemann hypothesis refusal governments,nmf,3,0.349211,0.0,0.0,0.0,0.349211
+583,45577197,Climate Change,don think global warming cause population contraction,nmf,3,0.286129,0.004977,0.0,0.0024,0.286129
+584,46440254,Climate Change,incentivizing low cost renewable energy horrifying,nmf,2,0.03755,0.000956,0.004066,0.03755,0.005499
+585,46079172,Climate Change,thought oblique critique renewable energy,nmf,2,0.040896,0.001343,0.0,0.040896,7.7e-05
+586,45952336,Climate Change,includes interesting section energy including renewables nukes net zero,nmf,2,0.020318,0.003548,0.007122,0.020318,0.002737
+587,45944289,Climate Change,truly great news competition renewable energy sector,nmf,2,0.031384,0.002424,0.002523,0.031384,0.0
+588,46361404,Climate Change,bribery eh mean fossil fuel lobby strikes,nmf,2,0.133281,0.000454,0.0,0.133281,0.0
+589,46268651,Climate Change,guess fossil fuels came,nmf,2,0.248959,0.0,0.0,0.248959,0.0
+590,46020799,Climate Change,fossil fuel underpins dollar,nmf,2,0.292896,0.0,0.0,0.292896,0.0
+591,45922826,Climate Change,fossil fuels cheaper dilution solution pollution,nmf,2,0.197252,0.004049,0.0,0.197252,0.0
+592,45901970,Climate Change,fossil fuels aren dead dinosaurs,nmf,2,0.200249,0.000809,0.0,0.200249,0.0
+593,45826748,Climate Change,fossil fuel economic interests disempowered rent seeking,nmf,2,0.199097,0.0,0.0,0.199097,0.0
+594,45811339,Climate Change,building rockets moon bases making fossil fuels critical yes agree,nmf,2,0.145052,0.003371,0.0,0.145052,0.007123
+595,45397598,Climate Change,climate change self reinforcing loop,nmf,0,0.272251,0.272251,0.00367,0.0,0.0
+596,45221725,Climate Change,climate change fanatics just climate change fanatics,nmf,0,0.390434,0.390434,0.007164,0.0,0.0
+597,45198403,Climate Change,insurance great lever climate change,nmf,0,0.210852,0.210852,0.001359,0.004916,0.0
+598,45198342,Climate Change,warned impacts climate change,nmf,0,0.419869,0.419869,0.0,0.0,0.0
+599,45181706,Climate Change,absolutely overwhelming evidence climate change impacting agriculture,nmf,0,0.419869,0.419869,0.0,0.0,0.0
+600,45095855,Climate Change,better continuing using fossil fuels facing unmitigated climate change,nmf,2,0.206892,0.198442,0.0,0.206892,0.0
+601,44779502,Climate Change,interesting second order effect global warming,nmf,3,0.244024,0.0,0.0,0.0,0.244024
+602,44695512,Climate Change,global warming multiple contributors,nmf,3,0.541329,0.0,0.0,0.0,0.541329
+603,44636383,Climate Change,2 c global warming,nmf,3,0.541329,0.0,0.0,0.0,0.541329
+604,44611173,Climate Change,don pee ocean avoid accelerating global warming,nmf,3,0.321591,0.00091,0.0,0.0,0.321591
+605,44453440,Climate Change,speed running global warming eyes closed fun,nmf,3,0.219805,0.000234,0.0,0.0,0.219805
+606,44835898,Climate Change,carbon emissions reduced extinction,nmf,2,0.024956,0.0,0.0,0.024956,0.014209
+607,44772572,Climate Change,right carbon emissions excess deaths incurred,nmf,2,0.021206,0.003245,0.002392,0.021206,0.009115
+608,45377017,Climate Change,energy renewable isn problem,nmf,2,0.040954,0.007993,0.00119,0.040954,0.003381
+609,45229817,Climate Change,gas produced using renewable energy storage,nmf,2,0.03551,0.001849,0.006614,0.03551,0.0
+610,45109703,Climate Change,china massively scaling storage complement renewables,nmf,2,0.008581,0.0,0.0,0.008581,0.0
+611,45030651,Climate Change,renewable energies nuclear isn generally considered renewable,nmf,2,0.034027,0.003566,0.000119,0.034027,0.003615
+612,44908563,Climate Change,democrats brought ev credits renewable energy subsidies government ended,nmf,2,0.035622,0.002854,0.0,0.035622,0.0
+613,45423908,Climate Change,used fossil fuel industry,nmf,2,0.179376,0.0,0.0035,0.179376,0.0
+614,45251546,Climate Change,migrating fossil fuel heating loads electric yes,nmf,2,0.220666,0.000498,0.0,0.220666,0.0
+615,44750398,Climate Change,inventing reasons perpetuate fossil fuel extraction counter productive,nmf,2,0.196586,0.0,0.0,0.196586,0.0
+616,44518876,Climate Change,fossil fuels come sun,nmf,2,0.252915,0.0,0.0,0.252915,0.0
+617,44391669,Climate Change,obviously wants advance climate change,nmf,0,0.251354,0.251354,0.0,0.0,0.0
+618,44258844,Climate Change,climate change distant worry,nmf,0,0.251374,0.251374,0.0,0.0,0.0
+619,44216816,Climate Change,saving world climate change just naive,nmf,0,0.198223,0.198223,0.009673,0.003383,0.00564
+620,44177946,Climate Change,climate change advocate contrast climate change opponent,nmf,0,0.419869,0.419869,0.0,0.0,0.0
+621,44080802,Climate Change,good 1 way prevent climate change,nmf,0,0.192003,0.192003,0.002018,0.004635,0.002573
+622,44422844,Climate Change,maybe maybe better global warming,nmf,3,0.226704,0.003549,0.0,0.008951,0.226704
+623,44374215,Climate Change,global warming affects feasible latitudes food production,nmf,3,0.289517,0.0,0.0,0.0,0.289517
+624,44106553,Climate Change,better contributes global warming air pollution directly,nmf,3,0.319849,0.005825,0.0,0.01148,0.319849
+625,44084470,Climate Change,global warming arctic increasingly accessible,nmf,3,0.239687,0.0,0.0,0.0,0.239687
+626,44014120,Climate Change,bite wrong terms global warming climate change,nmf,3,0.227623,0.160017,0.0,0.0,0.227623
+627,43950325,Climate Change,97 scientists named steve agree global warming happening,nmf,3,0.242143,0.0,0.001532,0.0,0.242143
+628,43979496,Climate Change,better perspective carbon emissions isn,nmf,2,0.0261,0.004551,0.00157,0.0261,0.021834
+629,44377165,Climate Change,strict matter non renewable energy,nmf,2,0.034331,0.001077,0.0,0.034331,0.0
+630,44404670,Climate Change,million people year die fossil fuel pollution,nmf,2,0.128071,0.005451,0.0,0.128071,0.005005
+631,44275117,Climate Change,iea purpose boost fossil fuels nuclear,nmf,2,0.217434,0.0,0.0,0.217434,0.0
+632,43859520,Climate Change,vgt 0 fossil fuels esgv 0 54,nmf,2,0.357792,0.0,0.0,0.357792,0.0
+633,43828385,Climate Change,green energy maybe nuclear fossil fuels help,nmf,2,0.193401,0.003505,0.0,0.193401,0.002908
+634,43751284,Climate Change,instead make fossil fuels cost,nmf,2,0.18337,0.0,0.0,0.18337,0.0
+635,43330274,Climate Change,best model current reality showing climate change,nmf,0,0.154927,0.154927,0.003222,0.0,0.0
+636,43293657,Climate Change,entity funding climate change research,nmf,0,0.279019,0.279019,0.0,0.0,0.0
+637,43249906,Climate Change,comes unrealized climate change expectations wow,nmf,0,0.202829,0.202829,0.0,0.0,0.0
+638,43089483,Climate Change,axe noaa solve climate change awareness,nmf,0,0.283058,0.283058,0.0,0.0,0.0
+639,43066467,Climate Change,practice climate change facto limits,nmf,0,0.251294,0.251294,0.0,0.0,0.0
+640,43064132,Climate Change,talking al gore discussing climate change right,nmf,0,0.225432,0.225432,0.000695,0.007298,0.0
+641,43058830,Climate Change,ai net positive climate change,nmf,0,0.228175,0.228175,0.038826,0.0,0.0
+642,43058320,Climate Change,climate change pretty good precedent,nmf,0,0.238728,0.238728,0.002869,0.004986,0.003951
+643,42610813,Climate Change,literally applies world global warming,nmf,3,0.297698,0.0,0.0,0.0,0.297698
+644,42827309,Climate Change,500 billion country renewable energy,nmf,2,0.032288,0.001073,0.0,0.032288,0.000148
+645,42653890,Climate Change,china renewable energy solar,nmf,2,0.033924,0.000969,0.0,0.033924,0.002637
+646,43536749,Climate Change,aren decane dodecane present fossil fuels,nmf,2,0.253479,0.0,0.0,0.253479,0.0
+647,43468023,Climate Change,landfills fossil fuels,nmf,2,0.357792,0.0,0.0,0.357792,0.0
+648,43063247,Climate Change,precisely fossil fuels ruining economy,nmf,2,0.246455,0.0,0.0,0.246455,0.0
+649,42897135,Climate Change,source pro fossil fuels think tank,nmf,2,0.195491,0.0,0.0,0.195491,0.0
+650,42690895,Climate Change,new fossil fuel plants outlawed,nmf,2,0.176738,0.0,0.0,0.176738,0.0
+651,42386995,Climate Change,blaming climate change ai like stretch,nmf,0,0.178257,0.178257,0.044254,0.004605,0.003201
+652,42226810,Climate Change,plastic pollution oceans climate change,nmf,0,0.217313,0.217313,0.0,0.006143,0.002861
+653,42224036,Climate Change,addressed deny climate change,nmf,0,0.419869,0.419869,0.0,0.0,0.0
+654,42214253,Climate Change,dams impose climate change destroys things,nmf,0,0.210123,0.210123,0.0,0.0,0.0
+655,42166790,Climate Change,step 1 figure monetize reversing climate change,nmf,0,0.419869,0.419869,0.0,0.0,0.0
+656,42128015,Climate Change,kimchi concedes collateral casualty climate changes cascade continually cabbages,nmf,0,0.147005,0.147005,0.0,0.0,0.011755
+657,42109738,Climate Change,climate changes populations equally spread,nmf,0,0.147005,0.147005,0.0,0.0,0.011755
+658,42384324,Climate Change,50 years ago science consensus talking global warming,nmf,3,0.195179,0.002411,0.000618,0.0,0.195179
+659,41749975,Climate Change,guess global warming good thing,nmf,3,0.283221,0.003349,0.002478,0.006504,0.283221
+660,42418687,Climate Change,carbon emissions issue space propulsion,nmf,2,0.019282,0.0,0.0,0.019282,0.008994
+661,42130976,Climate Change,amazon reduce carbon emissions shrinking excess puppy headcount washington post,nmf,2,0.013438,0.0,0.0,0.013438,0.011182
+662,41870396,Climate Change,article does say lifecycle carbon emissions,nmf,2,0.023186,0.003809,0.008963,0.023186,0.015456
+663,42167615,Climate Change,running synthetic fuel renewable energy,nmf,2,0.100075,0.000412,0.0,0.100075,0.001308
+664,41997254,Climate Change,rapidly economics renewable energy shifting,nmf,2,0.054803,0.001907,0.0,0.054803,0.0
+665,42519540,Climate Change,said fossil fuels,nmf,2,0.243388,0.0,0.0,0.243388,0.0
+666,42007130,Climate Change,reason rid fossil fuels asap,nmf,2,0.240381,0.0,0.0,0.240381,0.0
+667,41889828,Climate Change,nice real life demonstration creation fossil fuels,nmf,2,0.213115,0.0,0.0,0.213115,0.0
+668,41861013,Climate Change,bring immediate halt fossil fuel party,nmf,2,0.164001,0.0,0.0,0.164001,0.000123
+669,41826538,Climate Change,let stop subsidizing cars fossil fuels,nmf,2,0.200775,0.0,0.0,0.200775,0.0
+670,41667729,Climate Change,cure cancer solve climate change thing,nmf,0,0.232141,0.232141,0.0,0.001221,0.00543
+671,41665394,Climate Change,desantis doesn believe science climate change maybe believes money,nmf,0,0.161454,0.161454,0.00706,0.006901,0.009586
+672,41617763,Climate Change,climate change strikes end unexpected consequences,nmf,0,0.199345,0.199345,0.0,0.000242,0.0
+673,41528346,Climate Change,expecting planning climate change rising sea levels,nmf,0,0.257862,0.257862,0.0,0.0,0.007094
+674,41461827,Climate Change,watches don contribute climate change,nmf,0,0.225464,0.225464,0.0,0.0,0.019099
+675,41420182,Climate Change,making oil plastic driving climate change burning oil,nmf,0,0.115257,0.115257,0.0,0.007412,0.002999
+676,41361917,Climate Change,climate change progress sadly agree exxon,nmf,0,0.201725,0.201725,0.0,0.0,0.001227
+677,41235661,Climate Change,climate change global problem look problem globally,nmf,0,0.145846,0.145846,0.0,0.005821,0.10398
+678,41673918,Climate Change,effective tool battling airline contributions global warming,nmf,3,0.282843,0.0,0.0,0.0,0.282843
+679,41608511,Climate Change,new study links increase global warming increase teenage pregnancy,nmf,3,0.212354,0.0,0.0,0.000693,0.212354
+680,41438185,Climate Change,global warming co2 emissions,nmf,3,0.322413,0.0,0.0,0.001936,0.322413
+681,41368317,Climate Change,actually global warming making japan rain,nmf,3,0.266769,0.001838,0.0,0.0,0.266769
+682,41121324,Climate Change,looks like global warming killing horseshoe crabs,nmf,3,0.290636,0.0,0.012241,0.000323,0.290636
+683,41053181,Climate Change,kind poetic global warming gives 15 trust,nmf,3,0.254989,0.0,0.000631,0.0,0.254989
+684,41196587,Climate Change,efficient metric carbon emissions time money,nmf,2,0.019866,0.000825,0.001096,0.019866,0.008988
+685,40971734,Climate Change,falling passengers count carbon emissions,nmf,2,0.024956,0.0,0.0,0.024956,0.014209
+686,40918669,Climate Change,think reducing carbon emissions owning group people,nmf,2,0.020675,0.003724,0.00356,0.020675,0.014117
+687,41615781,Climate Change,nuclear considered renewable energy source,nmf,2,0.049932,0.00161,0.0,0.049932,0.00353
+688,41361735,Climate Change,lobby advancement renewable energy,nmf,2,0.052394,0.001163,0.0,0.052394,0.0
+689,40863576,Climate Change,need accelerate renewables energy storage,nmf,2,0.026933,0.004297,0.0,0.026933,0.003563
+690,41285364,Climate Change,fossil fuels externalities destroying planet,nmf,2,0.192799,0.0,0.0,0.192799,0.0
+691,41077191,Climate Change,fossil fuel usage did,nmf,2,0.186783,0.0,0.0,0.186783,0.0
+692,41013295,Climate Change,does solve problem fossil fuel emissions,nmf,2,0.162162,0.008053,0.00138,0.162162,0.011735
+693,40896627,Climate Change,real money selling fossil fuels,nmf,2,0.188851,0.0,0.0,0.188851,0.0
+694,40867965,Climate Change,note fossil fuel subsidy doubling,nmf,2,0.292896,0.0,0.0,0.292896,0.0
+695,40805329,Climate Change,isn blaming ruminants climate change just proper accounting,nmf,0,0.17731,0.17731,0.010795,0.002708,0.000801
+696,40804361,Climate Change,0 change climate wrong,nmf,0,0.270486,0.270486,0.0,0.0,0.001171
+697,40802944,Climate Change,cow farts fact make climate change worse,nmf,0,0.177883,0.177883,0.000627,0.00139,0.0
+698,40802860,Climate Change,insane try blame ruminants climate change,nmf,0,0.20585,0.20585,0.0,0.0,0.0
+699,40773271,Climate Change,heard climate change,nmf,0,0.268346,0.268346,0.005042,0.0,0.0
+700,40689706,Climate Change,climate change created land bridges,nmf,0,0.196005,0.196005,0.0,0.0,0.0
+701,40576236,Climate Change,huh asking views climate change guidelines,nmf,0,0.201922,0.201922,0.0,0.0,0.0
+702,40572536,Climate Change,believe anthropogenic climate change hoax,nmf,0,0.212371,0.212371,0.0,0.0,0.003578
+703,40820577,Climate Change,global warming,nmf,3,0.541329,0.0,0.0,0.0,0.541329
+704,40753694,Climate Change,wait global warming shakes fist future,nmf,3,0.290328,0.0,0.002346,0.0,0.290328
+705,40520575,Climate Change,endless sea forest increasingly bad global warming temperatures fun stuff,nmf,3,0.205237,0.003123,0.0,0.0,0.205237
+706,40315438,Climate Change,global warming stopped nuclear winter,nmf,3,0.298215,0.000484,0.0,0.005749,0.298215
+707,40245460,Climate Change,meat production takes like 15 just reverse global warming,nmf,3,0.240064,0.003605,0.019273,0.00219,0.240064
+708,40205873,Climate Change,does 11 year solar cycle explain decades observed global warming,nmf,3,0.21207,0.0,0.003366,0.008364,0.21207
+709,40090218,Climate Change,does patriot act global warming,nmf,3,0.316265,0.0,0.004515,0.004385,0.316265
+710,40076481,Climate Change,global warming yamaha killing snowmobile,nmf,3,0.357117,0.0,0.0,0.0,0.357117
+711,40682253,Climate Change,especially things related carbon emmissions,nmf,2,0.011713,0.005084,0.00374,0.011713,0.00236
+712,40246885,Climate Change,realistically lowest carbon emissions just die,nmf,2,0.021455,0.005098,0.012128,0.021455,0.012669
+713,40531107,Climate Change,easier just deploy renewable energy,nmf,2,0.032589,0.005641,0.010534,0.032589,0.00338
+714,40407442,Climate Change,renewable energy moved entropy,nmf,2,0.054803,0.001907,0.0,0.054803,0.0
+715,40761973,Climate Change,ai displaces humans consumption fossil fuels,nmf,2,0.176259,0.0,0.025833,0.176259,0.0
+716,40631583,Climate Change,burning fossil fuels,nmf,2,0.240036,0.0,0.0,0.240036,0.0
+717,40485652,Climate Change,does switch nuclear help fossil fuel companies,nmf,2,0.143292,0.00192,0.001162,0.143292,0.00415
+718,40334870,Climate Change,fossil fuels wait long,nmf,2,0.203804,0.0,0.0,0.203804,0.0
+719,40330473,Climate Change,german environmentalism nimby combined support russian fossil fuels,nmf,2,0.16825,0.0,0.0,0.16825,0.0
+720,40309955,Climate Change,course fossil fuel lobby,nmf,2,0.178888,0.0,0.0,0.178888,0.0
+721,40251678,Climate Change,buying fossil fuels party,nmf,2,0.193325,0.0,0.0,0.193325,0.0
+722,40145610,Climate Change,66 maximum fossil fuel usage year,nmf,2,0.173119,0.0,0.0,0.173119,0.0
+723,39881145,Climate Change,climate change pascal wager,nmf,0,0.419869,0.419869,0.0,0.0,0.0
+724,39822352,Climate Change,turnabout fair play climate change erase florida,nmf,0,0.201974,0.201974,0.0,0.0,0.0
+725,39794117,Climate Change,need planes speed combat climate change,nmf,0,0.216273,0.216273,0.0,0.000601,0.005108
+726,39777766,Climate Change,yeah things need survive climate change sorry,nmf,0,0.165818,0.165818,0.0,0.001694,0.001114
+727,39777641,Climate Change,worries pipeline leaks climate change silly,nmf,0,0.251297,0.251297,0.0,0.0,0.0
+728,39767027,Climate Change,eliminate climate change causing pollution microplastics nuclear weapons,nmf,0,0.164048,0.164048,0.0,0.011609,0.016574
+729,39878293,Climate Change,refrigerants contribute global warming,nmf,3,0.358472,0.000605,0.0,0.0,0.358472
+730,39730493,Climate Change,bad global warming perspective,nmf,3,0.301582,0.0,0.0,0.0,0.301582
+731,39634574,Climate Change,global warming causing climate change,nmf,3,0.310884,0.212297,0.0,0.0,0.310884
+732,39285434,Climate Change,28x global warming potential co2,nmf,3,0.359115,0.0,0.0,0.0,0.359115
+733,38857461,Climate Change,planet undergoing global warming,nmf,3,0.281945,0.0,0.0,0.0,0.281945
+734,38834608,Climate Change,likely worsen global warming,nmf,3,0.376366,0.004131,0.0,0.0,0.376366
+735,39109066,Climate Change,fluorinerts low global warming potentials invented,nmf,3,0.292662,0.0,0.000771,0.0,0.292662
+736,39290500,Climate Change,carbon emissions don cost person doing,nmf,2,0.022947,0.002716,0.000879,0.022947,0.017659
+737,39226586,Climate Change,evs don eliminate carbon emissions transportation possible,nmf,3,0.019621,0.004823,0.000111,0.016754,0.019621
+738,39834514,Climate Change,interesting anti propaganda coming renewable energy world journal,nmf,2,0.025708,0.00192,0.0,0.025708,0.00662
+739,39734230,Climate Change,nuclear considered low carbon energy considered renewable energy,nmf,2,0.045913,0.001611,0.001251,0.045913,0.00686
+740,39559039,Climate Change,local manufacturing renewable energy transportation,nmf,2,0.038151,0.001306,0.0,0.038151,6.9e-05
+741,39799247,Climate Change,replacing fossil fuels look statistics,nmf,2,0.244156,0.0,0.0,0.244156,0.0
+742,39520623,Climate Change,gotta demand fossil fuel based economy,nmf,2,0.15604,0.0,0.0,0.15604,0.0
+743,39511228,Climate Change,definitely case fossil fuel interests money did,nmf,2,0.135852,0.0,0.0,0.135852,0.0
+744,39372917,Climate Change,pigouvian tax jet fuel fossil fuels,nmf,2,0.285973,0.0,0.0,0.285973,0.0
+745,39352869,Climate Change,fossil fuel subsidies referring,nmf,2,0.210457,0.0,0.0,0.210457,0.0
+746,39320409,Climate Change,removing subsidies keeping fossil fuel ones kind attack,nmf,2,0.127399,0.0,0.0,0.127399,0.001156
+747,39251453,Climate Change,fossil fuels profitably sold abroad,nmf,2,0.234352,0.0,0.0,0.234352,0.0
+748,38820344,Climate Change,hey man climate change possible,nmf,0,0.172983,0.172983,0.0,6.7e-05,0.002875
+749,38801741,Climate Change,doesn natural disaster days tied climate change,nmf,0,0.182369,0.182369,0.008988,0.001294,0.0
+750,38795520,Climate Change,methane coal largest driver climate change,nmf,0,0.419869,0.419869,0.0,0.0,0.0
+751,38711387,Climate Change,failure government conveniently linked climate change,nmf,0,0.201802,0.201802,0.000671,0.0,0.0
+752,38688338,Climate Change,climate change worried,nmf,0,0.25144,0.25144,0.0,0.0,0.0
+753,38602247,Climate Change,climate change nail coffin,nmf,0,0.419869,0.419869,0.0,0.0,0.0
+754,38444331,Climate Change,enter climate change warming temperatures winter,nmf,0,0.182538,0.182538,0.0,0.0,0.139889
+755,38405022,Climate Change,energy companies buried research climate change,nmf,0,0.203021,0.203021,0.0,0.01806,0.0
+756,38719842,Climate Change,let nuke moon solve global warming lol love,nmf,3,0.219813,0.004641,0.0,0.003928,0.219813
+757,38666752,Climate Change,russia canada gain human habitable land global warming,nmf,3,0.193865,0.002841,0.0,0.0,0.193865
+758,38256673,Climate Change,reached bargaining stage global warming,nmf,3,0.355761,0.0,0.0,0.0,0.355761
+759,37989759,Climate Change,global warming kick years,nmf,3,0.380376,0.0,0.0,0.0,0.380376
+760,38528617,Climate Change,forgetting enormous carbon emissions commuting,nmf,2,0.024956,0.0,0.0,0.024956,0.014209
+761,38499555,Climate Change,wonder inefficient web apps contribute carbon emissions,nmf,3,0.013878,0.001881,0.000178,0.013423,0.013878
+762,38297941,Climate Change,point reduce carbon emissions expensive,nmf,2,0.015067,0.0,0.0,0.015067,0.012019
+763,38265160,Climate Change,helps carbon emissions,nmf,2,0.018458,0.002179,0.0,0.018458,0.01036
+764,37769749,Climate Change,advantages extend reducing carbon emissions,nmf,2,0.015191,0.0,0.0,0.015191,0.008552
+765,38771519,Climate Change,carbon tax fund renewable energy sources,nmf,2,0.046492,0.000815,0.0,0.046492,0.001761
+766,37779477,Climate Change,eclipsed better safer solutions like renewable energy,nmf,2,0.046909,0.004261,0.017358,0.046909,0.014778
+767,37758653,Climate Change,renewable energy commonly understood refer fuel source,nmf,2,0.07824,0.000183,0.0,0.07824,0.005763
+768,38805943,Climate Change,great deal sent ship fossil fuels,nmf,2,0.25599,0.0,0.0,0.25599,0.0
+769,38803058,Climate Change,oil gas carbon gas fuel gas fossil gas,nmf,2,0.075344,0.0,0.0,0.075344,0.0
+770,38802424,Climate Change,fossil fuels bad right,nmf,2,0.221201,0.003058,0.0,0.221201,0.000792
+771,38670522,Climate Change,bootstrapping hydropower based industry fossil fuels trivial,nmf,2,0.213476,0.0,0.0,0.213476,0.0
+772,38670049,Climate Change,good luck doing accessible fossil fuels,nmf,2,0.158714,0.000968,0.0,0.158714,0.002368
+773,38662467,Climate Change,fossil fuel subsidies completely irrelevant capitalizing certain costs,nmf,2,0.144394,0.0,0.0,0.144394,0.0
+774,38594523,Climate Change,plastic doesn need oil doesn need fossil fuels,nmf,2,0.117083,0.008514,0.00558,0.117083,0.001057
+775,37691248,Climate Change,genetic engineering accelerated evolution microbes aim help climate change,nmf,0,0.169273,0.169273,0.002696,0.002855,0.005477
+776,37687685,Climate Change,wikipedia thinks likely climate change hunting,nmf,0,0.175494,0.175494,6.8e-05,0.0,0.005404
+777,37645179,Climate Change,playing climate change war,nmf,0,0.419869,0.419869,0.0,0.0,0.0
+778,37603442,Climate Change,like climate change liberal hoax,nmf,0,0.232465,0.232465,0.015434,0.003516,0.005411
+779,37603422,Climate Change,saying climate change isn making disasters frequent dangerous,nmf,0,0.19449,0.19449,0.0,0.002587,0.011403
+780,37602178,Climate Change,think dead 2033 climate change,nmf,0,0.217835,0.217835,0.000162,0.00904,0.001779
+781,37534976,Climate Change,human caused climate change myth,nmf,0,0.258032,0.258032,0.001312,0.0,0.0
+782,37509678,Climate Change,science magic saving climate change,nmf,0,0.208017,0.208017,0.000423,0.0,0.0
+783,37716990,Climate Change,effects global warming disastrous effects humans,nmf,3,0.19121,0.0,0.0,0.0,0.19121
+784,37582568,Climate Change,global warming stuff possible birds migrate,nmf,3,0.306164,0.0,0.0,0.0,0.306164
+785,37544478,Climate Change,making people poor solituion global warming,nmf,3,0.271279,0.003013,0.0,0.0,0.271279
+786,37542250,Climate Change,seasonal temperature changes global warming,nmf,3,0.358328,0.003311,0.0,0.0,0.358328
+787,37459170,Climate Change,comments discussions actually reached global warming,nmf,3,0.264282,0.0,0.0,0.0,0.264282
+788,37458849,Climate Change,know causing global warming,nmf,3,0.300389,0.003095,0.0,0.0,0.300389
+789,37228963,Climate Change,happier didn believe global warming,nmf,3,0.306529,0.001071,0.0,0.0,0.306529
+790,37221786,Climate Change,going mars 0 affect global warming earth,nmf,3,0.365912,0.0,0.0,0.0,0.365912
+791,48757667,Cybersecurity,probably shouldn unless doing hardcore cybersecurity,nmf,2,0.007886,0.004776,0.007364,0.007886,0.001584
+792,48632936,Cybersecurity,working bio coding cybersecurity benchmarks,nmf,1,0.008481,0.0,0.008481,0.007913,0.001891
+793,48556795,Cybersecurity,yes defense offense extremely common terminology cybersecurity,nmf,2,0.014727,0.002495,0.006268,0.014727,0.00064
+794,48476804,Cybersecurity,biology cybersecurity,nmf,1,0.010776,0.0,0.010776,0.006358,0.001179
+795,48465802,Cybersecurity,given cybersecurity safeguards work probably don,nmf,1,0.011182,0.003454,0.011182,0.008128,0.010699
+796,48415834,Cybersecurity,ok malware analysis,nmf,2,0.062932,0.0,0.005052,0.062932,0.0
+797,48266844,Cybersecurity,polyglot cybersecurity conference code greenville sc,nmf,1,0.011835,0.002001,0.011835,0.007739,0.001582
+798,48663911,Cybersecurity,conduit crime like ransomware sextortion,nmf,1,0.02734,0.00467,0.02734,0.014194,0.017116
+799,48647688,Cybersecurity,room didn enable ransomware,nmf,3,0.017793,0.002301,0.006491,0.009599,0.017793
+800,48537143,Cybersecurity,does lot like ransomware,nmf,1,0.038837,0.004202,0.038837,0.024574,0.02603
+801,48114545,Cybersecurity,ideal number ransomware operators non zero,nmf,1,0.013034,0.001392,0.013034,0.008237,0.004764
+802,48111980,Cybersecurity,iran russia north korea biggest sources ransomware,nmf,2,0.0085,0.001419,0.003857,0.0085,0.007422
+803,47876005,Cybersecurity,generous gift ransomware fraud industries,nmf,3,0.007496,0.002255,0.00647,0.00746,0.007496
+804,47764838,Cybersecurity,disingenuous crypto ransomware easier,nmf,2,0.011294,0.002193,0.010678,0.011294,0.010398
+805,48719221,Cybersecurity,happens party identification verifier data breach,nmf,2,0.010271,5.3e-05,0.009763,0.010271,0.000336
+806,48672163,Cybersecurity,article marketing data breach passwords,nmf,1,0.010196,0.004662,0.010196,0.002624,0.000885
+807,48596313,Cybersecurity,attitude gives daily data breaches,nmf,1,0.008651,6.8e-05,0.008651,0.001466,0.005832
+808,47877540,Cybersecurity,govs required comply gdpr data breaches laws,nmf,1,0.008078,8.7e-05,0.008078,0.001289,0.000896
+809,48759063,Cybersecurity,malware explicitly asking,nmf,2,0.045436,0.005129,0.0,0.045436,0.0
+810,48757569,Cybersecurity,malware official google play services,nmf,2,0.033902,0.001654,0.000608,0.033902,0.0
+811,48738384,Cybersecurity,warm nostalgia reformatting c drives malware processing error,nmf,2,0.05659,0.0,0.0,0.05659,0.0
+812,48640457,Cybersecurity,sounds like prime new vector malware ironically,nmf,2,0.060356,0.001511,0.033464,0.060356,0.012931
+813,48605787,Cybersecurity,love smell npm install malware morning,nmf,2,0.040371,0.0,0.0,0.040371,0.002071
+814,48583578,Cybersecurity,yes kind bot checks essentially malware,nmf,2,0.044348,0.001323,0.006694,0.044348,0.002289
+815,48549186,Cybersecurity,malware list,nmf,2,0.061272,0.0,0.0,0.061272,0.0
+816,47489614,Cybersecurity,man 100 cybersecurity respect,nmf,1,0.006519,0.002037,0.006519,0.005335,0.001105
+817,47325874,Cybersecurity,huge win cybersecurity data privacy,nmf,1,0.011031,1.5e-05,0.011031,0.005472,0.001733
+818,47272678,Cybersecurity,openai program trusted cybersecurity researchers,nmf,2,0.012063,0.0,0.009107,0.012063,0.005691
+819,46853725,Cybersecurity,certainly good time cybersecurity,nmf,1,0.01501,0.003539,0.01501,0.011919,0.007132
+820,46789368,Cybersecurity,ttu physics cybersecurity cern eventhorizon deeptech,nmf,1,0.014942,0.0,0.014942,0.013326,0.002667
+821,47346774,Cybersecurity,maybe hospitals shutdown ransomware attacks coming,nmf,3,0.011647,0.004296,0.004907,0.009749,0.011647
+822,46510261,Cybersecurity,change healthcare faced 22m ransomware attack missing mfa,nmf,0,0.147413,0.147413,0.006247,0.011662,0.010475
+823,47581833,Cybersecurity,price data breaches,nmf,1,0.010749,0.000134,0.010749,0.001792,0.001252
+824,47287776,Cybersecurity,thread feels like iranian cyber attack,nmf,1,0.016376,0.00315,0.016376,0.012122,0.012987
+825,47591867,Cybersecurity,1 13 6 affected malware,nmf,2,0.056553,0.0,0.0,0.056553,0.0
+826,47585545,Cybersecurity,base entire history malware lol,nmf,2,0.042752,0.0,0.000968,0.042752,0.01131
+827,47584559,Cybersecurity,include line like don include malware,nmf,2,0.035313,0.003396,0.013906,0.035313,0.012171
+828,47566570,Cybersecurity,free software protects malware walled gardens,nmf,2,0.049105,0.0,0.004005,0.049105,0.0
+829,47555992,Cybersecurity,assumed malware gate yep,nmf,2,0.119783,0.0,0.0,0.119783,0.0
+830,47553971,Cybersecurity,let security researchers staff automated malware scanners bite,nmf,2,0.033838,0.000749,0.001469,0.033838,0.004304
+831,47530090,Cybersecurity,better title ai just expanded malware include documentation,nmf,2,0.056494,0.007824,0.051023,0.056494,0.009707
+832,46412151,Cybersecurity,using nmig io ai driven cybersecurity swarm,nmf,1,0.051259,0.002493,0.051259,0.010715,0.0
+833,46323840,Cybersecurity,sounds like great candidate cybersecurity knowledge graph,nmf,1,0.033972,0.003044,0.033972,0.015196,0.007745
+834,46265633,Cybersecurity,working reddit hn cybersecurity,nmf,1,0.005691,0.0,0.005691,0.005448,0.001646
+835,45945811,Cybersecurity,launching soon claude cybersecurity automated defence depth hacker protection,nmf,1,0.005818,1.5e-05,0.005818,0.00566,0.001451
+836,45925113,Cybersecurity,indicts rogue cybersecurity employees ransomware attacks,nmf,1,0.011906,0.001724,0.011906,0.011102,0.007255
+837,45885406,Cybersecurity,america cybersecurity defenses cracking backdoor time,nmf,1,0.00764,0.005084,0.00764,0.006981,0.002076
+838,45601512,Cybersecurity,cybersecurity company hacked irony,nmf,1,0.006876,2e-05,0.006876,0.005656,0.001233
+839,45992997,Cybersecurity,make bounty market hunting destroying ransomware organizations,nmf,2,0.009473,0.003689,0.006001,0.009473,0.006336
+840,45972261,Cybersecurity,win10 got cost single ransomware attack,nmf,2,0.016475,0.003146,0.011828,0.016475,0.014821
+841,45915000,Cybersecurity,obviously ransomware payment books,nmf,0,0.006587,0.006587,0.005144,0.006216,0.005784
+842,45777347,Cybersecurity,80 percent ransomware attacks ai assisted sounds likely,nmf,1,0.04366,0.006998,0.04366,0.008277,0.012617
+843,45682120,Cybersecurity,bank accounts drained ransomware installed,nmf,2,0.007103,0.001448,0.004174,0.007103,0.004829
+844,45574146,Cybersecurity,explicitly talking ransomware requires disabling windows defender,nmf,2,0.011151,0.006397,0.004304,0.011151,0.00676
+845,46441455,Cybersecurity,google required inform data breach,nmf,1,0.009221,9.1e-05,0.009221,0.003216,0.00068
+846,45840427,Cybersecurity,2 billion account data breach haveibeenpwned,nmf,1,0.010103,0.000131,0.010103,0.00259,0.000578
+847,45659043,Cybersecurity,man ai burrowing imagine inevitable data breach,nmf,1,0.037731,0.002751,0.037731,0.002032,0.0
+848,45966722,Cybersecurity,sounds like cyber attack,nmf,1,0.032778,0.003893,0.032778,0.013321,0.017092
+849,46424980,Cybersecurity,good luck sourcing supposedly malware free release,nmf,2,0.038948,0.002129,0.002988,0.038948,0.003019
+850,46360683,Cybersecurity,llms happily copy paste malware add dependencies,nmf,2,0.038406,0.0,0.007227,0.038406,0.0
+851,46263413,Cybersecurity,malware suffers feature creep,nmf,2,0.056489,0.0,0.0,0.056489,0.0
+852,46194782,Cybersecurity,installed windows definition bloatware malware,nmf,2,0.041326,0.0,0.005313,0.041326,0.0
+853,46110976,Cybersecurity,malware spreading authors tos violating authors authors piracy apps,nmf,2,0.022722,0.0,0.0,0.022722,0.0
+854,46108498,Cybersecurity,purpose does suggest malware,nmf,2,0.068401,0.0,0.010461,0.068401,0.00754
+855,46108146,Cybersecurity,makes program malware does intent matter behavior,nmf,2,0.038006,0.0,0.006999,0.038006,0.005044
+856,46105725,Cybersecurity,malware apk,nmf,2,0.119783,0.0,0.0,0.119783,0.0
+857,45348021,Cybersecurity,2026 year cybersecurity baby let goo,nmf,2,0.013713,0.0,0.004601,0.013713,0.006304
+858,45212972,Cybersecurity,definitely cybersecurity threat considered,nmf,2,0.010416,0.0,0.005036,0.010416,0.000951
+859,44998963,Cybersecurity,entire cybersecurity like,nmf,1,0.028121,0.002494,0.028121,0.017658,0.011614
+860,44506727,Cybersecurity,good reason cybersecurity field replaced ai soon,nmf,1,0.036985,0.003937,0.036985,0.014366,0.00409
+861,44505390,Cybersecurity,did come enjoy arctic wolf approach cybersecurity training,nmf,2,0.012803,0.0,0.009226,0.012803,0.004136
+862,45286005,Cybersecurity,seen ransomware threats 3 4 weeks timelines,nmf,2,0.008441,0.002418,0.007404,0.008441,0.008149
+863,45081664,Cybersecurity,hear cyber insurance companies ransomware cover require outdated standards,nmf,2,0.008285,0.005783,0.006243,0.008285,0.007724
+864,44728792,Cybersecurity,basically ransomware waiting riwaas nice classic ms,nmf,2,0.009587,0.001161,0.003994,0.009587,0.004286
+865,44485264,Cybersecurity,need disconnect worried ransomware,nmf,0,0.010797,0.010797,0.00605,0.009047,0.010296
+866,44940538,Cybersecurity,provide source google kyc data breach,nmf,2,0.008676,0.0,0.007212,0.008676,0.000681
+867,45412858,Cybersecurity,guarantee malware using fdroid,nmf,2,0.078241,0.001474,0.017186,0.078241,0.0
+868,45411153,Cybersecurity,billions people use android phones malware exagerating slightly,nmf,2,0.049427,0.002925,0.005256,0.049427,0.004777
+869,45368528,Cybersecurity,wondering op malware injecting results search,nmf,2,0.03778,0.0,0.000414,0.03778,0.0
+870,45332011,Cybersecurity,isn malware stretch imagination,nmf,2,0.04897,0.006686,0.002921,0.04897,0.0
+871,45321834,Cybersecurity,probability malware,nmf,2,0.119783,0.0,0.0,0.119783,0.0
+872,45288059,Cybersecurity,essentially malware bonzibuddy sang,nmf,2,0.060514,0.0,0.004168,0.060514,0.0
+873,45283673,Cybersecurity,developers don typically write malware deploy production systems,nmf,2,0.031038,0.001969,0.001612,0.031038,0.013915
+874,45276143,Cybersecurity,related shai hulud malware attack tinycolor 40 npm packages compromised,nmf,2,0.044644,0.001189,0.000833,0.044644,0.00232
+875,43841353,Cybersecurity,rsa time expect lot cybersecurity posts,nmf,1,0.011283,0.000185,0.011283,0.009068,0.004209
+876,43790324,Cybersecurity,ha gone cybersecurity diagnosis,nmf,1,0.014942,0.0,0.014942,0.013326,0.002667
+877,43755299,Cybersecurity,opinions cybersecurity experts concerning hyped drama,nmf,1,0.01498,0.0,0.01498,0.007324,0.001422
+878,43690847,Cybersecurity,imagine mental price tag alongside iot cybersecurity label,nmf,1,0.005667,0.0,0.005667,0.004426,0.000865
+879,44418524,Cybersecurity,don play games behave indistinguishably ransomware,nmf,3,0.018815,0.009044,0.007114,0.010174,0.018815
+880,44417824,Cybersecurity,does protect ransomware,nmf,2,0.024105,0.002448,0.02406,0.024105,0.0225
+881,44416497,Cybersecurity,linux ransomware does require root,nmf,2,0.014182,0.001393,0.014119,0.014182,0.012979
+882,44391805,Cybersecurity,2026 ransomware space ahem cloud ransomware,nmf,2,0.009771,0.002658,0.007954,0.009771,0.009043
+883,43898063,Cybersecurity,sure corporations commit ransomware attacks time,nmf,2,0.007219,0.001394,0.005836,0.007219,0.006005
+884,43839046,Cybersecurity,reminder create backups best protection ransomware,nmf,2,0.006115,0.003308,0.005375,0.006115,0.005722
+885,44183701,Cybersecurity,don worry just monitor rate data breaches happening,nmf,1,0.018876,0.010407,0.018876,0.005312,0.015374
+886,43998035,Cybersecurity,20m ransoms reputational damage data breaches,nmf,1,0.014937,0.000202,0.014937,0.002408,0.001761
+887,44426651,Cybersecurity,crashed browser got malware page think,nmf,2,0.042894,0.000935,0.008342,0.042894,0.008294
+888,44416465,Cybersecurity,presence russian keyboard makes attractive nsa malware,nmf,2,0.040392,0.0,0.0,0.040392,0.0
+889,44414341,Cybersecurity,actual malware checking researcher created malware samples,nmf,2,0.063866,0.001286,0.004601,0.063866,0.0
+890,44335092,Cybersecurity,unity considered malware association,nmf,2,0.065992,0.0,0.0,0.065992,0.0
+891,44323643,Cybersecurity,install malware purpose malware,nmf,2,0.082166,0.0,0.0,0.082166,0.0
+892,44285413,Cybersecurity,possible mp3 mp4 contain malware,nmf,2,0.062052,0.001545,0.0,0.062052,0.007894
+893,44233701,Cybersecurity,break envinroment malware instead,nmf,2,0.066582,0.0,0.0,0.066582,0.0
+894,44194645,Cybersecurity,fully open source malware f droid automated builds popcorn,nmf,2,0.043198,0.0,0.00245,0.043198,0.0
+895,44287863,Cybersecurity,interesting hackers hacking related,nmf,3,0.004222,0.0,0.000609,0.003005,0.004222
+896,43400424,Cybersecurity,cybersecurity history history,nmf,2,0.005526,0.0,0.00418,0.005526,0.001047
+897,43398898,Cybersecurity,wow huge cybersecurity,nmf,1,0.006151,0.002818,0.006151,0.0056,0.001073
+898,43398194,Cybersecurity,israelis constantly dominating cybersecurity industry damn,nmf,2,0.021124,0.0,0.007381,0.021124,0.000844
+899,43083812,Cybersecurity,senior cybersecurity researcher position open applicants,nmf,1,0.013343,0.0,0.013343,0.008845,0.001188
+900,43051604,Cybersecurity,knows investing cybersecurity just wasteful spending,nmf,1,0.018528,0.00498,0.018528,0.011592,0.004002
+901,42847956,Cybersecurity,facebook explicitly told linux remaining cybersecurity filter,nmf,2,0.00621,0.002022,0.005875,0.00621,0.001774
+902,43328998,Cybersecurity,norm ransomware long time,nmf,2,0.014249,0.002015,0.008406,0.014249,0.007687
+903,43303053,Cybersecurity,used ransomware instead obvious kill switch,nmf,2,0.015646,0.00111,0.013526,0.015646,0.003837
+904,42929601,Cybersecurity,suspect ransomware key value,nmf,2,0.009717,0.001653,0.0046,0.009717,0.005407
+905,42633490,Cybersecurity,wonder ransomware situation,nmf,3,0.008357,0.00238,0.006846,0.008336,0.008357
+906,43536665,Cybersecurity,mention data breach notification laws,nmf,1,0.010312,0.000137,0.010312,0.001807,0.000625
+907,43124327,Cybersecurity,data breaches organization,nmf,1,0.014937,0.000202,0.014937,0.002408,0.001761
+908,43078759,Cybersecurity,federal employees accessing federal data considered data breach,nmf,1,0.012213,7.7e-05,0.012213,0.005297,0.001024
+909,43399662,Cybersecurity,gemini cyberattack exploit capabilities better,nmf,2,0.012193,0.001384,0.001168,0.012193,0.00853
+910,43323446,Cybersecurity,corroborate cyber attack like,nmf,1,0.023317,0.004777,0.023317,0.013247,0.018406
+911,43485859,Cybersecurity,malware crypto related javascript package surprised pikachu face,nmf,2,0.045342,0.0,0.003391,0.045342,0.001785
+912,43485640,Cybersecurity,simply open files malware,nmf,2,0.040073,0.0,0.002927,0.040073,0.0
+913,43467825,Cybersecurity,simply rename device malware point,nmf,2,0.033333,0.0,0.00349,0.033333,0.0
+914,43426895,Cybersecurity,authored short article malwarebytes ask,nmf,0,0.004005,0.004005,0.002175,0.001795,0.001053
+915,43389895,Cybersecurity,regularly using ios lockdown mode increase resilience malware,nmf,2,0.039975,0.000567,0.011013,0.039975,0.008353
+916,43386524,Cybersecurity,persistent ios malware quite rare days,nmf,2,0.044803,0.001473,0.003969,0.044803,0.0
+917,43379407,Cybersecurity,malware ads using ublock origin lite,nmf,2,0.057163,0.000993,0.012319,0.057163,0.0
+918,42942541,Cybersecurity,spirit hacker news hacking,nmf,1,0.001489,0.0,0.001489,0.001292,0.000515
+919,42361399,Cybersecurity,legitimately wondering dr zizmor pivot cybersecurity,nmf,1,0.006091,0.0,0.006091,0.005221,0.001014
+920,42286142,Cybersecurity,bad genuine question lacks cybersecurity knowledge,nmf,1,0.009778,0.001104,0.009778,0.009535,0.007748
+921,42008724,Cybersecurity,say recently launched cybersecurity companies,nmf,2,0.007443,0.002152,0.006253,0.007443,0.001283
+922,41877446,Cybersecurity,true real actual hackers make best cybersecurity experts,nmf,2,0.013356,0.001669,0.010675,0.013356,0.001061
+923,41877116,Cybersecurity,does hacking cybersecurity,nmf,1,0.017852,0.0,0.017852,0.016409,0.0106
+924,42436464,Cybersecurity,drop cyber attacks got fact,nmf,3,0.008027,0.001619,0.006807,0.003697,0.008027
+925,42473862,Cybersecurity,somewhat ironic trusting malware tell malware,nmf,2,0.073275,0.0,0.001715,0.073275,0.0
+926,42422970,Cybersecurity,extremely expensive way install malware,nmf,2,0.036232,0.001058,0.000393,0.036232,0.0
+927,42365641,Cybersecurity,care got malware,nmf,2,0.066537,0.0,0.009444,0.066537,0.00733
+928,42353844,Cybersecurity,think notifying users browser malware good personally,nmf,2,0.047016,0.004246,0.006776,0.047016,0.008107
+929,42263599,Cybersecurity,does malware plastic,nmf,2,0.062274,0.003494,0.010786,0.062274,0.007661
+930,42245342,Cybersecurity,certainly anti malware nonsense just tried bluesky link,nmf,2,0.031235,0.003108,0.011139,0.031235,0.0015
+931,42164627,Cybersecurity,new level malware attack angle,nmf,2,0.05126,0.001099,0.002894,0.05126,0.00554
+932,42041149,Cybersecurity,beware spreading malware,nmf,2,0.05663,0.0,0.0,0.05663,0.0
+933,41690680,Cybersecurity,getting job cybersecurity,nmf,1,0.005834,0.001817,0.005834,0.005253,0.00104
+934,41666402,Cybersecurity,claim cybersecurity pro,nmf,2,0.011134,0.0,0.010487,0.011134,0.000941
+935,41597857,Cybersecurity,free hands cybersecurity course,nmf,2,0.014772,0.0,0.006409,0.014772,0.000845
+936,41578244,Cybersecurity,cybersecurity industry like voluntary malware industry,nmf,2,0.051421,0.000976,0.015615,0.051421,0.005134
+937,41533516,Cybersecurity,ccsf cybersecurity courses renowned recall,nmf,1,0.008151,0.0,0.008151,0.007204,0.001527
+938,41199054,Cybersecurity,congrats proposed existing cybersecurity infrastructure security agency,nmf,1,0.008318,0.0,0.008318,0.005817,0.00105
+939,41107164,Cybersecurity,big cloud cybersecurity company,nmf,1,0.007266,3.6e-05,0.007266,0.005634,0.001337
+940,41203303,Cybersecurity,sure bad ransomware hackers,nmf,3,0.013432,0.002958,0.005192,0.01073,0.013432
+941,41067206,Cybersecurity,think ransomware affects clients servers doesn,nmf,3,0.013078,0.00426,0.012293,0.010841,0.013078
+942,41012554,Cybersecurity,add kaseya vsa ransomware attack 2021 list,nmf,2,0.011574,0.002713,0.004769,0.011574,0.0073
+943,41008053,Cybersecurity,computers hit ransomware inoperable ransomware wildly prevalent,nmf,3,0.014611,0.004581,0.012604,0.014542,0.014611
+944,40968280,Cybersecurity,write ransomware,nmf,2,0.009578,0.002586,0.007542,0.009578,0.008991
+945,40967528,Cybersecurity,like saying don like ransomware just develop,nmf,1,0.043879,0.013887,0.043879,0.018364,0.033395
+946,40870954,Cybersecurity,bank gets hacked ransomware fdic insure,nmf,2,0.005841,0.001708,0.005,0.005841,0.005694
+947,41689841,Cybersecurity,heard national public data breach,nmf,1,0.013053,0.0034,0.013053,0.001174,0.000356
+948,40953995,Cybersecurity,gdpr fines data breaches,nmf,1,0.010788,0.000135,0.010788,0.001715,0.001253
+949,40950355,Cybersecurity,penalties incentivise businesses hide data breaches,nmf,1,0.012975,8.1e-05,0.012975,0.004569,0.001089
+950,40946139,Cybersecurity,insurance takes lot fallout data breaches,nmf,1,0.011501,0.002296,0.011501,0.002623,0.005412
+951,41589232,Cybersecurity,does big digital make cyber attack damaging,nmf,2,0.013637,0.002254,0.012009,0.013637,0.011372
+952,41025605,Cybersecurity,sufficiently bad data leak indistinguishable cyber attack,nmf,3,0.011447,0.002395,0.007077,0.008814,0.011447
+953,41666022,Cybersecurity,virustotal detects malware windows version bkav pro w32 aidetectmalware alert,nmf,2,0.043917,0.0,0.008144,0.043917,0.0
+954,41633322,Cybersecurity,replace box hardware level malware installed,nmf,2,0.039146,0.0,0.000664,0.039146,0.0
+955,41630363,Cybersecurity,kasperskys final act operate overt malware,nmf,2,0.056013,0.0,0.0,0.056013,0.009676
+956,41625827,Cybersecurity,consider google apps malware,nmf,2,0.04044,0.0,0.004525,0.04044,0.0
+957,41599831,Cybersecurity,arent alot delivering malware pre commit hooks,nmf,2,0.044162,0.001188,0.0,0.044162,0.0
+958,41536281,Cybersecurity,malware hide environment variables,nmf,2,0.059275,0.0,0.002645,0.059275,0.0
+959,41490867,Cybersecurity,didn start packaging malware binary downloads,nmf,2,0.037358,0.0,8.8e-05,0.037358,0.009444
+960,41484601,Cybersecurity,late malware,nmf,2,0.058825,0.0,0.0,0.058825,0.0
+961,41347272,Cybersecurity,hacking gotten hackers jail past,nmf,3,0.004167,0.0,0.000463,0.000717,0.004167
+962,40834010,Cybersecurity,supplying electricity computing device cybersecurity threat,nmf,2,0.004451,0.0,0.004315,0.004451,0.00076
+963,40641604,Cybersecurity,people understand cybersecurity hygiene use iphones obvious reasons,nmf,2,0.012604,0.002245,0.008456,0.012604,0.004771
+964,40640825,Cybersecurity,comments references independent audits meaning professional cybersecurity firms,nmf,3,0.006755,0.0,0.005977,0.005475,0.006755
+965,40534395,Cybersecurity,feature cybersecurity product looks like marketing site,nmf,1,0.020809,0.001373,0.020809,0.009758,0.010724
+966,40494953,Cybersecurity,cybersecurity enthusiast ruins,nmf,1,0.014942,0.0,0.014942,0.013326,0.002667
+967,40091275,Cybersecurity,congratulations poor cybersecurity hygiene bad idea,nmf,3,0.010137,0.000832,0.006983,0.006707,0.010137
+968,40755108,Cybersecurity,heard ransomware botnets keyloggers iphones pegasus,nmf,1,0.012241,0.006177,0.012241,0.005544,0.005526
+969,40740042,Cybersecurity,point oracle different ransomware,nmf,2,0.006769,0.001526,0.005784,0.006769,0.005781
+970,40668404,Cybersecurity,really useful examples ransomware,nmf,2,0.007522,0.00192,0.006406,0.007522,0.007357
+971,40595997,Cybersecurity,took ransomware crew exactly problem,nmf,2,0.012312,0.004366,0.012113,0.012312,0.009108
+972,40451337,Cybersecurity,just balance risk ransomware,nmf,1,0.020881,0.008187,0.020881,0.013248,0.01027
+973,40195670,Cybersecurity,reading lines like kind ransomware,nmf,1,0.033459,0.004606,0.033459,0.017094,0.022541
+974,40794147,Cybersecurity,data breaches leaks involving personal data bad,nmf,1,0.013032,0.004778,0.013032,0.00551,0.007057
+975,40360478,Cybersecurity,futurama fans data breaches,nmf,1,0.014937,0.000202,0.014937,0.002408,0.001761
+976,40621083,Cybersecurity,come cyber attack disrupt blood transfusion,nmf,2,0.011353,0.001524,0.001999,0.011353,0.006362
+977,40108314,Cybersecurity,global cyber attack surface area double,nmf,3,0.146602,0.000568,0.000523,0.002142,0.146602
+978,40809772,Cybersecurity,exactly malware deployed,nmf,2,0.061233,0.0,0.008135,0.061233,0.0
+979,40792163,Cybersecurity,did malware actually,nmf,2,0.060132,0.0,0.000736,0.060132,0.011088
+980,40718951,Cybersecurity,likely malware,nmf,2,0.061816,0.007877,1.2e-05,0.061816,0.012563
+981,40715823,Cybersecurity,iteration malware checks scarecrow starts anyways,nmf,2,0.057483,0.0,0.0,0.057483,0.0
+982,40677094,Cybersecurity,think business choice prevent adblockers web extension malware,nmf,2,0.035329,0.002837,0.003234,0.035329,0.003104
+983,40667522,Cybersecurity,apple apps malware,nmf,2,0.04573,0.0,0.000175,0.04573,0.0
+984,40667065,Cybersecurity,malware breaks law,nmf,2,0.119783,0.0,0.0,0.119783,0.0
+985,40665651,Cybersecurity,real question does f droid police malware,nmf,2,0.051354,0.0,0.007218,0.051354,0.005204
+986,39779175,Cybersecurity,cybercriminal organizations pull way cybersecurity firms,nmf,2,0.005419,0.001444,0.005199,0.005419,0.001463
+987,39685703,Cybersecurity,mouthful intelligence community comprehensive national cybersecurity initiative data center,nmf,1,0.014155,7.9e-05,0.014155,0.005193,0.001357
+988,39537841,Cybersecurity,cybersecurity offence defence llms make defence proportionally harder,nmf,1,0.010892,0.000852,0.010892,0.005719,0.00063
+989,39407648,Cybersecurity,cybersecurity engineers safe ai,nmf,1,0.042314,0.00155,0.042314,0.006102,0.000235
+990,39067043,Cybersecurity,cybersecurity professionals general eat stuff,nmf,1,0.009224,0.0,0.009224,0.004482,0.009158
+991,39712960,Cybersecurity,probably seen attempt ransomware,nmf,1,0.00686,0.002175,0.00686,0.006562,0.005995
+992,39316501,Cybersecurity,money laundering ransomware speculation gambling purchasing illegal goods services,nmf,2,0.009157,0.002165,0.00407,0.009157,0.004443
+993,39156453,Cybersecurity,networking software ransomware wouldn thing,nmf,1,0.010128,0.003766,0.010128,0.006858,0.010041
+994,39156261,Cybersecurity,bitcoin cryptocurrencies ransomware wouldn thing,nmf,3,0.015167,0.003892,0.012039,0.010281,0.015167
+995,39145779,Cybersecurity,maybe ukraine russia weaponized ransomware gangs,nmf,3,0.016209,0.004953,0.004861,0.009687,0.016209
+996,38988580,Cybersecurity,assertion form substantiation ransomware,nmf,3,0.014611,0.004581,0.012604,0.014542,0.014611
+997,39468198,Cybersecurity,data dams adds visual metaphor data breaches,nmf,1,0.014498,0.002872,0.014498,0.00218,0.001407
+998,39411462,Cybersecurity,suffer data breach sorry,nmf,1,0.010578,0.002111,0.010578,0.002121,0.000761
+999,39610281,Cybersecurity,cyber attack super tuesday,nmf,3,0.007624,0.001879,0.002776,0.005573,0.007624
+1000,39576917,Cybersecurity,think outage cyber attack,nmf,3,0.013812,0.004133,0.006516,0.013176,0.013812
+1001,39111236,Cybersecurity,nsa literally performs cyber attacks foreign countries,nmf,3,0.009309,6.2e-05,0.001619,0.004332,0.009309
+1002,39887817,Cybersecurity,malware commits,nmf,2,0.119783,0.0,0.0,0.119783,0.0
+1003,39887742,Cybersecurity,malware authors add clickthrough eula hook,nmf,2,0.046024,0.0,0.0,0.046024,0.0
+1004,39886536,Cybersecurity,malware popups just like original,nmf,2,0.054569,0.011091,0.032944,0.054569,0.011204
+1005,39882807,Cybersecurity,competent malware dev panic switch,nmf,2,0.061874,0.0,0.0,0.061874,0.0
+1006,39876089,Cybersecurity,sourceforge fell greedy overlords started shipping malware,nmf,2,0.056614,0.0,0.0,0.056614,0.0
+1007,39809913,Cybersecurity,non malware tools help clean madness,nmf,2,0.044934,0.001061,0.000338,0.044934,0.0
+1008,39809845,Cybersecurity,scrolling website mobile think installed malware,nmf,2,0.047317,0.001163,0.003158,0.047317,0.003814
+1009,39809785,Cybersecurity,officially ms malware,nmf,2,0.058706,0.0,0.0,0.058706,0.0
+1010,38509277,Cybersecurity,drug traffickers mafias cybersecurity tools states,nmf,2,0.008495,0.0,0.008115,0.008495,0.001314
+1011,38406086,Cybersecurity,80 favorite cybersecurity courses trainings,nmf,1,0.006896,0.0,0.006896,0.005552,0.001342
+1012,38306620,Cybersecurity,start asking cybersecurityists,nmf,3,0.005194,0.002923,0.0,0.001907,0.005194
+1013,38232086,Cybersecurity,organisations similar approach problem cybersecurity,nmf,1,0.021316,0.001898,0.021316,0.007395,0.003079
+1014,38086895,Cybersecurity,h1 thought leadership cybersecurity thought leadership awards,nmf,2,0.006674,0.0,0.005134,0.006674,0.001177
+1015,38802602,Cybersecurity,eh ransomware payments tolerate fees,nmf,2,0.007566,0.001506,0.004918,0.007566,0.005346
+1016,38703247,Cybersecurity,safe ransomware viruses,nmf,1,0.008314,0.002398,0.008314,0.008066,0.00779
+1017,38519928,Cybersecurity,solid fundraising strategy sure legit ransomware,nmf,3,0.00947,0.002602,0.007982,0.009468,0.00947
+1018,38354377,Cybersecurity,mgm ransomware supposedly cost 100mil,nmf,2,0.011482,0.001702,0.004872,0.011482,0.006256
+1019,38227721,Cybersecurity,ransomware campaigns distraction parallel exploit,nmf,2,0.007728,0.002269,0.006325,0.007728,0.007631
+1020,38086171,Cybersecurity,nigeria country pretty bad don ransomware lol,nmf,3,0.029117,0.007391,0.006027,0.013113,0.029117
+1021,38313311,Cybersecurity,ciso role fired data breach,nmf,1,0.008794,0.000172,0.008794,0.001536,0.000564
+1022,38313072,Cybersecurity,clorox just fired ciso week data breach,nmf,1,0.017067,0.004079,0.017067,0.003618,0.003101
+1023,38219385,Cybersecurity,time data breach azure fireworks,nmf,1,0.010918,0.000213,0.010918,0.003589,0.001853
+1024,38093611,Cybersecurity,data breach noreferrer,nmf,1,0.01115,0.00024,0.01115,0.002336,0.001059
+1025,37848239,Cybersecurity,right equifax data breach negatively affected,nmf,1,0.011909,0.003565,0.011909,0.008812,0.000583
+1026,38801692,Cybersecurity,talking analysis understanding malware,nmf,2,0.051625,0.002492,0.003869,0.051625,0.001084
+1027,38757134,Cybersecurity,cries family support malware coming,nmf,2,0.040631,0.0,0.000196,0.040631,0.0
+1028,38723223,Cybersecurity,bochs wx debugger ideal debug malware,nmf,2,0.056522,0.0,0.0,0.056522,0.0
+1029,38646233,Cybersecurity,possible consume malware list json sse,nmf,2,0.041487,0.000902,0.0,0.041487,0.004984
+1030,38645949,Cybersecurity,didn claim new mega chinese malware,nmf,2,0.041211,0.0,0.001,0.041211,0.00793
+1031,38495598,Cybersecurity,looks like malware background scanner like scam,nmf,2,0.043847,0.002973,0.029167,0.043847,0.017405
+1032,38790499,Cybersecurity,having exploits burned business,nmf,2,0.001157,4e-06,0.000105,0.001157,7.7e-05
+1033,37625649,Cybersecurity,goal cybersecurity types,nmf,1,0.014942,0.0,0.014942,0.013326,0.002667
+1034,37557977,Cybersecurity,embrace extend extinguish cybersecurity ai microsoft way,nmf,1,0.037326,0.00285,0.037326,0.008345,0.000442
+1035,37446162,Cybersecurity,20 cybersecurity tools 0 frontend developers payroll,nmf,1,0.00746,0.0,0.00746,0.005782,0.001095
+1036,37316712,Cybersecurity,cybersecurity ic,nmf,1,0.014942,0.0,0.014942,0.013326,0.002667
+1037,37313461,Cybersecurity,100 definitions key terms acronyms concepts cybersecurity,nmf,1,0.005257,0.001264,0.005257,0.004678,0.004396
+1038,36724129,Cybersecurity,cybersecurity jobs paid,nmf,1,0.008033,0.0,0.008033,0.007372,0.001851
+1039,36714717,Cybersecurity,beginner guide data privacy cybersecurity,nmf,1,0.012581,6e-06,0.012581,0.005974,0.00163
+1040,36624297,Cybersecurity,av small cybersecurity space,nmf,1,0.006915,0.0,0.006915,0.006375,0.001806
+1041,37624165,Cybersecurity,crypto comes ransomware pull crypto,nmf,1,0.010017,0.003722,0.010017,0.0091,0.008936
+1042,37600719,Cybersecurity,ransomware russians,nmf,3,0.014611,0.004581,0.012604,0.014542,0.014611
+1043,37387297,Cybersecurity,spyware sucks ransomware joining botnet suck,nmf,3,0.014611,0.004581,0.012604,0.014542,0.014611
+1044,37068416,Cybersecurity,definitely emboldened criminal behavior especially things like ransomware,nmf,1,0.020069,0.007186,0.020069,0.012968,0.010254
+1045,36826888,Cybersecurity,ransomware cancellation billing snafus attackers insiders noreferrer,nmf,2,0.008119,0.002474,0.007545,0.008119,0.008052
+1046,37685502,Cybersecurity,1 previously reported non reported data breaches,nmf,1,0.011647,0.000149,0.011647,0.003879,0.00141
+1047,37657164,Cybersecurity,good data breaches mozillas noreferrer,nmf,1,0.014508,0.003751,0.014508,0.007209,0.006782
+1048,37134123,Cybersecurity,telemetry ads saas terms service data breaches platform effects,nmf,3,0.007373,0.00099,0.006783,0.002641,0.007373
+1049,37125897,Cybersecurity,long data data breaches,nmf,1,0.015868,9.2e-05,0.015868,0.007016,0.00167
+1050,36995639,Cybersecurity,data breach action plan guide,nmf,1,0.008635,0.000103,0.008635,0.001784,0.000632
+1051,37694718,Cybersecurity,microsoft scammy ads malware bad programmers come package,nmf,2,0.041426,0.000515,0.000134,0.041426,0.004597
+1052,37657178,Cybersecurity,second thing scanning malware presumably,nmf,2,0.037592,0.001789,0.002069,0.037592,0.008477
+1053,37542272,Cybersecurity,isnt hide malware machine,nmf,1,0.1049,0.0,0.1049,0.037689,0.0
+1054,37517714,Cybersecurity,works malware workstation,nmf,2,0.058214,0.0,0.007208,0.058214,0.0
+1055,37506770,Cybersecurity,day used malware,nmf,2,0.052147,0.0,0.013298,0.052147,0.0
+1056,37495929,Cybersecurity,days windows indistinguishable malware,nmf,2,0.039176,0.001275,0.003453,0.039176,0.0

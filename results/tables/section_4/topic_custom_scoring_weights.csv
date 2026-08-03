@@ -1,0 +1,12 @@
+score_level,component,weight
+term,freq_score_norm,0.2
+term,tfidf_score_norm,0.25
+term,topic_specific_score_norm,0.2
+term,sentiment_association_score_norm,0.15
+term,positional_score_norm,0.1
+term,bigram_boost_score_norm,0.1
+bigram,bigram_tfidf_score_norm,0.7
+bigram,bigram_distinctiveness_norm,0.3
+document,document_unigram_score,0.55
+document,document_bigram_score,0.3
+document,document_positional_score,0.15

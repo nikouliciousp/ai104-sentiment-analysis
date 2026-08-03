@@ -1,0 +1,81 @@
+topic,term,mean_tfidf_in_topic,mean_tfidf_in_other,topic_distinctiveness_ratio,topic_doc_count,other_doc_count,fit_scope,tfidf_rank,topic_term_count,frequency_rank,rank_difference
+Artificial Intelligence,openai,0.122341,0.000343,357.1391,253,803,global,1,83.0,1,0
+Artificial Intelligence,chatgpt,0.116443,0.0,inf,253,803,global,2,75.0,2,0
+Artificial Intelligence,learning,0.098734,0.000432,228.6635,253,803,global,3,68.0,3,0
+Artificial Intelligence,machine,0.095693,0.000429,222.8855,253,803,global,4,68.0,4,0
+Artificial Intelligence,ai,0.048676,0.009882,4.9256,253,803,global,5,33.0,5,0
+Artificial Intelligence,models,0.029689,0.0,inf,253,803,global,6,18.0,6,0
+Artificial Intelligence,like,0.021137,0.018038,1.1718,253,803,global,7,15.0,7,0
+Artificial Intelligence,language,0.019641,0.0,inf,253,803,global,8,13.0,8,0
+Artificial Intelligence,good,0.018335,0.007423,2.4701,253,803,global,9,9.0,12,3
+Artificial Intelligence,large,0.016876,0.0,inf,253,803,global,10,11.0,10,0
+Artificial Intelligence,just,0.016342,0.012664,1.2904,253,803,global,11,11.0,9,-2
+Artificial Intelligence,llm,0.014976,0.001066,14.0461,253,803,global,12,10.0,11,-1
+Artificial Intelligence,open,0.014705,0.00188,7.82,253,803,global,13,8.0,14,1
+Artificial Intelligence,claude,0.014024,0.000903,15.537,253,803,global,14,8.0,15,1
+Artificial Intelligence,anthropic,0.01254,0.0,inf,253,803,global,15,7.0,19,4
+Artificial Intelligence,pretty,0.012326,0.002115,5.8268,253,803,global,16,6.0,20,4
+Artificial Intelligence,using,0.012172,0.005373,2.2654,253,803,global,17,7.0,18,1
+Artificial Intelligence,model,0.011998,0.00051,23.5342,253,803,global,18,8.0,16,-2
+Artificial Intelligence,does,0.011978,0.011845,1.0112,253,803,global,19,8.0,13,-6
+Artificial Intelligence,did,0.01172,0.006256,1.8734,253,803,global,20,7.0,17,-3
+Climate Change,climate,0.127324,0.0,inf,265,791,global,1,88.0,1,0
+Climate Change,change,0.124189,0.000608,204.2398,265,791,global,2,86.0,2,0
+Climate Change,fossil,0.095392,0.0,inf,265,791,global,3,69.0,3,0
+Climate Change,warming,0.081755,0.0,inf,265,791,global,4,58.0,4,0
+Climate Change,global,0.080794,0.000908,89.0077,265,791,global,5,58.0,5,0
+Climate Change,fuels,0.065166,0.000395,164.9223,265,791,global,6,41.0,6,0
+Climate Change,energy,0.057045,0.001105,51.6334,265,791,global,7,38.0,7,0
+Climate Change,renewable,0.052684,0.0,inf,265,791,global,8,33.0,8,0
+Climate Change,fuel,0.049104,0.0,inf,265,791,global,9,30.0,9,0
+Climate Change,carbon,0.039485,0.0,inf,265,791,global,10,25.0,10,0
+Climate Change,emissions,0.038697,0.0,inf,265,791,global,11,23.0,11,0
+Climate Change,nuclear,0.015086,0.0,inf,265,791,global,12,9.0,12,0
+Climate Change,pollution,0.012261,0.0,inf,265,791,global,13,6.0,16,3
+Climate Change,don,0.012116,0.007932,1.5274,265,791,global,14,7.0,14,0
+Climate Change,better,0.01145,0.004244,2.6983,265,791,global,15,6.0,15,0
+Climate Change,solve,0.01073,0.001356,7.9129,265,791,global,16,,0,-16
+Climate Change,people,0.010132,0.007192,1.4087,265,791,global,17,6.0,20,3
+Climate Change,isn,0.009724,0.005177,1.8783,265,791,global,18,,0,-18
+Climate Change,changes,0.009565,0.0,inf,265,791,global,19,,0,-19
+Climate Change,need,0.009558,0.003574,2.6744,265,791,global,20,6.0,19,-1
+Cryptocurrency,blockchain,0.089894,0.0,inf,272,784,global,1,55.0,2,1
+Cryptocurrency,bitcoin,0.089713,0.000411,218.1329,272,784,global,2,62.0,1,-1
+Cryptocurrency,cryptocurrency,0.075743,0.0,inf,272,784,global,3,48.0,4,1
+Cryptocurrency,ethereum,0.072163,0.0,inf,272,784,global,4,44.0,5,1
+Cryptocurrency,crypto,0.07114,0.001856,38.3302,272,784,global,5,50.0,3,-2
+Cryptocurrency,use,0.027749,0.003257,8.5198,272,784,global,6,16.0,7,1
+Cryptocurrency,like,0.022729,0.017411,1.3055,272,784,global,7,17.0,6,-1
+Cryptocurrency,cryptocurrencies,0.017958,0.000612,29.3459,272,784,global,8,8.0,13,5
+Cryptocurrency,buy,0.017759,0.0,inf,272,784,global,9,8.0,12,3
+Cryptocurrency,just,0.017297,0.012244,1.4127,272,784,global,10,12.0,8,-2
+Cryptocurrency,mining,0.01702,0.0,inf,272,784,global,11,8.0,10,-1
+Cryptocurrency,currency,0.016958,0.0,inf,272,784,global,12,8.0,11,-1
+Cryptocurrency,ai,0.016814,0.019997,0.8408,272,784,global,13,12.0,9,-4
+Cryptocurrency,cryptography,0.012723,0.0,inf,272,784,global,14,7.0,15,1
+Cryptocurrency,lot,0.012719,0.003275,3.8835,272,784,global,15,7.0,14,-1
+Cryptocurrency,did,0.011902,0.00606,1.9639,272,784,global,16,7.0,17,1
+Cryptocurrency,blockchains,0.010989,0.0,inf,272,784,global,17,6.0,19,2
+Cryptocurrency,right,0.010754,0.004897,2.1961,272,784,global,18,,0,-18
+Cryptocurrency,actually,0.010656,0.002074,5.1374,272,784,global,19,,0,-19
+Cryptocurrency,doesn,0.010238,0.005034,2.0337,272,784,global,20,,0,-20
+Cybersecurity,malware,0.132979,0.0,inf,266,790,global,1,93.0,1,0
+Cybersecurity,cybersecurity,0.100257,0.0,inf,266,790,global,2,68.0,2,0
+Cybersecurity,ransomware,0.096457,0.000961,100.4074,266,790,global,3,62.0,3,0
+Cybersecurity,data,0.057517,0.002592,22.192,266,790,global,4,40.0,4,0
+Cybersecurity,breaches,0.030622,0.0,inf,266,790,global,5,16.0,6,1
+Cybersecurity,breach,0.027415,0.0,inf,266,790,global,6,16.0,7,1
+Cybersecurity,attack,0.025505,0.001111,22.9511,266,790,global,7,14.0,8,1
+Cybersecurity,like,0.024663,0.0168,1.468,266,790,global,8,18.0,5,-3
+Cybersecurity,cyber,0.021495,0.0,inf,266,790,global,9,12.0,9,0
+Cybersecurity,does,0.016113,0.01045,1.542,266,790,global,10,9.0,10,0
+Cybersecurity,time,0.011567,0.003922,2.9496,266,790,global,11,6.0,17,6
+Cybersecurity,just,0.01112,0.014362,0.7743,266,790,global,12,8.0,11,-1
+Cybersecurity,bad,0.011058,0.002403,4.6016,266,790,global,13,7.0,13,0
+Cybersecurity,attacks,0.010894,0.0,inf,266,790,global,14,6.0,16,2
+Cybersecurity,don,0.009946,0.008657,1.1489,266,790,global,15,7.0,12,-3
+Cybersecurity,think,0.009381,0.007928,1.1833,266,790,global,16,6.0,15,-1
+Cybersecurity,hacking,0.008921,0.0,inf,266,790,global,17,,0,-17
+Cybersecurity,ai,0.008552,0.022754,0.3758,266,790,global,18,7.0,14,-4
+Cybersecurity,got,0.008488,0.003375,2.5149,266,790,global,19,,0,-19
+Cybersecurity,using,0.008381,0.006538,1.2819,266,790,global,20,4.0,19,-1
