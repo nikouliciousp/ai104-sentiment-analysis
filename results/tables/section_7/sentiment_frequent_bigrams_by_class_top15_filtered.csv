@@ -1,0 +1,23 @@
+sentiment,rank_within_sentiment,bigram,frequency
+negative,1,climate change,36
+negative,2,global warming,26
+negative,3,fossil fuel,12
+negative,4,fossil fuels,11
+negative,5,carbon emissions,8
+negative,6,machine learning,7
+negative,7,data breach,5
+neutral,1,machine learning,52
+neutral,2,climate change,42
+neutral,3,global warming,29
+neutral,4,fossil fuels,25
+neutral,5,renewable energy,23
+neutral,6,fossil fuel,14
+neutral,7,carbon emissions,11
+neutral,8,data breach,11
+neutral,9,data breaches,11
+neutral,10,large language,11
+positive,1,machine learning,8
+positive,2,climate change,7
+positive,3,fossil fuels,5
+positive,4,better than,3
+positive,5,global warming,2
