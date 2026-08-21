@@ -1,0 +1,4 @@
+classifier,metric,bow_mean,tfidf_mean,mean_diff_tfidf_minus_bow,t_stat,p_value,significant_at_0.05,verdict
+Naive Bayes,macro_f1,0.9822,0.9775,-0.0047,-2.0831,0.1057,False,no significant difference
+K-Nearest Neighbors,macro_f1,0.9762,0.9322,-0.044,-3.7363,0.0202,True,BoW better
+Random Forest,macro_f1,0.9824,0.9824,0.0,,,False,no significant difference
