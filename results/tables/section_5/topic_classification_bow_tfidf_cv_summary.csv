@@ -1,0 +1,7 @@
+classifier,representation,accuracy_mean,accuracy_std,macro_precision_mean,macro_precision_std,macro_recall_mean,macro_recall_std,macro_f1_mean,macro_f1_std
+Naive Bayes,Bag-Of-Words,0.9822,0.0171,0.9828,0.0165,0.9826,0.0168,0.9822,0.0173
+Naive Bayes,TF-IDF,0.9775,0.0165,0.9781,0.0161,0.9778,0.0162,0.9775,0.0166
+K-Nearest Neighbors,Bag-Of-Words,0.9763,0.0083,0.9767,0.0084,0.9768,0.0084,0.9762,0.0084
+K-Nearest Neighbors,TF-IDF,0.9324,0.0159,0.9357,0.0144,0.9325,0.0163,0.9322,0.0161
+Random Forest,Bag-Of-Words,0.9822,0.0154,0.9837,0.0134,0.9822,0.0156,0.9824,0.0153
+Random Forest,TF-IDF,0.9822,0.0154,0.9837,0.0134,0.9822,0.0156,0.9824,0.0153
