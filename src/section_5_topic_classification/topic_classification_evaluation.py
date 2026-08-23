@@ -2,7 +2,7 @@
 Section 5c - Topic Classification Evaluation
 
 Focused evaluation of the best-performing topic model identified in
-Section 5b: Random Forest on the Enriched (TF-IDF + 4 custom) representation.
+Section 5b: Random Forest on the Enriched (TF-IDF + 16 custom) representation.
 
 Section 5b already produced the full representation comparison. This script
 does not repeat it. It re-fits only the winning classifier/representation
@@ -43,10 +43,22 @@ FEATURES_PATH = os.path.join(BASE_DIR, "data", "features", "topic_classification
 TEXT_DATASET_PATH = os.path.join(BASE_DIR, "data", "features", "hackernews_topic_features_dataset.csv")
 TEXT_COLUMN = "text_no_stopwords"
 CUSTOM_FEATURE_COLUMNS = [
-    "document_custom_score",
-    "document_unigram_score",
-    "document_bigram_score",
-    "document_positional_score",
+    "document_unigram_score_artificial_intelligence",
+    "document_bigram_score_artificial_intelligence",
+    "document_positional_score_artificial_intelligence",
+    "document_custom_score_artificial_intelligence",
+    "document_unigram_score_climate_change",
+    "document_bigram_score_climate_change",
+    "document_positional_score_climate_change",
+    "document_custom_score_climate_change",
+    "document_unigram_score_cryptocurrency",
+    "document_bigram_score_cryptocurrency",
+    "document_positional_score_cryptocurrency",
+    "document_custom_score_cryptocurrency",
+    "document_unigram_score_cybersecurity",
+    "document_bigram_score_cybersecurity",
+    "document_positional_score_cybersecurity",
+    "document_custom_score_cybersecurity",
 ]
 VECTORIZER_PARAMS = {
     "lowercase": True,
@@ -86,7 +98,7 @@ def main():
 
     labels = sorted(df["topic"].unique())
 
-    # Enriched representation: TF-IDF + 4 custom features.
+    # Enriched representation: TF-IDF + 16 custom features.
     tfidf_vectorizer = TfidfVectorizer(**VECTORIZER_PARAMS)
     X_train_tfidf = tfidf_vectorizer.fit_transform(train_df[TEXT_COLUMN])
     X_test_tfidf = tfidf_vectorizer.transform(test_df[TEXT_COLUMN])
@@ -113,7 +125,7 @@ def main():
     accuracy = accuracy_score(y_test, y_pred)
     macro_f1 = f1_score(y_test, y_pred, average="macro", labels=labels)
 
-    print("\nBest model: Random Forest, Enriched (TF-IDF + 4 custom)")
+    print("\nBest model: Random Forest, Enriched (TF-IDF + 16 custom)")
     print(f"Accuracy : {accuracy:.4f}")
     print(f"macro-F1 : {macro_f1:.4f}")
 

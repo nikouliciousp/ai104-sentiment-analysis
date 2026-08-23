@@ -18,10 +18,22 @@ FEATURES_PATH = os.path.join(BASE_DIR, "data", "features", "topic_classification
 TEXT_DATASET_PATH = os.path.join(BASE_DIR, "data", "features", "hackernews_topic_features_dataset.csv")
 TEXT_COLUMN = "text_no_stopwords"
 CUSTOM_FEATURE_COLUMNS = [
-    "document_custom_score",
-    "document_unigram_score",
-    "document_bigram_score",
-    "document_positional_score",
+    "document_unigram_score_artificial_intelligence",
+    "document_bigram_score_artificial_intelligence",
+    "document_positional_score_artificial_intelligence",
+    "document_custom_score_artificial_intelligence",
+    "document_unigram_score_climate_change",
+    "document_bigram_score_climate_change",
+    "document_positional_score_climate_change",
+    "document_custom_score_climate_change",
+    "document_unigram_score_cryptocurrency",
+    "document_bigram_score_cryptocurrency",
+    "document_positional_score_cryptocurrency",
+    "document_custom_score_cryptocurrency",
+    "document_unigram_score_cybersecurity",
+    "document_bigram_score_cybersecurity",
+    "document_positional_score_cybersecurity",
+    "document_custom_score_cybersecurity",
 ]
 VECTORIZER_PARAMS = {
     "lowercase": True,
@@ -166,7 +178,7 @@ def main():
             evaluate_representation(
                 classifier_name, model,
                 X_train_enriched, X_test_enriched, y_train, y_test,
-                "Enriched (TF-IDF + 4 custom)"
+                "Enriched (TF-IDF + 16 custom)"
             )
         )
 
