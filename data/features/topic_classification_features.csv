@@ -9,7 +9,7 @@ post_id,item_id,topic,final_sentiment,split,document_unigram_score,document_bigr
 48765367,8,Artificial Intelligence,neutral,train,0.727838,0.0,0.241094,0.436475,1,0
 48764961,9,Artificial Intelligence,neutral,train,0.475707,0.0,0.151401,0.284349,2,0
 48759295,10,Artificial Intelligence,negative,train,0.727838,0.0,0.482189,0.472639,1,0
-48756530,11,Artificial Intelligence,neutral,train,0.362174,0.0,0.201857,0.229474,4,0
+48756530,11,Artificial Intelligence,neutral,train,0.219744,0.0,0.904545,0.256541,1,0
 48753499,12,Artificial Intelligence,negative,train,0.5246,0.0,0.31323,0.335515,2,0
 48752694,13,Artificial Intelligence,positive,train,0.49647,0.328014,0.158765,0.395277,2,1
 48752435,14,Artificial Intelligence,positive,train,0.501575,0.0,0.246979,0.312913,2,0
@@ -91,8 +91,8 @@ post_id,item_id,topic,final_sentiment,split,document_unigram_score,document_bigr
 44379906,90,Artificial Intelligence,neutral,train,0.491791,0.328014,0.243309,0.405385,4,1
 44419960,91,Artificial Intelligence,negative,train,0.366827,0.0,0.206438,0.232721,5,0
 44403801,92,Artificial Intelligence,neutral,train,0.428002,0.0,0.387498,0.293526,3,0
-44403237,93,Artificial Intelligence,negative,test,0.385631,0.0,0.098924,0.226936,2,0
-44398204,94,Artificial Intelligence,negative,train,0.312485,0.0,0.092925,0.185805,4,0
+44403237,93,Artificial Intelligence,negative,test,0.487811,0.0,0.057236,0.276881,1,0
+44398204,94,Artificial Intelligence,negative,train,0.487811,0.0,0.045789,0.275164,1,0
 44384052,95,Artificial Intelligence,neutral,train,0.304447,0.352611,0.271818,0.314002,5,2
 44384049,96,Artificial Intelligence,negative,train,0.519591,0.0,0.1485,0.30805,2,0
 43741101,97,Artificial Intelligence,negative,train,0.290084,0.328014,0.08565,0.270798,4,2
@@ -242,7 +242,7 @@ post_id,item_id,topic,final_sentiment,split,document_unigram_score,document_bigr
 37718524,241,Artificial Intelligence,positive,train,0.387115,0.0,0.099595,0.227853,3,0
 37712585,242,Artificial Intelligence,positive,train,0.513941,0.328014,0.273092,0.422036,2,1
 37695136,243,Artificial Intelligence,neutral,test,0.706521,0.0,0.353501,0.441612,1,0
-37693558,244,Artificial Intelligence,neutral,train,0.353051,0.0,0.221059,0.227337,3,0
+37693558,244,Artificial Intelligence,neutral,train,0.226785,0.0,0.707317,0.230829,1,0
 37681016,245,Artificial Intelligence,negative,train,0.397076,0.33282,0.276511,0.359714,3,1
 37695952,246,Artificial Intelligence,positive,test,0.727838,0.0,0.241094,0.436475,1,0
 37693322,247,Artificial Intelligence,neutral,train,0.301514,0.37659,0.183833,0.306385,4,1
@@ -254,11 +254,11 @@ post_id,item_id,topic,final_sentiment,split,document_unigram_score,document_bigr
 37658835,253,Artificial Intelligence,neutral,test,0.727838,0.0,0.16073,0.42442,1,0
 48741668,254,Cryptocurrency,negative,train,0.350913,0.0,0.284835,0.235728,3,0
 48718296,255,Cryptocurrency,neutral,train,0.405985,0.0,0.18266,0.250691,5,0
-48699643,256,Cryptocurrency,neutral,train,0.284593,0.0,0.074762,0.16774,4,0
-48694469,257,Cryptocurrency,neutral,train,0.177605,0.0,0.204001,0.128283,5,0
+48699643,256,Cryptocurrency,neutral,train,0.329743,0.0,0.25,0.218859,1,0
+48694469,257,Cryptocurrency,neutral,train,0.219744,0.0,0.904545,0.256541,1,0
 48649214,258,Cryptocurrency,neutral,train,0.386311,0.0,0.104455,0.228139,3,0
 48645097,259,Cryptocurrency,neutral,train,0.345813,0.0,0.304222,0.235831,4,0
-48643025,260,Cryptocurrency,negative,train,0.434982,0.0,0.115822,0.256614,3,0
+48643025,260,Cryptocurrency,negative,train,0.619305,0.0,0.418462,0.403387,1,0
 48716026,261,Cryptocurrency,neutral,train,0.500053,0.0,0.286529,0.318009,2,0
 48646134,262,Cryptocurrency,neutral,train,0.499705,0.0,0.064189,0.284466,2,0
 48501229,263,Cryptocurrency,neutral,train,0.684352,0.0,0.151866,0.399174,1,0
@@ -277,7 +277,7 @@ post_id,item_id,topic,final_sentiment,split,document_unigram_score,document_bigr
 48738705,276,Cryptocurrency,negative,test,0.383234,0.0,0.15463,0.233973,2,0
 48738306,277,Cryptocurrency,negative,train,0.640717,0.0,0.139153,0.373267,1,0
 48749831,278,Cryptocurrency,negative,train,0.478134,0.0,0.26182,0.302247,2,0
-48682441,279,Cryptocurrency,negative,train,0.22251,0.0,0.133985,0.142478,4,0
+48682441,279,Cryptocurrency,negative,train,0.270783,0.0,0.085869,0.161811,2,0
 48662488,280,Cryptocurrency,negative,train,0.493504,0.0,0.332563,0.321312,2,0
 48647899,281,Cryptocurrency,neutral,train,0.402797,0.484988,0.084645,0.379732,3,1
 48569615,282,Cryptocurrency,negative,train,0.755801,0.0,0.158645,0.439487,1,0
@@ -285,7 +285,7 @@ post_id,item_id,topic,final_sentiment,split,document_unigram_score,document_bigr
 48488051,284,Cryptocurrency,neutral,train,0.755801,0.0,0.105763,0.431555,1,0
 48417368,285,Cryptocurrency,neutral,train,0.418156,0.533341,0.181616,0.417231,4,1
 47547336,286,Cryptocurrency,neutral,train,0.319204,0.0,0.051416,0.183275,4,0
-47541758,287,Cryptocurrency,negative,train,0.207495,0.0,0.083333,0.126623,2,0
+47541758,287,Cryptocurrency,negative,train,0.200464,0.0,0.333333,0.160255,1,0
 47541748,288,Cryptocurrency,neutral,test,0.573294,0.613974,0.187015,0.527556,2,1
 47527660,289,Cryptocurrency,neutral,test,0.468927,0.0,0.17962,0.284853,3,0
 47460751,290,Cryptocurrency,positive,test,0.573294,0.0,0.184093,0.342925,2,0
@@ -315,7 +315,7 @@ post_id,item_id,topic,final_sentiment,split,document_unigram_score,document_bigr
 47497074,314,Cryptocurrency,neutral,train,0.259818,0.0,0.158127,0.166619,4,0
 47457981,315,Cryptocurrency,neutral,test,0.458903,0.0,0.248879,0.289729,3,0
 47317576,316,Cryptocurrency,negative,train,0.462227,0.0,0.099185,0.269103,2,0
-47295337,317,Cryptocurrency,negative,train,0.40254,0.0,0.200515,0.251474,3,0
+47295337,317,Cryptocurrency,negative,train,0.374387,0.0,0.327439,0.255029,1,0
 46440918,318,Cryptocurrency,negative,train,0.709039,0.0,0.106951,0.406014,1,0
 46432302,319,Cryptocurrency,neutral,train,0.535058,0.0,0.319252,0.34217,2,0
 46391495,320,Cryptocurrency,negative,train,0.272322,0.123902,0.17082,0.212571,5,1
@@ -327,7 +327,7 @@ post_id,item_id,topic,final_sentiment,split,document_unigram_score,document_bigr
 45910954,326,Cryptocurrency,neutral,train,0.0,0.0,0.0,0.0,0,0
 46439461,327,Cryptocurrency,neutral,train,0.658805,0.0,0.133333,0.382343,1,0
 46404112,328,Cryptocurrency,neutral,test,0.658805,0.0,0.08,0.374343,1,0
-46359615,329,Cryptocurrency,negative,train,0.361766,0.0,0.165906,0.223857,5,0
+46359615,329,Cryptocurrency,negative,train,0.180861,0.0,1.0,0.249474,1,0
 46302446,330,Cryptocurrency,negative,train,0.658805,0.0,0.133333,0.382343,1,0
 46287175,331,Cryptocurrency,neutral,train,0.488276,1.0,0.149792,0.591021,3,1
 46281868,332,Cryptocurrency,neutral,train,0.535633,0.533341,0.191667,0.483351,2,1
@@ -361,7 +361,7 @@ post_id,item_id,topic,final_sentiment,split,document_unigram_score,document_bigr
 45399472,360,Cryptocurrency,negative,train,0.292534,0.485747,0.183987,0.334216,8,1
 45348852,361,Cryptocurrency,neutral,train,0.442324,1.0,0.278193,0.585007,3,1
 45280489,362,Cryptocurrency,negative,train,0.262418,0.0,0.061428,0.153544,1,0
-45170370,363,Cryptocurrency,negative,train,0.354456,0.0,0.178571,0.221737,4,0
+45170370,363,Cryptocurrency,negative,train,0.374387,0.0,0.109146,0.222285,1,0
 44988650,364,Cryptocurrency,negative,train,0.44478,0.0,0.362699,0.299034,2,0
 44943041,365,Cryptocurrency,neutral,test,0.512394,0.0,0.137619,0.30246,2,0
 44920905,366,Cryptocurrency,neutral,test,0.683922,0.0,0.306951,0.4222,2,0
@@ -400,8 +400,8 @@ post_id,item_id,topic,final_sentiment,split,document_unigram_score,document_bigr
 44020665,399,Cryptocurrency,negative,train,0.334495,0.0,0.259083,0.222834,3,0
 44422952,400,Cryptocurrency,neutral,train,0.438951,0.0,0.122628,0.259817,3,0
 44411518,401,Cryptocurrency,negative,train,0.352408,0.533341,0.105067,0.369586,4,1
-44398086,402,Cryptocurrency,positive,train,0.164866,0.0,0.130698,0.110281,3,0
-44393371,403,Cryptocurrency,negative,train,0.26511,0.0,0.076064,0.15722,4,0
+44398086,402,Cryptocurrency,positive,train,0.185183,0.0,0.225758,0.135714,2,0
+44393371,403,Cryptocurrency,negative,train,0.264197,0.0,0.091692,0.159062,2,0
 44388114,404,Cryptocurrency,neutral,test,0.49915,0.0,0.254762,0.312747,3,0
 44355360,405,Cryptocurrency,neutral,test,0.640717,0.0,0.104365,0.368049,1,0
 44334334,406,Cryptocurrency,neutral,train,0.755801,0.0,0.158645,0.439487,1,0
@@ -425,10 +425,10 @@ post_id,item_id,topic,final_sentiment,split,document_unigram_score,document_bigr
 43439266,424,Cryptocurrency,positive,train,0.526183,1.0,0.162188,0.613729,2,1
 43396923,425,Cryptocurrency,neutral,train,0.683922,0.0,0.173617,0.4022,2,0
 43291092,426,Cryptocurrency,neutral,train,0.419646,0.0,0.089365,0.24421,3,0
-43291043,427,Cryptocurrency,neutral,train,0.262087,0.0,0.303135,0.189618,4,0
+43291043,427,Cryptocurrency,neutral,train,0.19109,0.0,1.0,0.2551,1,0
 43288657,428,Cryptocurrency,neutral,train,0.658805,0.0,0.4,0.422343,1,0
 43258147,429,Cryptocurrency,negative,train,0.330024,0.0,0.097641,0.196159,5,0
-43529795,430,Cryptocurrency,neutral,test,0.0,0.0,0.0,0.0,0,0
+43529795,430,Cryptocurrency,neutral,test,0.148891,0.0,0.074242,0.093026,1,0
 43528340,431,Cryptocurrency,neutral,train,0.289066,0.0,0.004859,0.159715,1,0
 43527288,432,Cryptocurrency,neutral,train,0.640717,0.0,0.41746,0.415013,1,0
 43525838,433,Cryptocurrency,negative,train,0.366433,0.0,0.377778,0.258205,3,0
@@ -444,7 +444,7 @@ post_id,item_id,topic,final_sentiment,split,document_unigram_score,document_bigr
 43376164,443,Cryptocurrency,neutral,test,0.505677,0.0,0.053164,0.286097,2,0
 43361808,444,Cryptocurrency,negative,train,0.404807,0.0,0.154179,0.245771,4,0
 42559938,445,Cryptocurrency,positive,test,0.709039,0.0,0.213901,0.422057,1,0
-42520377,446,Cryptocurrency,neutral,train,0.497565,0.0,0.416475,0.336132,2,0
+42520377,446,Cryptocurrency,neutral,train,0.658716,0.0,0.027859,0.366473,1,0
 42476433,447,Cryptocurrency,neutral,train,0.439065,0.0,0.416282,0.303928,2,0
 42476368,448,Cryptocurrency,negative,train,0.709039,0.0,0.106951,0.406014,1,0
 42470747,449,Cryptocurrency,positive,test,0.469006,0.766658,0.073415,0.498963,3,1
@@ -461,13 +461,13 @@ post_id,item_id,topic,final_sentiment,split,document_unigram_score,document_bigr
 42259648,460,Cryptocurrency,negative,train,0.262418,0.0,0.122857,0.162758,1,0
 41953482,461,Cryptocurrency,negative,train,0.357305,0.0,0.175132,0.222788,3,0
 41806151,462,Cryptocurrency,negative,train,0.343739,0.0,0.33627,0.239497,4,0
-41749452,463,Cryptocurrency,positive,test,0.248972,0.0,0.394762,0.196149,2,0
+41749452,463,Cryptocurrency,positive,test,0.195444,0.0,1.0,0.257494,1,0
 42562230,464,Cryptocurrency,neutral,train,0.640717,0.0,0.104365,0.368049,1,0
 42554595,465,Cryptocurrency,negative,train,0.487171,0.0,0.216893,0.300478,2,0
 42551664,466,Cryptocurrency,neutral,train,0.444271,0.0,0.498765,0.319164,3,0
 42537877,467,Cryptocurrency,negative,train,0.495499,0.0,0.176719,0.299032,2,0
 42509224,468,Cryptocurrency,neutral,test,0.382045,0.0,0.164771,0.23484,3,0
-42504911,469,Cryptocurrency,neutral,train,0.108381,0.0,0.082063,0.071919,2,0
+42504911,469,Cryptocurrency,neutral,train,0.156928,0.0,0.105,0.10206,2,0
 42500652,470,Cryptocurrency,neutral,test,0.640717,0.0,0.20873,0.383704,1,0
 42525674,471,Cryptocurrency,negative,train,0.408758,0.533341,0.184679,0.412521,6,1
 42524982,472,Cryptocurrency,negative,train,0.421679,0.533341,0.150439,0.414492,4,1
@@ -492,18 +492,18 @@ post_id,item_id,topic,final_sentiment,split,document_unigram_score,document_bigr
 41128746,491,Cryptocurrency,negative,train,0.403188,0.0,0.111061,0.238413,3,0
 40864392,492,Cryptocurrency,positive,train,0.684352,0.0,0.455598,0.444733,1,0
 41674001,493,Cryptocurrency,neutral,test,0.262418,0.0,0.122857,0.162758,1,0
-41579163,494,Cryptocurrency,negative,test,0.342564,0.0,0.113968,0.205506,3,0
+41579163,494,Cryptocurrency,negative,test,0.200464,0.0,1.0,0.260255,1,0
 41521097,495,Cryptocurrency,neutral,test,0.658805,0.0,0.2,0.392343,1,0
 41463470,496,Cryptocurrency,negative,train,0.408362,1.0,0.183685,0.552152,4,1
 41463444,497,Cryptocurrency,neutral,train,0.30725,0.0,0.190658,0.197586,5,0
 41460922,498,Cryptocurrency,neutral,test,0.492829,0.0,0.254285,0.309199,2,0
 41452829,499,Cryptocurrency,negative,train,0.247836,0.0,0.19783,0.165984,4,0
 41397532,500,Cryptocurrency,neutral,train,0.405472,0.0,0.332804,0.27293,3,0
-41703092,501,Cryptocurrency,neutral,train,0.32778,0.0,0.118915,0.198116,3,0
+41703092,501,Cryptocurrency,neutral,train,0.374387,0.0,0.109146,0.222285,1,0
 41682649,502,Cryptocurrency,neutral,test,0.640717,0.0,0.20873,0.383704,1,0
 41672642,503,Cryptocurrency,negative,train,0.371035,0.533341,0.297954,0.408764,3,1
 41649877,504,Cryptocurrency,negative,train,0.276452,0.085253,0.11723,0.195209,6,2
-41636341,505,Cryptocurrency,negative,train,0.282143,0.0,0.18973,0.183638,4,0
+41636341,505,Cryptocurrency,negative,train,0.245381,0.0,0.366159,0.189883,1,0
 41629685,506,Cryptocurrency,negative,test,0.405517,0.0,0.255159,0.261308,2,0
 41677402,507,Cryptocurrency,positive,test,0.755801,0.0,0.105763,0.431555,1,0
 41642270,508,Cryptocurrency,positive,train,0.558439,0.0,0.102496,0.322516,2,0
@@ -511,7 +511,7 @@ post_id,item_id,topic,final_sentiment,split,document_unigram_score,document_bigr
 41579872,510,Cryptocurrency,negative,test,0.493278,0.0,0.378279,0.328045,2,0
 41579707,511,Cryptocurrency,neutral,train,0.443104,0.374802,0.187988,0.384346,5,3
 41579235,512,Cryptocurrency,neutral,train,0.292728,0.0,0.089959,0.174494,1,0
-41577514,513,Cryptocurrency,negative,train,0.323299,0.0,0.07724,0.1894,4,0
+41577514,513,Cryptocurrency,negative,train,0.374387,0.0,0.109146,0.222285,1,0
 40837713,514,Cryptocurrency,neutral,test,0.674878,0.0,0.15784,0.394859,2,0
 40837297,515,Cryptocurrency,neutral,train,0.446539,0.0,0.380824,0.30272,2,0
 40833318,516,Cryptocurrency,positive,train,0.393459,0.350809,0.10942,0.338058,4,2
@@ -687,7 +687,7 @@ post_id,item_id,topic,final_sentiment,split,document_unigram_score,document_bigr
 40918669,686,Climate Change,negative,test,0.300379,0.469235,0.182919,0.333417,4,1
 41615781,687,Climate Change,neutral,train,0.344337,0.385781,0.12313,0.323589,5,3
 41361735,688,Climate Change,negative,test,0.423939,0.515349,0.072096,0.398585,3,1
-40863576,689,Climate Change,neutral,test,0.287819,0.0,0.098863,0.17313,3,0
+40863576,689,Climate Change,neutral,test,0.213046,0.0,0.518367,0.19493,1,0
 41285364,690,Climate Change,negative,train,0.606823,0.700401,0.224052,0.577481,2,1
 41077191,691,Climate Change,negative,test,0.565514,0.538565,0.22878,0.506919,2,1
 41013295,692,Climate Change,neutral,train,0.345381,0.538565,0.207226,0.382613,6,1
@@ -802,7 +802,7 @@ post_id,item_id,topic,final_sentiment,split,document_unigram_score,document_bigr
 48114545,801,Cybersecurity,neutral,train,0.360137,0.0,0.215467,0.230395,3,0
 48111980,802,Cybersecurity,neutral,train,0.555274,0.0,0.028667,0.309701,1,0
 47876005,803,Cybersecurity,negative,train,0.555274,0.0,0.066889,0.315434,1,0
-47764838,804,Cybersecurity,negative,train,0.334107,0.0,0.151737,0.206519,2,0
+47764838,804,Cybersecurity,negative,train,0.640717,0.0,0.20873,0.383704,1,0
 48719221,805,Cybersecurity,neutral,train,0.444336,1.0,0.032493,0.549259,2,1
 48672163,806,Cybersecurity,neutral,train,0.305778,1.0,0.206155,0.499101,4,1
 48596313,807,Cybersecurity,negative,test,0.450161,0.899997,0.039535,0.523518,2,1
@@ -816,11 +816,11 @@ post_id,item_id,topic,final_sentiment,split,document_unigram_score,document_bigr
 48549186,815,Cybersecurity,neutral,train,0.534553,0.400003,0.187259,0.442094,2,1
 47489614,816,Cybersecurity,positive,train,0.477568,0.0,0.551916,0.34545,2,0
 47325874,817,Cybersecurity,positive,train,0.514304,0.0,0.289462,0.326287,3,0
-47272678,818,Cybersecurity,neutral,train,0.354248,0.0,0.104495,0.21051,3,0
+47272678,818,Cybersecurity,neutral,train,0.727838,0.0,0.482189,0.472639,1,0
 46853725,819,Cybersecurity,positive,test,0.344391,0.0,0.227855,0.223593,3,0
 46789368,820,Cybersecurity,neutral,test,0.624177,0.0,0.103833,0.358872,1,0
 47346774,821,Cybersecurity,negative,train,0.364416,0.499996,0.02534,0.354229,3,1
-46510261,822,Cybersecurity,neutral,train,0.441406,0.450004,0.030984,0.382422,2,1
+46510261,822,Cybersecurity,neutral,train,0.758237,0.0,0.185224,0.444814,1,1
 47581833,823,Cybersecurity,negative,train,0.397678,0.899997,0.25354,0.526753,3,1
 47287776,824,Cybersecurity,negative,test,0.311228,0.68408,0.060911,0.385536,3,1
 47591867,825,Cybersecurity,neutral,train,0.383392,0.0,0.358476,0.264637,3,0
@@ -828,10 +828,10 @@ post_id,item_id,topic,final_sentiment,split,document_unigram_score,document_bigr
 47584559,827,Cybersecurity,negative,train,0.323601,0.0,0.128328,0.197229,5,0
 47566570,828,Cybersecurity,neutral,train,0.443345,0.0,0.291806,0.287611,2,0
 47555992,829,Cybersecurity,neutral,train,0.736675,0.0,0.142835,0.426596,1,0
-47553971,830,Cybersecurity,negative,train,0.299085,0.0,0.149782,0.186964,5,0
+47553971,830,Cybersecurity,negative,train,0.188215,0.0,0.571429,0.189233,1,0
 47530090,831,Cybersecurity,negative,train,0.282922,0.0,0.150732,0.178217,5,0
 46412151,832,Cybersecurity,neutral,train,0.294082,0.0,0.185192,0.189524,3,0
-46323840,833,Cybersecurity,positive,test,0.339849,0.089127,0.289214,0.257037,3,1
+46323840,833,Cybersecurity,positive,test,0.250715,0.117776,0.602063,0.263536,2,1
 46265633,834,Cybersecurity,neutral,train,0.428916,0.0,0.538937,0.316745,2,0
 45945811,835,Cybersecurity,neutral,train,0.307223,0.0,0.038984,0.17482,6,0
 45925113,836,Cybersecurity,neutral,train,0.491625,0.499996,0.053138,0.428363,3,1
@@ -858,7 +858,7 @@ post_id,item_id,topic,final_sentiment,split,document_unigram_score,document_bigr
 45348021,857,Cybersecurity,positive,train,0.387218,0.0,0.403391,0.273479,3,0
 45212972,858,Cybersecurity,neutral,train,0.338832,0.400003,0.087824,0.319532,3,1
 44998963,859,Cybersecurity,neutral,test,0.423849,0.0,0.124487,0.25179,2,0
-44506727,860,Cybersecurity,positive,train,0.277625,0.0,0.290007,0.196195,4,0
+44506727,860,Cybersecurity,positive,train,0.319744,0.0,0.14194,0.19715,2,0
 44505390,861,Cybersecurity,positive,train,0.302056,0.0,0.325004,0.214881,4,0
 45286005,862,Cybersecurity,neutral,train,0.39103,0.0,0.403825,0.27564,2,0
 45081664,863,Cybersecurity,negative,train,0.277614,0.0,0.08884,0.166014,5,0
@@ -877,7 +877,7 @@ post_id,item_id,topic,final_sentiment,split,document_unigram_score,document_bigr
 43790324,876,Cybersecurity,neutral,train,0.624177,0.0,0.103833,0.358872,1,0
 43755299,877,Cybersecurity,neutral,train,0.624177,0.0,0.155749,0.36666,1,0
 43690847,878,Cybersecurity,neutral,train,0.376315,0.0,0.269576,0.24741,3,0
-44418524,879,Cybersecurity,neutral,train,0.288581,0.0,0.158303,0.182465,3,0
+44418524,879,Cybersecurity,neutral,train,0.200464,0.0,1.0,0.260255,1,0
 44417824,880,Cybersecurity,neutral,train,0.374317,0.0,0.34442,0.257537,2,0
 44416497,881,Cybersecurity,neutral,train,0.293123,0.055902,0.107486,0.194111,3,1
 44391805,882,Cybersecurity,negative,train,0.346359,0.0,0.247699,0.227652,5,0
@@ -892,12 +892,12 @@ post_id,item_id,topic,final_sentiment,split,document_unigram_score,document_bigr
 44323643,891,Cybersecurity,neutral,train,0.489577,0.450004,0.208034,0.435474,4,1
 44285413,892,Cybersecurity,neutral,train,0.485295,0.0,0.528567,0.346198,2,0
 44233701,893,Cybersecurity,neutral,test,0.736675,0.0,0.095223,0.419455,1,0
-44194645,894,Cybersecurity,negative,test,0.335546,0.0,0.066663,0.19455,3,0
-44287863,895,Cybersecurity,neutral,train,0.228812,0.0,0.105917,0.141734,3,0
+44194645,894,Cybersecurity,negative,test,0.316002,0.0,0.241901,0.210086,1,0
+44287863,895,Cybersecurity,neutral,train,0.272966,0.0,0.809091,0.271495,1,0
 43400424,896,Cybersecurity,neutral,test,0.624177,0.0,0.311498,0.390022,1,0
 43398898,897,Cybersecurity,positive,train,0.527551,0.0,0.228746,0.324465,2,0
 43398194,898,Cybersecurity,positive,train,0.452299,0.400003,0.055685,0.377118,2,1
-43083812,899,Cybersecurity,neutral,train,0.314394,0.0,0.086821,0.18594,3,0
+43083812,899,Cybersecurity,neutral,train,0.316002,0.0,0.096761,0.188315,1,0
 43051604,900,Cybersecurity,negative,train,0.381078,0.0,0.087021,0.222646,2,0
 42847956,901,Cybersecurity,neutral,test,0.425677,0.0,0.202787,0.264541,2,0
 43328998,902,Cybersecurity,neutral,train,0.319487,0.0,0.127618,0.19486,3,0
@@ -907,12 +907,12 @@ post_id,item_id,topic,final_sentiment,split,document_unigram_score,document_bigr
 43536665,906,Cybersecurity,neutral,train,0.38578,1.0,0.052953,0.520122,3,1
 43124327,907,Cybersecurity,neutral,train,0.450161,0.899997,0.141765,0.538853,2,1
 43078759,908,Cybersecurity,neutral,test,0.371749,1.0,0.034402,0.509622,4,1
-43399662,909,Cybersecurity,negative,train,0.183769,0.0,0.106341,0.117024,1,0
+43399662,909,Cybersecurity,negative,train,0.206958,0.0,0.133182,0.133804,1,0
 43323446,910,Cybersecurity,neutral,train,0.311228,0.68408,0.094256,0.390538,3,1
-43485859,911,Cybersecurity,negative,train,0.324712,0.0,0.145767,0.200456,4,0
+43485859,911,Cybersecurity,negative,train,0.640717,0.0,0.20873,0.383704,1,0
 43485640,912,Cybersecurity,neutral,train,0.367385,0.0,0.396976,0.261608,3,0
 43467825,913,Cybersecurity,negative,train,0.38403,0.0,0.308667,0.257517,4,0
-43426895,914,Cybersecurity,neutral,train,0.157955,0.0,0.203252,0.117363,1,0
+43426895,914,Cybersecurity,neutral,train,0.207881,0.0,0.088679,0.127637,2,0
 43389895,915,Cybersecurity,neutral,train,0.451388,0.0,0.133708,0.26832,2,0
 43386524,916,Cybersecurity,neutral,test,0.736675,0.0,0.095223,0.419455,1,0
 43379407,917,Cybersecurity,neutral,train,0.366115,0.0,0.204979,0.23211,3,0
@@ -921,7 +921,7 @@ post_id,item_id,topic,final_sentiment,split,document_unigram_score,document_bigr
 42286142,920,Cybersecurity,neutral,train,0.353424,0.0,0.171444,0.2201,3,0
 42008724,921,Cybersecurity,neutral,train,0.364279,0.0,0.048206,0.207585,2,0
 41877446,922,Cybersecurity,neutral,test,0.339286,0.0,0.062177,0.195934,3,0
-41877116,923,Cybersecurity,neutral,test,0.375516,0.0,0.316454,0.254002,3,0
+41877116,923,Cybersecurity,neutral,test,0.219744,0.0,0.904545,0.256541,1,0
 42436464,924,Cybersecurity,neutral,train,0.298979,0.400003,0.091082,0.298101,3,1
 42473862,925,Cybersecurity,negative,train,0.736675,0.0,0.059514,0.414098,2,0
 42422970,926,Cybersecurity,neutral,train,0.368464,0.450004,0.19467,0.366857,4,1
@@ -938,7 +938,7 @@ post_id,item_id,topic,final_sentiment,split,document_unigram_score,document_bigr
 41533516,937,Cybersecurity,neutral,train,0.437696,0.400003,0.10633,0.376683,2,1
 41199054,938,Cybersecurity,negative,train,0.441996,0.0,0.05723,0.251682,2,0
 41107164,939,Cybersecurity,neutral,train,0.325224,0.400003,0.249434,0.336289,4,1
-41203303,940,Cybersecurity,negative,train,0.322708,0.0,0.252596,0.215379,4,0
+41203303,940,Cybersecurity,negative,train,0.226531,0.0,0.714286,0.231735,1,0
 41067206,941,Cybersecurity,neutral,test,0.345282,0.0,0.241224,0.226088,2,0
 41012554,942,Cybersecurity,neutral,train,0.35454,0.450004,0.129097,0.349363,4,1
 41008053,943,Cybersecurity,neutral,train,0.555274,0.0,0.053511,0.313427,2,0
@@ -992,7 +992,7 @@ post_id,item_id,topic,final_sentiment,split,document_unigram_score,document_bigr
 39712960,991,Cybersecurity,neutral,train,0.313111,0.0,0.363877,0.226793,3,0
 39316501,992,Cybersecurity,negative,train,0.39248,0.0,0.034077,0.220975,2,0
 39156453,993,Cybersecurity,neutral,test,0.338415,0.0,0.057347,0.19473,2,0
-39156261,994,Cybersecurity,neutral,train,0.338415,0.0,0.057347,0.19473,2,0
+39156261,994,Cybersecurity,neutral,train,0.390642,0.0,0.224823,0.248576,3,0
 39145779,995,Cybersecurity,negative,test,0.555274,0.0,0.040133,0.311421,1,0
 38988580,996,Cybersecurity,neutral,train,0.555274,0.0,0.050167,0.312926,1,0
 39468198,997,Cybersecurity,neutral,test,0.462711,0.899997,0.094232,0.538625,3,1
@@ -1018,7 +1018,7 @@ post_id,item_id,topic,final_sentiment,split,document_unigram_score,document_bigr
 38519928,1017,Cybersecurity,negative,train,0.417734,0.0,0.105137,0.245524,2,0
 38354377,1018,Cybersecurity,negative,test,0.555274,0.0,0.100334,0.320451,1,0
 38227721,1019,Cybersecurity,neutral,test,0.555274,0.0,0.200667,0.335501,1,0
-38086171,1020,Cybersecurity,neutral,train,0.238882,0.0,0.046443,0.138352,4,0
+38086171,1020,Cybersecurity,neutral,train,0.227214,0.0,0.115423,0.142281,3,0
 38313311,1021,Cybersecurity,negative,train,0.356162,1.0,0.178605,0.52268,4,1
 38313072,1022,Cybersecurity,neutral,train,0.312525,1.0,0.081689,0.484142,5,1
 38219385,1023,Cybersecurity,negative,train,0.374873,1.0,0.156646,0.529677,3,1
@@ -1032,14 +1032,14 @@ post_id,item_id,topic,final_sentiment,split,document_unigram_score,document_bigr
 38495598,1031,Cybersecurity,negative,train,0.356763,0.104092,0.210662,0.259047,4,1
 38790499,1032,Cybersecurity,neutral,test,0.0,0.0,0.0,0.0,0,0
 37625649,1033,Cybersecurity,neutral,train,0.624177,0.0,0.155749,0.36666,1,0
-37557977,1034,Cybersecurity,negative,test,0.275819,0.0,0.04482,0.158423,3,0
+37557977,1034,Cybersecurity,negative,test,0.374387,0.0,0.065488,0.215736,1,0
 37446162,1035,Cybersecurity,negative,train,0.371911,0.400003,0.09609,0.338966,3,1
 37316712,1036,Cybersecurity,neutral,train,0.624177,0.0,0.311498,0.390022,1,0
 37313461,1037,Cybersecurity,neutral,test,0.624177,0.0,0.0445,0.349972,1,0
 36724129,1038,Cybersecurity,positive,train,0.624177,0.0,0.311498,0.390022,1,0
 36714717,1039,Cybersecurity,neutral,test,0.555994,0.0,0.069307,0.316193,2,0
 36624297,1040,Cybersecurity,neutral,train,0.368569,0.0,0.073258,0.213702,2,0
-37624165,1041,Cybersecurity,neutral,train,0.256697,0.0,0.169344,0.166585,4,0
+37624165,1041,Cybersecurity,neutral,train,0.640717,0.0,0.250476,0.389966,2,0
 37600719,1042,Cybersecurity,neutral,test,0.555274,0.0,0.200667,0.335501,1,0
 37387297,1043,Cybersecurity,negative,train,0.555274,0.0,0.066889,0.315434,1,0
 37068416,1044,Cybersecurity,negative,test,0.389398,0.386744,0.032518,0.33507,2,1
@@ -1051,7 +1051,7 @@ post_id,item_id,topic,final_sentiment,split,document_unigram_score,document_bigr
 36995639,1050,Cybersecurity,neutral,test,0.444336,1.0,0.143267,0.565875,2,1
 37694718,1051,Cybersecurity,negative,train,0.329758,0.0,0.065371,0.191173,5,0
 37657178,1052,Cybersecurity,neutral,train,0.429115,0.0,0.095465,0.250333,2,0
-37542272,1053,Cybersecurity,neutral,train,0.522536,0.0,0.12688,0.306427,2,0
+37542272,1053,Cybersecurity,neutral,train,0.681667,0.0,0.085938,0.387807,1,0
 37517714,1054,Cybersecurity,negative,train,0.736675,0.0,0.142835,0.426596,1,0
 37506770,1055,Cybersecurity,negative,train,0.438844,0.0,0.224441,0.27503,2,0
 37495929,1056,Cybersecurity,negative,train,0.416039,0.0,0.080174,0.240848,3,0

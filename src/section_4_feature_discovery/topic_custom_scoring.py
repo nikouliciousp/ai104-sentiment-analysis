@@ -13,6 +13,14 @@ Combines multiple scoring signals into term-level and document-level scores:
 Component scores are min-max normalised within each topic before weighting.
 Weights are exported for transparency and report documentation.
 
+score_documents() supports two modes: use_true_topic=True (default here,
+for descriptive Section 4.1-4.2 reporting) scores each post against its
+own ground-truth topic's lookup tables. use_true_topic=False scores a
+post against every topic's lookup tables and keeps the best match - this
+mode is required whenever the output feeds a topic classifier, since
+indexing by the true label would leak the target into the feature. See
+topic_classification_features.py, which uses use_true_topic=False.
+
 Input : data/features/hackernews_topic_features_dataset.csv
         results/tables/section_4/topic_term_frequency_full.csv
         results/tables/section_4/topic_tfidf_global_full.csv
@@ -367,58 +375,89 @@ def build_bigram_lookup(bigram_scores_df):
     return lookup
 
 
-def score_documents(df, term_lookup, bigram_lookup):
-    """Compute document-level custom scores for each post."""
+def score_document_against_topic(tokens, bigrams, topic_terms, topic_bigrams):
+    """Score one document's tokens/bigrams against a single topic's lookup tables."""
+    unigram_scores = [
+        topic_terms[token]["custom_term_score"]
+        for token in tokens
+        if token in topic_terms
+    ]
+    bigram_scores = [
+        topic_bigrams[bigram]
+        for bigram in bigrams
+        if bigram in topic_bigrams
+    ]
+    positional_scores = [
+        topic_terms[token]["positional_score_norm"] * position_weight(index)
+        for index, token in enumerate(tokens)
+        if token in topic_terms
+    ]
+
+    document_unigram_score = float(np.mean(unigram_scores)) if unigram_scores else 0.0
+    document_bigram_score = float(np.mean(bigram_scores)) if bigram_scores else 0.0
+    document_positional_score = float(np.mean(positional_scores)) if positional_scores else 0.0
+
+    document_custom_score = (
+        DOCUMENT_COMPONENT_WEIGHTS["document_unigram_score"] * document_unigram_score
+        + DOCUMENT_COMPONENT_WEIGHTS["document_bigram_score"] * document_bigram_score
+        + DOCUMENT_COMPONENT_WEIGHTS["document_positional_score"] * document_positional_score
+    )
+
+    return {
+        "document_unigram_score": document_unigram_score,
+        "document_bigram_score": document_bigram_score,
+        "document_positional_score": document_positional_score,
+        "document_custom_score": document_custom_score,
+        "matched_unigram_count": len(unigram_scores),
+        "matched_bigram_count": len(bigram_scores),
+    }
+
+
+def score_documents(df, term_lookup, bigram_lookup, use_true_topic=True):
+    """
+    Compute document-level custom scores for each post.
+
+    use_true_topic=True (default, used for the Section 4.1-4.2 descriptive
+    analysis) scores each document against its own ground-truth topic's
+    lookup tables - appropriate for exploratory "how well does this post
+    match its assigned topic's vocabulary" reporting.
+
+    use_true_topic=False scores each document against EVERY topic's lookup
+    tables and keeps the best-matching topic's scores. This must be used
+    whenever the output feeds a topic classifier: selecting the lookup by
+    the document's true topic label would leak the target into the
+    feature (the score would only be computable if the topic were already
+    known), whereas scoring against all topics and taking the best match
+    is a topic-agnostic, leakage-free signal.
+    """
     enriched_rows = []
 
     for _, row in df.iterrows():
-        topic = row["topic"]
         tokens = tokenize_for_topic_analysis(row[TEXT_COLUMN])
         bigrams = extract_bigrams(tokens)
 
-        topic_terms = term_lookup.get(topic, {})
-        topic_bigrams = bigram_lookup.get(topic, {})
+        if use_true_topic:
+            candidate_topics = [row["topic"]]
+        else:
+            candidate_topics = list(term_lookup.keys())
 
-        unigram_scores = [
-            topic_terms[token]["custom_term_score"]
-            for token in tokens
-            if token in topic_terms
-        ]
-        bigram_scores = [
-            topic_bigrams[bigram]
-            for bigram in bigrams
-            if bigram in topic_bigrams
-        ]
-        positional_scores = [
-            topic_terms[token]["positional_score_norm"] * position_weight(index)
-            for index, token in enumerate(tokens)
-            if token in topic_terms
-        ]
+        best_scores = None
+        for topic in candidate_topics:
+            topic_terms = term_lookup.get(topic, {})
+            topic_bigrams = bigram_lookup.get(topic, {})
+            scores = score_document_against_topic(tokens, bigrams, topic_terms, topic_bigrams)
 
-        document_unigram_score = (
-            float(np.mean(unigram_scores)) if unigram_scores else 0.0
-        )
-        document_bigram_score = (
-            float(np.mean(bigram_scores)) if bigram_scores else 0.0
-        )
-        document_positional_score = (
-            float(np.mean(positional_scores)) if positional_scores else 0.0
-        )
-
-        document_custom_score = (
-            DOCUMENT_COMPONENT_WEIGHTS["document_unigram_score"] * document_unigram_score
-            + DOCUMENT_COMPONENT_WEIGHTS["document_bigram_score"] * document_bigram_score
-            + DOCUMENT_COMPONENT_WEIGHTS["document_positional_score"] * document_positional_score
-        )
+            if best_scores is None or scores["document_custom_score"] > best_scores["document_custom_score"]:
+                best_scores = scores
 
         enriched_rows.append({
             **row.to_dict(),
-            "document_unigram_score": round(document_unigram_score, 6),
-            "document_bigram_score": round(document_bigram_score, 6),
-            "document_positional_score": round(document_positional_score, 6),
-            "document_custom_score": round(document_custom_score, 6),
-            "matched_unigram_count": len(unigram_scores),
-            "matched_bigram_count": len(bigram_scores),
+            "document_unigram_score": round(best_scores["document_unigram_score"], 6),
+            "document_bigram_score": round(best_scores["document_bigram_score"], 6),
+            "document_positional_score": round(best_scores["document_positional_score"], 6),
+            "document_custom_score": round(best_scores["document_custom_score"], 6),
+            "matched_unigram_count": best_scores["matched_unigram_count"],
+            "matched_bigram_count": best_scores["matched_bigram_count"],
         })
 
     return pd.DataFrame(enriched_rows)

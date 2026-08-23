@@ -168,8 +168,13 @@ def main():
     # Apply the train-fitted lookup to ALL posts (train + test).
     # Tokens/bigrams unseen in training simply have no lookup entry and
     # are skipped by score_documents, i.e. treated as out-of-vocabulary.
+    #
+    # use_true_topic=False: score each post against every topic's lookup
+    # and keep the best match, rather than indexing by the post's own
+    # ground-truth topic. Selecting by the true label would leak the
+    # classification target into the feature itself.
     # ----------------------------------------------------------------
-    enriched_df = score_documents(df, term_lookup, bigram_lookup)
+    enriched_df = score_documents(df, term_lookup, bigram_lookup, use_true_topic=False)
     enriched_df["split"] = df["split"].values
 
     output_columns = [
