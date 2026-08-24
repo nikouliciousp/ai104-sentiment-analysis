@@ -375,11 +375,6 @@ def build_bigram_lookup(bigram_scores_df):
     return lookup
 
 
-def topic_slug(topic):
-    """Turn a topic label into a column-name-safe slug, e.g. 'Artificial Intelligence' -> 'artificial_intelligence'."""
-    return re.sub(r"[^a-z0-9]+", "_", topic.lower()).strip("_")
-
-
 def score_document_against_topic(tokens, bigrams, topic_terms, topic_bigrams):
     """Score one document's tokens/bigrams against a single topic's lookup tables."""
     unigram_scores = [
@@ -425,73 +420,45 @@ def score_documents(df, term_lookup, bigram_lookup, use_true_topic=True):
     use_true_topic=True (default, used for the Section 4.1-4.2 descriptive
     analysis) scores each document against its own ground-truth topic's
     lookup tables - appropriate for exploratory "how well does this post
-    match its assigned topic's vocabulary" reporting. Produces one set of
-    document_unigram_score / document_bigram_score / document_positional_score
-    / document_custom_score columns.
+    match its assigned topic's vocabulary" reporting.
 
     use_true_topic=False scores each document against EVERY topic's lookup
-    tables independently and keeps all of them, as one set of
-    document_{unigram,bigram,positional,custom}_score_<topic> columns per
-    topic (4 topics x 4 components = 16 feature columns). This must be
-    used whenever the output feeds a topic classifier: selecting a single
-    lookup by the document's true topic label would leak the target into
-    the feature (the score would only be computable if the topic were
-    already known), whereas per-topic similarity scores are computable
-    without knowing the label and let the classifier itself weigh which
-    topic's score is most informative.
-
-    matched_unigram_count / matched_bigram_count are always the count of
-    distinct tokens/bigrams that matched ANY topic's vocabulary (union
-    across topics), so they stay a single leakage-free coverage diagnostic
-    in both modes.
+    tables and keeps the best-matching topic's scores. This must be used
+    whenever the output feeds a topic classifier: selecting the lookup by
+    the document's true topic label would leak the target into the
+    feature (the score would only be computable if the topic were already
+    known), whereas scoring against all topics and taking the best match
+    is a topic-agnostic, leakage-free signal.
     """
     enriched_rows = []
-    topics = sorted(term_lookup.keys())
 
     for _, row in df.iterrows():
         tokens = tokenize_for_topic_analysis(row[TEXT_COLUMN])
         bigrams = extract_bigrams(tokens)
 
-        record = row.to_dict()
-
         if use_true_topic:
-            topic = row["topic"]
+            candidate_topics = [row["topic"]]
+        else:
+            candidate_topics = list(term_lookup.keys())
+
+        best_scores = None
+        for topic in candidate_topics:
             topic_terms = term_lookup.get(topic, {})
             topic_bigrams = bigram_lookup.get(topic, {})
             scores = score_document_against_topic(tokens, bigrams, topic_terms, topic_bigrams)
 
-            record.update({
-                "document_unigram_score": round(scores["document_unigram_score"], 6),
-                "document_bigram_score": round(scores["document_bigram_score"], 6),
-                "document_positional_score": round(scores["document_positional_score"], 6),
-                "document_custom_score": round(scores["document_custom_score"], 6),
-                "matched_unigram_count": scores["matched_unigram_count"],
-                "matched_bigram_count": scores["matched_bigram_count"],
-            })
-        else:
-            matched_unigram_tokens = set()
-            matched_bigram_tokens = set()
+            if best_scores is None or scores["document_custom_score"] > best_scores["document_custom_score"]:
+                best_scores = scores
 
-            for topic in topics:
-                slug = topic_slug(topic)
-                topic_terms = term_lookup.get(topic, {})
-                topic_bigrams = bigram_lookup.get(topic, {})
-                scores = score_document_against_topic(tokens, bigrams, topic_terms, topic_bigrams)
-
-                record.update({
-                    f"document_unigram_score_{slug}": round(scores["document_unigram_score"], 6),
-                    f"document_bigram_score_{slug}": round(scores["document_bigram_score"], 6),
-                    f"document_positional_score_{slug}": round(scores["document_positional_score"], 6),
-                    f"document_custom_score_{slug}": round(scores["document_custom_score"], 6),
-                })
-
-                matched_unigram_tokens.update(token for token in tokens if token in topic_terms)
-                matched_bigram_tokens.update(bigram for bigram in bigrams if bigram in topic_bigrams)
-
-            record["matched_unigram_count"] = len(matched_unigram_tokens)
-            record["matched_bigram_count"] = len(matched_bigram_tokens)
-
-        enriched_rows.append(record)
+        enriched_rows.append({
+            **row.to_dict(),
+            "document_unigram_score": round(best_scores["document_unigram_score"], 6),
+            "document_bigram_score": round(best_scores["document_bigram_score"], 6),
+            "document_positional_score": round(best_scores["document_positional_score"], 6),
+            "document_custom_score": round(best_scores["document_custom_score"], 6),
+            "matched_unigram_count": best_scores["matched_unigram_count"],
+            "matched_bigram_count": best_scores["matched_bigram_count"],
+        })
 
     return pd.DataFrame(enriched_rows)
 
