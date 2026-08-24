@@ -11,6 +11,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer, CountVectorizer
 from sklearn.naive_bayes import MultinomialNB
 from sklearn.neighbors import KNeighborsClassifier
 from sklearn.ensemble import RandomForestClassifier
+from sklearn.preprocessing import Normalizer
 from sklearn.metrics import accuracy_score, f1_score, precision_score, recall_score
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
@@ -39,6 +40,16 @@ METRIC_LABELS = ["accuracy", "macro_precision", "macro_recall", "macro_f1"]
 
 
 def evaluate_representation(classifier_name, model, X_train, X_test, y_train, y_test, representation_label):
+    if classifier_name == "K-Nearest Neighbors":
+        # KNN is distance-based, so raw BoW counts (unbounded magnitude, grows
+        # with document length) are not on a comparable scale to TF-IDF
+        # (L2-normalized by default) or the enriched matrix (whose custom
+        # score columns break that L2 norm once hstacked on). L2-normalize
+        # here so the comparison isolates the representation, not vector length.
+        normalizer = Normalizer(norm="l2")
+        X_train = normalizer.fit_transform(X_train)
+        X_test = normalizer.transform(X_test)
+
     model.fit(X_train, y_train)
     y_pred = model.predict(X_test)
 
