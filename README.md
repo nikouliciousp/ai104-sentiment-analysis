@@ -31,9 +31,9 @@ A complete natural language processing pipeline applied to **1,056 technology-fo
 
 | Member | Name | Role | Report Sections |
 |:------:|:-----|:-----|:----------------|
-| 1 | Kristiana Milonaki | Data & Coordination Lead | 1, 3, 4, 8.1, 8.2 |
+| 1 | Kristiana Milonaki | Data & Coordination Lead | 1, 3, 4, 8.1, 8.2, 8.3 |
 | 2 | Vasilis Papadimitropoulos | Text & Features Lead | 5 |
-| 3 | Agathoklis Krimperis | Topic Classification Lead | 6, 8.3 |
+| 3 | Agathoklis Krimperis | Topic Classification Lead | 6 |
 | 4 | Perikles Nikoulis | Sentiment & Analysis Lead | 7, 8.4 |
 | 5 | Dimitrios Chatzis | Code Appendix & Reproducibility Lead | Appendix |
 
