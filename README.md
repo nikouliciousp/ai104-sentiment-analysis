@@ -9,6 +9,7 @@
 
 **MSc Artificial Intelligence** | University of Essex via Aegean College  
 **Module:** AI 104 — Machine Learning with Python  
+**Lecturer:** Mr. Kyriakos Skoularikis, PhD Candidate  
 **Assignment:** Group Project  
 **Team:** 5 members
 
