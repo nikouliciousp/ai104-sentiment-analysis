@@ -1,0 +1,9 @@
+split,topic,mean_document_custom_score
+train,Artificial Intelligence,0.1348
+train,Climate Change,0.1694
+train,Cryptocurrency,0.1267
+train,Cybersecurity,0.1287
+test,Artificial Intelligence,0.1409
+test,Climate Change,0.1746
+test,Cryptocurrency,0.1338
+test,Cybersecurity,0.1297

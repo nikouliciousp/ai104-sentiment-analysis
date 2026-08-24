@@ -37,6 +37,7 @@ from topic_custom_scoring import (
     build_term_lookup,
     build_bigram_lookup,
     score_documents,
+    topic_slug,
 )
 
 # --------------------------------------------------------------------------
@@ -56,6 +57,7 @@ FEATURES_DIR = os.path.join(BASE_DIR, "data", "features")
 FEATURES_OUTPUT = os.path.join(FEATURES_DIR, "topic_classification_features.csv")
 SPLIT_SUMMARY_OUTPUT = os.path.join(TABLES_DIR, "topic_classification_split_summary.csv")
 FEATURES_SUMMARY_OUTPUT = os.path.join(TABLES_DIR, "topic_classification_features_summary.csv")
+TOPIC_SCORE_SUMMARY_OUTPUT = os.path.join(TABLES_DIR, "topic_classification_features_topic_score_summary.csv")
 COVERAGE_FIGURE_OUTPUT = os.path.join(FIGURES_DIR, "topic_classification_split_coverage.png")
 
 TEXT_COLUMN = "text_no_stopwords"
@@ -65,13 +67,13 @@ RANDOM_STATE = 42
 SPLIT_COLORS = {"train": "#4C78A8", "test": "#F58518"}
 
 
-def plot_split_coverage(features_summary, output_path):
-    """Compare train vs test term coverage and score quality side by side."""
+def plot_split_coverage(features_summary, topic_score_summary, output_path):
+    """Compare train vs test term coverage and per-topic score quality side by side."""
     order = ["train", "test"]
     summary = features_summary.set_index("split").loc[order]
     bar_colors = [SPLIT_COLORS[s] for s in order]
 
-    fig, axes = plt.subplots(nrows=1, ncols=3, figsize=(13, 4))
+    fig, axes = plt.subplots(nrows=1, ncols=3, figsize=(15, 4))
 
     ax = axes[0]
     x = range(len(order))
@@ -82,18 +84,27 @@ def plot_split_coverage(features_summary, output_path):
            label="mean matched bigrams", color="#F58518", alpha=0.85)
     ax.set_xticks(list(x))
     ax.set_xticklabels(order)
-    ax.set_title("Mean matched terms per post")
+    ax.set_title("Mean matched terms per post\n(matched ANY topic's vocabulary)")
     ax.legend()
     ax.grid(axis="y", alpha=0.3)
 
     ax = axes[1]
-    ax.bar(order, summary["mean_document_custom_score"], color=bar_colors, alpha=0.85)
-    ax.set_title("Mean document_custom_score")
+    pivot = topic_score_summary.pivot(index="topic", columns="split", values="mean_document_custom_score")[order]
+    topics_order = pivot.index.tolist()
+    x2 = range(len(topics_order))
+    width2 = 0.35
+    for i, split in enumerate(order):
+        ax.bar([xi + (i - 0.5) * width2 for xi in x2], pivot[split], width2,
+               label=split, color=SPLIT_COLORS[split], alpha=0.85)
+    ax.set_xticks(list(x2))
+    ax.set_xticklabels(topics_order, rotation=30, ha="right", fontsize=8)
+    ax.set_title("Mean document_custom_score by topic")
+    ax.legend()
     ax.grid(axis="y", alpha=0.3)
 
     ax = axes[2]
     ax.bar(order, summary["pct_zero_unigram_match"], color=bar_colors, alpha=0.85)
-    ax.set_title("% posts with 0 matched unigrams")
+    ax.set_title("% posts with 0 matched unigrams\n(matched ANY topic's vocabulary)")
     ax.set_ylabel("%")
     ax.grid(axis="y", alpha=0.3)
 
@@ -170,17 +181,25 @@ def main():
     # are skipped by score_documents, i.e. treated as out-of-vocabulary.
     #
     # use_true_topic=False: score each post against every topic's lookup
-    # and keep the best match, rather than indexing by the post's own
+    # independently, keeping all of them (4 topics x 4 score components =
+    # 16 feature columns), rather than indexing by the post's own
     # ground-truth topic. Selecting by the true label would leak the
-    # classification target into the feature itself.
+    # classification target into the feature itself; per-topic similarity
+    # scores are computable without knowing the label.
     # ----------------------------------------------------------------
     enriched_df = score_documents(df, term_lookup, bigram_lookup, use_true_topic=False)
     enriched_df["split"] = df["split"].values
 
+    topics = sorted(df["topic"].unique())
+    custom_feature_columns = [
+        f"document_{metric}_score_{topic_slug(topic)}"
+        for topic in topics
+        for metric in ["unigram", "bigram", "positional", "custom"]
+    ]
+
     output_columns = [
         "post_id", "item_id", "topic", "final_sentiment", "split",
-        "document_unigram_score", "document_bigram_score",
-        "document_positional_score", "document_custom_score",
+        *custom_feature_columns,
         "matched_unigram_count", "matched_bigram_count",
     ]
     output_df = enriched_df[output_columns].copy()
@@ -194,7 +213,6 @@ def main():
         .groupby("split", as_index=False)
         .agg(
             document_count=("post_id", "count"),
-            mean_document_custom_score=("document_custom_score", "mean"),
             mean_matched_unigram_count=("matched_unigram_count", "mean"),
             mean_matched_bigram_count=("matched_bigram_count", "mean"),
             pct_zero_unigram_match=("zero_unigram_match", "mean"),
@@ -203,21 +221,38 @@ def main():
     features_summary["pct_zero_unigram_match"] = (
         features_summary["pct_zero_unigram_match"] * 100
     ).round(2)
-    for col in ["mean_document_custom_score", "mean_matched_unigram_count", "mean_matched_bigram_count"]:
+    for col in ["mean_matched_unigram_count", "mean_matched_bigram_count"]:
         features_summary[col] = features_summary[col].round(4)
 
     features_summary.to_csv(FEATURES_SUMMARY_OUTPUT, index=False)
 
-    plot_split_coverage(features_summary, COVERAGE_FIGURE_OUTPUT)
+    topic_score_rows = []
+    for split in ["train", "test"]:
+        split_df = output_df[output_df["split"] == split]
+        for topic in topics:
+            column = f"document_custom_score_{topic_slug(topic)}"
+            topic_score_rows.append({
+                "split": split,
+                "topic": topic,
+                "mean_document_custom_score": round(float(split_df[column].mean()), 4),
+            })
+    topic_score_summary = pd.DataFrame(topic_score_rows)
+    topic_score_summary.to_csv(TOPIC_SCORE_SUMMARY_OUTPUT, index=False)
+
+    plot_split_coverage(features_summary, topic_score_summary, COVERAGE_FIGURE_OUTPUT)
 
     print("Feature summary by split (train-fitted lookup applied to both):")
     print(features_summary.to_string(index=False))
+    print()
+    print("Mean document_custom_score by split and topic:")
+    print(topic_score_summary.to_string(index=False))
     print()
 
     print("Saved:")
     print(FEATURES_OUTPUT)
     print(SPLIT_SUMMARY_OUTPUT)
     print(FEATURES_SUMMARY_OUTPUT)
+    print(TOPIC_SCORE_SUMMARY_OUTPUT)
     print(COVERAGE_FIGURE_OUTPUT)
 
 
