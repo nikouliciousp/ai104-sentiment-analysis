@@ -16,13 +16,13 @@
 
 ## 📋 Description
 
-A complete natural language processing pipeline applied to **1,056 technology-forum posts** collected from HackerNews across four topics. The project covers **manual annotation** with inter-annotator agreement, **custom feature scoring**, **topic classification** and **sentiment classification** using Naive Bayes, K-Nearest Neighbours and Random Forest — followed by temporal analysis, topic–sentiment association testing and informative keyword extraction.
+A complete natural language processing pipeline applied to **1,056 technology-forum posts** collected from HackerNews across four topics. The project covers **manual annotation** with inter-annotator agreement measurement, **feature discovery** (term frequency, TF-IDF, n-grams), **topic classification** using Naive Bayes, KNN, and Random Forest, and **sentiment analysis** with focus on class imbalance handling. Additionally includes temporal trends, topic-sentiment dependencies, and discriminative keyword extraction.
 
 ---
 
 ## 🇬🇷 Σύνοψη
 
-Ολοκληρωμένη ροή επεξεργασίας φυσικής γλώσσας σε 1.056 αναρτήσεις τεχνολογικού φόρουμ από το HackerNews, σε τέσσερα θέματα. Περιλαμβάνει **χειροκίνητο σχολιασμό** με μέτρηση συμφωνίας σχολιαστών (Fleiss' kappa), **προσαρμοσμένη βαθμολόγηση χαρακτηριστικών**, **κατηγοριοποίηση θεμάτων** και **ταξινόμηση συναισθήματος** με Naive Bayes, K-Κοντινότερους Γείτονες και Τυχαίο Δάσος, καθώς και χρονική ανάλυση, έλεγχο σχέσης θέματος–συναισθήματος και εξαγωγή πληροφοριακών λέξεων-κλειδιών.
+Ολοκληρωμένη ροή επεξεργασίας φυσικής γλώσσας σε 1.056 αναρτήσεις τεχνολογικού φόρουμ από το HackerNews, σε τέσσερα θέματα. Καλύπτει χειρωνακτική σχολιασμό με μέτρηση συμφωνίας σχολιαστών, ανακάλυψη χαρακτηριστικών (συχνότητα όρων, TF-IDF, n-grams), ταξινόμηση θεμάτων χρησιμοποιώντας Naive Bayes, KNN και Random Forest, και ανάλυση συναισθήματος με έμφαση στη χειρισμό ανισορροπίας κλάσεων. Περιλαμβάνει επίσης χρονικές τάσεις, εξάρτηση θέματος-συναισθήματος και εξαγωγή διακριτικών λέξεων-κλειδιών.
 
 ---
 
@@ -80,7 +80,17 @@ A complete natural language processing pipeline applied to **1,056 technology-fo
 | [`src/section_7_further_analysis/`](src/section_7_further_analysis/) | temporal, topic–sentiment, `informative_terms.py` | Members 1, 3, 4 |
 | [`src/common/`](src/common/) | `synopsis.py`, `create_modeling_dataset.py` | Member 1 |
 
-> ⚠️ `src/` folder numbering is internal and fixed early in the project. It does **not** map one-to-one to the report sections. In the report: Topic Discovery = **5**, Topic Classification = **6**, Sentiment Classification = **7**, Further Analysis = **8**.
+> ⚠️ **Folder numbering clarification:**  
+> The `src/` folder structure uses internal numbering (section_1 through section_7) that is **NOT** a direct one-to-one mapping to report sections.  
+> **Report section mapping:**
+> - Report Section 1 = Data Collection (src/section_1)
+> - Report Section 2 = Text Cleaning (src/section_3)
+> - Report Section 3 = Annotation & Agreement (src/section_2)
+> - Report Section 4 = Inter-annotator Agreement Analysis (src/section_2)
+> - Report Section 5 = Feature Discovery (src/section_4) ← Vasilis (Member 2)
+> - Report Section 6 = Topic Classification (src/section_5) ← Agathoklis (Member 3)
+> - Report Section 7 = Sentiment Classification (src/section_6) ← Perikles (Member 4)
+> - Report Section 8 = Further Analysis (src/section_7) ← Multiple members
 
 ---
 
@@ -124,7 +134,7 @@ pip install -r requirements.txt
 **3. Run the scripts in order** — each step depends on the previous
 
 ```bash
-# Data preparation
+# Data preparation (Report Sections 1–4)
 python src/section_1_data_collection/hacker_news_collector.py
 python src/section_3_text_cleaning/text_cleaning_hackernews.py
 python src/section_2_annotation/create_hackernews_annotation_template.py
@@ -132,78 +142,78 @@ python src/section_2_annotation/majority_vote.py
 python src/section_2_annotation/resolve_manual_review.py
 python src/common/create_modeling_dataset.py
 
-# Feature discovery & topic classification
+# Feature discovery & topic classification (Report Sections 5–6)
 python src/section_4_feature_discovery/topic_classification_features.py
 python src/section_5_topic_classification/topic_classification.py
 
-# Sentiment classification
+# Sentiment classification (Report Section 7)
 python src/section_6_sentiment_classification/prepare_sentiment_dataset.py
 python src/section_6_sentiment_classification/sentiment_classification.py
 python src/section_6_sentiment_classification/sentiment_evaluation.py
 
-# Further analysis
+# Further analysis (Report Section 8)
 python src/section_7_further_analysis/temporal_sentiment_analysis.py
 python src/section_7_further_analysis/topic_sentiment_analysis.py
 python src/section_7_further_analysis/informative_terms.py
 ```
 
-> ⚠️ **Important:** The annotation step requires four independent annotators. The completed annotation files are already committed to `data/annotated/`.
+> ⚠️ **Important:** The annotation step (section_2) requires four independent annotators. The completed annotation files are already committed to `data/annotated/`.
 
 ---
 
 ## 📈 Analysis Overview
 
-### Annotation & Agreement
+### Annotation & Agreement (Report Sections 3–4)
 
-| Section | Topic | Key Method |
-|:-------:|:------|:-----------|
-| 4 | Annotation process | 4 annotators, majority voting, adjudication of ties |
-| 4 | Inter-annotator agreement | Cohen's kappa (pairwise), Fleiss' kappa (overall) |
+| Section | Topic | Key Method | Owner |
+|:-------:|:------|:-----------|:-----:|
+| 3–4 | Annotation process | 4 annotators, majority voting, adjudication of ties | Member 1 |
+| 3–4 | Inter-annotator agreement | Cohen's kappa (pairwise), Fleiss' kappa (overall) | Member 1 |
 
-### Topic Discovery & Classification
+### Topic Discovery & Classification (Report Sections 5–6)
 
-| Section | Topic | Key Method |
-|:-------:|:------|:-----------|
-| 5 | Feature discovery | Term frequency, TF-IDF, bigrams, positional scoring |
-| 5 | Custom scoring | Weighted composite score, leakage-safe fitting |
-| 6 | Topic classification | Naive Bayes, KNN, Random Forest · BoW vs TF-IDF |
-| 6 | Evaluation | Accuracy, precision, recall, macro-F1, confusion matrix |
+| Section | Topic | Key Method | Owner |
+|:-------:|:------|:-----------|:-----:|
+| 5 | Feature discovery | Term frequency, TF-IDF, bigrams, positional scoring | Member 2 |
+| 5 | Custom scoring | Weighted composite score, leakage-safe fitting | Member 2 |
+| 6 | Topic classification | Naive Bayes, KNN, Random Forest · BoW vs TF-IDF | Member 3 |
+| 6 | Evaluation | Accuracy, precision, recall, macro-F1, confusion matrix | Member 3 |
 
-### Sentiment Classification
+### Sentiment Classification (Report Section 7)
 
-| Section | Topic | Key Method |
-|:-------:|:------|:-----------|
-| 7 | Dataset preparation | Multiclass vs binary target, class weights |
-| 7 | Model comparison | 3 models × 2 weighting configs × 2 targets |
-| 7 | Evaluation | Confusion matrix, per-class metrics, best model selection |
+| Section | Topic | Key Method | Owner |
+|:-------:|:------|:-----------|:-----:|
+| 7 | Dataset preparation | Multiclass vs binary target, class weights | Member 4 |
+| 7 | Model comparison | 3 models × 2 weighting configs × 2 targets | Member 4 |
+| 7 | Evaluation | Confusion matrix, per-class metrics, best model selection | Member 4 |
 
-### Further Analysis
+### Further Analysis (Report Section 8)
 
-| Section | Topic | Key Method |
-|:-------:|:------|:-----------|
-| 8.1 | Temporal analysis | Monthly & quarterly sentiment trends |
-| 8.2 | Topic × sentiment | Chi-square test of independence, Cramér's V |
-| 8.3 | Bigrams vs unigrams | Representation comparison for topic classification |
-| 8.4 | Informative keywords | Naive Bayes log-probability discrimination score |
+| Section | Topic | Key Method | Owner |
+|:-------:|:------|:-----------|:-----:|
+| 8.1 | Temporal analysis | Monthly & quarterly sentiment trends | Members 1, 3, 4 |
+| 8.2 | Topic × sentiment | Chi-square test of independence, Cramér's V | Members 1, 3, 4 |
+| 8.3 | Bigrams vs unigrams | Representation comparison for topic classification | Members 1, 3, 4 |
+| 8.4 | Informative keywords | Naive Bayes log-probability discrimination score | Members 1, 3, 4 |
 
 ---
 
 ## 🔑 Key Findings
 
-| Finding | Value |
-|:--------|:------|
-| Posts collected / retained | **1,211** raw → **1,056** clean |
-| Class imbalance (sentiment) | **7.85 : 1** (neutral vs positive) |
-| Inter-annotator agreement | Fleiss' kappa = **0.462** (moderate) |
-| Majority-class baseline | 58.71% accuracy, but only **0.247** macro-F1 |
-| Best topic model | **Random Forest + BoW**, macro-F1 = **0.986** |
-| Best sentiment model | **Naive Bayes (weighted)**, macro-F1 = **0.433** |
-| Effect of class weighting | Naive Bayes +0.118, Random Forest +0.084, KNN unchanged |
-| Representation finding | **Naive Bayes prefers BoW** — TF-IDF violates the multinomial assumption |
-| Hardest class | Positive (79 samples) — best F1 = 0.214 |
-| Main confusion boundary | Neutral ↔ Negative — the same boundary annotators disagreed on |
-| Sarcasm detected | `successful`, `sure` rank as **negative** discriminators |
-| Reproducibility seed | `random_state=42`, stratified 80/20 split |
+| Finding | Value | Source |
+|:--------|:------|:-------|
+| Posts collected / retained | **1,211** raw → **1,056** clean | `annotation_quality_summary.csv` |
+| Class imbalance (sentiment) | **7.85 : 1** (neutral vs positive) | `sentiment_distribution_summary.csv` |
+| Inter-annotator agreement | Fleiss' kappa = **0.462** (moderate) | Report Section 4 |
+| Majority-class baseline | **58.71%** accuracy, **0.247** macro-F1 | `sentiment_model_comparison.csv` |
+| Best topic model | **Random Forest + BoW**, macro-F1 = **0.986** | `topic_classification_bow_tfidf_comparison.csv` |
+| Best sentiment model | **Naive Bayes (weighted)**, macro-F1 = **0.433** | `sentiment_model_comparison.csv` |
+| Effect of class weighting | Naive Bayes +0.118, Random Forest +0.084, KNN unchanged | `sentiment_model_comparison.csv` |
+| Representation finding | **Naive Bayes prefers BoW** — TF-IDF violates multinomial assumption | `sentiment_representation_comparison.csv` |
+| Hardest class | Positive (79 samples) — best F1 = **0.214** | `sentiment_per_class_metrics.csv` |
+| Main confusion boundary | Neutral ↔ Negative — same boundary where annotators disagreed | Report Section 7 |
+| Sarcasm detected | `successful`, `sure` rank as **negative** discriminators | `informative_unigrams_by_sentiment.csv` |
+| Reproducibility seed | `random_state=42`, stratified 80/20 split | All scripts |
 
 ---
 
@@ -211,42 +221,43 @@ python src/section_7_further_analysis/informative_terms.py
 
 ### Figures
 
-| Directory | Content |
-|:----------|:--------|
-| `results/figures/section_4/` | Term frequency, TF-IDF and custom score charts |
-| `results/figures/section_5/` | Topic model comparison, confusion matrix |
-| `results/figures/section_6/` | Sentiment class distribution, model comparison, confusion matrix |
-| `results/figures/section_7/` | Monthly/quarterly trends, topic × sentiment, informative keywords |
+| Directory | Content | Source Script |
+|:----------|:--------|:-------------:|
+| `results/figures/section_4/` | Term frequency, TF-IDF, custom score charts | `topic_classification_features.py` |
+| `results/figures/section_5/` | Topic model comparison, confusion matrix | `topic_classification.py` |
+| `results/figures/section_6/` | Sentiment class distribution, model comparison, confusion matrix | `sentiment_classification.py` |
+| `results/figures/section_7/` | Monthly/quarterly trends, topic × sentiment, informative keywords | `temporal_sentiment_analysis.py`, `topic_sentiment_analysis.py`, `informative_terms.py` |
 
 ### Tables
 
-| File | Content |
-|:-----|:--------|
-| `annotation_quality_summary.csv` | Annotation completeness and validity |
-| `sentiment_distribution_summary.csv` | Class distribution before and after resolution |
-| `sentiment_class_weights.csv` | Computed class weights for imbalance correction |
-| `sentiment_target_options_comparison.csv` | Multiclass vs binary target evaluation |
-| `sentiment_model_comparison.csv` | Full 3 × 2 × 2 experiment matrix |
-| `sentiment_per_class_metrics.csv` | Precision, recall, F1 per sentiment class |
-| `sentiment_representation_comparison.csv` | BoW vs TF-IDF per model |
-| `sentiment_confusion_matrix.csv` | Confusion matrix of the best model |
-| `topic_classification_bow_tfidf_comparison.csv` | Topic model comparison |
-| `topic_sentiment_chi_square_test.csv` | Chi-square test of independence |
-| `informative_unigrams_by_sentiment.csv` | Top discriminative words per sentiment |
-| `informative_bigrams_by_sentiment.csv` | Top discriminative bigrams per sentiment |
-| `frequent_vs_discriminative.csv` | Frequent terms contrasted with discriminative terms |
+| File | Content | Generated By |
+|:-----|:--------|:-------------:|
+| `annotation_quality_summary.csv` | Annotation completeness and validity | `majority_vote.py` |
+| `sentiment_distribution_summary.csv` | Class distribution before and after resolution | `prepare_sentiment_dataset.py` |
+| `sentiment_class_weights.csv` | Computed class weights for imbalance correction | `sentiment_classification.py` |
+| `sentiment_target_options_comparison.csv` | Multiclass vs binary target evaluation | `sentiment_evaluation.py` |
+| `sentiment_model_comparison.csv` | Full 3 × 2 × 2 experiment matrix | `sentiment_evaluation.py` |
+| `sentiment_per_class_metrics.csv` | Precision, recall, F1 per sentiment class | `sentiment_evaluation.py` |
+| `sentiment_representation_comparison.csv` | BoW vs TF-IDF per model | `sentiment_evaluation.py` |
+| `sentiment_confusion_matrix.csv` | Confusion matrix of the best model | `sentiment_evaluation.py` |
+| `topic_classification_bow_tfidf_comparison.csv` | Topic model comparison | `topic_classification.py` |
+| `topic_sentiment_chi_square_test.csv` | Chi-square test of independence | `topic_sentiment_analysis.py` |
+| `informative_unigrams_by_sentiment.csv` | Top discriminative words per sentiment | `informative_terms.py` |
+| `informative_bigrams_by_sentiment.csv` | Top discriminative bigrams per sentiment | `informative_terms.py` |
+| `frequent_vs_discriminative.csv` | Frequent terms contrasted with discriminative terms | `informative_terms.py` |
 
 ---
 
 ## 🔬 Reproducibility
 
-| | |
-|:---|:---|
+| Aspect | Details |
+|:-------|:--------|
 | **Random seed** | `random_state = 42` across all experiments |
 | **Split** | Stratified 80/20 (844 train / 212 test) |
-| **Leakage prevention** | TF-IDF fitted on the training split only |
+| **Leakage prevention** | TF-IDF fitted on the training split only; custom features validated as topic-invariant |
 | **Feature validation** | Custom features verified invariant to the topic label |
 | **Environment** | Python 3.10+, dependencies pinned in `requirements.txt` |
+| **Annotation** | 4 independent annotators, majority voting (>= 3 for consensus), tie-breaking via manual review |
 
 ---
 
