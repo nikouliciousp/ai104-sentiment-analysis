@@ -463,6 +463,51 @@ def score_documents(df, term_lookup, bigram_lookup, use_true_topic=True):
     return pd.DataFrame(enriched_rows)
 
 
+def score_documents_per_topic(df, term_lookup, bigram_lookup):
+    """
+    Compute document-level custom scores for each post against EVERY topic's
+    lookup tables, keeping all of them (unlike score_documents(use_true_topic=False),
+    which keeps only the best-matching topic).
+
+    Returns one row per post with, for each topic, its own
+    document_unigram_score / document_bigram_score / document_positional_score /
+    document_custom_score / matched_unigram_count / matched_bigram_count columns
+    (column names prefixed with the topic). This is still leakage-safe: the
+    lookups are fit on train only, and every topic is scored for every post
+    regardless of that post's true label.
+    """
+    topics = sorted(term_lookup.keys())
+    enriched_rows = []
+
+    for _, row in df.iterrows():
+        tokens = tokenize_for_topic_analysis(row[TEXT_COLUMN])
+        bigrams = extract_bigrams(tokens)
+
+        record = row.to_dict()
+
+        for topic in topics:
+            topic_terms = term_lookup.get(topic, {})
+            topic_bigrams = bigram_lookup.get(topic, {})
+            scores = score_document_against_topic(tokens, bigrams, topic_terms, topic_bigrams)
+
+            prefix = topic_column_prefix(topic)
+            record[f"{prefix}_unigram_score"] = round(scores["document_unigram_score"], 6)
+            record[f"{prefix}_bigram_score"] = round(scores["document_bigram_score"], 6)
+            record[f"{prefix}_positional_score"] = round(scores["document_positional_score"], 6)
+            record[f"{prefix}_custom_score"] = round(scores["document_custom_score"], 6)
+            record[f"{prefix}_matched_unigram_count"] = scores["matched_unigram_count"]
+            record[f"{prefix}_matched_bigram_count"] = scores["matched_bigram_count"]
+
+        enriched_rows.append(record)
+
+    return pd.DataFrame(enriched_rows)
+
+
+def topic_column_prefix(topic):
+    """Slugify a topic name into a column-name-safe prefix, e.g. 'Artificial Intelligence' -> 'artificial_intelligence'."""
+    return re.sub(r"[^a-z0-9]+", "_", topic.lower()).strip("_")
+
+
 def build_weights_table():
     """Export all weights used by the scoring mechanism."""
     rows = []
