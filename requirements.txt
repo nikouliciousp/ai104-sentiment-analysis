@@ -6,9 +6,4 @@ matplotlib
 seaborn
 scipy
 jupyter
-
-numpy
-numpy
-numpy
-numpy
 numpy
