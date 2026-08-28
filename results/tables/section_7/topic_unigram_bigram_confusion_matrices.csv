@@ -1,0 +1,49 @@
+representation,actual,predicted,count
+unigrams_only,Artificial Intelligence,Artificial Intelligence,51
+unigrams_only,Artificial Intelligence,Climate Change,0
+unigrams_only,Artificial Intelligence,Cryptocurrency,0
+unigrams_only,Artificial Intelligence,Cybersecurity,0
+unigrams_only,Climate Change,Artificial Intelligence,0
+unigrams_only,Climate Change,Climate Change,53
+unigrams_only,Climate Change,Cryptocurrency,0
+unigrams_only,Climate Change,Cybersecurity,0
+unigrams_only,Cryptocurrency,Artificial Intelligence,0
+unigrams_only,Cryptocurrency,Climate Change,0
+unigrams_only,Cryptocurrency,Cryptocurrency,54
+unigrams_only,Cryptocurrency,Cybersecurity,1
+unigrams_only,Cybersecurity,Artificial Intelligence,0
+unigrams_only,Cybersecurity,Climate Change,0
+unigrams_only,Cybersecurity,Cryptocurrency,1
+unigrams_only,Cybersecurity,Cybersecurity,52
+bigrams_only,Artificial Intelligence,Artificial Intelligence,29
+bigrams_only,Artificial Intelligence,Climate Change,0
+bigrams_only,Artificial Intelligence,Cryptocurrency,22
+bigrams_only,Artificial Intelligence,Cybersecurity,0
+bigrams_only,Climate Change,Artificial Intelligence,0
+bigrams_only,Climate Change,Climate Change,51
+bigrams_only,Climate Change,Cryptocurrency,2
+bigrams_only,Climate Change,Cybersecurity,0
+bigrams_only,Cryptocurrency,Artificial Intelligence,3
+bigrams_only,Cryptocurrency,Climate Change,0
+bigrams_only,Cryptocurrency,Cryptocurrency,45
+bigrams_only,Cryptocurrency,Cybersecurity,7
+bigrams_only,Cybersecurity,Artificial Intelligence,3
+bigrams_only,Cybersecurity,Climate Change,0
+bigrams_only,Cybersecurity,Cryptocurrency,28
+bigrams_only,Cybersecurity,Cybersecurity,22
+unigrams_plus_bigrams,Artificial Intelligence,Artificial Intelligence,48
+unigrams_plus_bigrams,Artificial Intelligence,Climate Change,0
+unigrams_plus_bigrams,Artificial Intelligence,Cryptocurrency,3
+unigrams_plus_bigrams,Artificial Intelligence,Cybersecurity,0
+unigrams_plus_bigrams,Climate Change,Artificial Intelligence,0
+unigrams_plus_bigrams,Climate Change,Climate Change,53
+unigrams_plus_bigrams,Climate Change,Cryptocurrency,0
+unigrams_plus_bigrams,Climate Change,Cybersecurity,0
+unigrams_plus_bigrams,Cryptocurrency,Artificial Intelligence,0
+unigrams_plus_bigrams,Cryptocurrency,Climate Change,0
+unigrams_plus_bigrams,Cryptocurrency,Cryptocurrency,53
+unigrams_plus_bigrams,Cryptocurrency,Cybersecurity,2
+unigrams_plus_bigrams,Cybersecurity,Artificial Intelligence,0
+unigrams_plus_bigrams,Cybersecurity,Climate Change,0
+unigrams_plus_bigrams,Cybersecurity,Cryptocurrency,1
+unigrams_plus_bigrams,Cybersecurity,Cybersecurity,52

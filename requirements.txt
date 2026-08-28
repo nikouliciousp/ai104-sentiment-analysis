@@ -1,8 +1,15 @@
+# --- Data Manipulation & Analysis ---
 pandas
-requests
+numpy
+
+# --- Machine Learning & Math ---
 scikit-learn
+scipy
+
+# --- Visualization ---
 matplotlib
 seaborn
-scipy
+
+# --- Tools & Networking ---
 jupyter
-numpy
+requests
