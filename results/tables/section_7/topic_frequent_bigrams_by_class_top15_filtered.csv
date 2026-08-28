@@ -1,0 +1,16 @@
+topic,rank_within_topic,bigram,frequency
+Artificial Intelligence,1,machine learning,67
+Artificial Intelligence,2,large language,11
+Artificial Intelligence,3,language model,7
+Artificial Intelligence,4,open ai,5
+Climate Change,1,climate change,85
+Climate Change,2,global warming,57
+Climate Change,3,fossil fuels,41
+Climate Change,4,renewable energy,30
+Climate Change,5,fossil fuel,26
+Climate Change,6,carbon emissions,20
+Cryptocurrency,1,use case,6
+Cryptocurrency,2,crypto currency,5
+Cybersecurity,1,data breach,16
+Cybersecurity,2,data breaches,16
+Cybersecurity,3,cyber attack,9
