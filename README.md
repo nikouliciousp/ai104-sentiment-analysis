@@ -78,7 +78,7 @@ A complete natural language processing pipeline applied to **1,056 technology-fo
 | [`src/section_4_feature_discovery/`](src/section_4_feature_discovery/) | term frequency, TF-IDF, n-grams, custom scoring | Member 2 |
 | [`src/section_5_topic_classification/`](src/section_5_topic_classification/) | topic models, BoW vs TF-IDF, evaluation | Member 3 |
 | [`src/section_6_sentiment_classification/`](src/section_6_sentiment_classification/) | `prepare_sentiment_dataset.py`, `sentiment_classification.py`, `sentiment_evaluation.py` | Member 4 |
-| [`src/section_7_further_analysis/`](src/section_7_further_analysis/) | temporal, topic–sentiment, `informative_terms.py` | Members 1, 3, 4 |
+| [`src/section_7_further_analysis/`](src/section_7_further_analysis/) | temporal, topic–sentiment, `informative_terms.py` | Members 1, 4 |
 | [`src/common/`](src/common/) | `synopsis.py`, `create_modeling_dataset.py` | Member 1 |
 
 > ⚠️ **Folder numbering clarification:**  
@@ -88,10 +88,10 @@ A complete natural language processing pipeline applied to **1,056 technology-fo
 > - Report Section 2 = Text Cleaning (src/section_3)
 > - Report Section 3 = Annotation & Agreement (src/section_2)
 > - Report Section 4 = Inter-annotator Agreement Analysis (src/section_2)
-> - Report Section 5 = Feature Discovery (src/section_4) ← Vasilis (Member 2)
-> - Report Section 6 = Topic Classification (src/section_5) ← Agathoklis (Member 3)
-> - Report Section 7 = Sentiment Classification (src/section_6) ← Perikles (Member 4)
-> - Report Section 8 = Further Analysis (src/section_7) ← Multiple members
+> - Report Section 5 = Feature Discovery (src/section_4)
+> - Report Section 6 = Topic Classification (src/section_5)
+> - Report Section 7 = Sentiment Classification (src/section_6)
+> - Report Section 8 = Further Analysis (src/section_7)
 
 ---
 
@@ -192,10 +192,10 @@ python src/section_7_further_analysis/informative_terms.py
 
 | Section | Topic | Key Method | Owner |
 |:-------:|:------|:-----------|:-----:|
-| 8.1 | Temporal analysis | Monthly & quarterly sentiment trends | Members 1, 3, 4 |
-| 8.2 | Topic × sentiment | Chi-square test of independence, Cramér's V | Members 1, 3, 4 |
-| 8.3 | Bigrams vs unigrams | Representation comparison for topic classification | Members 1, 3, 4 |
-| 8.4 | Informative keywords | Naive Bayes log-probability discrimination score | Members 1, 3, 4 |
+| 8.1 | Temporal analysis | Monthly & quarterly sentiment trends | Member 1 |
+| 8.2 | Topic × sentiment | Chi-square test of independence, Cramér's V | Member 1 |
+| 8.3 | Bigrams vs unigrams | Representation comparison for topic classification | Members 1|
+| 8.4 | Informative keywords | Naive Bayes log-probability discrimination score | Members 1, 4 |
 
 ---
 
