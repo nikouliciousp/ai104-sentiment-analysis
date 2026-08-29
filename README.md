@@ -284,13 +284,33 @@ python src/section_7_further_analysis/topic_classification_unigram_vs_bigram.py
 
 ## 📚 References
 
-- Alpaydın, E. (2020) *Introduction to Machine Learning*. 4th edn. Cambridge, MA: MIT Press
-- Tan, P.-N., Steinbach, M., Karpatne, A. and Kumar, V. (2019) *Introduction to Data Mining*. 2nd edn. New York: Pearson
-- Hand, D., Mannila, H. and Smyth, P. (2001) *Principles of Data Mining*. Cambridge, MA: MIT Press
-- Cohen, J. (1960) A coefficient of agreement for nominal scales. *Educational and Psychological Measurement*, 20(1), 37–46
-- Fleiss, J.L. (1971) Measuring nominal scale agreement among many raters. *Psychological Bulletin*, 76(5), 378–382
-- Landis, J.R. and Koch, G.G. (1977) The measurement of observer agreement for categorical data. *Biometrics*, 33(1), 159–174
-- Pedregosa, F. et al. (2011) Scikit-learn: Machine Learning in Python. *JMLR*, 12, 2825–2830
+1. Pang, B. and Lee, L. (2008) Opinion mining and sentiment analysis. *Foundations and Trends in Information Retrieval*, 2(1–2), 1–135. doi: 10.1561/1500000011
+2. Zhang, L., Wang, S. and Liu, B. (2018) Deep learning for sentiment analysis: a survey. *WIREs Data Mining and Knowledge Discovery*, 8(4), e1253. doi: 10.1002/widm.1253
+3. Palomino, M.A. and Aider, F. (2022) Evaluating the effectiveness of text pre-processing in sentiment analysis. *Applied Sciences*, 12(17), 8765. doi: 10.3390/app12178765
+4. Cohen, J. (1960) A coefficient of agreement for nominal scales. *Educational and Psychological Measurement*, 20(1), 37–46. doi: 10.1177/001316446002000104
+5. Fleiss, J.L. (1971) Measuring nominal scale agreement among many raters. *Psychological Bulletin*, 76(5), 378–382. doi: 10.1037/h0031619
+6. Landis, J.R. and Koch, G.G. (1977) The measurement of observer agreement for categorical data. *Biometrics*, 33(1), 159–174. doi: 10.2307/2529310
+7. Manning, C.D., Raghavan, P. and Schütze, H. (2008) *Introduction to Information Retrieval*. Cambridge: Cambridge University Press
+8. Salton, G. and Buckley, C. (1988) Term-weighting approaches in automatic text retrieval. *Information Processing & Management*, 24(5), 513–523. doi: 10.1016/0306-4573(88)90021-0
+9. Blei, D.M., Ng, A.Y. and Jordan, M.I. (2003) Latent Dirichlet allocation. *Journal of Machine Learning Research*, 3, 993–1022
+10. Sokolova, M. and Lapalme, G. (2009) A systematic analysis of performance measures for classification tasks. *Information Processing & Management*, 45(4), 427–437. doi: 10.1016/j.ipm.2009.03.002
+11. Dietterich, T.G. (1998) Approximate statistical tests for comparing supervised classification learning algorithms. *Neural Computation*, 10(7), 1895–1923. doi: 10.1162/089976698300017197
+12. Rennie, J.D.M., Shih, L., Teevan, J. and Karger, D.R. (2003) Tackling the poor assumptions of naive Bayes text classifiers. *Proceedings of the 20th International Conference on Machine Learning (ICML'03)*. AAAI Press, 616–623
+13. Breiman, L. (2001) Random forests. *Machine Learning*, 45(1), 5–32. doi: 10.1023/A:1010933404324
+14. Hastie, T., Tibshirani, R. and Friedman, J.H. (2017) *The Elements of Statistical Learning: Data Mining, Inference, and Prediction*. 2nd edn. New York: Springer
+15. Wang, S. and Manning, C. (2012) Baselines and bigrams: simple, good sentiment and topic classification. *Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)*. Jeju Island: ACL, 90–94. Available at: https://aclanthology.org/P12-2018/
+16. Alpaydın, E. (2020) *Introduction to Machine Learning*. 4th edn. Cambridge, MA: MIT Press
+17. Tan, P.-N., Steinbach, M., Karpatne, A. and Kumar, V. (2019) *Introduction to Data Mining*. 2nd edn. Global edn. Harlow: Pearson Education
+18. scikit-learn (2026) *MultinomialNB*. Available at: https://scikit-learn.org/stable/modules/generated/sklearn.naive_bayes.MultinomialNB.html (Accessed: 29 August 2026)
+19. National Oceanic and Atmospheric Administration (2024) *April 2024 was Earth's warmest on record*. Available at: https://www.noaa.gov/news/april-2024-was-earths-warmest-on-record (Accessed: 24 July 2026)
+20. Copernicus (2024) *June 2024 marks 12th month of global temperatures at 1.5°C above pre-industrial levels*. Available at: https://climate.copernicus.eu/june-2024-marks-12th-month-global-temperatures-15degc-above-pre-industrial-levels (Accessed: 11 August 2026)
+21. Reuters (2024) *Bitcoin storms above $100,000 as Trump 2.0 fuels crypto euphoria*, 5 December. Available at: https://www.reuters.com/technology/bitcoin-tops-100000-optimism-over-trump-crypto-plans-2024-12-05/ (Accessed: 24 July 2026)
+22. European Commission (2024) *European Artificial Intelligence Act comes into force*. Available at: https://ec.europa.eu/commission/presscorner/detail/en/ip_24_4123 (Accessed: 24 July 2026)
+23. Pearson, K. (1900) On the criterion that a given system of deviations from the probable in the case of a correlated system of variables is such that it can be reasonably supposed to have arisen from random sampling. *The London, Edinburgh, and Dublin Philosophical Magazine and Journal of Science*, 50(302), 157–175. doi: 10.1080/14786440009463897
+24. Cramér, H. (2016) *Mathematical Methods of Statistics (PMS-9)*. Princeton Mathematical Series, no. 9. Princeton, NJ: Princeton University Press. doi: 10.1515/9781400883868
+25. Bergsma, W. (2013) A bias-correction for Cramér's V and Tschuprow's T. *Journal of the Korean Statistical Society*, 42(3), 323–328. doi: 10.1016/j.jkss.2012.10.002
+26. Vaswani, A. et al. (2023) *Attention is all you need*. arXiv:1706.03762. doi: 10.48550/arXiv.1706.03762
+27. Devlin, J., Chang, M.-W., Lee, K. and Toutanova, K. (2019) BERT: pre-training of deep bidirectional transformers for language understanding. *Proceedings of NAACL-HLT 2019, Volume 1*. Minneapolis: ACL, 4171–4186. doi: 10.18653/v1/N19-1423
 
 ---
 
