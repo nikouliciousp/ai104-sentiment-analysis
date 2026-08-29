@@ -34,7 +34,7 @@ A complete natural language processing pipeline applied to **1,056 technology-fo
 | 1 | Anna - Krystalia Mylonaki | Data & Coordination Lead | 1, 2, 3, 4, 8.1, 8.2, 8.3 |
 | 2 | Vasilis Papadimitrakopoulos | Text & Features Lead | 5 |
 | 3 | Agathoklis Krimpenis | Topic Classification Lead | 6 |
-| 4 | Perikles Nikoulis | Sentiment & Analysis Lead | 7, 8.4 |
+| 4 | Perikles Nikoules | Sentiment & Analysis Lead | 7, 8.4 |
 | 5 | Dimitrios Chatzikyriakidis | Code Appendix & Reproducibility Lead | 8.3, Appendix |
 
 ---
