@@ -78,7 +78,7 @@ A complete natural language processing pipeline applied to **1,056 technology-fo
 | [`src/section_4_feature_discovery/`](src/section_4_feature_discovery/) | term frequency, TF-IDF, n-grams, custom scoring | Member 2 |
 | [`src/section_5_topic_classification/`](src/section_5_topic_classification/) | topic models, BoW vs TF-IDF, evaluation | Member 3 |
 | [`src/section_6_sentiment_classification/`](src/section_6_sentiment_classification/) | `prepare_sentiment_dataset.py`, `sentiment_classification.py`, `sentiment_evaluation.py` | Member 4 |
-| [`src/section_7_further_analysis/`](src/section_7_further_analysis/) | temporal, topic–sentiment, `informative_terms.py` | Members 1, 4 |
+| [`src/section_7_further_analysis/`](src/section_7_further_analysis/) | temporal, topic–sentiment, `informative_terms.py` | Members 1, 4, 5 |
 | [`src/common/`](src/common/) | `synopsis.py`, `create_modeling_dataset.py` | Member 1 |
 
 > ⚠️ **Folder numbering clarification:**  
@@ -156,6 +156,8 @@ python src/section_6_sentiment_classification/sentiment_evaluation.py
 python src/section_7_further_analysis/temporal_sentiment_analysis.py
 python src/section_7_further_analysis/topic_sentiment_analysis.py
 python src/section_7_further_analysis/informative_terms.py
+python src/section_7_further_analysis/sentiment_unigram_bigram_performance_comparison.py
+python src/section_7_further_analysis/topic_classification_unigram_vs_bigram.py
 ```
 
 > ⚠️ **Important:** The annotation step (section_2) requires four independent annotators. The completed annotation files are already committed to `data/annotated/`.
@@ -228,6 +230,7 @@ python src/section_7_further_analysis/informative_terms.py
 | `results/figures/section_5/` | Topic model comparison, confusion matrix | `topic_classification.py` |
 | `results/figures/section_6/` | Sentiment class distribution, model comparison, confusion matrix | `sentiment_classification.py` |
 | `results/figures/section_7/` | Monthly/quarterly trends, topic × sentiment, informative keywords | `temporal_sentiment_analysis.py`, `topic_sentiment_analysis.py`, `informative_terms.py` |
+| `topic_unigram_bigram_macro_f1_comparison.png` | Macro-F1 comparison | `topic_classification_unigram_vs_bigram.py` |
 
 ### Tables
 
@@ -246,6 +249,13 @@ python src/section_7_further_analysis/informative_terms.py
 | `informative_unigrams_by_sentiment.csv` | Top discriminative words per sentiment | `informative_terms.py` |
 | `informative_bigrams_by_sentiment.csv` | Top discriminative bigrams per sentiment | `informative_terms.py` |
 | `frequent_vs_discriminative.csv` | Frequent terms contrasted with discriminative terms | `informative_terms.py` |
+| `topic_unigram_bigram_performance_comparison.csv` | Performance comparing | `topic_classification_unigram_vs_bigram.py` |
+| `topic_unigram_bigram_class_metrics.csv` | Class metrics | `topic_classification_unigram_vs_bigram.py` |
+| `topic_unigram_bigram_confusion_matrices.csv` | Confusion matrices | `topic_classification_unigram_vs_bigram.py` |
+| `topic_frequent_bigrams_top30.csv` | Frequent bigrams top 30 | `topic_classification_unigram_vs_bigram.py` |
+| `topic_frequent_bigrams_top30_filtered.csv` | Frequent bigrams top 30 filtered | `topic_classification_unigram_vs_bigram.py` |
+| `topic_frequent_bigrams_by_class_top15.csv` | Frequent bigrams by class top 15 | `topic_classification_unigram_vs_bigram.py` |
+| `topic_frequent_bigrams_by_class_top15_filtered.csv` | Frequent bigrams by class top 15 filtered | `topic_classification_unigram_vs_bigram.py` |
 
 ---
 
