@@ -17,13 +17,13 @@
 
 ## 📋 Description
 
-A complete natural language processing pipeline applied to **1,056 technology-forum posts** collected from HackerNews across four topics. The project covers **manual annotation** with inter-annotator agreement measurement, **feature discovery** (term frequency, TF-IDF, n-grams), **topic classification** using Naive Bayes, KNN, and Random Forest, and **sentiment analysis** with focus on class imbalance handling. Additionally includes temporal trends, topic-sentiment dependencies, and discriminative keyword extraction.
+A complete natural language processing pipeline applied to **1,056 technology-forum posts** collected from Hacker News across four topics. The project covers **manual annotation** with inter-annotator agreement measurement, **feature discovery** (term frequency, TF-IDF, n-grams), **topic classification** using Naive Bayes, KNN, and Random Forest, and **sentiment analysis** with focus on class imbalance handling. The project additionally includes temporal sentiment analysis, topic–sentiment dependency analysis and discriminative keyword extraction.
 
 ---
 
 ## 🇬🇷 Σύνοψη
 
-Ολοκληρωμένη ροή επεξεργασίας φυσικής γλώσσας σε 1.056 αναρτήσεις τεχνολογικού φόρουμ από το HackerNews, σε τέσσερα θέματα. Καλύπτει χειρωνακτική σχολιασμό με μέτρηση συμφωνίας σχολιαστών, ανακάλυψη χαρακτηριστικών (συχνότητα όρων, TF-IDF, n-grams), ταξινόμηση θεμάτων χρησιμοποιώντας Naive Bayes, KNN και Random Forest, και ανάλυση συναισθήματος με έμφαση στη χειρισμό ανισορροπίας κλάσεων. Περιλαμβάνει επίσης χρονικές τάσεις, εξάρτηση θέματος-συναισθήματος και εξαγωγή διακριτικών λέξεων-κλειδιών.
+Ολοκληρωμένη ροή επεξεργασίας φυσικής γλώσσας σε 1.056 σύντομες αναρτήσεις τεχνολογικού περιεχομένου από το Hacker News, οργανωμένες σε τέσσερις θεματικές κατηγορίες. Το έργο καλύπτει τη χειροκίνητη επισήμανση συναισθήματος και τη μέτρηση της συμφωνίας μεταξύ σχολιαστών, την εξαγωγή χαρακτηριστικών μέσω συχνοτήτων όρων, TF-IDF και n-grams, την κατηγοριοποίηση θεμάτων με Naive Bayes, K-Nearest Neighbours και Random Forest και την κατηγοριοποίηση συναισθήματος με έμφαση στην αντιμετώπιση της ανισορροπίας των κλάσεων. Περιλαμβάνονται επίσης χρονική ανάλυση συναισθήματος, διερεύνηση της σχέσης θέματος–συναισθήματος και εξαγωγή πληροφοριακών λέξεων και διλέξων.
 
 ---
 
@@ -54,11 +54,11 @@ A complete natural language processing pipeline applied to **1,056 technology-fo
 
 | Dataset | Source | Raw | Clean | Period | Description |
 |:--------|:------:|:---:|:-----:|:------:|:------------|
-| HackerNews posts | Algolia HN Search API | 1,211 | 1,056 | 2024–2026 | Technology-forum comments across four topics |
+| Hacker News posts | Algolia HN Search API | 1,214 | 1,056 | 2023–2026 | Technology-forum comments across four topics |
 
 > ℹ️ Public API — **no credentials required**. Endpoint: https://hn.algolia.com/api
 
-**Sentiment distribution (after majority voting):**
+**Final sentiment distribution after majority voting and adjudication:**
 
 | Class | Count | Share |
 |:------|:-----:|:-----:|
@@ -108,6 +108,7 @@ packages = [
     "requests",      # Algolia API calls
 ]
 ```
+Jupyter is included as an optional environment for interactive inspection and partial execution of the code. The official reproducibility workflow is based on the Python scripts and the execution sequence documented in this README.
 
 > ✅ All dependencies are listed in `requirements.txt` — install with `pip install -r requirements.txt`
 
@@ -132,11 +133,20 @@ source .venv/bin/activate        # Linux/Mac
 pip install -r requirements.txt
 ```
 
-**3. Run the scripts in order** — each step depends on the previous
+**3. Core execution sequence** — each step depends on the previous
+
+To reproduce the reported results exactly, use the committed datasets and begin from the cleaning, feature-generation or modelling stages. Re-running the API collector may return different records because the source is continuously updated.
+
+The following commands reproduce the core stages of the pipeline. Additional analysis scripts are documented in the corresponding `src/` folders.
 
 ```bash
-# Data preparation (Report Sections 1–4)
+# Optional: retrieve current data from the API.
+# Skip this command when reproducing the reported results from committed data.
+
 python src/section_1_data_collection/hacker_news_collector.py
+
+# Data preparation (Report Sections 1–4)
+
 python src/section_3_text_cleaning/text_cleaning_hackernews.py
 python src/section_2_annotation/create_hackernews_annotation_template.py
 python src/section_2_annotation/majority_vote.py
@@ -196,7 +206,7 @@ python src/section_7_further_analysis/topic_classification_unigram_vs_bigram.py
 |:-------:|:------|:-----------|:-----:|
 | 8.1 | Temporal analysis | Monthly & quarterly sentiment trends | Member 1 |
 | 8.2 | Topic × sentiment | Chi-square test of independence, Cramér's V | Member 1 |
-| 8.3 | Bigrams vs unigrams | Representation comparison for topic classification | Members 1|
+| 8.3 | Bigrams vs unigrams | Representation comparison for sentiment and topic classification | Members 1,5|
 | 8.4 | Informative keywords | Naive Bayes log-probability discrimination score | Members 1, 4 |
 
 ---
@@ -205,18 +215,18 @@ python src/section_7_further_analysis/topic_classification_unigram_vs_bigram.py
 
 | Finding | Value | Source |
 |:--------|:------|:-------|
-| Posts collected / retained | **1,211** raw → **1,056** clean | `annotation_quality_summary.csv` |
+| Posts collected / retained | **1,214** raw → **1,056** clean | `annotation_quality_summary.csv` |
 | Class imbalance (sentiment) | **7.85 : 1** (neutral vs positive) | `sentiment_distribution_summary.csv` |
 | Inter-annotator agreement | Fleiss' kappa = **0.462** (moderate) | Report Section 4 |
 | Majority-class baseline | **58.71%** accuracy, **0.247** macro-F1 | `sentiment_model_comparison.csv` |
-| Best topic model | **Random Forest + BoW**, macro-F1 = **0.986** | `topic_classification_bow_tfidf_comparison.csv` |
+| Best topic model | **Random Forest + BoW / TF-ID**, macro-F1 = **0.9861** | `topic_classification_bow_tfidf_comparison.csv` |
 | Best sentiment model | **Naive Bayes (weighted)**, macro-F1 = **0.433** | `sentiment_model_comparison.csv` |
 | Effect of class weighting | Naive Bayes +0.118, Random Forest +0.084, KNN unchanged | `sentiment_model_comparison.csv` |
-| Representation finding | **Naive Bayes prefers BoW** — TF-IDF violates multinomial assumption | `sentiment_representation_comparison.csv` |
+| Representation finding | **Naive Bayes achieved higher macro-F1 with BoW** than with TF-IDF in this dataset; raw term counts are more closely aligned with the classical multinomial event model. | `sentiment_representation_comparison.csv` |
 | Hardest class | Positive (79 samples) — best F1 = **0.214** | `sentiment_per_class_metrics.csv` |
 | Main confusion boundary | Neutral ↔ Negative — same boundary where annotators disagreed | Report Section 7 |
-| Sarcasm detected | `successful`, `sure` rank as **negative** discriminators | `informative_unigrams_by_sentiment.csv` |
-| Reproducibility seed | `random_state=42`, stratified 80/20 split | All scripts |
+| Potential contextual or ironic usage | `successful` and `sure` appear among negative discriminators and require contextual interpretation | `informative_unigrams_by_sentiment.csv` |
+| **Random seed** | `random_state = 42` where supported by the relevant split or model | All scripts |
 
 ---
 
@@ -267,8 +277,8 @@ python src/section_7_further_analysis/topic_classification_unigram_vs_bigram.py
 | **Split** | Stratified 80/20 (844 train / 212 test) |
 | **Leakage prevention** | TF-IDF fitted on the training split only; custom features validated as topic-invariant |
 | **Feature validation** | Custom features verified invariant to the topic label |
-| **Environment** | Python 3.10+, dependencies pinned in `requirements.txt` |
-| **Annotation** | 4 independent annotators, majority voting (>= 3 for consensus), tie-breaking via manual review |
+| **Environment** | Python 3.10+, dependencies listed in `requirements.txt` |
+| **Annotation** | 4 independent annotators, plurality/majority voting, and manual adjudication of 2–2 ties by a fifth independent annotator |
 
 ---
 
@@ -286,10 +296,9 @@ python src/section_7_further_analysis/topic_classification_unigram_vs_bigram.py
 
 ## 📖 Citation
 
-Y Combinator. (2024–2026). *HackerNews posts retrieved via Algolia HN Search API.*  
-Retrieved July 2026, from https://hn.algolia.com/api
+Y Combinator. *Hacker News posts retrieved throug* the Algolia HN Search API** Dataset period: 06/07/2023–02/07/2026. Accessed July 2026. https://hn.algolia.com/api
 
 ---
 
-*All random operations use `random_state=42` for full reproducibility.*  
+*Where supported, stochastic procedures and data splits use `random_state=42` for full reproducibility.*  
 *Analysis conducted for academic purposes only.*
